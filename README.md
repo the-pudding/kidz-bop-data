@@ -2,9 +2,9 @@
 
 # First phase
 
-- Kidz Bop discography song list (Spotify)
-- Kidz Bop lyrics (Genius)
-- Kidz Bop release date (Genius/Spotify, might just be a year?)
+- ~~Kidz Bop discography song list (Spotify)~~ accessed and saved 2020-01-25
+- ~~Kidz Bop lyrics (Genius)~~ accessed and saved 2020-01-25 (not all match)
+- ~~Kidz Bop release date (Genius/Spotify, might just be a year?)~~ accessed and saved 2020-01-25
 - Original lyrics (Genius)
 - Original artist (Genius/Spotify)
 - Original genre (Spotify)

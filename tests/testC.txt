@@ -1,0 +1,223 @@
+--- testA.txt	2020-01-25 18:30:36.000000000 -0800
++++ testB.txt	2020-01-25 18:30:36.000000000 -0800
+@@ -47,12 +47,13 @@
+ quicker
+ By
+ eleven
+-smoking
+-herb
++hanging
++out
+ and
+-drinking
+-burning
+-liquor
++thinking
++we
++were
++slicker
+ Never
+ rich
+ so
+@@ -67,7 +68,7 @@
+ Once
+ I
+ was
+-11
++eleven
+ years
+ old
+ my
+@@ -86,7 +87,7 @@
+ Once
+ I
+ was
+-11
++eleven
+ years
+ old
+ I
+@@ -118,7 +119,7 @@
+ to
+ bore
+ me
+-Cause
++'Cause
+ only
+ those
+ I
+@@ -132,7 +133,7 @@
+ Once
+ I
+ was
+-20
++twenty
+ years
+ old,
+ my
+@@ -150,11 +151,9 @@
+ Once
+ I
+ was
+-20
++twenty
+ years
+ old
+-(Lukas
+-Graham!!!)
+ I
+ only
+ see
+@@ -165,7 +164,7 @@
+ believe
+ in
+ failure
+-Cause
++'Cause
+ I
+ know
+ the
+@@ -204,7 +203,7 @@
+ Once
+ I
+ was
+-20
++twenty
+ years
+ old,
+ my
+@@ -214,7 +213,7 @@
+ I
+ was
+ writing
+-'bout
++about
+ everything,
+ I
+ saw
+@@ -223,13 +222,13 @@
+ Once
+ I
+ was
+-20
++twenty
+ years
+ old
+ Soon
+ we'll
+ be
+-30
++thirty
+ years
+ old,
+ our
+@@ -249,7 +248,7 @@
+ Soon
+ we'll
+ be
+-30
++thirty
+ years
+ old
+ I'm
+@@ -257,12 +256,13 @@
+ learning
+ about
+ life
+-My
+-woman
+-brought
++I
++hope
++I
++have
+ children
+ for
+-me
++me?
+ So
+ I
+ can
+@@ -271,7 +271,7 @@
+ all
+ my
+ songs
+-And
++and
+ I
+ can
+ tell
+@@ -284,7 +284,7 @@
+ are
+ with
+ me
+-Some
++some
+ are
+ still
+ out
+@@ -297,7 +297,7 @@
+ to
+ leave
+ behind
+-My
++my
+ brother
+ I'm
+ still
+@@ -305,13 +305,13 @@
+ Soon
+ I'll
+ be
+-60
++sixty
+ years
+ old,
+ my
+ daddy
+ got
+-61
++sixty-one
+ Remember
+ life
+ and
+@@ -349,7 +349,7 @@
+ Soon
+ I'll
+ be
+-60
++sixty
+ years
+ old,
+ will
+@@ -374,13 +374,13 @@
+ Soon
+ I'll
+ be
+-60
++sixty
+ years
+ old
+ Soon
+ I'll
+ be
+-60
++sixty
+ years
+ old,
+ will
+@@ -400,12 +400,12 @@
+ children
+ who
+ can
+-hold
++warm
+ me
+ Soon
+ I'll
+ be
+-60
++sixty
+ years
+ old
+ Once

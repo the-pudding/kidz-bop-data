@@ -29,7 +29,7 @@ cbind.data.frame(all$track.name,kbSongs$song_name[unlist(tryThis)]) %>% View()
 
 ## direct match
 helper <- function(pattern){
-  grep(pattern, kbSongs$song_name)[1]
+  grep(paste0("^",pattern,"$"), kbSongs$song_name)[1]
 }
 
 tryThis = lapply(all$track.name,helper)
@@ -39,3 +39,50 @@ tryThis = lapply(all$track.name,helper)
 geniusMatch = cbind.data.frame(all,geniusSongName = kbSongs$song_name[unlist(tryThis)], geniusIdx = unlist(tryThis)) 
 
 save(geniusMatch, file="data/kbMatch.RData")
+
+geniusMatch[,c("geniusSongName","track.name", "geniusIdx")] %>% View()
+
+sum(!is.na(geniusMatch$geniusIdx))
+dim(geniusMatch)
+
+## two "fly"
+## two "The Middle"
+## two "Senorita"
+
+grep("Fly", all$track.name)
+grep("Fly", kbSongs$song_name)
+
+kbLyrics[[212]] ## Sugar Ray
+
+all[c(17, 360), ] %>% View()
+## second one is Nicki Minaj
+
+geniusMatch$track.name[360]=NA
+geniusMatch$geniusIdx[360]=NA
+
+grep("The Middle", all$track.name)
+grep("The Middle", kbSongs$song_name)
+
+kbLyrics[[598]] ## Maren Morris
+
+all[c(72, 634), ] %>% View()
+# first one is Jimmy Eat World
+
+geniusMatch$track.name[72]=NA
+geniusMatch$geniusIdx[72]=NA
+
+grep("rita", all$track.name)
+grep("rita", kbSongs$song_name)
+
+kbLyrics[[517]]  ## Shawn Mendes
+
+all[c(84, 648), ] %>% View()
+# first one is Justin Timberlake
+
+geniusMatch$track.name[84]=NA
+geniusMatch$geniusIdx[84]=NA
+
+
+save(geniusMatch, file="data/kbMatch.RData")
+
+sum(!is.na(geniusMatch$geniusIdx))

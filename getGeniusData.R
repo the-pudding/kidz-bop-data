@@ -25,21 +25,33 @@ save(kbLyrics, file = "data/kbLyrics.RData")
 
 # not ready for the stuff below yet
 
-# ## song id to feed into lyrics
-# getOG <- lapply(kbSongs$song_name, function(x) {
-#   search_song(search_term = x)$song_id[1]
-# })
-# save(getOG, file = "OG_artist_KB.RData")
-# 
+## song id to feed into original lyrics
+getOG <- lapply(kbSongs$song_name, function(x) {
+  search_song(search_term = x) ## get it all, filter later
+  # song_id used to get lyrics
+  # artist_name
+})
+save(getOG, file = "data/OG_info_fromKBGenius.RData")
+
+kbSongs$song_name
+
+toCheck = cbind.data.frame(kb_song_name=kbSongs$song_name,do.call("rbind",lapply(getOG, function(x){x[1,]})),toCheck = ifelse(1:nrow(kbSongs) %in% geniusMatch$geniusIdx,1,0)) #%>% View() 
+
+# only need to manually check if it is a match
+
+names(toCheck)
+
+forManualCheck = subset(toCheck[,c("kb_song_name", "song_name","artist_name","toCheck")], toCheck==1)
+
+forManualCheck$isCorrect=rep("",nrow(forManualCheck))
+
+write.csv(forManualCheck,"data/forManualChecking_getOriginalArtist.csv",row.names = F)
+## if this isn't the match, I'll go back and find the backup
+## once we get the correct song_id, get original lyrics
+
 # ## get original lyrics
 # ogLyrics <- lapply(unlist(getOG), function(x) {
 #   scrape_lyrics_id(song_id = x)
 # })
 # save(ogLyrics, file = "ogLyrics.RData")
 # 
-# ## get original artist for reference
-# ## note we could be getting the wrong one, but we are hoping the first one is the right one
-# getOGartist <- lapply(kbSongs$song_name, function(x) {
-#   search_song(search_term = x)$artist_name[1]
-# })
-# save(getOGartist, file = "OG_artist_name_KB.RData")

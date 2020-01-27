@@ -393,3 +393,13 @@ which(table(geniusMatch$geniusIdx)>1)
 save(geniusMatch, file="data/kbMatch.RData")
 
 sum(!is.na(geniusMatch$geniusIdx))
+
+### leftovers
+
+load(file="data/kbMatch.RData")
+
+write.csv(geniusMatch[which(is.na(geniusMatch$geniusIdx)) , c("track.album.name","track.name","geniusSongName")] , "data/missingLyrics.csv",row.names=F)
+
+# ok, I messed up the duplicated name, but if track name is NA use geniusSongName
+      
+           

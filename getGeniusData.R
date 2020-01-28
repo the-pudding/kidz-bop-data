@@ -55,3 +55,29 @@ write.csv(forManualCheck,"data/forManualChecking_getOriginalArtist.csv",row.name
 # })
 # save(ogLyrics, file = "ogLyrics.RData")
 # 
+
+
+## get original data for missing kidz bop songs just in case
+
+extra <- read.csv("data/pulledSongs.csv",stringsAsFactors = F)
+
+extra = subset(extra, included=="N")
+
+extraNames = trimws(unlist(lapply(strsplit(extra$song_name, "\\("), function(x){x[1]})))
+
+getOG <- lapply(extraNames, function(x) {
+  search_song(search_term = x) ## get it all, filter later
+  # song_id used to get lyrics
+  # artist_name
+})
+save(getOG, file = "data/OG_info_Extra.RData")
+
+kbSongs$song_name
+
+toCheck = cbind.data.frame(kb_song_name=extraNames,do.call("rbind",lapply(getOG, function(x){x[1,]}))) #%>% View() 
+
+# only need to manually check if it is a match
+
+
+
+write.csv(toCheck,"data/forManualChecking_getOriginalArtistExtra.csv",row.names = F)

@@ -175,3 +175,17 @@ ogLyrics = test
 unlist(lapply(test, nrow)) %>% summary()
 
 save(ogLyrics, file = "data/2020-02-02/ogLyrics2Plain.RData")
+
+
+load(file="data/2020-02-02/ogLyricsPlain.RData")
+
+ogLyrics1 = ogLyrics
+
+load(file="data/2020-02-02/ogLyrics2Plain.RData")
+
+ogLyrics2 = ogLyrics
+
+test = c(ogLyrics1, ogLyrics2)
+
+ogLyricsFull = test
+save(ogLyricsFull, file="data/2020-02-02/ogLyricsFullPlain.RData")

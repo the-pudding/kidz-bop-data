@@ -1,17 +1,6 @@
---- og305.txt	2020-02-06 20:51:23.000000000 -0800
-+++ kb320.txt	2020-02-06 20:51:29.000000000 -0800
-@@ -1,8 +1,8 @@
--everybody’s
-+everybodys
- talking
- but
- they
--don’t
-+dont
- say
- a
- thing
-@@ -14,17 +14,18 @@
+--- og305.txt	2020-02-06 21:11:51.000000000 -0800
++++ kb320.txt	2020-02-06 21:11:57.000000000 -0800
+@@ -14,7 +14,7 @@
  eyes
  i
  want
@@ -20,20 +9,14 @@
  sympathy
  its
  cool
- you
--didn’t
-+didnt
- sometimes
--can’t
-+cant
+@@ -24,6 +24,7 @@
+ cant
  go
  back
--why’d
 +by
-+whyd
+ whyd
  have
  to
- and
 @@ -41,10 +42,10 @@
  low
  had
@@ -55,20 +38,16 @@
  need
  your
  number
--there’s
-+theres
+ theres
  nothing
 -except
 +cept
  never
  thought
  itd
-@@ -79,25 +79,19 @@
- are
- outside
+@@ -81,23 +81,17 @@
  waiting
--i’ve
-+ive
+ ive
  gotta
 -have
 -been

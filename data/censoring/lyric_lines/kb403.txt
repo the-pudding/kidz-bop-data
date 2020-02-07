@@ -23,7 +23,7 @@ say
 hey
 living
 like
-we’re
+were
 renegades
 long
 live
@@ -54,7 +54,7 @@ new
 outlaws
 spielbergs
 kubricks
-it’s
+its
 our
 time
 make
@@ -63,5 +63,5 @@ move
 amends
 break
 rules
-let’s
+lets
 begin

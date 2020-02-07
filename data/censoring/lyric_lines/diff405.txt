@@ -1,14 +1,5 @@
---- og395.txt	2020-02-06 20:51:24.000000000 -0800
-+++ kb405.txt	2020-02-06 20:51:29.000000000 -0800
-@@ -1,7 +1,7 @@
- were
- gonna
- riririririse
--til
-+’til
- we
- fall
- they
+--- og395.txt	2020-02-06 21:11:52.000000000 -0800
++++ kb405.txt	2020-02-06 21:11:57.000000000 -0800
 @@ -51,6 +51,7 @@
  anything
  all
@@ -17,15 +8,11 @@
  think
  just
  dropouts
-@@ -64,12 +65,14 @@
- proud
- know
- no
--dont
-+don’t
+@@ -67,9 +68,11 @@
+ dont
  speak
  language
-+we’re
++were
  too
  savage
  yeah

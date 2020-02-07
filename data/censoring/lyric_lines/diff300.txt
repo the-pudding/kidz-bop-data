@@ -1,5 +1,5 @@
---- og632.txt	2020-02-06 20:51:23.000000000 -0800
-+++ kb300.txt	2020-02-06 20:51:29.000000000 -0800
+--- og632.txt	2020-02-06 21:11:51.000000000 -0800
++++ kb300.txt	2020-02-06 21:11:57.000000000 -0800
 @@ -2,15 +2,12 @@
  your
  lips
@@ -9,14 +9,12 @@
 +moving
 +moving
  then
--you’re
--lyin’
+ youre
+ lyin
 -baby
 -oh
 -i
 -said
-+youre
-+lyin
 +babe
  boy
  look
@@ -83,7 +81,7 @@
 -talk
  saying
  how
--i’m
+-im
  number
  one
 -lie
@@ -93,7 +91,7 @@
  dont
 +ya
  done
--lyin’
+-lyin
 -hey
  hey
  bring

@@ -1,5 +1,5 @@
---- og37.txt	2020-02-06 20:51:22.000000000 -0800
-+++ kb39.txt	2020-02-06 20:51:28.000000000 -0800
+--- og37.txt	2020-02-06 21:11:50.000000000 -0800
++++ kb39.txt	2020-02-06 21:11:56.000000000 -0800
 @@ -1,5 +1,5 @@
 -oh
 -woah
@@ -8,12 +8,8 @@
  you
  know
  love
-@@ -10,32 +10,30 @@
- shout
- whenever
- and
--i’ll
-+ill
+@@ -13,29 +13,27 @@
+ ill
  be
  there
 -want
@@ -34,7 +30,7 @@
  girl
  quit
  playing
--we’re
+-were
 -friends
 +"were
 +friends"
@@ -42,14 +38,14 @@
 -saying
 +sayin
  said
--"there’s
+-"theres
 -another"
 +theres
 +another
  looked
  right
  in
-@@ -49,20 +47,20 @@
+@@ -49,19 +47,19 @@
  like
  baby
  baby
@@ -63,19 +59,17 @@
  always
  mine
  mine
--you’d
+-youd
 +oohh
 +you
  would
  have
  done
 -whatever
--can’t
 +ever
-+cant
+ cant
  believe
  aint
- together
 @@ -73,9 +71,9 @@
  but
  im
@@ -87,12 +81,9 @@
  any
  ring
  pieces
-@@ -91,59 +89,66 @@
- going
+@@ -93,57 +91,64 @@
  down
- down
--won’t
-+wont
+ wont
  around
 +oooh
  luda
@@ -120,8 +111,7 @@
  woke
  up
  daily
--don’t
-+dont
+ dont
  need
 +no
  starbucks

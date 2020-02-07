@@ -1,11 +1,11 @@
---- og671.txt	2020-02-06 20:51:24.000000000 -0800
-+++ kb441.txt	2020-02-06 20:51:29.000000000 -0800
+--- og671.txt	2020-02-06 21:11:52.000000000 -0800
++++ kb441.txt	2020-02-06 21:11:57.000000000 -0800
 @@ -1,17 +1,17 @@
 -yeah
 +and
- it’s
+ its
  over
- i’m
+ im
  circling
  these
  vultures
@@ -29,7 +29,7 @@
  catch
 -you
  but
- we’re
+ were
  always
 @@ -38,7 +37,7 @@
  the
@@ -41,12 +41,12 @@
  of
  culture
 @@ -46,7 +45,8 @@
- ain’t
+ aint
  getting
  younger
--call’s
+-calls
 +next
-+day’s
++days
  around
  corner
  kinda
@@ -63,7 +63,7 @@
  is
 +you
 +im
- sayin’
+ sayin
  come
  over
  here

@@ -1,21 +1,12 @@
---- og456.txt	2020-02-06 20:51:24.000000000 -0800
-+++ kb479.txt	2020-02-06 20:51:29.000000000 -0800
-@@ -5,7 +5,7 @@
- of
- my
- life
--im
-+i’m
- so
- much
- better
+--- og456.txt	2020-02-06 21:11:52.000000000 -0800
++++ kb479.txt	2020-02-06 21:11:57.000000000 -0800
 @@ -17,7 +17,9 @@
  without
  you
  but
 +im
  stronger
-+i’d
++id
  broke
  richer
  sad
@@ -27,8 +18,7 @@
  helpless
  smarter
  stressed
--chillin
-+chillin’
+ chillin
  sell
  sold
 -9
@@ -41,7 +31,7 @@
  gon
  give
  up
-+gon’
++gon
  stop
  work
  gonna

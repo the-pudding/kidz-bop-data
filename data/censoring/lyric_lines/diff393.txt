@@ -1,16 +1,12 @@
---- og656.txt	2020-02-06 20:51:24.000000000 -0800
-+++ kb393.txt	2020-02-06 20:51:29.000000000 -0800
+--- og656.txt	2020-02-06 21:11:52.000000000 -0800
++++ kb393.txt	2020-02-06 21:11:57.000000000 -0800
 @@ -1,4 +1,3 @@
 -oh
  yeah
  yeah
  i
-@@ -12,16 +11,17 @@
- and
- know
- that
--it’s
-+its
+@@ -15,7 +14,8 @@
+ its
  all
  mine
 -ohoh
@@ -19,14 +15,7 @@
  do
  what
  you
- want
- but
--you’re
-+youre
- never
- gonna
- break
-@@ -31,44 +31,28 @@
+@@ -31,43 +31,27 @@
  are
  shake
  me
@@ -70,7 +59,7 @@
 -know
 -wish
 -could
--ain’t
+-aint
 -own
 -anything
 -can
@@ -78,11 +67,9 @@
 -no
 -you
 -cant
--there’s
-+theres
+ theres
  go
  nobody
- knows
 @@ -87,15 +71,12 @@
  cries
  only

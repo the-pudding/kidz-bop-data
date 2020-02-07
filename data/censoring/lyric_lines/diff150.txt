@@ -1,5 +1,5 @@
---- og599.txt	2020-02-06 20:51:23.000000000 -0800
-+++ kb150.txt	2020-02-06 20:51:29.000000000 -0800
+--- og599.txt	2020-02-06 21:11:51.000000000 -0800
++++ kb150.txt	2020-02-06 21:11:56.000000000 -0800
 @@ -7,9 +7,6 @@
  first
  string
@@ -35,7 +35,7 @@
 -dope
 -dont
 -overdose
--i’m
+-im
 -stoked
 -need
 -toast
@@ -44,7 +44,7 @@
 -im
 -in
 -ghost
--whippin’
+-whippin
 -boat
 -girl
 -that
@@ -82,7 +82,7 @@
 -just
 -another
 -exlove
--don’t
+-dont
 -see
 -miss
 -i
@@ -145,7 +145,7 @@
 +it
  believe
 -even
--we’d
+-wed
 -argue
 -wed
 -not

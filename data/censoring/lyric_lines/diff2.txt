@@ -1,5 +1,5 @@
---- og3.txt	2020-02-06 20:51:22.000000000 -0800
-+++ kb2.txt	2020-02-06 20:51:28.000000000 -0800
+--- og3.txt	2020-02-06 21:11:50.000000000 -0800
++++ kb2.txt	2020-02-06 21:11:56.000000000 -0800
 @@ -1,6 +1,6 @@
 -na
 +knock
@@ -9,15 +9,6 @@
  oh
  been
  trying
-@@ -22,7 +22,7 @@
- even
- thought
- speak
--don’t
-+dont
- wanna
- tell
- you
 @@ -43,17 +43,16 @@
  but
  its
@@ -25,10 +16,9 @@
 -one
 +1
  thing
--that’s
--trippin
  thats
-+trippin
+ trippin
+-thats
  you
  did
  soul
@@ -52,14 +42,11 @@
  memories
  ringing
  bells
-@@ -91,18 +88,18 @@
- your
- door
+@@ -93,13 +90,13 @@
  maybe
--can’t
-+cant
+ cant
  believe
--it’s
+-its
 +one
  deny
  tired
@@ -72,8 +59,4 @@
 +door
  on
  seeing
--i’m
-+im
- hoping
- can
- a
+ im

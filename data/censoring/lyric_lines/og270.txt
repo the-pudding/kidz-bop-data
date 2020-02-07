@@ -87,7 +87,7 @@ possessive
 girl
 passive
 aggressive
-it’s
+its
 jealous
 only
 one

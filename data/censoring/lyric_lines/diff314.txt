@@ -1,23 +1,5 @@
---- og639.txt	2020-02-06 20:51:23.000000000 -0800
-+++ kb314.txt	2020-02-06 20:51:29.000000000 -0800
-@@ -20,7 +20,7 @@
- invade
- your
- space
--i’ll
-+ill
- the
- pleasure
- with
-@@ -31,7 +31,7 @@
- lip
- baby
- that
--you’ll
-+youll
- this
- is
- bigger
+--- og639.txt	2020-02-06 21:11:51.000000000 -0800
++++ kb314.txt	2020-02-06 21:11:57.000000000 -0800
 @@ -46,16 +46,14 @@
  cause
  want
@@ -62,20 +44,18 @@
  so
  what
  do
--can’t
-+cant
-+figure
-+out
+ cant
  figure
  out
++figure
++out
  try
  try
  again
  yeah
 -oh
 -whoa
--i’m
-+im
+ im
  gonna
  leave
  again

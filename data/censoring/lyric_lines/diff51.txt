@@ -1,6 +1,6 @@
---- og48.txt	2020-02-06 20:51:22.000000000 -0800
-+++ kb51.txt	2020-02-06 20:51:28.000000000 -0800
-@@ -11,26 +11,25 @@
+--- og48.txt	2020-02-06 21:11:50.000000000 -0800
++++ kb51.txt	2020-02-06 21:11:56.000000000 -0800
+@@ -11,18 +11,15 @@
  summer
  sundown
  and
@@ -13,18 +13,17 @@
 -their
 -rented
 +and theyre
-+rentin’
++rentin
  hummers
  partys
  on
 -so
 -theyre
--headin
 +so theyre
-+headin’
+ headin
  downtown
  round
- here
+@@ -30,7 +27,9 @@
  everybodys
  lookin
  for
@@ -34,7 +33,7 @@
  wanna
  know
  what
-@@ -40,18 +39,19 @@
+@@ -40,8 +39,8 @@
  middle
  with
  one
@@ -45,14 +44,9 @@
  were
  just
  tryna
- figure
- everything
--dont
-+don’t
- fit
+@@ -52,6 +51,7 @@
  well
--cause
-+’cause
+ cause
  ourselves
 +i
  could
@@ -79,13 +73,7 @@
  prenups
  broken
  homes
-@@ -105,13 +106,11 @@
- lets
- leave
- party
--thats
-+that’s
- not
+@@ -110,8 +111,6 @@
  who
  we
  are

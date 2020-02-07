@@ -1,5 +1,5 @@
---- og650.txt	2020-02-06 20:51:23.000000000 -0800
-+++ kb382.txt	2020-02-06 20:51:29.000000000 -0800
+--- og650.txt	2020-02-06 21:11:52.000000000 -0800
++++ kb382.txt	2020-02-06 21:11:57.000000000 -0800
 @@ -1,106 +1,91 @@
 -days
 -like
@@ -84,7 +84,7 @@
 +a
  part
  of
--you’re
+-youre
 -never
 -gonna
 -ever
@@ -137,13 +137,13 @@
 +holding
  let
 -drown
--i’m
+-im
 -sparkling
 -a
 -firework
 -dancing
 -flame
--won’t
+-wont
 -put
 -again
 -glowing

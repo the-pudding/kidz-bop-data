@@ -1,6 +1,6 @@
---- og138.txt	2020-02-06 20:51:23.000000000 -0800
-+++ kb144.txt	2020-02-06 20:51:29.000000000 -0800
-@@ -4,34 +4,32 @@
+--- og138.txt	2020-02-06 21:11:51.000000000 -0800
++++ kb144.txt	2020-02-06 21:11:56.000000000 -0800
+@@ -4,33 +4,31 @@
  the
  moped
  store
@@ -16,17 +16,14 @@
  like
 -"what
  up
--whats
-+what’s
+ whats
  your
 -budget"
--im
--"honestly
--dont
 +budget
-+i’m
+ im
+-"honestly
 +honestly
-+don’t
+ dont
  know
  nothing
  about
@@ -41,13 +38,11 @@
  follow
 -me"
 -ooh
--its
 +me
 +whooo
-+it’s
+ its
  too
  real
- chromed
 @@ -46,26 +44,23 @@
  on
  two

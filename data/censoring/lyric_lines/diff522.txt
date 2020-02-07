@@ -1,5 +1,5 @@
---- og696.txt	2020-02-06 20:51:24.000000000 -0800
-+++ kb522.txt	2020-02-06 20:51:29.000000000 -0800
+--- og696.txt	2020-02-06 21:11:53.000000000 -0800
++++ kb522.txt	2020-02-06 21:11:57.000000000 -0800
 @@ -19,7 +19,7 @@
  wanna
  go
@@ -9,16 +9,14 @@
  was
  afraid
  of
-@@ -53,8 +53,7 @@
+@@ -53,7 +53,6 @@
  tonight
  is
  night
 -night
--we’re
-+were
+ were
  losing
  control
- we
 @@ -62,18 +61,15 @@
  it
  off
@@ -50,7 +48,7 @@
  by
  feel
  much
-@@ -91,10 +87,10 @@
+@@ -91,8 +87,8 @@
  got
  one
  chance
@@ -59,11 +57,8 @@
 +motherf***er
 +ima
  make
--y’all
-+yall
+ yall
  dance
- fun
- can
 @@ -104,7 +100,7 @@
  etch
  plan

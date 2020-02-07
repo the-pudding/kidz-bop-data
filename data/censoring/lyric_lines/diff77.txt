@@ -1,31 +1,5 @@
---- og70.txt	2020-02-06 20:51:22.000000000 -0800
-+++ kb77.txt	2020-02-06 20:51:28.000000000 -0800
-@@ -3,7 +3,7 @@
- was
- your
- boyfriend
--i’d
-+id
- never
- let
- you
-@@ -11,14 +11,14 @@
- can
- take
- places
--ain’t
-+aint
- been
- before
- baby
- a
- chance
- or
--you’ll
-+youll
- ever
- know
- got
+--- og70.txt	2020-02-06 21:11:50.000000000 -0800
++++ kb77.txt	2020-02-06 21:11:56.000000000 -0800
 @@ -32,13 +32,12 @@
  to
  blow
@@ -42,7 +16,7 @@
  we
  eating
  fondue
-@@ -52,26 +51,27 @@
+@@ -52,24 +51,25 @@
  falsetto
  three
  two
@@ -58,9 +32,8 @@
 -id
  keep
  arm
--you’d
 +girl
-+youd
+ youd
 +be
  alone
  gentleman
@@ -70,12 +43,9 @@
  what
 -like
  yeah
--don’t
-+dont
+ dont
  could
- buzz
- lightyear
-@@ -81,18 +81,18 @@
+@@ -81,7 +81,7 @@
  wanna
  fight
  already
@@ -84,8 +54,7 @@
  make
  shine
  bright
--you’re
-+youre
+@@ -89,10 +89,10 @@
  laying
  snow
  burr
@@ -98,7 +67,7 @@
  world
  ends
  dance
-@@ -108,38 +108,35 @@
+@@ -108,12 +108,11 @@
  whirl
  wind
  swaggie
@@ -113,9 +82,8 @@
  spend
  week
  with
- boy
--i’ll
-+ill
+@@ -121,25 +120,23 @@
+ ill
  calling
  man
 +if

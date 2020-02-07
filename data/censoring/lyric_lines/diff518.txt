@@ -1,5 +1,5 @@
---- og492.txt	2020-02-06 20:51:24.000000000 -0800
-+++ kb518.txt	2020-02-06 20:51:29.000000000 -0800
+--- og492.txt	2020-02-06 21:11:52.000000000 -0800
++++ kb518.txt	2020-02-06 21:11:57.000000000 -0800
 @@ -1,38 +1,27 @@
 -"hey
 -macklemore
@@ -105,7 +105,7 @@
  next
  me
  probably
-@@ -91,45 +76,47 @@
+@@ -91,44 +76,46 @@
  washed
  this
  smells
@@ -157,18 +157,16 @@
  saving
  money
 -happy;
-+i’m
++im
 +happy
- that’s
+ thats
  bargain
 -bitch
--ima
 +yeah
-+i’ma
+ ima
  take
  your
- grandpas
-@@ -139,172 +126,164 @@
+@@ -139,69 +126,69 @@
  real
  ask
  grandpa
@@ -209,8 +207,7 @@
 +fellow
  john
  wayne
--aint
-+ain’t
+ aint
  nothing
  game
 -hell
@@ -254,10 +251,7 @@
  right
  through
  luggage
- one
--mans
-+man’s
- trash
+@@ -211,26 +198,28 @@
  another
  thank
  granddad
@@ -288,10 +282,9 @@
 +aunty
 +momma
  mammy
--ill
-+i’ll
+ ill
  flannel
- zebra
+@@ -238,22 +227,20 @@
  jammies
  second
  hand
@@ -320,9 +313,8 @@
 +tshirt”
  limited
  edition
--lets
-+let’s
- do
+ lets
+@@ -261,10 +248,13 @@
  simple
  addition
  tshirt
@@ -338,17 +330,12 @@
  tricked
  by
  business
--shirts
-+shirt’s
- dough
- having
- same
+@@ -275,36 +265,25 @@
  as
  six
  other
--dont
 +major
-+don’t
+ dont
  peep
  look
  telescope
@@ -362,7 +349,7 @@
 -yeah!
 -wear
 +man
-+won’t
++wont
 +wont
 +real
 +inside!
@@ -379,7 +366,7 @@
 -now
 -on
 -man
--i’m
+-im
 -bigass
 +granmas
  coat

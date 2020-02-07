@@ -1,6 +1,6 @@
---- og2.txt	2020-02-06 20:51:22.000000000 -0800
-+++ kb1.txt	2020-02-06 20:51:28.000000000 -0800
-@@ -37,11 +37,11 @@
+--- og2.txt	2020-02-06 21:11:50.000000000 -0800
++++ kb1.txt	2020-02-06 21:11:56.000000000 -0800
+@@ -37,7 +37,7 @@
  actress
  star
  shake
@@ -9,11 +9,6 @@
  on
  hood
  of
--whitesnake’s
-+whitesnakes
- car
- yellow
- suv
 @@ -53,11 +53,8 @@
  average
  life
@@ -28,12 +23,8 @@
  springsteen
  madonna
  way
-@@ -77,15 +74,14 @@
- they
- tell
- that
--she’s
-+shes
+@@ -80,12 +77,11 @@
+ shes
  uncool
  cause
 -shes
@@ -47,14 +38,13 @@
  knows
  every
  line
-@@ -94,28 +90,29 @@
+@@ -94,11 +90,11 @@
  pretty
  pink
  even
 -saint
--elmo’s
 +st
-+elmos
+ elmos
  fire
  rocked
 -wham
@@ -62,28 +52,16 @@
  not
  big
  limp
- bizkit
- fan
- thought
--she’d
-+shed
- get
- hand
+@@ -111,7 +107,8 @@
  member
  duran
--where’s
+ wheres
 -miniskirt
-+wheres
 +mini
 +skirt
  made
  snake
  skin
--who’s
-+whos
- other
- guy
- thats
 @@ -123,26 +120,34 @@
  van
  halen

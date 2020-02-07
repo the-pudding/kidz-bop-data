@@ -1,5 +1,5 @@
---- og544.txt	2020-02-06 20:51:24.000000000 -0800
-+++ kb579.txt	2020-02-06 20:51:29.000000000 -0800
+--- og544.txt	2020-02-06 21:11:53.000000000 -0800
++++ kb579.txt	2020-02-06 21:11:57.000000000 -0800
 @@ -1,6 +1,7 @@
  yeah
  found
@@ -28,7 +28,7 @@
 -tell
 -know
 -been
--actin’
+-actin
 +tell you
 +i
 +knew
@@ -51,9 +51,8 @@
 +actin
  different
  when
--we’re
+ were
 -makin
-+were
 +talking
  love
  baby
@@ -106,23 +105,22 @@
  eye
 -well
  tell
--you’re
+-youre
 -lying
--’cause
++lyin
+ cause
 -youve
 -conspicuous
 -too
 -much
 -were
--makin’
+-makin
 -baby
 -who
 -actin
 -this
 -shit
 -is
-+lyin
-+cause
 +talkin
 +so
  who

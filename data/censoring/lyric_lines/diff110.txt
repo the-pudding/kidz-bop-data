@@ -1,6 +1,6 @@
---- og590.txt	2020-02-06 20:51:22.000000000 -0800
-+++ kb110.txt	2020-02-06 20:51:28.000000000 -0800
-@@ -1,36 +1,23 @@
+--- og590.txt	2020-02-06 21:11:50.000000000 -0800
++++ kb110.txt	2020-02-06 21:11:56.000000000 -0800
+@@ -1,24 +1,10 @@
 -haha!
 -yall
 -need
@@ -27,13 +27,7 @@
  play
  another
  game
- but
- my
- heart
--can’t
-+cant
- take
- it
+@@ -31,6 +17,7 @@
  find
  boy
  all
@@ -58,16 +52,15 @@
  up
  as
  pretend
-@@ -75,15 +61,13 @@
+@@ -75,7 +61,6 @@
  got
  say
  we
 -cant
  keep
  way
--i’ll
-+ill
- be
+ ill
+@@ -83,7 +68,6 @@
  yeah
  it
  again
@@ -75,14 +68,13 @@
  me
  in
  still
-@@ -101,38 +85,36 @@
+@@ -101,17 +85,15 @@
  then
  stall
  after
 -all
  just
--couldn’t
-+couldnt
+ couldnt
  if
 +play
  was
@@ -92,47 +84,17 @@
  that
  day
 -heart
--you’d
-+youd
+ youd
  break
  made
- mistake
+@@ -119,9 +101,9 @@
  foolish
  pride
  and
 -me
--let’s
-+lets
+ lets
  try
 +baby
  v
  can
  think
- about
- act
- like
--don’t
-+dont
- care
- love
- between
--isn’t
-+isnt
- there
- youre
- upset
-@@ -142,12 +124,12 @@
- pay
- for
- pain
--i’ve
-+ive
- caused
- end
- comes
- down
- thing
--it’s
-+its
- me
- sing

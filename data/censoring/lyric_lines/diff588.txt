@@ -1,5 +1,5 @@
---- og717.txt	2020-02-06 20:51:24.000000000 -0800
-+++ kb588.txt	2020-02-06 20:51:29.000000000 -0800
+--- og717.txt	2020-02-06 21:11:53.000000000 -0800
++++ kb588.txt	2020-02-06 21:11:57.000000000 -0800
 @@ -1,72 +1,107 @@
 -hey
 -witch
@@ -75,7 +75,7 @@
  what
 -to
 -do
--didn’t
+-didnt
 -true
 -nice
 -gave
@@ -114,10 +114,10 @@
 -were
 -a
 -miser
--i’ll
+-ill
 -admit
 -it
--wasn’t
+-wasnt
 +thats
 +not
  very
@@ -131,7 +131,7 @@
 +found
  myself
 -guy
--that’s
+-thats
 -much
 -wiser
 -way

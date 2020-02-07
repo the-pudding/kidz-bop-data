@@ -1,5 +1,5 @@
---- og344.txt	2020-02-06 20:51:23.000000000 -0800
-+++ kb352.txt	2020-02-06 20:51:29.000000000 -0800
+--- og344.txt	2020-02-06 21:11:52.000000000 -0800
++++ kb352.txt	2020-02-06 21:11:57.000000000 -0800
 @@ -6,11 +6,11 @@
  happy
  but
@@ -13,17 +13,8 @@
  as
  left
  can
-@@ -26,23 +26,24 @@
- were
- my
- everything
--its
-+it’s
- clear
- see
- that
--hasnt
-+hasn’t
+@@ -33,16 +33,17 @@
+ hasnt
  changed
  thing
 -buried
@@ -31,16 +22,15 @@
  deep
  inside
  me
--theres
+ theres
 -somethin
-+there’s
 +something
  should
  know
 -will
-+i’ll
++ill
  forget
-+you’ll
++youll
  always
  by
  side
@@ -82,7 +72,7 @@
  do
  think
  could
-@@ -89,41 +90,30 @@
+@@ -89,24 +90,16 @@
  take
  off
  mind
@@ -110,15 +100,13 @@
  gotta
  these
  things
- fall
+@@ -114,16 +107,13 @@
  through
--im
-+i’m
+ im
  still
 -tied
--cant
 +tired
-+can’t
+ cant
  hide
  connection
 -something

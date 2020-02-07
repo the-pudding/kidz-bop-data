@@ -1,5 +1,5 @@
---- og391.txt	2020-02-06 20:51:24.000000000 -0800
-+++ kb403.txt	2020-02-06 20:51:29.000000000 -0800
+--- og391.txt	2020-02-06 21:11:52.000000000 -0800
++++ kb403.txt	2020-02-06 21:11:57.000000000 -0800
 @@ -1,14 +1,19 @@
  run
 -awayay
@@ -23,7 +23,7 @@
  free
  two
  kids
-@@ -16,45 +21,47 @@
+@@ -16,40 +21,42 @@
  i
  say
  hey
@@ -31,10 +31,9 @@
 -livin
 +living
  like
--were
--renegades
-+we’re
+ were
  renegades
+-renegades
  long
  live
  the
@@ -68,17 +67,10 @@
  outlaws
  spielbergs
  kubricks
--its
-+it’s
+ its
  our
  time
 -to
  make
  a
  move
- amends
- break
- rules
--lets
-+let’s
- begin

@@ -1,24 +1,14 @@
---- og107.txt	2020-02-06 20:51:22.000000000 -0800
-+++ kb115.txt	2020-02-06 20:51:28.000000000 -0800
-@@ -1,15 +1,15 @@
+--- og107.txt	2020-02-06 21:11:50.000000000 -0800
++++ kb115.txt	2020-02-06 21:11:56.000000000 -0800
+@@ -1,7 +1,7 @@
 +hey
  are
  you
  ready
 -ha
--its
-+it’s
+ its
  time
  for
- me
- to
- take
- it
--im
-+i’m
- the
- boss
- right
 @@ -19,8 +19,8 @@
  fake
  when
@@ -51,8 +41,7 @@
  lights
  on
  no
--cant
-+can’t
+ cant
  behave
 -ohohoh
 -so
@@ -70,10 +59,9 @@
  had
 -underratedratedrated
 -uhhuh
--whats
 +under
 +rated
-+what’s
+ whats
  wrong
  with
  being
@@ -108,9 +96,8 @@
 -la
 -yeah
 -underrated
--whats
 +oohh
-+what’s
+ whats
  being
 +oh
 +yeah

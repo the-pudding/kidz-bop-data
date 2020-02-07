@@ -30,7 +30,7 @@ let
 world
 dim
 sight
-don’t
+dont
 a
 moment
 go
@@ -58,7 +58,7 @@ happen
 so
 sure
 now
-i’m
+im
 letting
 there
 something

@@ -1,5 +1,5 @@
---- og396.txt	2020-02-06 20:51:24.000000000 -0800
-+++ kb406.txt	2020-02-06 20:51:29.000000000 -0800
+--- og396.txt	2020-02-06 21:11:52.000000000 -0800
++++ kb406.txt	2020-02-06 21:11:57.000000000 -0800
 @@ -41,14 +41,13 @@
  but
  got
@@ -24,26 +24,14 @@
  enough
  see
  it
-@@ -70,17 +70,16 @@
+@@ -70,7 +70,6 @@
  dancing
  through
  fire
 -cause
  am
  champion
--you’re
-+youre
- roar
- louder
- louder
- than
- lion
- oh
--i’m
-+im
- floating
- butterfly
- stinging
+ youre
 @@ -92,10 +91,6 @@
  zero
  own

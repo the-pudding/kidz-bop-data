@@ -1,6 +1,6 @@
---- og686.txt	2020-02-06 20:51:24.000000000 -0800
-+++ kb488.txt	2020-02-06 20:51:29.000000000 -0800
-@@ -3,28 +3,30 @@
+--- og686.txt	2020-02-06 21:11:52.000000000 -0800
++++ kb488.txt	2020-02-06 21:11:57.000000000 -0800
+@@ -3,7 +3,7 @@
  end
  up
  with
@@ -8,11 +8,8 @@
 +him
  but
  he
--wasnt
-+wasn’t
- a
- match
- wrote
+ wasnt
+@@ -13,18 +13,20 @@
  some
  songs
  about
@@ -43,10 +40,9 @@
  you"
  to
 -malcolm
--cause
 +that
 +one
-+’cause
+ cause
  was
  an
  angel
@@ -54,7 +50,7 @@
  taught
  me
  love
-@@ -57,25 +59,24 @@
+@@ -57,17 +59,16 @@
  see
  so
  look
@@ -70,21 +66,11 @@
  my
  ex
 -fuckin—
-+i’m
++im
 +so—
  spend
  more
  time
- friends
--aint
-+ain’t
- worried
- bout
--nothin
-+nothin’
- plus
- met
- someone
 @@ -85,7 +86,6 @@
  better
  discussions

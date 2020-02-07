@@ -40,7 +40,7 @@ tell
 drive
 crazy
 cause
-can’t
+cant
 get
 out
 my

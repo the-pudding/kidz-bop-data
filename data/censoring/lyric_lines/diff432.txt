@@ -1,5 +1,5 @@
---- og415.txt	2020-02-06 20:51:24.000000000 -0800
-+++ kb432.txt	2020-02-06 20:51:29.000000000 -0800
+--- og415.txt	2020-02-06 21:11:52.000000000 -0800
++++ kb432.txt	2020-02-06 21:11:57.000000000 -0800
 @@ -1,6 +1,6 @@
  i
  stay
@@ -67,8 +67,7 @@
 +lighting
  feet
  they
--don’t
-+dont
+ dont
  see
  dancing
  own
@@ -81,7 +80,7 @@
 -go
 -dont
  know
--that’s
+-thats
 -groovin
 -i
 +grooving

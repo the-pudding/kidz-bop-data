@@ -8,7 +8,7 @@ say:
 "hey
 hey!"
 baby
-i’m
+im
 the
 kinda
 girl
@@ -110,7 +110,7 @@ wanna
 really
 check
 out
-it’s
+its
 bounty
 killer
 doubt!

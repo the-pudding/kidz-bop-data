@@ -1,6 +1,6 @@
---- og363.txt	2020-02-06 20:51:23.000000000 -0800
-+++ kb369.txt	2020-02-06 20:51:29.000000000 -0800
-@@ -19,12 +19,13 @@
+--- og363.txt	2020-02-06 21:11:52.000000000 -0800
++++ kb369.txt	2020-02-06 21:11:57.000000000 -0800
+@@ -19,6 +19,7 @@
  take
  the
  night
@@ -8,13 +8,6 @@
  real
  easy
  and
- know
- that
--youll
-+you’ll
- still
- wanna
- see
 @@ -33,6 +34,7 @@
  morning
  music
@@ -23,12 +16,7 @@
  while
  moon
  out
-@@ -46,26 +48,37 @@
- wont
- sleeeeeep
- cause
--im
-+i’m
+@@ -50,22 +52,33 @@
  lost
  way
  move
@@ -64,7 +52,7 @@
 +to
 +talk
  tonight
-+it’s
++its
 +yououou
-+won’t
++wont
 +yeah

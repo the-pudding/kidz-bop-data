@@ -1,5 +1,5 @@
---- og44.txt	2020-02-06 20:51:22.000000000 -0800
-+++ kb64.txt	2020-02-06 20:51:28.000000000 -0800
+--- og44.txt	2020-02-06 21:11:50.000000000 -0800
++++ kb64.txt	2020-02-06 21:11:56.000000000 -0800
 @@ -4,11 +4,10 @@
  with
  you
@@ -14,14 +14,12 @@
  chemistry
  was
  crazy
-@@ -23,11 +22,11 @@
- knew
+@@ -24,10 +23,10 @@
  why
  we
--didn’t
+ didnt
 -build
--nothin’
-+didnt
+-nothin
 +deal
 +nothing
  overnight
@@ -30,21 +28,8 @@
  a
  love
  like
-@@ -42,7 +41,7 @@
- as
- phase
- said
--can’t
-+cant
- see
- that
- now
-@@ -51,33 +50,32 @@
- they
- did
- yes
--it’s
-+its
+@@ -54,14 +53,15 @@
+ its
  so
  true
 +that
@@ -62,12 +47,11 @@
  too
  strong
  for
- long
+@@ -69,13 +69,11 @@
  and
  without
--i’ll
--waitin’
-+ill
+ ill
+-waitin
 +waiting
  up
  until
@@ -76,12 +60,9 @@
 -ooh
 -if
  anybody
--who’s
-+whos
+ whos
  ever
- loved
- know
-@@ -91,86 +89,75 @@
+@@ -91,15 +89,15 @@
  replace
  call
  radio
@@ -99,14 +80,7 @@
  lie
  no
  make
- me
- cry
- do
--somethin’
-+somethin
- behind
- my
- back
+@@ -113,64 +111,53 @@
  then
  try
  cover
@@ -117,16 +91,14 @@
  is
  only
  faithful
--i’m
--you’ll
-+im
+ im
 +real
-+youll
+ youll
  always
 -deal
 -yeah
  talk
--i’mma
+-imma
 +ima
  stay
 -no
@@ -142,24 +114,21 @@
  day
  every
 -hey
--you’re
-+youre
+ youre
  down
  on
--don’t
-+dont
+ dont
  believe
--ain’t
-+aint
+ aint
 +
  no
 -you
  deep
  in
  heart
--c’mon
--c’mon
--c’mon
+-cmon
+-cmon
+-cmon
 +come
 +on
  let
@@ -170,16 +139,15 @@
 -fellas
 -tell
 -lady
--she’s
--oh
--ladies
--him
--he’s
--locked
 +boys
 +say
 +girl
-+shes
+ shes
+-oh
+-ladies
+-him
+-hes
+-locked
  look
 +him
  his

@@ -1,5 +1,5 @@
---- og543.txt	2020-02-06 20:51:24.000000000 -0800
-+++ kb578.txt	2020-02-06 20:51:29.000000000 -0800
+--- og543.txt	2020-02-06 21:11:53.000000000 -0800
++++ kb578.txt	2020-02-06 21:11:57.000000000 -0800
 @@ -25,21 +25,22 @@
  to
  them
@@ -9,28 +9,25 @@
  we
  em
  off
--ain’t
+ aint
 -doin
 -nothin
-+aint
 +doing
 +nothing
  wrong
  so
--don’t
-+dont
+ dont
  tell
  me
--i’m
 +nothing
-+im
+ im
  just
 -trying
 +tryna
  have
  fun
  keep
-@@ -50,21 +51,18 @@
+@@ -50,20 +51,17 @@
  yeah
  now
  they
@@ -49,11 +46,9 @@
 +with
  hair
 -if
--i’ll
-+ill
+ ill
  be
  fine
- fighting
 @@ -75,10 +73,9 @@
  feel
  like
@@ -111,7 +106,7 @@
  your
 -hair
  matter
--it’s
+-its
  long
  short
 -hair!

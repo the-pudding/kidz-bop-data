@@ -17,7 +17,7 @@ teeth
 gold
 up
 teeth
-don’t
+dont
 care
 what
 you
@@ -45,7 +45,7 @@ go
 when
 on
 fire
-you’re
+youre
 sorry
 honey
 really

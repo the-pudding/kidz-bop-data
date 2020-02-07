@@ -1,5 +1,5 @@
---- og273.txt	2020-02-06 20:51:23.000000000 -0800
-+++ kb280.txt	2020-02-06 20:51:29.000000000 -0800
+--- og273.txt	2020-02-06 21:11:51.000000000 -0800
++++ kb280.txt	2020-02-06 21:11:57.000000000 -0800
 @@ -13,7 +13,7 @@
  i
  your
@@ -59,19 +59,16 @@
  mind
  yeah
  but
-@@ -105,11 +102,8 @@
+@@ -105,9 +102,6 @@
  empty
  sheets
  between
--bit’s
--we’re
--i’ve
+-bits
+-were
+-ive
  stopped
--you’re
-+youre
+ youre
  tears
- ducts
- rust
 @@ -121,7 +115,6 @@
  collecting
  dust

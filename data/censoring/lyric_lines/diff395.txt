@@ -1,5 +1,5 @@
---- og384.txt	2020-02-06 20:51:24.000000000 -0800
-+++ kb395.txt	2020-02-06 20:51:29.000000000 -0800
+--- og384.txt	2020-02-06 21:11:52.000000000 -0800
++++ kb395.txt	2020-02-06 21:11:57.000000000 -0800
 @@ -11,7 +11,7 @@
  nothing
  without
@@ -9,12 +9,7 @@
  after
  everything
  youve
-@@ -23,21 +23,20 @@
- strong
- have
- become
--’cause
-+cause
+@@ -27,17 +27,16 @@
  brought
  the
  flames
@@ -36,15 +31,6 @@
  all
  truth
  could
-@@ -52,7 +51,7 @@
- hope
- youre
- somewhere
--prayin’
-+prayin
- prayin
- your
- soul
 @@ -80,52 +79,3 @@
  best
  yet
@@ -61,16 +47,16 @@
 -found
 -a
 -strength
--i’ve
+-ive
 -never
 -known
--i’ll
+-ill
 -bring
 -thunder
 -rain
 -ohoh
 -when
--i’m
+-im
 -finished
 -they
 -wont

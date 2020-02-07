@@ -1,59 +1,25 @@
---- og79.txt	2020-02-06 20:51:22.000000000 -0800
-+++ kb87.txt	2020-02-06 20:51:28.000000000 -0800
-@@ -2,16 +2,16 @@
+--- og79.txt	2020-02-06 21:11:50.000000000 -0800
++++ kb87.txt	2020-02-06 21:11:56.000000000 -0800
+@@ -2,7 +2,7 @@
  there
  done
  that
 -messed
 +jumped
  around
--i’m
-+im
+ im
  having
- fun
--don’t
-+dont
- put
- me
- down
--i’ll
-+ill
- never
- let
- you
-@@ -20,20 +20,21 @@
- my
- feet
- i
--won’t
-+wont
- in
- again
- the
- messages
--i’ve
-+ive
+@@ -29,7 +29,8 @@
  tried
  to
  send
--information’s
+-informations
 +information
 +is
  just
  not
  going
--burnin’
-+burnin
- bridges
- shore
- break
-@@ -45,53 +46,49 @@
- on
- love
- until
--it’s
-+its
- cheap
+@@ -50,23 +51,21 @@
  this
  time
  baby
@@ -79,10 +45,8 @@
  come
  out
  play
- are
- hurt
--there’s
-+theres
+@@ -75,23 +74,21 @@
+ theres
  certain
  things
 -that
@@ -94,8 +58,7 @@
 -tick
 +tic
  watch
--life’s
-+lifes
+ lifes
  short
  for
  stop

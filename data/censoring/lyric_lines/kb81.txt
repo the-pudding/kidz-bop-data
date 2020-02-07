@@ -44,7 +44,7 @@ is
 part
 when
 say
-don’t
+dont
 im
 stronger
 than

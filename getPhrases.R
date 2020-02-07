@@ -38,7 +38,7 @@ getCensoredPhrases <- function(fileName){
   minus = lapply(tryThis2, function(x){grep("-", x)})
   
   seqInfo = lapply(minus,seqle)
-browser()
+#browser()
 
   censored = mapply(phrase_helper, seqInfo, tryThis2, SIMPLIFY = F)
   
@@ -52,3 +52,36 @@ testitout2=getCensoredPhrases("diff401.txt")  ## works for one word now, woo
 
 ## the empty one is addition only, deal with later
 
+diffFiles = grep("diff",list.files(),value=T)
+diffFiles = diffFiles[-length(diffFiles)] ## NA
+
+diffFiles2= gsub("diff","",diffFiles)
+diffFiles2= gsub(".txt","",diffFiles2)
+
+#cp = lapply(diffFiles,getCensoredPhrases)
+
+cp = vector("list",length(diffFiles))
+for(i in 1:length(diffFiles)){
+  
+    cp[[i]]=tryCatch(getCensoredPhrases(diffFiles[i]),error=function(e){NA})
+  
+    cp[[i]][unname(which(unlist(lapply(cp[[i]],length))==0))]=NA
+
+  print(i)
+}
+
+
+
+which(is.na(cp)) %>% length() ## 13, ok fine, figure out later
+
+isthisright=cp[-which(is.na(cp))]
+
+
+allCensoredTrack = cbind.data.frame(song = unname(unlist(isthisright)), kbID = rep(diffFiles2[-which(is.na(cp))], times = unlist(lapply(isthisright, function(x){length(unlist(x))}))))
+
+
+tryThis = merge(allCensoredTrack,crosswalk,by.x="kbID", by.y="kb_idx",all.x=T)
+
+setwd("~/Desktop/kidz-bop-data")
+write.csv(tryThis, "data/censoring/setdiffPhrases.csv",row.names = F)
+## woo down to 6469

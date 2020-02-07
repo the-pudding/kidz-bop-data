@@ -1,19 +1,10 @@
---- og655.txt	2020-02-06 20:51:24.000000000 -0800
-+++ kb390.txt	2020-02-06 20:51:29.000000000 -0800
-@@ -15,7 +15,7 @@
- enough
- guess
- considering
--everythings
-+everything’s
- a
- mess
- theres
+--- og655.txt	2020-02-06 21:11:52.000000000 -0800
++++ kb390.txt	2020-02-06 21:11:57.000000000 -0800
 @@ -34,6 +34,7 @@
  ill
  just
  drive
-+it’s
++its
  colder
  than
  it
@@ -90,10 +81,9 @@
  afternoon
  pinch
  me
--im
--still
 +cause
-+i’m
+ im
+-still
  asleep
  please
  god
@@ -110,8 +100,7 @@
  car
  leave
  town
--wholl
-+who’ll
+ wholl
  notice
 +im
  not

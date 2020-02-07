@@ -1,5 +1,5 @@
---- og670.txt	2020-02-06 20:51:24.000000000 -0800
-+++ kb440.txt	2020-02-06 20:51:29.000000000 -0800
+--- og670.txt	2020-02-06 21:11:52.000000000 -0800
++++ kb440.txt	2020-02-06 21:11:57.000000000 -0800
 @@ -1,8 +1,8 @@
  all
  the
@@ -18,8 +18,7 @@
  just
  broke
 -up
--i’m
-+im
+ im
  doing
  my
  own
@@ -48,9 +47,8 @@
  him
  he
 -me
--don’t
 +into
-+dont
+ dont
  pay
  any
 -attention
@@ -64,8 +62,7 @@
  good
  years
 -years
--can’t
-+cant
+ cant
  be
  mad
  at
@@ -150,7 +147,7 @@
 +i
  prefer
 -deserve
--here’s
+-heres
 -makes
 -me
 +deserveits
@@ -169,14 +166,12 @@
 +beyondhold
 +armssay
  one
--don’t
--you’ll
--alone
+-dont
 +want
-+youll
+ youll
+-alone
 +alonefell
  ghost
--i’ll
-+ill
+ ill
  gone
 +onif

@@ -1,5 +1,5 @@
---- og285.txt	2020-02-06 20:51:23.000000000 -0800
-+++ kb295.txt	2020-02-06 20:51:29.000000000 -0800
+--- og285.txt	2020-02-06 21:11:51.000000000 -0800
++++ kb295.txt	2020-02-06 21:11:57.000000000 -0800
 @@ -1,5 +1,3 @@
 -mmmm
 -mmmmm
@@ -53,10 +53,9 @@
 -you
  listen
  true
--beauty’s
+ beautys
 -description;
 -look
-+beautys
 +description
 +looks
  so

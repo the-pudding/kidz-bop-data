@@ -1,5 +1,5 @@
---- og548.txt	2020-02-06 20:51:24.000000000 -0800
-+++ kb585.txt	2020-02-06 20:51:29.000000000 -0800
+--- og548.txt	2020-02-06 21:11:53.000000000 -0800
++++ kb585.txt	2020-02-06 21:11:57.000000000 -0800
 @@ -13,8 +13,6 @@
  an
  open
@@ -9,30 +9,9 @@
  how
  did
  read
-@@ -23,7 +21,7 @@
- wrong
- and
- now
--it’s
-+its
- clear
- to
- me
-@@ -31,7 +29,7 @@
- everything
- you
- see
--ain’t
-+aint
- always
- what
- it
-@@ -43,29 +41,28 @@
- knew
- then
+@@ -45,27 +43,26 @@
  know
--wouldn’t
-+wouldnt
+ wouldnt
  dive
 -in
  bow

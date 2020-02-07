@@ -1,5 +1,5 @@
---- og512.txt	2020-02-06 20:51:24.000000000 -0800
-+++ kb539.txt	2020-02-06 20:51:29.000000000 -0800
+--- og512.txt	2020-02-06 21:11:53.000000000 -0800
++++ kb539.txt	2020-02-06 21:11:57.000000000 -0800
 @@ -1,6 +1,6 @@
  theres
  times
@@ -67,7 +67,7 @@
 -burnin
 +burning
  anytime
--you’re
+-youre
  around
  body
  keeps
@@ -77,7 +77,7 @@
  kisses
  sweet
  romancin
--there’s
+-theres
 -another
 +anotha
  side
@@ -99,7 +99,7 @@
  baby
 +oh
  that
--i’m
+-im
  sure
  over
  again

@@ -1,5 +1,5 @@
---- og612.txt	2020-02-06 20:51:23.000000000 -0800
-+++ kb216.txt	2020-02-06 20:51:29.000000000 -0800
+--- og612.txt	2020-02-06 21:11:51.000000000 -0800
++++ kb216.txt	2020-02-06 21:11:56.000000000 -0800
 @@ -1,10 +1,8 @@
  we
 -could
@@ -13,16 +13,7 @@
  undercover
  wait
  out
-@@ -20,7 +18,7 @@
- streets
- are
- empty
--that’s
-+thats
- run
- everyday
- people
-@@ -42,27 +40,24 @@
+@@ -42,7 +40,7 @@
  kind
  can
  anything
@@ -30,10 +21,8 @@
 +could
  heroes
  and
--anybody’s
-+anybodys
- power
- they
+ anybodys
+@@ -51,18 +49,15 @@
  dont
  see
  it

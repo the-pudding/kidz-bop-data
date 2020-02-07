@@ -1,5 +1,5 @@
---- og76.txt	2020-02-06 20:51:22.000000000 -0800
-+++ kb83.txt	2020-02-06 20:51:28.000000000 -0800
+--- og76.txt	2020-02-06 21:11:50.000000000 -0800
++++ kb83.txt	2020-02-06 21:11:56.000000000 -0800
 @@ -1,12 +1,3 @@
 -lacigam
 -gnihtemos
@@ -13,7 +13,7 @@
  some
  days
  things
-@@ -36,23 +27,24 @@
+@@ -36,19 +27,20 @@
  tell
  me
  to
@@ -21,8 +21,7 @@
 +elevate
  feel
  blood
--runnin
-+runnin’
+ runnin
  swear
  skys
  fallin
@@ -39,11 +38,6 @@
  time
  goes
  by
--cant
-+can’t
- control
- mind
- dont
 @@ -65,8 +57,10 @@
  breathin
  oh
@@ -51,8 +45,8 @@
 -keep
  on
 +on
-+breathin’
-+breathin’
++breathin
++breathin
  sometimes
  its
  hard
@@ -67,7 +61,7 @@
  your
  face
 +runnin
-+sky’s
++skys
 +mmm
 +cant
  breathin

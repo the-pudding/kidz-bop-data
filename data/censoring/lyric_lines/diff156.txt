@@ -1,5 +1,5 @@
---- og149.txt	2020-02-06 20:51:23.000000000 -0800
-+++ kb156.txt	2020-02-06 20:51:29.000000000 -0800
+--- og149.txt	2020-02-06 21:11:51.000000000 -0800
++++ kb156.txt	2020-02-06 21:11:56.000000000 -0800
 @@ -1,79 +1,152 @@
 -i
 -keep
@@ -53,7 +53,7 @@
 +like
 +a
 +zombie
-+goin’
++goin
 +life
 +back
 +life
@@ -99,7 +99,7 @@
 +tonight
 +dj
 +us
-+fallin’
++fallin
 +love
 +again
  yeah
@@ -153,8 +153,8 @@
 +put
 +swear
 +before
-+’cause
-+it’s
++cause
++its
 +usher
 +dont
 +lie
@@ -171,7 +171,7 @@
 +catch
 +that
 +to
-+that’s
++thats
 +how
 +roll
 +movie

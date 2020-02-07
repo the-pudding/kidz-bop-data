@@ -1,5 +1,5 @@
---- og105.txt	2020-02-06 20:51:22.000000000 -0800
-+++ kb113.txt	2020-02-06 20:51:28.000000000 -0800
+--- og105.txt	2020-02-06 21:11:50.000000000 -0800
++++ kb113.txt	2020-02-06 21:11:56.000000000 -0800
 @@ -1,28 +1,18 @@
  come
  on
@@ -27,11 +27,11 @@
 -ah
 -on
  on
-+i’ve
++ive
  an
  invitation
  keep
-@@ -31,12 +21,11 @@
+@@ -31,7 +21,6 @@
  all
  night
  long
@@ -39,12 +39,6 @@
  know
  so
  baby
- pretend
--wont
-+won’t
- guessing
- if
- will
 @@ -47,15 +36,14 @@
  that
  game
@@ -80,7 +74,7 @@
  but
  cant
  help
-@@ -87,23 +72,19 @@
+@@ -87,12 +72,6 @@
  when
  put
  hands
@@ -90,11 +84,10 @@
 -oh
 -its
 -paradise
--its
-+it’s
+ its
  paradise
  and
- get
+@@ -100,10 +79,12 @@
  close
  tight
  one
@@ -102,8 +95,8 @@
 +one
  all
 -crazy
-+don’t
-+’cause
++dont
++cause
  tonight
 +we
  could
@@ -118,7 +111,7 @@
  never
  been
  more
-+i’m
++im
  sure
 +its
  real

@@ -1,8 +1,7 @@
---- og199.txt	2020-02-06 20:51:23.000000000 -0800
-+++ kb208.txt	2020-02-06 20:51:29.000000000 -0800
+--- og199.txt	2020-02-06 21:11:51.000000000 -0800
++++ kb208.txt	2020-02-06 21:11:56.000000000 -0800
 @@ -1,8 +1,8 @@
--puttin
-+puttin’
+ puttin
  my
 -defenses
 +defences
@@ -10,7 +9,7 @@
 -cause
 +‘cause
  i
- don’t
+ dont
  wanna
 @@ -26,7 +26,7 @@
  the
@@ -31,7 +30,7 @@
  nervous
 -that
  just
- can’t
+ cant
  hold
 @@ -79,11 +78,10 @@
  hand
@@ -65,12 +64,12 @@
 +got
  lost
  lungs
- they’re
+ theyre
 @@ -130,7 +127,6 @@
  else
  blame
  scared
--i’ll
+-ill
  take
  off
  run

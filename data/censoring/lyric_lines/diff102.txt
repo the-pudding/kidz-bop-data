@@ -1,5 +1,5 @@
---- og93.txt	2020-02-06 20:51:22.000000000 -0800
-+++ kb102.txt	2020-02-06 20:51:28.000000000 -0800
+--- og93.txt	2020-02-06 21:11:50.000000000 -0800
++++ kb102.txt	2020-02-06 21:11:56.000000000 -0800
 @@ -1,209 +1,64 @@
 -i
 +and
@@ -33,7 +33,7 @@
 -geumnam
 -chungjang
 -street
--that’s
+-thats
 -my
 -harlem
 -joined
@@ -61,7 +61,7 @@
 -measured
 -by
 -dance
--i’m
+-im
 -okay
 -grand
 -vision
@@ -106,7 +106,7 @@
 -cash
 -hope
 -now
--it’s
+-its
 -way
 -becky
 -g
@@ -121,7 +121,7 @@
 -so
 -em
 -know
--what’s
+-whats
 -up
 -ooh
 -no
@@ -162,7 +162,7 @@
 -will
 -tell
 -what
--i’ve
+-ive
 -already
 -seen
 -huh
@@ -170,7 +170,7 @@
  was
 -born
 -they
--didn’t
+-didnt
 -think
 -woman
 -stand
@@ -255,4 +255,4 @@
 -yo
 -rain
 -more
--let’s
+-lets

@@ -1,5 +1,5 @@
---- og120.txt	2020-02-06 20:51:22.000000000 -0800
-+++ kb128.txt	2020-02-06 20:51:28.000000000 -0800
+--- og120.txt	2020-02-06 21:11:51.000000000 -0800
++++ kb128.txt	2020-02-06 21:11:56.000000000 -0800
 @@ -20,7 +20,7 @@
  you
  patient
@@ -17,7 +17,7 @@
  tried
  every
  remedy
-@@ -40,17 +41,17 @@
+@@ -40,7 +41,7 @@
  seems
  work
  for
@@ -25,11 +25,8 @@
 +me
  baby
  this
--situation’s
-+situations
- driving
- crazy
- really
+ situations
+@@ -50,7 +51,7 @@
  wanna
  be
  your
@@ -55,9 +52,9 @@
 -tell
 -me
 -heart
--it’s
+-its
 -damaged
--don’t
+-dont
 -damaged
 +h
 +e
@@ -68,7 +65,7 @@
 +m
 +g
  challenge
--it’s
+-its
 -type
 -of
 -pain

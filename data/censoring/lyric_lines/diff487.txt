@@ -1,10 +1,10 @@
---- og685.txt	2020-02-06 20:51:24.000000000 -0800
-+++ kb487.txt	2020-02-06 20:51:29.000000000 -0800
+--- og685.txt	2020-02-06 21:11:52.000000000 -0800
++++ kb487.txt	2020-02-06 21:11:57.000000000 -0800
 @@ -12,7 +12,6 @@
  im
  sorry
  yeah
--i’m
+-im
  sorry
  bad
  at
@@ -21,17 +21,17 @@
 -move
 -be
 -happy
--what’s
+-whats
 -hand
 -your
 -to
 -hold
--don’t
+-dont
 -living
 -for
 -if
 -ive
--ain’t
+-aint
  hearts
 -ooooh
 +like

@@ -1,5 +1,5 @@
---- og374.txt	2020-02-06 20:51:23.000000000 -0800
-+++ kb385.txt	2020-02-06 20:51:29.000000000 -0800
+--- og374.txt	2020-02-06 21:11:52.000000000 -0800
++++ kb385.txt	2020-02-06 21:11:57.000000000 -0800
 @@ -1,10 +1,6 @@
  party
  rock
@@ -91,7 +91,7 @@
 -oprah
 -dough
 -yo!
--i’m
+-im
 -running
 +out
 +door
@@ -106,9 +106,8 @@
  halo
 -rock!
 -yeah
--that’s
 +yea!
-+thats
+ thats
  crew
  reppin
  rise
@@ -138,8 +137,7 @@
  cash
  get
 -money
--don’t
-+dont
+ dont
  mad
  now
 -stop
@@ -159,7 +157,7 @@
  please
  fill
  cup
--don’t
+-dont
  mess
 -around!
 -you

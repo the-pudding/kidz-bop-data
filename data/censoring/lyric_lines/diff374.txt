@@ -1,13 +1,12 @@
---- og359.txt	2020-02-06 20:51:23.000000000 -0800
-+++ kb374.txt	2020-02-06 20:51:29.000000000 -0800
-@@ -1,18 +1,16 @@
+--- og359.txt	2020-02-06 21:11:52.000000000 -0800
++++ kb374.txt	2020-02-06 21:11:57.000000000 -0800
+@@ -1,11 +1,9 @@
  oh
 -oh
 -uhohohoh
 -eh
--its
 +yeah
-+it’s
+ its
  a
  little
 -blurry
@@ -15,14 +14,6 @@
  how
  the
  whole
- thing
- started
- i
--dont
-+don’t
- even
- really
- know
 @@ -28,84 +26,74 @@
  make
  me
@@ -34,10 +25,9 @@
  so
 -down
  next
--im
+ im
 -in
 -hotel
-+i’m
 +laying
 +out
 +there
@@ -65,8 +55,7 @@
  mess
 -love
  truth
--shouldnt
-+shouldn’t
+ shouldnt
  say
 +but
  why
@@ -97,8 +86,7 @@
 -bet
 +liked
  bet
--thats
-+that’s
+ thats
  keep
  thinking
  shame

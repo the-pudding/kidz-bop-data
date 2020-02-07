@@ -74,7 +74,7 @@ money
 oprah
 dough
 yo!
-i’m
+im
 running
 through
 these
@@ -88,7 +88,7 @@ no
 halo
 rock!
 yeah
-that’s
+thats
 crew
 reppin
 rise
@@ -116,7 +116,7 @@ this
 cash
 get
 money
-don’t
+dont
 mad
 now
 stop
@@ -133,7 +133,7 @@ round!
 please
 fill
 cup
-don’t
+dont
 mess
 around!
 you

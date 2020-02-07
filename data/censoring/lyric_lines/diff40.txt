@@ -1,5 +1,5 @@
---- og575.txt	2020-02-06 20:51:22.000000000 -0800
-+++ kb40.txt	2020-02-06 20:51:28.000000000 -0800
+--- og575.txt	2020-02-06 21:11:50.000000000 -0800
++++ kb40.txt	2020-02-06 21:11:56.000000000 -0800
 @@ -1,14 +1,13 @@
  took
  you
@@ -17,24 +17,6 @@
  cold
  evenin
  let
-@@ -17,7 +16,7 @@
- water
- down
- how
--i’m
-+im
- feelin
- about
- feelin
-@@ -37,7 +36,7 @@
- gotta
- convince
- myself
--don’t
-+dont
- want
- it
- even
 @@ -61,10 +60,9 @@
  true
  wanna
@@ -47,12 +29,8 @@
  close
  someone
  else
-@@ -78,27 +76,24 @@
- if
- all
- again
--i’d
-+id
+@@ -81,9 +79,8 @@
+ id
  go
  back
 +go
@@ -62,15 +40,11 @@
  never
  got
  right
--playin’
-+playin
- replayin
- old
- conversations
+@@ -94,11 +91,9 @@
  overthinkin
  hate
  cause
--it’s
+-its
  me
  cause
  me

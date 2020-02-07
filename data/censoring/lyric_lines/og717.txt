@@ -35,7 +35,7 @@ me
 what
 to
 do
-didn’t
+didnt
 true
 nice
 gave
@@ -50,10 +50,10 @@ like
 were
 a
 miser
-i’ll
+ill
 admit
 it
-wasn’t
+wasnt
 very
 smart
 so
@@ -62,7 +62,7 @@ out
 find
 myself
 guy
-that’s
+thats
 much
 wiser
 way

@@ -13,8 +13,9 @@ seqle <- function(x,incr=1) {
 } 
 
 phrase_helper <- function(seqINFO, lyricBlock){
-  start = seqINFO$values[which(seqINFO$lengths>1)]
-  end = seqINFO$values[which(seqINFO$lengths>1)]+seqINFO$lengths[which(seqINFO$lengths>1)]-1
+  #browser()
+  start = seqINFO$values[which(seqINFO$lengths>=1)]
+  end = seqINFO$values[which(seqINFO$lengths>=1)]+seqINFO$lengths[which(seqINFO$lengths>=1)]-1
   
   toReturn =  lapply(mapply(function(x,y){lyricBlock[x:y]},start, end, SIMPLIFY = F), function(x){paste(as.character(x),collapse = " ")}) %>% unlist()
   
@@ -26,7 +27,7 @@ phrase_helper <- function(seqINFO, lyricBlock){
 
 getCensoredPhrases <- function(fileName){
   test = read.delim(fileName,header = F)
-  
+  test = test[-c(1,2),]
   #https://stackoverflow.com/questions/25411653/how-do-i-split-a-vector-into-a-list-of-vectors-when-a-condition-is-met/25411832
   tryThis = split(test[,1], cumsum(1:length(test[,1]) %in% grep("@", test[,1])))
   
@@ -37,7 +38,7 @@ getCensoredPhrases <- function(fileName){
   minus = lapply(tryThis2, function(x){grep("-", x)})
   
   seqInfo = lapply(minus,seqle)
-
+browser()
 
   censored = mapply(phrase_helper, seqInfo, tryThis2, SIMPLIFY = F)
   
@@ -45,5 +46,9 @@ return(censored)
   
 }
 
-testitout=getCensoredPhrases("diff550.txt") ## ok but now doesn't single words
+testitout=getCensoredPhrases("diff550.txt") 
+
+testitout2=getCensoredPhrases("diff401.txt")  ## works for one word now, woo
+
+## the empty one is addition only, deal with later
 

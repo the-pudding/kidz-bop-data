@@ -1,0 +1,21 @@
+--- og361.txt	2020-02-06 19:31:21.000000000 -0800
++++ kb367.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -59,15 +59,16 @@
+ for
+ now
+ we
+-could
+ stay
+ here
+ while
+-hey
+ cause
+ know
++want
+ see
++your
+ smile
++superman
+ when
+ weak
+ strong

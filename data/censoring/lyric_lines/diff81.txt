@@ -1,0 +1,78 @@
+--- og71.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb81.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -5,7 +5,8 @@
+ take
+ it
+ i
+-shouldve
++should
++have
+ said
+ before
+ tried
+@@ -16,7 +17,6 @@
+ pretend
+ anymore
+ only
+-wanna
+ die
+ alive
+ never
+@@ -28,6 +28,7 @@
+ broken
+ heart
+ dont
++wanna
+ hear
+ lie
+ tonight
+@@ -43,7 +44,7 @@
+ part
+ when
+ say
+-ya
++don’t
+ im
+ stronger
+ than
+@@ -59,21 +60,21 @@
+ deeper
+ was
+ under
+-your
+ spell
+-yeah
+ like
+ deadly
+-fever
+-yeah
++fear
++am
+ babe
+ on
+ highway
+ hell
+-more
++our
++love
+ baby
+-ooh-ooh-ooh
++oooh
+ thought
++your
+ body
+ came
+ lethal
+@@ -87,9 +88,6 @@
+ but
+ woke
+ up
+-every
+-time
+-ooh
+-ooh-ooh-ooh-ooh
+-this
+-is
++and
++oh
++baby

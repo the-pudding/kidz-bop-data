@@ -1,0 +1,95 @@
+--- og471.txt	2020-02-06 19:31:21.000000000 -0800
++++ kb497.txt	2020-02-06 19:31:27.000000000 -0800
+@@ -14,18 +14,17 @@
+ loved
+ ones
+ or
+-love
++grab your dance
+ partner
+ and
+-if
+-youre
++if youre
+ by
+ yourself
+ no
+ worries
+-follow
+-after
++follow after
+ me
++yeah
+ gon
+ do
+ the
+@@ -41,6 +40,7 @@
+ hoedown
+ into
+ it
++uh
+ woo-hoo-hoo
+ take
+ left
+@@ -54,21 +54,23 @@
+ put
+ hips
+ in
++woo-hoo-hoo
+ lets
+ have
+ some
+ fun
++uh
+ left
+ to
+ left
+ right
+ right
+ hand
+-uh
+ on
+ side
+ put
+ side
++go
+ roll
+ shoulders
+ roll
+@@ -88,20 +90,16 @@
+ its
+ time
+ shine
+-simple
+-can
++woo
+ left
+ right
+ cool
+ down
+-hoo
++woo
+ good
+-yeah
+ butterfly
+-oh
+ round
+ round
+-go
+ show
+ floor
+ now
+@@ -117,7 +115,6 @@
+ here
+ get
+ down
+-woo-hoo-hoo
+ that
+ was
+ not
+@@ -126,3 +123,5 @@
+ was
+ that
+ it
++hey
++uh

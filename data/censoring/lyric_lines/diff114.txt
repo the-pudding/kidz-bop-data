@@ -1,0 +1,97 @@
+--- og106.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb114.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -1,8 +1,8 @@
+-uh-huh
++uh
++huh
+ lifes
+ like
+ this
+-uh-huh
+ thats
+ the
+ way
+@@ -11,8 +11,9 @@
+ cause
+ chill
+ out
+-whatcha
+-yelling
++what
++you
++yellin
+ for
+ lay
+ back
+@@ -23,7 +24,6 @@
+ before
+ and
+ if
+-you
+ could
+ only
+ let
+@@ -50,11 +50,9 @@
+ round
+ everyone
+ watchin
+-back
+ cant
+ relax
+ tryin
+-be
+ cool
+ look
+ a
+@@ -68,28 +66,23 @@
+ so
+ complicated
+ actin
+-else
+ gets
+ frustrated
+-this
+ fall
+ crawl
+ break
+ take
+-what
+ get
+-turn
++turnin
+ into
+-honesty
+-promise
+-me
++honestly
++promised
+ im
+ never
+ gonna
+ find
+ fake
+ no
+-no
+ come
+ over
+ unannounced
+@@ -97,10 +90,10 @@
+ up
+ somethin
+ where
++aint
+ at
+ makin
+ laugh
+-out
+ strike
+ pose
+ off
+@@ -112,5 +105,5 @@
+ anyone
+ no
+ no
+-yellin
+-ay-yeah
++yeah
++yeah

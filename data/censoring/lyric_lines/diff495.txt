@@ -1,0 +1,65 @@
+--- og689.txt	2020-02-06 19:31:21.000000000 -0800
++++ kb495.txt	2020-02-06 19:31:27.000000000 -0800
+@@ -15,12 +15,11 @@
+ it
+ apart
+ and
+-shes
+-takin
+-almost
++hes
++taken
++just
+ that
+-ive
+-got
++had
+ if
+ want
+ ill
+@@ -29,39 +28,35 @@
+ love
+ again
+ baby
++again
+ know
+ the
+ first
+ cut
+ is
+ deepest
+-deepest
+-cause
+ when
+ comes
+-bein
++being
+ lucky
+ cursed
+-lovin
++loving
+ me
+ worst
+-loved
+-thats
+-how
+ still
+ want
+ by
+ side
+-just
+ help
+ me
+ dry
+ tears
++ive
+ cried
+ im
+ sure
+ gonna
+ give
+ a
+-again
+-know
++oh
++cause

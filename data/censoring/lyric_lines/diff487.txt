@@ -1,0 +1,57 @@
+--- og685.txt	2020-02-06 19:31:21.000000000 -0800
++++ kb487.txt	2020-02-06 19:31:27.000000000 -0800
+@@ -12,7 +12,6 @@
+ im
+ sorry
+ yeah
+-i’m
+ sorry
+ bad
+ at
+@@ -62,37 +61,20 @@
+ nobody
+ til
+ somebody
+-hope
+-never
+-see
+-the
+-day
+-that
+-move
+-be
+-happy
+-what’s
+-hand
+-your
+-to
+-hold
+-don’t
+-living
+-for
+-if
+-ive
+-ain’t
+ hearts
+-ooooh
++like
+ everything
+ is
+ standing
+ in
+ front
+ of
++that
+ will
++be
+ alright
+ through
++the
+ ups
+ downs
+ baby
+@@ -101,4 +83,3 @@
+ around
+ promise
+ alright
+-right

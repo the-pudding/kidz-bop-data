@@ -1,0 +1,64 @@
+--- og29.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb28.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -10,7 +10,6 @@
+ something
+ inside
+ of
+-you
+ thought
+ that
+ would
+@@ -20,7 +19,8 @@
+ mine
+ look
+ at
+-looking
++you
++lookin
+ me
+ now
+ know
+@@ -44,6 +44,7 @@
+ world
+ youll
+ different
++now
+ helped
+ grow
+ came
+@@ -56,8 +57,9 @@
+ all
+ hope
+ showed
+-checking
++checkin
+ for
++ya
+ youre
+ right
+ on
+@@ -87,14 +89,14 @@
+ mind
+ mean
+ deep
+-inside
+ need
+ show
+ sent
+ above
++hope
+ boy
+ love
+-time
++ya
+ right
+ time
+ angel
+@@ -124,6 +126,6 @@
+ uh
+ huh
+ but
+-boy
++your
+ mine
+ oh

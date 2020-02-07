@@ -1,0 +1,82 @@
+--- og399.txt	2020-02-06 19:31:21.000000000 -0800
++++ kb410.txt	2020-02-06 19:31:27.000000000 -0800
+@@ -20,8 +20,7 @@
+ proud
+ of
+ address
+-torn
+-up
++torn-up
+ town
+ no
+ postcode
+@@ -32,11 +31,11 @@
+ like
+ gold
+ teeth
+-grey
+ goose
+-trippin
++singin
+ bathroom
+-bloodstains
++grass
++stains
+ ball
+ gowns
+ trashin
+@@ -44,14 +43,14 @@
+ room
+ we
+ dont
+-care;
++care
+ were
+ driving
+ cadillacs
+ our
+ dreams
+ everybodys
+-cristal
++ring
+ maybach
+ diamonds
+ your
+@@ -63,12 +62,12 @@
+ leash
+ arent
+ caught
++up
+ love
+ affair
+ well
+ be
+ royals
+-royals
+ it
+ run
+ blood
+@@ -81,11 +80,9 @@
+ us
+ crave
+ different
+-buzz
+ let
+ me
+ ruler
+-ruler
+ you
+ can
+ call
+@@ -119,9 +116,9 @@
+ come
+ from
+ money
+-tigers
++ooh
++ooh
+ oh
+-oh-oh
+ bigger
+ than
+ ever

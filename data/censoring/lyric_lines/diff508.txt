@@ -1,0 +1,62 @@
+--- og485.txt	2020-02-06 19:31:22.000000000 -0800
++++ kb508.txt	2020-02-06 19:31:27.000000000 -0800
+@@ -26,29 +26,29 @@
+ to
+ keep
+ guessing
+-mmmm
+ maybe
+ should
+ stop
+ start
+ confessing
++confessing
+ oh
+ ive
+ been
+ shaking
+ love
+ when
+-you
+-go
+ crazy
++takes
+ all
+ my
+ inhibitions
+ baby
+ theres
+ nothing
+-holdin
++holding
+ back
++you
+ places
+ tear
+ up
+@@ -62,7 +62,7 @@
+ just
+ picture
+ everybody
+-naked
++smiling
+ really
+ doesnt
+ like
+@@ -70,6 +70,7 @@
+ not
+ into
+ hesitation
++holding-
+ if
+ we
+ lost
+@@ -91,8 +92,6 @@
+ stumbled
+ the
+ dark
+-oh
+-whoa
+ feel
+ so
+ free

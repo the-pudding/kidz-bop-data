@@ -1,0 +1,78 @@
+--- og389.txt	2020-02-06 19:31:21.000000000 -0800
++++ kb400.txt	2020-02-06 19:31:27.000000000 -0800
+@@ -6,7 +6,7 @@
+ comfort
+ we
+ have
+-travelled
++traveled
+ land
+ and
+ sea
+@@ -27,10 +27,10 @@
+ would
+ wait
+ forever
+-exalted
++exulted
+ in
+ the
+-scene
++seam
+ am
+ my
+ heart
+@@ -42,21 +42,19 @@
+ take
+ kyoto
+ bay
+-strollin
++strolling
+ so
+ casually
+ different
+ same
+-get
++gave
+ another
+ name
+ switch
+ up
+ batteries
+ if
+-gave
+ chance
+-take
+ it
+ its
+ shot
+@@ -72,9 +70,7 @@
+ shame
+ when
+ you
+-n-n-n-no
+ no
+-ooooh
+ staked
+ out
+ on
+@@ -87,17 +83,14 @@
+ nothings
+ incomplete
+ easy
+-bein
++being
+ sacred
+ simplicity
+ together
+-shake
+ hmmmmmmmmmm
+ hoooooooooo
+ be
++be
+ yeah-e-yeah-e-yeah-e-yeah-e-yeah
+ yeah
+ yeah
+-there’s
+-i’d
+-beee

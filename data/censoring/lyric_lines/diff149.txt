@@ -1,0 +1,97 @@
+--- og143.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb149.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -1,8 +1,3 @@
+-i
+-wont
+-give
+-up
+-up
+ and
+ another
+ one
+@@ -12,27 +7,26 @@
+ oh
+ why
+ can
++i
+ not
+ conquer
+ love
+ might
+-have
+-thought
+-that
++have thought that
+ we
+-were
++were one
+ wanted
+ to
+ fight
+ this
+ war
+-without
+-weapons
++without weapons
+ it
+ it
+ bad
+ but
+ there
++were
+ so
+ many
+ red
+@@ -56,7 +50,6 @@
+ peace
+ ive
+ got
+-a
+ thick
+ skin
+ an
+@@ -67,31 +60,34 @@
+ too
+ sharp
+ like
++a
+ rubber
+ band
+ until
+ pull
+ hard
+-yeah
+ may
+ snap
+ move
+ fast
++wont
+ see
+ fall
+ apart
+ cause
+ will
+ stay
++up
+ through
+ night
+ close
+ my
+ eyes
+ know
++that
+ survive
+ walk
+-fire
++away
+ save
+ life
+ want
+@@ -101,7 +97,3 @@
+ its
+ lose
+ chosen
+-you
+-me
+-no
+-no

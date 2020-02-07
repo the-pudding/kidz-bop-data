@@ -1,0 +1,49 @@
+--- og340.txt	2020-02-06 19:31:21.000000000 -0800
++++ kb350.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -35,8 +35,7 @@
+ save
+ us
+ from
+-our
+-sin
++within
+ it
+ cause
+ stands
+@@ -76,7 +75,7 @@
+ yeah
+ living
+ life
+-cutthroat
++know
+ somebody
+ let
+ see
+@@ -98,15 +97,15 @@
+ we
+ are
+ youth
+-cut
++sing
+ until
+-bleeds
++scream
+ inside
+ peace
+-facing
+ bit
+ truth
+ truth
++a
+ deep
+ me
+ im
+@@ -116,7 +115,7 @@
+ an
+ oath
+ by
+-blood
++palm
+ my
+ hand
+ wont

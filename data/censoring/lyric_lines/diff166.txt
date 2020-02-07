@@ -1,0 +1,220 @@
+--- og602.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb166.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -1,6 +1,84 @@
++drop
++top
++porsche
++porsche
++rollie
++on
++my
++wrist
++wrist
++diamonds
++up
++and
++down
++chain
++aha
++kb
++straight
++stuntin
++cant
++tell
++me
++nothin
++bossed
++i
++changed
++the
++game
++you
++see
++me
++its
++big
++bronx
++boogie
++got
++all
++them
++girls
++shook
++shook
++dance
++moves
++kids
++hooked
++hooked
++went
++from
++dollar
++bills
++now
++we
++poppin
++rubber
++bands
++ha
++come
++sing
++to
++while
++do
++money
++like
++ayy
++flexin
++gram
++hit
++lil
++jon
++okay
++okay
++okay
++oh
++yeah
++drippin
++in
++finesse
++getting
++paid
++ow
+ ooh
+ dont
+-we
+ look
+ good
+ together
+@@ -10,15 +88,16 @@
+ why
+ they
+ watch
+-all
+ night
+ long
+-yeah
++all
++long
+ know
+ well
+ turn
+ heads
+ forever
++forever
+ so
+ tonight
+ im
+@@ -29,49 +108,36 @@
+ when
+ walkin
+ with
+-i
+-the
+ whole
+ room
+ change
+ baby
+ thats
+ what
+-do
+ no
+-my
+-baby
+ play
+ blame
+ it
+-on
+ confidence
+ oh
+-your
+-measurements
++way
+ shut
+-that
+-shit
+-down
++thing
+ sight
+ right
+ out
+ here
+-drippin
+-in
+-finesse
+ make
++no
+ sense
+ it
+-now
+ slow
+-for
+ me
++baby
+ cause
+ love
+-way
+-feels
+-grind
++time
++time
+ our
+ connections
+ magnetic
+@@ -80,46 +146,35 @@
+ can
+ stop
+ us
++tonight
+ fellas
+-grab
+-ladies
++girls
++yeah
+ if
+-lady
+-fine
+-tell
++your
++girl
++is
+ her
+-she
++shes
+ one
+ one
++for
+ life
+ woo
+ ladies
+ fellas
+-and
+ lets
+ this
+ do
+ right
+ youre
+-like
+ mind
+ ow!
+-got
++yeah
+ goin
+ on
++on
+ feel
+-to
+ be
+ us
+ ayy
+-yeah
+-girl
+-hey
+-us
+-ayy
+-feels
+-you
+-we
+-them
+-yeah
+-on

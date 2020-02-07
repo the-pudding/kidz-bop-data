@@ -1,0 +1,180 @@
+--- og212.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb217.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -1,146 +1,88 @@
+ be
+ my
+-woman
++only
+ girl
+ ill
+ your
+-man
++one
++one yo
++yes ill
++your favorite
+ yes
++ill
++ya
+ baby
+ whatever
+-that
++just
+ you
+ tell
+ me
+ when
+-youre
+ ready
+ forever
+-lady
++baby
+ aint
+ ever
+ gotta
+ worry
+ im
+-down
++here
+ for
+ best
+ believe
+ that
+ need
+-provide
++that
++ima
++sing
+ will
+ always
+-have
++hear
+ it
+ on
+ deck
+ keep
+ in
+ check
+-imma
+ let
+-beating
++bang
++the
+ drum
+ like
+ dum
+ di
+ day
+ i
+-like
+-the
+ dirty
+ rhythm
+ play
+ wanna
+-hear
+-calling
++callin
+ name
+ hey
+ mama
++mama
+ ma
+-banging
+-know
+-want
+-worst
+-way
+-yes
++girl
++we
+ do
+ cooking
+ cleaning
+ plus
+-na-na
++music
+ real
+-sweet
+-eating
++loud
++singing
++well
+ boss
+-and
++yes
+ respecting
++whatever
+ me
+ cause
+ its
+-game
+-spitting
+-whole
+-crew
+-got
+-juice
+-yo
+-dick
+-truth
+-screams
+-is
+-proof
+-them
+-other
+-dudes
+-get
+-deuce
+-speed
+-coupe
+-leaving
+-this
+-interview
+-nothin
+-new
+-been
+-fuckin
+-with
+-none
+-of
+-bitches
+-taking
+-you
+-just
+-to
+-make
+-a
+-u
+-huh
+-how
+-be
+-come
+-first
+-debuts
+-huh
+-so
+-give
+-word
+-no
+-good
+-bad
+-sure
+-hes
+-getting
+-his
+-share
+-take
+-care
+-toes
+-knees
+-him
+-pleased
+-rub
+-down
+-freak
+-oh
++spinning
++check
++drum
++rythm
++callin

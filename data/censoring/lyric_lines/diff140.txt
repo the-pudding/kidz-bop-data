@@ -1,0 +1,113 @@
+--- og133.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb140.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -1,6 +1,3 @@
+-konvict
+-oh
+-oh-whoa-oh-oh
+ nobody
+ wanna
+ see
+@@ -16,11 +13,12 @@
+ got
+ you
+ babe
+-cause
+ we
+ gon
+ fight
++oh
+ yes
++fight
+ believe
+ for
+ our
+@@ -28,6 +26,7 @@
+ to
+ love
+ yeah
++you
+ thought
+ wed
+ last
+@@ -41,27 +40,27 @@
+ between
+ get
+ better
+-men
++boys
+ steady
+ comin
+ after
+-you
+-women
++the
++girls
+ me
+ seems
+ like
+-everybody
++erybody
+ go
+ self
+ respect
+-boundaries
++boundary
+ tellin
+ all
+ those
+ lies
+ just
+ on
+-yo
++your
+ side
+ must
+ admit
+@@ -74,7 +73,7 @@
+ inside
+ know
+ that
+-try
++tried
+ always
+ apologize
+ ima
+@@ -84,21 +83,20 @@
+ my
+ heart
+ keep
+-satisfied
++by
+ every
+ leave
+ hit
+-the
+ road
+ never
+-talk
+-mo
++call
++more
+ even
+ call
+ check
+ at
++because
+ way
+-ive
+ been
+ actin
+ lately
+@@ -108,7 +106,6 @@
+ especially
+ towards
+ puttin
+-girls
+ before
+ they
+ watchin
+@@ -128,4 +125,3 @@
+ why
+ love
+ baby
+-babe

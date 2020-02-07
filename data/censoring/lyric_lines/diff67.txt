@@ -1,0 +1,90 @@
+--- og61.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb67.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -1,8 +1,6 @@
+-two
+-three
+-four
+-woohoo
+-woohoo
++woo
++hoo
++hoo
+ well
+ my
+ heart
+@@ -43,36 +41,33 @@
+ upon
+ back
+ said
+-"dont
++dont
+ look
+ back
+ just
+ keep
+ on
+-walking"
+-"look
++walking
++when
++looked
+ this
+-way"
+-he
+-"hey
+-lil
++way
++said
++â€½hey
+ lady
+ will
+ you
+ marry
+-me"
++meâ€
+ but
+-"no
++â€½no
+ no
+-no
+-no"
++noâ€
+ youre
+ not
+ one
+ for
+-me"
+-ooh
+-woohoo
++meâ€
+ had
+ problem
+ early
+@@ -88,6 +83,7 @@
+ shouldnt
+ have
+ done
++that
+ wont
+ forgive
+ after
+@@ -107,18 +103,14 @@
+ hole
+ world
+ see
+-yeah
+-not
+ me
+ yeah
+-woohoo
+-no
+ no
++me"
+ cant
+ quite
+ get
+ there
+-cause
+ hearts
+ forsaken
+ yeah

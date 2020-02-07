@@ -1,0 +1,106 @@
+--- og683.txt	2020-02-06 19:31:21.000000000 -0800
++++ kb481.txt	2020-02-06 19:31:27.000000000 -0800
+@@ -9,7 +9,6 @@
+ standing
+ ovation
+ oh
+-wow
+ yeah
+ you
+ look
+@@ -17,6 +16,7 @@
+ dumb
+ right
+ now
++standing
+ outside
+ my
+ house
+@@ -24,7 +24,7 @@
+ to
+ apologize
+ youre
+-ugly
++silly
+ when
+ cry
+ please
+@@ -32,13 +32,13 @@
+ cut
+ it
+ out
+-and
+ dont
+ tell
+ me
+ sorry
+ cause
+ not
++and
+ baby
+ i
+ know
+@@ -50,7 +50,6 @@
+ on
+ quite
+ show
+-uh-oh
+ really
+ had
+ going
+@@ -65,15 +64,13 @@
+ very
+ entertaining
+ over
+-but
+ now
++go
+ take
+ bow
+ grab
+ your
+-clothes
+-get
+-gone
++stuff
+ get
+ gone
+ better
+@@ -83,14 +80,11 @@
+ the
+ sprinklers
+ come
+-come
+-on
+ talking
+-bout
+-"girl
++girl
+ love
+ you
+-one"
++one
+ this
+ looks
+ like
+@@ -99,20 +93,3 @@
+ else
+ is
+ on
+-oh-oh
+-award
+-for
+-best
+-liar
+-goes
+-goes
+-you
+-making
+-believe
+-could
+-be
+-faithful
+-lets
+-hear
+-speech
+-bout

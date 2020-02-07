@@ -1,0 +1,196 @@
+--- og121.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb129.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -1,81 +1,41 @@
+ dance
+ yes
+-redone
+ love
+-next
+-jlo
+-shimmy
+-ya
+-yam
+-yay
+-im
+-a
+-old
+-dirty
+-dog
+-all
+-day
+-no
+-way
+-josé
+-your
+-girl
+-only
+-go
+-one
+-way
+-ay
+-mi
+-madre
+-you
+-should
+-check
+-that
+-out
+-maybe
+-wont
+-turn
+-her
+-its
+-none
+-of
+-my
+-business
+-but
+-for
+-now
+-work
+-it
+-lets
+-get
+-this
+-dale
+ nobody
+ knows
+ what
++im
+ feeling
+ inside
+ i
+ find
++it
+ so
+ stupid
+ why
++should
+ hide
++that
+ love
+ to
+-make
++dance
++next
+ you
+ baby
+ yeah
++come
++with
+ me
+ many
+ ways
+ wanna
+ touch
+ tonight
++a
+ big
+ girl
+ got
++no
+ secrets
+ this
+ time
+@@ -91,8 +51,9 @@
+ lets
+ do
+ it
+-it
++only
+ just
++one
+ life
+ ive
+ learned
+@@ -102,15 +63,15 @@
+ gonna
+ say
+ and
+-dance
+ again
+-baby
++your
+ fire
+ is
+ lighting
+ me
+ up
+ the
++way
+ move
+ boy
+ reason
+@@ -120,70 +81,10 @@
+ oh
+ want
+ much
+-lips
+-taste
++song
+ like
+ heaven
+ stop
++mi
+ mr
+ worldwide
+-worlds
+-most
+-beautiful
+-woman
+-modern
+-hugh
+-hef
+-uh
+-yes
+-playboy
+-death
+-he
+-really
+-worldwide
+-mami
+-let
+-open
+-treasure
+-chest
+-play
+-dates
+-we
+-mates
+-king
+-snatching
+-queens
+-checkmate
+-think
+-rumor
+-moon
+-luna
+-women
+-comfortable
+-call
+-bloomer
+-even
+-show
+-cause
+-theyll
+-sue
+-ya
+-told
+-them
+-hallelujah
+-have
+-blessed
+-day
+-ahead
+-myself
+-everydays
+-yesterday
+-recipe
+-real
+-simple
+-little
+-bit
+-voli
+-shell
+-sesame
+-now

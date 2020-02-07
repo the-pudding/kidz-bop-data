@@ -1,0 +1,157 @@
+--- og297.txt	2020-02-06 19:31:21.000000000 -0800
++++ kb310.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -1,5 +1,5 @@
+ hit
+-me!
++me
+ can
+ you
+ keep
+@@ -7,7 +7,6 @@
+ baby
+ boy
+ make
+-me
+ lose
+ my
+ breath
+@@ -15,29 +14,26 @@
+ the
+ noise
+ hard
+-hah
+-hah
+-oooh!
++ooh
+ i
+ put
+ it
+ right
+ there
+-made
++to
+ easy
+ for
+-to
+ get
+ now
+-wanna
++want
+ act
+ like
+-ya
+ dont
+ know
+ what
+ do
+ after
++had
+ done
+ everything
+ that
+@@ -47,13 +43,13 @@
+ grind
+ liked
+ tried
+-moved
++move
+ so
+ fast
+ cant
+ find
+ im
+-startin
++starting
+ believe
+ way
+ too
+@@ -65,7 +61,7 @@
+ come
+ through
+ them
+-lies
++nights
+ could
+ satisfy
+ see
+@@ -78,15 +74,15 @@
+ two
+ things
+ when
+-tryin
++trying
+ groove
+ is
+ a
+-partna
++partner
++who
+ meets
+ only
+-half
+-and
++halfway
+ just
+ prove
+ take
+@@ -95,6 +91,7 @@
+ swim
+ need
+ lifeguard
++and
+ protection
+ on
+ in
+@@ -102,7 +99,8 @@
+ understand
+ facts
+ give
+-movin
++you
++moving
+ slow
+ have
+ clue
+@@ -110,32 +108,36 @@
+ mama
+ teach
+ affection
++youre
+ difference
+-of
++from
+ man
+ an
+ adolescent
+ aint
+ boo
+-steppin!
++steppin
+ if
+ say
+-oooh
++oh
+ beat
++of
+ this
+ drum
+ why
+ ask
+ some
+ really
+-want
+ none
+-you
+ no
+ business
+ heres
+ your
+ papers
++baby
+ are
+ dismissed
+-dismissed
++on
++with
++me
++boy

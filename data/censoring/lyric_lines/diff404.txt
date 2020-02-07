@@ -1,0 +1,133 @@
+--- og392.txt	2020-02-06 19:31:21.000000000 -0800
++++ kb404.txt	2020-02-06 19:31:27.000000000 -0800
+@@ -12,18 +12,16 @@
+ out
+ got
+ me
+-singin
+-na-na-na-na
++singing
++na
+ everyday
+ its
+-ipod
++ipods
+ stuck
+ on
+ replay
+-replay-ay-ay-ay
+-ayy!
+ replay
+-j-j-j-jr
++ipods
+ remember
+ the
+ first
+@@ -34,13 +32,12 @@
+ was
+ at
+ mall
+-wit
+-yo
++with
++your
+ friend
+ scared
+ to
+ approach
+-ya
+ but
+ then
+ came
+@@ -57,10 +54,9 @@
+ more
+ than
+ friends
+-were
+-real
++are
+ worldwide
+-breaking
++breakin
+ all
+ rules
+ she
+@@ -68,23 +64,20 @@
+ played
+ again
+ and
++that
+ girl
+ somethin
+ off
+ poster
+ is
+-dime
++one
+ they
+ say
+-gun
+-holster
+ shes
+ running
+ through
+ mind
+ day
+-ayy
+-ayy
+ see
+ been
+ around
+@@ -97,45 +90,27 @@
+ phone
+ from
+ night
+-til
++till
+ morn
++girl
+ really
+ changed
+ life
+-doin
++doing
+ things
+ never
+ do
+ im
+ kitchen
+-cookin
++cooking
+ likes
++were
++real
+ someday
+ wanna
+ make
+ wife
+-can
+-your
+-oh
+-could
+-write
+-symphony
+-one
+-fill
+-fantasies
+-so
+-come
+-baby
+-lets
+-sing
+-with
+-ayy
+-girl
+ na
+-na-na
+-na-na
+-na-naa
+ shawty
++singin
+ now
+-like
+-melody

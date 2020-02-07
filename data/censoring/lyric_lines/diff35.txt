@@ -1,0 +1,90 @@
+--- og574.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb35.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -1,10 +1,11 @@
+-no
++now
+ dont
+ just
+ walk
+ away
+ pretending
+-everythings
++every
++things
+ okay
+ and
+ you
+@@ -22,7 +23,7 @@
+ lies
+ become
+ truths
+-yeah
++care
+ yeah
+ could
+ look
+@@ -34,7 +35,6 @@
+ youre
+ happy
+ now
+-ooh
+ would
+ it
+ to
+@@ -45,6 +45,7 @@
+ been
+ erased
+ are
++now
+ took
+ there
+ was
+@@ -54,7 +55,6 @@
+ an
+ empty
+ plate
+-it
+ am
+ giving
+ up
+@@ -63,33 +63,28 @@
+ leaving
+ blame
+ cause
++yeah
+ do
+ really
+ everything
+ want
+-cant
+-ever
++never
+ give
+ something
+ aint
+ got
++cant
+ run
+ from
+ yourself
+-yeah
+-yeah
+-cmon
+-face
++come
++on
+ replaced
+-are
+-now
+-oh
+-oh
+-eye
++ooh
++whoa
+ ive
+ had
+ can
+ im
+ not
+ break
+-now

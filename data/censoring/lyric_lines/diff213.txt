@@ -1,0 +1,83 @@
+--- og205.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb213.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -1,24 +1,16 @@
+-i
+-guess
+-right
+-now
+-youve
+-got
+-the
+-last
+-laugh
+ im
+ sorry
+ if
++i
+ seem
+ uninterested
+ or
+ not
+ listenin
+-or
+ indifferent
+ truly
+ aint
++got
+ no
+ business
+ here
+@@ -69,22 +61,20 @@
+ party
+ ill
+ somewhere
++the
+ corner
+-under
+-clouds
+-of
+-marijuana
++over
++where
++wanna
+ boy
+ whos
+ hollering
+ can
+ hardly
+ hear
+-over
+ music
+ listen
+ and
+-wanna
+ get
+ tell
+ that
+@@ -103,6 +93,7 @@
+ break
+ up
+ out
++of
+ excuse
+ me
+ little
+@@ -146,13 +137,13 @@
+ gossiping
+ her
+ them
++right
+ next
+-throwin
++givin
+ cause
+-he
+-whats
+-his
+-cup
++him
++saying
++stuff
+ more
+ god
+ why

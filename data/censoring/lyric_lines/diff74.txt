@@ -1,0 +1,176 @@
+--- og66.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb74.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -1,27 +1,3 @@
+-it
+-doesnt
+-matter
+-if
+-you
+-love
+-him
+-or
+-capital
+-"h-i-m"
+-m
+-m
+-m
+-just
+-put
+-your
+-paws
+-up
+-cause
+-were
+-born
+-this
+-way
+-baby
+ my
+ mama
+ told
+@@ -30,14 +6,16 @@
+ i
+ was
+ young
+-"we
++we
+ are
+ all
+-superstars"
++born
++superstars
+ she
+ rolled
+ hair
+ and
++put
+ lipstick
+ on
+ in
+@@ -52,6 +30,7 @@
+ with
+ loving
+ who
++you
+ are"
+ said
+ "cause
+@@ -61,6 +40,7 @@
+ babe"
+ "so
+ hold
++your
+ head
+ up
+ girl
+@@ -73,33 +53,27 @@
+ im
+ beautiful
+ way
++cause
+ god
+ makes
+ no
+ mistakes
+ right
+ track
++baby
++this
+ dont
+ hide
+ yourself
+ regret
+-yourself
++just
++love
+ youre
+ set
+-born
+-way
+-ooh
+ there
+ aint
+ other
+-baby
+-be
+-a
+-drag
+-queen
+-dont
+-be
+-be
++born-
+ give
+ prudence
+ friends
+@@ -110,60 +84,38 @@
+ religion
+ insecure
+ must
++be
+ myself
+ respect
+ youth
++a
+ different
+ lover
++viewpoint
+ is
+ not
+ sin
+ believe
++capital
+ h-i-m
+ hey
+ hey
++hey
+ life
+ record
+ mi
+-amore
++more
+ vole
+ fe
+-yah
+-same
+-dna
+-way
+-be
+-church
++yeh
+ whether
+-broke
+-evergreen
+-black
+-white
+-beige
+-cholo
+-descent
+-lebanese
+-orient
+ lifes
+ disabilities
+ left
+ outcast
+ bullied
++or
+ teased
+ today
+-gay
+-straight
+-bi
+-lesbian
+-transgender
+-life
+-survive
+-beige
+-chola
+-brave!
+-yeah
+-same
+-dna
+-but
+-hey
+-hey
++were
++hey!

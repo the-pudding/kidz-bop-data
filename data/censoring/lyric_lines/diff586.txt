@@ -1,0 +1,137 @@
+--- og550.txt	2020-02-06 19:31:22.000000000 -0800
++++ kb586.txt	2020-02-06 19:31:27.000000000 -0800
+@@ -1,24 +1,24 @@
+ he
+ said
+-"lets
++lets
+ get
+ out
+ of
+ this
+ town
+ drive
++the
+ city
+ away
+ from
+-the
+-crowds"
++crowds
+ i
+ thought
+-"heaven
++heaven
+ cant
+ help
+ me
+-now"
++now
+ nothing
+ lasts
+ forever
+@@ -33,11 +33,11 @@
+ and
+ handsome
+ as
+-hell
+-bad
+-does
+-it
+ well
++good
++knows
++it
++too
+ can
+ see
+ end
+@@ -69,27 +69,25 @@
+ your
+ wildest
+ dreams
+-ah-aah
+-haa
+-"no
+-has
+-to
+-know
++oh
++-
++ah
++no
+ what
+ we
+-do"
++went
++through
+ his
+ hands
+ are
+-hair
+-clothes
++air
++looks
++across
+ room
+ voice
+ familiar
+ sound
+-gettin
+-good
+-now
++getting
+ when
+ weve
+ had
+@@ -98,38 +96,29 @@
+ last
+ kiss
+ request
+-ah-aah
+-ah-aah
+-haa
++dress
++e
++you
+ hindsight
+-tangled
+-up
++hanging
+ with
+-you
+ all
+ night
+-burnin
+-someday
++turning
++down
++some
++day
+ leave
+-me
+-id
+ bet
+ these
+ memories
+ follow
+-around
+-burning
+-burning
+-it
+-down
+-ill
+-follow
+-you
+-around
+ follow
+ around
+ pretend
++just
+ pretend
+ pretend
+-ha
+-ah-aah-aah-aah-aah-ha
++ah
++oh
++oh

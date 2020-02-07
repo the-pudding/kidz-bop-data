@@ -1,0 +1,74 @@
+--- og568.txt	2020-02-06 19:31:22.000000000 -0800
++++ kb602.txt	2020-02-06 19:31:27.000000000 -0800
+@@ -8,7 +8,7 @@
+ til
+ day
+ i
+-die"
++fly"
+ surrender
+ my
+ everything
+@@ -26,6 +26,7 @@
+ calling
+ by
+ name
++mmm
+ takes
+ one
+ know
+@@ -34,7 +35,7 @@
+ beat
+ at
+ own
+-damn
++big
+ game
+ push
+ and
+@@ -52,13 +53,13 @@
+ of
+ your
+ life
++but
+ just
+ a
+-dead
++sad
+ man
+ walking
+ tonight
+-but
+ need
+ it
+ it
+@@ -83,7 +84,7 @@
+ us
+ gets
+ too
+-drunk
++lost
+ calls
+ about
+ hundred
+@@ -96,15 +97,17 @@
+ could
+ place
+ when
+-you’re
+ looking
+ those
+ strangers
+-hope
+-god
++think
+ see
+ face
++yeah
++ooh
+ running
+ around
+ you
+ mmm
++well
++

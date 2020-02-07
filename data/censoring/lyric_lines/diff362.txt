@@ -1,0 +1,75 @@
+--- og353.txt	2020-02-06 19:31:21.000000000 -0800
++++ kb362.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -9,6 +9,7 @@
+ i
+ wanna
+ be
++in
+ like
+ all
+ the
+@@ -40,12 +41,13 @@
+ out
+ but
+ boy
++like
+ it
+ dont
+ matter
+ how
+ what
+-where
++when
+ who
+ tries
+ out
+@@ -60,15 +62,17 @@
+ down
+ cant
+ stop
++now
++cant
+ shut
+ your
+ mouth
++shut
+ mouth
+ and
+ if
+ you
+ know
+-then
+ now
+ babe
+ babe
+@@ -77,7 +81,7 @@
+ oh
+ just
+ want
+-come
++go
+ with
+ me
+ were
+@@ -86,7 +90,7 @@
+ mentality
+ to
+ cry
+-we
++turnin
+ up
+ they
+ point
+@@ -102,10 +106,8 @@
+ partake
+ this
+ hate
+-stop
++come
+ hmm
+ oh
+-oh-yeah
+-with
+-me
++oh
+ cry

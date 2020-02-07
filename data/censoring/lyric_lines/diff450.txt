@@ -1,0 +1,56 @@
+--- og430.txt	2020-02-06 19:31:21.000000000 -0800
++++ kb450.txt	2020-02-06 19:31:27.000000000 -0800
+@@ -9,7 +9,7 @@
+ a
+ girl
+ and
+-married
++happy
+ now
+ your
+ dreams
+@@ -62,6 +62,7 @@
+ me
+ isnt
+ over
++chorus
+ never
+ mind
+ ill
+@@ -72,19 +73,17 @@
+ best
+ you
+ too
+-"dont
++dont
+ forget
+-me"
+-beg
++begged
+ remember
+ said
+-"sometimes
++sometimes
+ lasts
+ in
+ love
+-sometimes
+ hurts
+-instead"
++instead
+ know
+ how
+ time
+@@ -105,6 +104,7 @@
+ surprise
+ glory
+ days
++yet
+ compares
+ no
+ worries
+@@ -121,3 +121,4 @@
+ bittersweet
+ this
+ taste
++x2

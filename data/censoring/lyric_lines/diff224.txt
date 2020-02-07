@@ -1,0 +1,142 @@
+--- og219.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb224.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -1,25 +1,13 @@
+ boom
+ clap
+-d’clap
+-d’clap
+-boom
+-d’
+-try
+-it
+-with
+-me
++de
++clap
+ here
+ we
+ go
+-whoa-oh-oh;
+-thats
+-right!
+-whoa-oh-oh
+-1
+-2
+-3!
+ everybody
+-cmon
++come
++on
+ off
+ your
+ seats
+@@ -30,19 +18,20 @@
+ about
+ a
+ beat
++thats
+ make
+ move
+ feet
+-i’ll
++ill
+ give
+ the
+-bar-b-’cues’
++barbecue
+ show
+ and
+ how
+ to
+ if
+-you’re
++youre
+ 5
+ or
+ 82
+@@ -56,11 +45,12 @@
+ lock
+ polka
+ dot
+-countrify
+-then
+-hip-hop
++country
++fivin
++hip
++hop
+ put
+-hawk
++arms
+ in
+ sky
+ side
+@@ -68,56 +58,51 @@
+ left
+ stick
+ glide
+-zig
+-zag
++zigzag
+ cross
+-flo’
++floor
+ shuffle
+ diagonal
+ when
+ drum
+ hits
+ hands
+-on
+ hips
+ one-footed
+ 180
+ twist
+-zag
++then
++zigzag
+ step
+ slide
+ lean
+-clap
+ three
+ times
+ shake
++it
+ out
+ head
+ toe
+ throw
+ all
+ together
+-that’s
+ roll
+ hoedown
+ throwdown
+ get
+-4
+-5
+-6
+-feelin’
++four
++five
++six
++feelin
+ busted
+ but
+-it’s
++its
+ not
+ time
+ quit
+ practice
+ makes
+ perfect
+-dclap
+-go!
+-dclap
+ dap
+-b-boom
+-together
++roll
++yeah

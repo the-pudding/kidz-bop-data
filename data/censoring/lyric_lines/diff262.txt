@@ -1,0 +1,76 @@
+--- og239.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb262.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -12,7 +12,7 @@
+ right
+ feel
+ so
+-high
++good
+ come
+ alive
+ to
+@@ -20,16 +20,14 @@
+ free
+ with
+ tonight
+-love
+ take
+ a
+ deep
+ breath
+-every
++everytime
+ pass
+ door
+ know
+-youre
+ there
+ but
+ cant
+@@ -39,6 +37,7 @@
+ thats
+ the
+ reason
++youre
+ in
+ dark
+ ive
+@@ -62,7 +61,6 @@
+ do
+ same
+ hold
+-me
+ arms
+ again
+ now
+@@ -70,7 +68,6 @@
+ dreaming
+ will
+ find
+-now
+ walk
+ circles
+ ill
+@@ -79,7 +76,6 @@
+ out
+ what
+ mean
+-you
+ belong
+ try
+ fight
+@@ -90,12 +86,12 @@
+ all
+ years
+ times
+-were
++have
+ blame
+ open
+ heart
+ is
+-closing
++closed
+ tears
+ lies
+ waste

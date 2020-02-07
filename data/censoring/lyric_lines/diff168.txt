@@ -1,0 +1,30 @@
+--- og161.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb168.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -81,9 +81,7 @@
+ hanging
+ by
+ thread
+-when
+ fall
+-asleep
+ door
+ crack
+ please
+@@ -103,7 +101,6 @@
+ far
+ too
+ tired
+-haha
+ weird
+ hate
+ goodbyes
+@@ -127,9 +124,6 @@
+ them
+ in
+ jar
+-jar
+-jar
+-jar
+ because
+ bursting
+ at

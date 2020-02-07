@@ -1,0 +1,42 @@
+--- og288.txt	2020-02-06 19:31:21.000000000 -0800
++++ kb297.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -1,5 +1,5 @@
+ lets
+-go
++go!
+ make
+ no
+ excuses
+@@ -19,26 +19,26 @@
+ what
+ youve
+ done
++youre
+ doing
+ all
+ where
+-youre
+ going
+ matter
+ been
+-hey
++oh!
+ or
+ never
+-ohhh
+-ohhh
+-lets
++oh
+ tomorrows
+ good
+ tonight
+ better
+-there
++girl
++aint
+ right
+ you
+ shine
++good
+ it
+ happen

@@ -1,0 +1,103 @@
+--- og135.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb141.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -1,11 +1,3 @@
+-please
+-dont
+-stop
+-the
+-music
+-music
+-music
+-music
+ its
+ gettin
+ late
+@@ -23,6 +15,7 @@
+ body
+ moving
+ shake
++the
+ stress
+ away
+ wasnt
+@@ -47,16 +40,18 @@
+ like
+ do
+ youre
++makin
+ stayin
+ impossible
+ baby
+-ima
++must
+ say
+ your
+ aura
+ is
+ incredible
+ if
++dont
+ have
+ go
+ know
+@@ -72,22 +67,21 @@
+ on
+ dance
+ floor
+-actin
++acting
+ naughty
+ hands
+ around
+ waist
+ let
++music
+ play
+ hand
+ hand
+ chest
+-chest
+ and
+ face
+ wanna
+ take
+-away
+ lets
+ escape
+ into
+@@ -95,18 +89,17 @@
+ it
+ cant
+ refuse
+-it
+ this
+ keep
+-the
++please
++stop
+ are
+ ready
+-’cause
++cause
+ getting
+ close
+ feel
+ passion
+-ready
+ explode
+ goes
+ between
+@@ -118,6 +111,10 @@
+ private
+ show
+ oh
+-mama-say
+-mama-sa
+-ma-ma-ko-ssa
++lets
++ma
++say
++sa
++coo
++sa
++se

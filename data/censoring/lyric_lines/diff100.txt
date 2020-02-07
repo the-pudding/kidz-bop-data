@@ -1,0 +1,38 @@
+--- og90.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb100.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -17,6 +17,7 @@
+ lay
+ here
+ just
++here
+ would
+ you
+ lie
+@@ -42,6 +43,7 @@
+ theyre
+ not
+ enough
++me
+ what
+ were
+ told
+@@ -62,17 +64,14 @@
+ cars
+ around
+ heads
+-your
+-grace
+-remind
+-find
+-my
++all
+ that
+ am
+ ever
+ was
+ is
+ in
++your
+ perfect
+ eyes
+ can

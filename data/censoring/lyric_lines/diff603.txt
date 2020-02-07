@@ -1,0 +1,57 @@
+--- og567.txt	2020-02-06 19:31:22.000000000 -0800
++++ kb603.txt	2020-02-06 19:31:27.000000000 -0800
+@@ -18,7 +18,7 @@
+ at
+ me
+ on
+-the
++a
+ subway
+ was
+ with
+@@ -32,7 +32,6 @@
+ cause
+ ive
+ got
+-a
+ plan
+ youre
+ beautiful
+@@ -54,7 +53,7 @@
+ never
+ be
+ you
+-yeah
++yes
+ caught
+ eye
+ as
+@@ -64,9 +63,7 @@
+ could
+ see
+ from
+-face
+-was
+-fucking
++flying
+ high
+ think
+ her
+@@ -75,14 +72,12 @@
+ moment
+ will
+ last
+-til
++till
++the
+ end
+-na
+-na
+-na
+-na
+ there
+ must
++angel
+ smile
+ when
+ thought

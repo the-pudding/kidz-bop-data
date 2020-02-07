@@ -1,0 +1,114 @@
+--- og272.txt	2020-02-06 19:31:21.000000000 -0800
++++ kb279.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -1,11 +1,7 @@
+-you
+-ready
+-for
+-me
+ i
+ wanna
+ know
+-your
++you
+ name
+ and
+ if
+@@ -14,6 +10,7 @@
+ i
+ know
+ everything
++ya
+ number
+ can
+ come
+@@ -28,6 +25,7 @@
+ but
+ youre
+ telling
++me
+ im
+ just
+ a
+@@ -43,9 +41,10 @@
+ say
+ say
+ friend
+-cause
++cos
+ be
+-cause
++your
++cos
+ your
+ fantasy
+ in
+@@ -61,6 +60,14 @@
+ yeah
+ girl
+ fantasy
++woah
++woah
++
++fantasy
++but
++friend
++girl
++oh
+ give
+ one
+ reason
+@@ -72,27 +79,32 @@
+ kinda
+ guy
+ stay
+-dipped
++hip
++
+ laced
+-know
+ fly
+ girl
+ stop
+ playing
+ games
+-with
++wit
+ lets
+ get
+ on
+ tonight
++tonight
+ nothing
+ to
+ lose
+ let
++what
++do
+ just
+-girl
+-but
+ 
++can
++fantasy
++come
++girl
+ call
+ anytime
+ anytime
+@@ -114,10 +126,13 @@
+ that
+ feel
+ dont
+-feeling
++feelin
+ tell
+ its
+ real
+ wont
+-help
+-understand
++have
++as
++i
++mariomario
++

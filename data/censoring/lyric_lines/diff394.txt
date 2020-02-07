@@ -1,0 +1,36 @@
+--- og382.txt	2020-02-06 19:31:21.000000000 -0800
++++ kb394.txt	2020-02-06 19:31:27.000000000 -0800
+@@ -1,6 +1,5 @@
+-eh
+-eheu
+-eheu
++eh-eh-o
++eh-o
+ i
+ was
+ left
+@@ -55,7 +54,7 @@
+ before
+ how
+ am
+-going
++gonna
+ be
+ an
+ optimist
+@@ -72,7 +71,7 @@
+ pose
+ as
+ dust
+-settled
++settles
+ around
+ us
+ oh
+@@ -82,6 +81,3 @@
+ rubble
+ or
+ sins
+-oh
+-sins
+-hills

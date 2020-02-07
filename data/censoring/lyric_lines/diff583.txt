@@ -1,0 +1,84 @@
+--- og547.txt	2020-02-06 19:31:22.000000000 -0800
++++ kb583.txt	2020-02-06 19:31:27.000000000 -0800
+@@ -1,6 +1,6 @@
+ i
+ spent
+-20
++many
+ years
+ trying
+ to
+@@ -10,12 +10,12 @@
+ this
+ place
+ was
+-looking
++lookin
+ for
+ something
+ couldnt
+ replace
+-running
++runnin
+ away
+ from
+ the
+@@ -26,6 +26,7 @@
+ known
+ like
+ a
++a
+ blind
+ dog
+ without
+@@ -66,6 +67,7 @@
+ home
+ theres
+ one
++place
+ they
+ call
+ me
+@@ -75,21 +77,17 @@
+ hometown
+ boy
+ born
+-rolling
+-stone
+-back
+-all
++rolling-stone
+ around
++all
+ world
+ as
+ matter
+ fact
+ left
+ want
+-go
+ its
+ alright
+-its
+ alright
+ went
+ far
+@@ -104,7 +102,6 @@
+ lines
+ would
+ erase
+-lived
+ million
+ miles
+ memories
+@@ -124,7 +121,9 @@
+ my
+ streets
+ life
+-thatand
++looking
++back
++long
+ long
+ feels
+ never

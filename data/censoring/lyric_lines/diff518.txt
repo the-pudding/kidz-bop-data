@@ -1,0 +1,391 @@
+--- og492.txt	2020-02-06 19:31:22.000000000 -0800
++++ kb518.txt	2020-02-06 19:31:27.000000000 -0800
+@@ -1,38 +1,27 @@
+-"hey
+-macklemore
+-can
+-we
+-go
+-thrift
+-shopping"
+ what
+ what
+-bada
+-bada
+-doo
+-da
+ im
+ gonna
+-pop
++rock
+ some
+ tags
+ only
+ got
+-20
++twenty
+ dollars
+ in
+ my
+ pocket
+ im
+-huntin
+-lookin
++hunting
++looking
+ for
+ a
+ come
+ up
+ this
+ is
+-fucking
++really
+ awesome
+ now
+ walk
+@@ -41,31 +30,27 @@
+ club
+ like
+ "what
+-up
++up!
+ i
+-big
+-cock"
+-nah
+-just
++hit
++song!"
++so
+ pumped
+ bought
+-shit
++clothes
+ from
++thrift
+ shop
+ ice
+ on
+ fringe
+-so
+-damn
+ frosty
+ people
+-"damn
+-thats
+-cold
+-ass
+-honkey"
+-rollin
+-hella
++“hey
++guy
++marquee!”
++rolling
++super
+ deep
+ headed
+ to
+@@ -73,7 +58,7 @@
+ dressed
+ all
+ pink
+-cept
++except
+ gator
+ shoes
+ those
+@@ -83,7 +68,7 @@
+ leopard
+ mink
+ girl
+-standin
++standing
+ next
+ me
+ probably
+@@ -91,45 +76,47 @@
+ washed
+ this
+ smells
+-like
+-r
+-kelly
+-sheets
+-piss
++baseball
++cleats
++ewwwwww
+ but
+-shit
++hey
+ it
+ was
+ 99
+ cents!
+-fuck
++bag
+ it
+-coppin
++poppin
+ washin
+-bout
++‘bout
++go
+ and
+ get
+ compliments
+-passin
++passing
++up
+ moccasins
+ someone
+ else
+ has
+ been
+-walkin
++walking
+ bummy
+ grungy
++wear
+ man
+ am
+ stunting
+-flossin
++flossing
+ saving
+ money
+-happy;
++i’m
++happy
+ that’s
+ bargain
+-bitch
+-ima
++yeah
++i’ma
+ take
+ your
+ grandpas
+@@ -139,172 +126,164 @@
+ real
+ ask
+ grandpa
++"can
+ have
+ his
+-hand-me-downs
++hand-me-downs"
+ thank
+ you!
+ velour
+ jumpsuit
+ house
+ slippers
+-dookie
++chocolate
+ brown
+ leather
+ jacket
+ that
+ found
+-diggin
++digging
+ they
+ had
+ broken
+ keyboard
+ keyboard
+-skeet
++old
+ blanket
+ then
+ knee
+ board
+ hello
+ ace
+-mellow
++fellow
+ john
+ wayne
+-aint
++ain’t
+ nothing
+ game
+-hell
+-no
++oh
+ could
+ pro
+ wings
+ make
+-em
++them
+ cool
+ sell
+ sneaker
+ heads
+ would
+ be
+-"ah
++“ah
+ he
+-velcros"
++velcros”
+ you
+ know
+ about
+-rockin
++rocking
+ wolf
+ noggin
+-knowin
+-wearin
++knowing
++wearing
+ fur
+ fox
+ skin
+-diggin
+-searchin
++digging
++searching
+ right
+ through
+ luggage
+ one
+-mans
++man’s
+ trash
+ another
+ thank
+ granddad
+-donatin
++donating
+ plaid
+ button-
+ shirt
+ cause
+ now
+-hurr
++here
+ stuntin
+ at
+ goodwill
++can
+ find
+ bins
+ not
+ not
+ stuck
++searchin
+ section
+ mens
+ grammy
+-auntie
+-mama
++aunty
++momma
+ mammy
+-ill
++i’ll
+ flannel
+ zebra
+ jammies
+ second
+ hand
+-rock
+-that
+-motherfucker
++its
+ built-in
+ onesie
+ with
+ socks
+-hit
+ party
+ stop
+-"oh
++because
++“oh
+ gucci
+-tight"
+-"yo
+-50
+-t-shirt"
++tight”
++“yo
++fifty
++t-shirt”
+ limited
+ edition
+-lets
++let’s
+ do
+ simple
+ addition
+ t-shirt
+-ignorant
++just
++silly
++overpriced
+ call
+-getting-swindled-and-pimped
+ getting
++swindled
++tricked
+ tricked
+ by
+ business
+-shirts
++shirt’s
+ dough
+ having
+ same
+ as
+ six
+ other
+-dont
++major
++don’t
+ peep
+ look
+ telescope
+-tryna
++trying
+ girls
+ brand
+-wont!
+-poppin
+-tags
+-yeah!
+-wear
++man
++won’t
++wont
++real
++inside!
+ granddads
+ clothes
+ incredible
+-big-ass
++big
+ coat
+ down
+ road
+-damn
+-right
+-now
+-on
+-man
+-i’m
+-big-ass
++granmas
+ coat
+-lets
+-go
+-on!
+-"is
+-grandmas
+-coat"

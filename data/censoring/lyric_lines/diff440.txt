@@ -1,0 +1,182 @@
+--- og670.txt	2020-02-06 19:31:21.000000000 -0800
++++ kb440.txt	2020-02-06 19:31:27.000000000 -0800
+@@ -1,8 +1,8 @@
+ all
+ the
+ single
++ladiesall
+ ladies
+-all
+ ladies
+ now
+ put
+@@ -11,132 +11,85 @@
+ up
+ in
+ club
+-club
+ just
+ broke
+-up
+-i’m
++im
+ doing
+ my
+ own
+ little
+-thing
++thingyou
+ decided
+ to
+ dip
+-dip
+-but
++and
+ you
+ wanna
+ trip
+-trip
+-cause
+ another
+-brother
+-noticed
++boy
++notice
+ me
+-on
+-him
+ him
+ he
+-me
+-don’t
++into
++dont
+ pay
+ any
+-attention
++attentioni
+ cried
+ tears
+-tears
+ for
+-three
++3
+ good
+ years
+-years
+-can’t
++cant
+ be
+ mad
+ at
++cause
+ if
+ like
+-it
+ then
+-shoulda
++should
++of
+ a
+ ring
++on
++itif
+ it
+-once
++itdont
++when
+ see
+-that
+-want
+-whoa
+-oh
+-oh-oh
+-oh
+-i
+-got
+-gloss
+-lips
+-lips
+-man
+-hips
+-hips
+-hold
+-tighter
+-than
+-deréon
+-jeans
+-acting
+-up
+-drink
+-cup
+-cup
+-cant
+-care
+-less
+-what
+-think
+-need
+-no
+-permission
+-did
+-mention
+-had
+-turn
+-turn
+-gon
+-learn
+-really
+-feels
+-miss
+-dont
+-treat
++hes
++itcause
++itcause
++trade
++these
+ things
+-of
+-world
++worldim
+ not
++that
+ kind
+-girl
++girlyour
+ love
+ is
++what
++i
+ prefer
+-deserve
+-here’s
+-makes
+-me
++deserveits
++make
+ takes
+-and
+ delivers
+ destiny
+-infinity
+-beyond
+-pull
+-into
+-arms
+-say
++deliver
++beyondhold
++armssay
+ one
+-don’t
+-you’ll
+-alone
++want
++youll
++alonefell
+ ghost
+-i’ll
++ill
+ gone
++onif

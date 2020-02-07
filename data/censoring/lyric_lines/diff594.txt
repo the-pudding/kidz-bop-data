@@ -1,0 +1,144 @@
+--- og559.txt	2020-02-06 19:31:22.000000000 -0800
++++ kb594.txt	2020-02-06 19:31:27.000000000 -0800
+@@ -1,60 +1,35 @@
+-give
+-it
+-to
+-me
++gimme
+ im
+ worth
+ it
+-baby
++yeah
+ uh
+ huh
+-gimme
+-gimme
++worth it
++gimme gimme
++im worth
+ okay
+-i
+-tell
+-her
+-bring
+-back
+-like
+-she
+-left
+-some
+-in
+-the
+-club
+-with
+-lights
+-off
+-what
+-you
+-actin
+-shy
+-fo
+-come
+-and
+-show
+-that
+-wid
+-stop
+-playin
+-how
+-know
+-actin
+-for
+ just
+ you
++you
+ thats
+ all
+-wanna
+-do
++i
++want
++from
++and
+ if
++what
+ they
+ say
+ is
+ true
+ its
++true
+ might
++be
++good
++for
+ may
+ talk
+ a
+@@ -63,29 +38,37 @@
+ stuff
+ guaranteed
+ can
++back
+ up
+ think
+-imma
+ call
++your
+ bluff
+ hurry
+ up
+-waiting
++waitin
+ out
+ front
++huh
+ see
+-spot
+-"ooh
++me
++in
++the
++spotlight
++ooh
+ love
+-your
+-style"
+-got
++style
++show
++how
++dance
+ cause
+ dont
++wanna
+ waste
+ my
+ time
+ now
++come
+ make
+ while
+ on
+@@ -94,15 +77,9 @@
+ have
+ clue
+ not
++clue
+ ill
+-harder
+-because
+-too
+-soft
+-little
+-rough
+-much
+-but
+-maybe
+-enough
+-"ooh
++tell
++to
++do
++guaranteed

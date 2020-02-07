@@ -1,0 +1,132 @@
+--- og483.txt	2020-02-06 19:31:22.000000000 -0800
++++ kb510.txt	2020-02-06 19:31:27.000000000 -0800
+@@ -1,11 +1,13 @@
+-konvict
+-konvict
+-woo-hoo
+-yee-hoo
++sweet
++escape
++escape
++yeah
++bounce
++woowhoo
++yeewhoo
+ if
+ i
+ could
+-escape
+ would
+ but
+ first
+@@ -18,7 +20,7 @@
+ apologize
+ for
+ acting
+-stank
++bad
+ and
+ treating
+ you
+@@ -30,7 +32,6 @@
+ like
+ sour
+ milk
+-all
+ on
+ the
+ floor
+@@ -45,16 +46,13 @@
+ reason
+ so
+ cold
+-escape
+-escape
+-recreate
++re-create
+ a
+ place
++as
+ my
+ own
+ world
+-own
+-world
+ be
+ favorite
+ girl
+@@ -68,38 +66,24 @@
+ that
+ sweet
+ sweet
+-escape
+-sweet
+-be
+-sweet
+ know
+ real
+-bad
+-ill
+-try
+-to
+-change
+ mean
++to
+ get
+ hurt
+-whatsoever
++what
++ever
+ we
+ can
+ make
+ it
+ better
+-woo-hoo
+-yee-hoo
+-yee-hoo
++yeah
++i
+ wanna
+ away
+-get
+-away
+-our
+-away
+-yeah
+-yeah
+-melt
++held
+ down
+ im
+ at
+@@ -120,7 +104,6 @@
+ around
+ instead
+ clowning
+-around
+ look
+ some
+ common
+@@ -129,9 +112,9 @@
+ times
+ little
+ crazy
+-gettin
++getting
+ lazy
+-waitin
++waiting
+ save
+ see
+ youre
+@@ -144,4 +127,8 @@
+ me
+ take
+ with
+-fault
++whatsoever
++if
++escape
++fell
++sweet

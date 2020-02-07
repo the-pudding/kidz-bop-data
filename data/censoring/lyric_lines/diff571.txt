@@ -1,0 +1,102 @@
+--- og537.txt	2020-02-06 19:31:22.000000000 -0800
++++ kb571.txt	2020-02-06 19:31:27.000000000 -0800
+@@ -1,35 +1,27 @@
+ boys
+ call
+ you
+-sexy
+-whats
+-up
+-sexy
++crazy
+ and
+ dont
+ care
+ what
+ they
+ say
+-ha
+-ha
+ see
+ every
+ time
+ turn
+ around
++theyre
+ screaming
+ your
+ name
+-just
+-yeah
+-darkchild
+ now
+ ive
+ got
+ a
+ confession
+-ha
+ when
+ i
+ was
+@@ -52,7 +44,6 @@
+ but
+ aint
+ complaining
+-oh
+ we
+ wanna
+ be
+@@ -70,10 +61,10 @@
+ younger
+ would
+ grow
++up
+ star
+ in
+ movies
+-see
+ the
+ world
+ drive
+@@ -81,6 +72,7 @@
+ cars
+ have
+ groupies
++up
+ on
+ tv
+ people
+@@ -96,23 +88,18 @@
+ scene
+ careful
+ wish
++just
+ might
+ get
+ it
+-hey
+ it
+ used
+ tell
+ silly
+-til
++until
+ popped
+-up
+-la
+-la
+-la
+ always
+ superstar
+-superstar
+ who
+ knew
+ singing
+@@ -120,7 +107,6 @@
+ this
+ far
+ staring
+-ooh
+ im
+ trendsetter
+ yes

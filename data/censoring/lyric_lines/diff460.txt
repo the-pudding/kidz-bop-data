@@ -1,0 +1,79 @@
+--- og439.txt	2020-02-06 19:31:21.000000000 -0800
++++ kb460.txt	2020-02-06 19:31:27.000000000 -0800
+@@ -13,12 +13,10 @@
+ walk
+ away
+ but
+-cant
+-move
++i cant move
+ my
+ feet
+-the
+-more
++the more
+ you
+ want
+ something
+@@ -30,24 +28,35 @@
+ much
+ younger
+ yesterday
++oh
+ didnt
+ starving
+-til
+-tasted
++till
++looked
++at
+ dont
+ need
+ no
+ butterflies
+ when
+ give
+-whole
+-damn
++me
++the
++total
+ zoo
+ by
+ way
+-right
+ do
+-body
++things
++heartbeat
++i
++didnt
++you
++well
++it
++sure
++is
++true
+ how
+ make
+ heart
+@@ -59,12 +68,16 @@
+ on
+ disaster
+ hit
+-head
+-on
++head-on
+ got
+ weak
+ in
+ knees
+ yeah
++hey
++oh
++ooh
++ooh
++na
++more
+ yesterday
+-yeah

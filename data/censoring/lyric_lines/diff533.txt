@@ -1,0 +1,131 @@
+--- og505.txt	2020-02-06 19:31:22.000000000 -0800
++++ kb533.txt	2020-02-06 19:31:27.000000000 -0800
+@@ -3,9 +3,13 @@
+ a
+ long
+ time
++long
++time
+ we
+ shouldnt
+-have
++of
++left
++you
+ left
+ you
+ without
+@@ -13,21 +17,20 @@
+ beat
+ to
+ step
++step
++to
+ to
+-*scratching*
+-*scratching*
+-baby
+-girl
+-oh
+ what
+ would
+ do
+ get
+ me
+ say
++have
+ your
+ way
+ give
++it
+ up
+ or
+ try
+@@ -47,7 +50,6 @@
+ the
+ boys
+ keep
+-it
+ low
+ say
+ no
+@@ -56,19 +58,21 @@
+ me
+ off
+ stay
+-and
++oh
+ at
+ first
+ dont
+ succeed
+-then
++first
++succeed
+ dust
++yourself
+ off
++and
++again
+ can
+ again
+ cause
+-and
+-again
+ im
+ into
+ you
+@@ -78,18 +82,18 @@
+ so
+ easily
+ not
+-til
++till
+ see
+-whether
++where
+ this
+ could
+-eternity
++be
++eternally
+ just
+ week
+-ayo
++know
+ our
+ chemistry
+-is
+ chain
+ perfect
+ now
+@@ -99,23 +103,22 @@
+ yes
+ no
+ do
+-thing
++thang
+ well
+ see
+ how
+ goes
++ooooh
+ wanna
+ throw
+ might
+ shy
+ on
+-date
++day
+ about
+ next
+-date
++day
++huh
+ huh
+ huh
+-said
+-bugging
+-date
+-freaky-freaky
++buggin

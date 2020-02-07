@@ -1,0 +1,88 @@
+--- og187.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb195.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -26,6 +26,7 @@
+ and
+ numbers
+ that
++know
+ address
+ to
+ places
+@@ -43,6 +44,7 @@
+ young
+ enough
+ say
++chorus
+ oh
+ this
+ has
+@@ -53,10 +55,12 @@
+ could
+ a
+ life
++say
++"oh
+ feeling
+ you
+ cant
+-fight
++fight"
+ is
+ fire
+ tonight
+@@ -83,17 +87,19 @@
+ airplanes
+ jump
+ out
+-bullshit
++much
+ work
+ now
+-all
+-our
++are
++god
++of
+ stories
+ but
+ please
+ tell
+-me-e-e-e
++me
+ what
++there
+ complain
+ about
+ when
+@@ -105,27 +111,22 @@
+ take
+ over
+ everything
+-yeah
+-oh
++bridge
+ hopelessly
+ feel
+-there
+ might
+ something
+-ill
+ miss
+ window
+ closes
++oh
+ quick
+ im
+ taking
+ mental
+ picture
+-of
+ cause
+ hope
+ have
+-much
+-ooh
+-ooh
+-listen
++about
++stories

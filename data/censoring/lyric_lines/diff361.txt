@@ -1,0 +1,103 @@
+--- og645.txt	2020-02-06 19:31:21.000000000 -0800
++++ kb361.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -1,3 +1,6 @@
++kidz
++bop
++kids
+ said
+ all
+ i
+@@ -11,7 +14,7 @@
+ and
+ every
+ maybe
+-you’ll
++youll
+ let
+ me
+ borrow
+@@ -23,6 +26,7 @@
+ ask
+ for
+ sunday
++an
+ while
+ were
+ at
+@@ -46,14 +50,13 @@
+ them
+ when
+ someone
+-cuts
++breaks
+ open
+ with
+ a
+-knife
+-now
++light
+ youre
+-bleeding
++hurting
+ but
+ could
+ be
+@@ -61,25 +64,24 @@
+ guy
+ heal
+ over
+-won’t
++wont
+ stop
+ until
+ believe
+ cause
+ baby
+-you’re
+ worth
+ so
+ dont
+ act
+ like
+-it’s
++its
+ bad
+ thing
+ fall
+ love
+ might
+-fuck
++look
+ find
+ dreams
+ come
+@@ -93,8 +95,7 @@
+ free
+ me
+ not
+-fall
+-yeah
++now
+ how
+ about
+ last
+@@ -109,17 +110,11 @@
+ are
+ morning
+ wanna
+-staring
+-back
+-staring
+-me
+-that’s
++thinking
++thats
+ good
+ place
+-dont
+-know
+ such
+-not
+ no
+ fill
+ mind

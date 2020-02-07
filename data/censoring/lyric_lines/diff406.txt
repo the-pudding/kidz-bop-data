@@ -1,0 +1,59 @@
+--- og396.txt	2020-02-06 19:31:21.000000000 -0800
++++ kb406.txt	2020-02-06 19:31:27.000000000 -0800
+@@ -41,14 +41,13 @@
+ but
+ got
+ up
+-hey
++hey!
+ already
+ brushing
+ off
+ dust
+ hear
+ voice
+-your
+ sound
+ like
+ thunder
+@@ -58,6 +57,7 @@
+ get
+ ready
+ cause
++ive
+ enough
+ see
+ it
+@@ -70,17 +70,16 @@
+ dancing
+ through
+ fire
+-cause
+ am
+ champion
+-you’re
++youre
+ roar
+ louder
+ louder
+ than
+ lion
+ oh
+-i’m
++im
+ floating
+ butterfly
+ stinging
+@@ -92,10 +91,6 @@
+ zero
+ own
+ hero
+-got
+-up
+-youll
+ roar
+-roar
+-oh
+-yeah
++ro-oar
++ro-oar

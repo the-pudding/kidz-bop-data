@@ -1,0 +1,78 @@
+--- og388.txt	2020-02-06 19:31:21.000000000 -0800
++++ kb399.txt	2020-02-06 19:31:27.000000000 -0800
+@@ -21,13 +21,14 @@
+ so
+ sweet
+ girls
+-double-dutch
++double
++dutch
+ the
+ concrete
+ maybe
+ sometimes
+-weve
+-got
++we
++get
+ it
+ wrong
+ but
+@@ -39,7 +40,6 @@
+ change
+ stay
+ same
+-oh
+ you
+ hesitate
+ girl
+@@ -59,7 +59,6 @@
+ faded
+ jeans
+ hope
+-get
+ dreams
+ just
+ youre
+@@ -71,34 +70,29 @@
+ blue
+ as
+ sky
+-sunburnt
++somebody
+ lonely
+ sipping
+ tea
+ in
+-a
+ bar
+ by
+ roadside
+-just
+ relax
+ relax
+ those
+ other
+ boys
+ fool
++got
+ love
+ that
+ afro
+ hairdo
+-we
+ feel
+ afraid
+-same
+-change
+ think
+ strange
+-twas
+ than
+ could
+ take
+@@ -123,3 +117,4 @@
+ do
+ what
+ want
++ooh

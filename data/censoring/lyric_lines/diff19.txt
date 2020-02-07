@@ -1,0 +1,95 @@
+--- og21.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb19.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -9,7 +9,7 @@
+ were
+ going
+ down
+-theyve
++they
+ got
+ moves
+ and
+@@ -20,13 +20,14 @@
+ of
+ perfect
+ place
++theyve
+ it
+ better
+-than
++then
+ when
+ anyones
+ told
+-you
++ya
+ theyll
+ be
+ king
+@@ -34,10 +35,10 @@
+ youre
+ queen
+ spades
+-then
+ well
+ fight
+ for
++you
+ like
+ we
+ were
+@@ -47,9 +48,7 @@
+ know
+ good
+ but
+-they
+ made
+-their
+ grass
+ is
+ getting
+@@ -73,6 +72,7 @@
+ knows
+ knows
+ where
++going
+ do
+ think
+ im
+@@ -87,7 +87,7 @@
+ between
+ noise
+ hear
+-sounds
++sound
+ just
+ sinking
+ ocean
+@@ -104,13 +104,12 @@
+ heads
+ sun
+ shining
+-everyday
++every
+ far
+ away
+ world
+ thats
+-dead
+-got
++lead
+ dont
+ matter
+ what
+@@ -118,9 +117,9 @@
+ could
+ never
+ someone
+-thatll
++will
+ look
++say
+ fake
+-sound
+ moves
+ hey

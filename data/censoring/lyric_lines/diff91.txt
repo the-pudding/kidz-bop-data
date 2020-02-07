@@ -1,0 +1,170 @@
+--- og81.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb91.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -1,9 +1,3 @@
+-nah
+-nah
+-cake
+-by
+-the
+-ocean
+ oh
+ no
+ see
+@@ -17,7 +11,7 @@
+ not
+ so
+ serious
+-girl
++yeah;
+ why
+ those
+ feet
+@@ -25,119 +19,95 @@
+ we
+ just
+ getting
+-started
++started;
+ dont
+ tiptoe
+-tiptoe
++ah
+ waste
+ time
+ with
+ masterpiece
+ masterpiece
+-huh
+ should
+ be
+-rollin
+-me
++rolling
+ me
+-ahh
+-youre
+-real-life
+-fantasy
+-fantasy
++life
++thats
++meant
++to
++be
+ but
+-movin
+-carefully
+-lets
+-start
+-livin
++youre
++moving
++carefully;
++living
+ dangerously
+ talk
+-to
+ baby
+ i’m
+-goin
++going
+ blind
+ from
+ this
+ sweet
+ craving
+ whoa-oh
++lets
+ lose
+ our
+ minds
+ and
+ go
+-fucking
+ crazy
+-ah
+ ya
+ i
+ keep
+ on
+-hopin
++hoping
+ well
+ eat
++cake
++by
++the
++ocean
+ walk
+-for
+ ill
+ diddy
+-youll
+ naomi
+-ya
+-goddamn
++oh
++yeah
++now
++were
+ licking
+ frosting
+-your
+ own
+ hands
+ want
+ another
+ taste
+ im
+-begging
+-yes
+-maam
++saying
++"oh
++yeah"
+ tired
+ of
+ all
+ candy
+ dry
+ land
+-ooh
+-dangerously
+-whoa
+-ahh!
++hey!
++girl
+ walk
++me
+ now
+-yeah
+-yeah
+-ooh
+-ah
+-delicious
+-haha
+-girl
+-talk
+-baby
+-hey
+-and
+-what
+-thats
+-right
+-i
+-hopin
+-hot
+-damn
+ red
+ velvet
+ vanilla
+ chocolate
+ in
+ my
+-life
+ funfetti
+ ready;
+ need
+ it
+-every
+-night

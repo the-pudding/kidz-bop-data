@@ -1,0 +1,54 @@
+--- og31.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb31.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -20,12 +20,10 @@
+ just
+ cant
+ make
+-a
+ sound
+ tell
+ that
+ need
+-me
+ then
+ go
+ cut
+@@ -38,24 +36,19 @@
+ id
+ turn
+ around
+-say
+-that
+ its
+ too
+ late
+ to
+ apologize
+ said
+-late
+-oh
+-oh
+ take
+ another
+ chance
++a
+ fall
+ shot
+ for
+-you
+ like
+ heart
+ needs
+@@ -71,10 +64,10 @@
+ now
+ turning
+ blue
+-sorry
++when
+ angel
+ heaven
+ let
+ was
++you
+ afraid
+-apologize

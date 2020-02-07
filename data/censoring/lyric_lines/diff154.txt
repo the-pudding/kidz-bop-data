@@ -1,0 +1,56 @@
+--- og147.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb154.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -18,13 +18,15 @@
+ when
+ wake
+ youre
+-youre
+ never
+ there
++but
+ sleep
+ everywhere
++youre
+ just
+ tell
++me
+ how
+ got
+ this
+@@ -71,9 +73,7 @@
+ pain
+ away
+ from
+-oh
+-whoa
+-whoa
++am
+ touch
+ your
+ hand
+@@ -81,10 +81,10 @@
+ understand
+ beauty
+ within
+-now
+ we
+ begin
+ light
++hope
+ comes
+ a
+ day
+@@ -92,9 +92,13 @@
+ matter
+ where
+ go
++ill
+ catch
+ breath
+ breathe
++alone
++waa
++ohh
+ in
+ everyone
+ do

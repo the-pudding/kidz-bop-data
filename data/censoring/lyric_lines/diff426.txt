@@ -1,0 +1,46 @@
+--- og411.txt	2020-02-06 19:31:21.000000000 -0800
++++ kb426.txt	2020-02-06 19:31:27.000000000 -0800
+@@ -3,6 +3,7 @@
+ are
+ open
+ wide
++and
+ by
+ the
+ way
+@@ -18,20 +19,19 @@
+ leaving
+ out
+ today
+-well
+ just
+ saw
+-halleys
++hayleys
+ comet
+ she
+ waved
+ said
+-"why
++why
+ you
+ always
+ running
+ in
+-place"
++place
+ even
+ man
+ moon
+@@ -75,11 +75,9 @@
+ what
+ have
+ say
+-and
+ only
+ voice
+ so
+ listen
+ close
+ its
+-heres

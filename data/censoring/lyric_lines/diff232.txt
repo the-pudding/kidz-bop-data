@@ -1,0 +1,86 @@
+--- og617.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb232.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -1,5 +1,7 @@
+ hello
+-hello
++hello!
++oh
++yeah!
+ im
+ waking
+ up
+@@ -8,19 +10,16 @@
+ start
+ of
+ end
+-world
+-but
+-its
++the world
++but its
+ feeling
+-just
+-like
++just like
+ every
+ other
+ morning
+ before
+ now
+-i
+-wonder
++i wonder
+ what
+ my
+ life
+@@ -34,12 +33,14 @@
+ cars
+ are
+ moving
++like
+ a
+ half
+ mile
+ an
+ hour
+ that
++i
+ started
+ staring
+ passengers
+@@ -58,10 +59,11 @@
+ all
+ this
+ time
++but
+ believe
++world
+ burning
+ ground
+-oh
+ well
+ guess
+ were
+@@ -111,7 +113,6 @@
+ street
+ took
+ look
+-said
+ man
+ headed
+ hell
+@@ -123,11 +124,14 @@
+ someone
+ gone
+ baby
++its
+ there
+ one
+ corner
+ home
+ cool
++just
+ cool
+ over
+ me
++yeah!

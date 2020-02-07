@@ -1,0 +1,52 @@
+--- og119.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb127.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -1,17 +1,14 @@
+-ive
++i
+ got
+-my
++the
+ ticket
+ for
+-the
+-long
+-way
++long-way
+ round
+-two
+-bottlea
+-whiskey
++my
++memories
++way
+ and
+-i
+ sure
+ would
+ like
+@@ -27,18 +24,17 @@
+ say
+ when
+ gone
+-you’re
++youre
+ gonna
+ miss
+ me
+-youre
+ by
+ hair
+ everywhere
+ oh
+-i’m
+ walk
+ talk
++long
+ one
+ with
+ prettiest
+@@ -55,3 +51,4 @@
+ it
+ be
+ prettier
++gone!

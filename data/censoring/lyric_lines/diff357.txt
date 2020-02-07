@@ -1,0 +1,242 @@
+--- og644.txt	2020-02-06 19:31:21.000000000 -0800
++++ kb357.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -1,15 +1,16 @@
+-we
+-the
+-best
+-music!
+-another
+-one!
+-dj
+-khaled!
++kidz
++bop
++music
++haha
++lets
++go
++bop
++uh
+ you
+ stick
+ out
+ of
++the
+ crowd
+ baby
+ its
+@@ -31,7 +32,6 @@
+ your
+ mind
+ unloose
+-go
+ and
+ watch
+ sun
+@@ -41,32 +41,26 @@
+ change
+ whole
+ life
+-off
+-top
++pop-top
+ drop-top
+-baby
+ put
+ em
+ up
+ if
+ with
+ me
+-yeah
+-yeah-eah
+ yeah-eah-eah
++yeah
+ in
+ middle
+-woah
+-woah-woah-oah
+-oh
+-oh-oh
++whoa
++whoa-oh-oh
+ ooh
+ high
+-yeah-eah-eah
++put
++high
+ both
+ arms
+-yeah
+-quavo!
+ mama
+ told
+ dont
+@@ -74,7 +68,6 @@
+ strangers
+ mama
+ mama
+-mama!
+ but
+ when
+ youre
+@@ -84,7 +77,8 @@
+ explain
+ skrrt
+ skrrt
+-skrrt-skrrt
++skrrt
++skrrt
+ what
+ been
+ waitin
+@@ -92,84 +86,40 @@
+ this
+ time
+ yeah
+-i
+-blow
+-brains
++well
++make
++feel
+ outta
+ ooh
++i
+ talkin
+ bout
+-physically
++typically
+ no
+ im
+ mentally
+ talkin
+ mentally
+-she
++they
+ lookin
+ look
+ like
+-nasty
+-she
++crazy
++they
+ lookin
+ classy
+ just
+ at
+-her
++them
+ dancin
+ look
+-her
++em
++real
+ took
++her
+ mansion
+ yeah
+ yeah
+-rich
+-no
+-chain
+-huh
+-not
+-list
+-name
+-bitch
+-lame
+-keep
+-ben
+-franklin
+-gon
+-lot
+-these
+-hoes
+-is
+-messy
+-messy
+-want
+-bestie
+-yall
+-gotta
+-answer
+-whenever
+-text
+-multiple
+-choice
+-they
+-all
+-wanna
+-test
+-ch-ch-ch-ch-choosin
+-squad
+-tryna
+-between
+-justin
+-qua
+-asahd
+-love
+-make
+-music
+-god
+-would
+-see
+-*****
+-applaud
+ walked
+ down
+ had
+@@ -180,13 +130,17 @@
+ give
+ somebody
+ designed
+-drop-dead
++sound
++so
+ gorgeous
++wanna
+ live
+ presence
++is
+ critical
+ movin
+ soul
++yeah
+ spiritual
+ hate
+ notice
+@@ -194,30 +148,18 @@
+ else
+ invisible
+ breakin
++all
+ rules
+-oh-oh
+-so
++oh-whoa
+ above
+ law
+ so
+ law
+ ill
+ excuse
+-damn
++yeah
+ right
+ uh
+ won’t
+ wrong
+-no-brainer
+-rise
+-oh
+ no
+-oh
+-middle
+-put
+-high
+-both
+-sides
+-here
+-way
+-father

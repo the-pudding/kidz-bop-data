@@ -1,0 +1,91 @@
+--- og465.txt	2020-02-06 19:31:21.000000000 -0800
++++ kb489.txt	2020-02-06 19:31:27.000000000 -0800
+@@ -1,7 +1,7 @@
+-ow
+-uh-huh
+-yeah
+-yeah
++uh
++ow!
++huh
++yeah-yeah
+ ive
+ known
+ a
+@@ -16,7 +16,7 @@
+ but
+ youve
+ got
+-being
++bein
+ right
+ down
+ to
+@@ -51,7 +51,8 @@
+ touch
+ now
+ get
+-wrong—yeah
++wrong
++yeah
+ i
+ alright
+ wont
+@@ -70,7 +71,8 @@
+ pocket
+ and
+ comb
+-sleeve—just
++sleeve
++just
+ case
+ all
+ extra
+@@ -81,7 +83,7 @@
+ oughta
+ lock
+ it
+-’cause
++cause
+ heaven
+ forbid
+ should
+@@ -115,32 +117,20 @@
+ me
+ must
+ be
+-joking
++jokin
+ right
++car
+ moves
+-dont
+-me
++oh
++ow
++no
+ cool
+-on
++now
+ long
+ cold
+ lonely
+ what
+ do
+-think
+ elvis
+ or
+ something
+-whatever
+-oh
+-no
+-alright
+-tarzan
+-captain
+-kirk
+-maybe
+-john
+-wayne
+-whatever
+-uh-uh
+-

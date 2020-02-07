@@ -1,0 +1,101 @@
+--- og262.txt	2020-02-06 19:31:21.000000000 -0800
++++ kb267.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -2,29 +2,29 @@
+ had
+ a
+ dream
+-we
++you
+ were
+-sipping
+-whiskey
+-neat
++hanging
++out
++with
++me
+ highest
+ floor
+ the
+ bowery
+ nowheres
+-high
++far
+ enough
+ somewhere
+ along
+ lines
++we
+ stopped
+ seeing
+ eye
+ to
+-you
+ staying
+-out
+-all
++at
+ night
+ and
+ no
+@@ -32,11 +32,13 @@
+ wanna
+ know
+ where
++youve
+ been
+ or
+ youre
+-goin
++going
+ but
++it
+ wont
+ be
+ home
+@@ -52,26 +54,17 @@
+ side
+ of
+ morning
+-rock
++help
+ when
+ sun
+ let
+ sleep
+ waking
+ up
+-drive
+-drunk
++take
++all
+ alone
+-it
+ aint
+-me
+-bowery
+-neat
+-grateful
+-im
+-so
+-grateful
+-back
+ seventeen
+ summer
+ nights
+@@ -79,13 +72,12 @@
+ never
+ growing
+ ill
+-take
+-with
+ polaroids
+ memories
++im
+ leave
+ behind
+ worst
+ us
+-me
++no
+ no

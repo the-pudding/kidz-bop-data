@@ -1,0 +1,55 @@
+--- og653.txt	2020-02-06 19:31:21.000000000 -0800
++++ kb387.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -42,7 +42,7 @@
+ this
+ time
+ but
+-kiss
++take
+ slow
+ your
+ heart
+@@ -80,7 +80,7 @@
+ perfect
+ tonight
+ well
+-woman
++one
+ stronger
+ than
+ anyone
+@@ -99,7 +99,7 @@
+ carry
+ more
+ secrets
+-children
++stories
+ of
+ are
+ still
+@@ -114,18 +114,12 @@
+ alright
+ hold
+ hand
+-man
++one
+ see
+ future
+ eyes
+ dark
+ favorite
+-saw
+-dress
+-looking
+-dont
+-deserve
+-this
+ have
+ faith
+ now
+@@ -134,3 +128,5 @@
+ angel
+ person
+ looks
++dont
++deserve

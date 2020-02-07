@@ -1,0 +1,67 @@
+--- og368.txt	2020-02-06 19:31:21.000000000 -0800
++++ kb378.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -8,7 +8,7 @@
+ simple
+ we
+ were
+-lying
++sitting
+ on
+ your
+ couch
+@@ -43,8 +43,7 @@
+ woods
+ clear
+ good
+-are
+-woods
++world
+ last
+ december
+ last
+@@ -68,6 +67,7 @@
+ forget
+ when
+ decided
++we
+ decided
+ move
+ furniture
+@@ -82,14 +82,11 @@
+ airplanes
+ flying
+ flying
+-out
+-woods
+-oh
+ hit
+ brakes
+ too
+ soon
+-twenty
++20
+ stitches
+ hospital
+ room
+@@ -103,9 +100,9 @@
+ heat
+ walked
+ said
+-"im
++im
+ setting
+-free"
++free
+ monsters
+ turned
+ be
+@@ -114,8 +111,5 @@
+ me
+ me
+ ooh
+-yet
+-good
++remember
+ oh
+-yeah
+-we

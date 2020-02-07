@@ -1,0 +1,88 @@
+--- og290.txt	2020-02-06 19:31:21.000000000 -0800
++++ kb304.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -3,13 +3,14 @@
+ im
+ waiting
+ on
+-you
+-you
++ya
++ya
+ come
+ and
+ let
+ me
+-sneak
++take
++you
+ out
+ have
+ a
+@@ -43,8 +44,8 @@
+ go
+ crazy
+ crazy
+-til
+-see
++dancing
++in
+ sun
+ i
+ only
+@@ -58,42 +59,34 @@
+ stop
+ for
+ anyone
+-get
+-some
++fun
+ live
+ while
+ young
+-oh
+-oh
+-oh
++whoa
+ oh
+ now
+ or
+ dont
+-over-think
++overthink
+ if
++get
+ together
+ together
+-pictures
+-leave
+-your
++well
++laugh
++about
+ phone
+-wanna
+-bout
++girl
+ to
+ make
+-memories
+-want
+-til
+-sun
+-anyone
+-young
+-its
+-love
+-lets
+ some
++memories
+ wanna
+ live
+-live
+-on
++wanna
++were
+ young
++cmon
++lets
++fun

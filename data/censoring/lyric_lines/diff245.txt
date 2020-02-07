@@ -1,0 +1,61 @@
+--- og252.txt	2020-02-06 19:31:21.000000000 -0800
++++ kb245.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -7,20 +7,19 @@
+ not
+ about
+ you
+-drink
++think
+ without
+-thinkin
++thinking
+ is
+-it
+-too
+-late
++it too late
+ to
+-tell
++tell you
+ that
+ everything
+ means
+ nothing
+ if
++i cant
+ have
+ you
+ im
+@@ -39,6 +38,7 @@
+ hotel
+ room
+ yeah
++it
+ doesnt
+ matter
+ cause
+@@ -63,6 +63,9 @@
+ missing
+ hate
+ admit
++too
++late
++tell
+ sorry
+ timings
+ off
+@@ -81,13 +84,10 @@
+ you
+ strings
+ attached
+-thinking
+ trying
+ on
+ forget
+ hold
+ nothing
+ babe
+-no
+-cant
+-you
++now

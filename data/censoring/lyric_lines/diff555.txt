@@ -1,0 +1,96 @@
+--- og704.txt	2020-02-06 19:31:22.000000000 -0800
++++ kb555.txt	2020-02-06 19:31:27.000000000 -0800
+@@ -7,14 +7,14 @@
+ used
+ to
+ do
+-love
++we dont laugh
+ what
+-was
+-all
++was all
+ of
+ it
+ for
+ oh
++dont talk
+ i
+ just
+ heard
+@@ -36,6 +36,7 @@
+ cause
+ even
+ after
++all
+ this
+ time
+ still
+@@ -50,20 +51,22 @@
+ easily
+ wanna
+ know
+-kind
+-dress
++girl
++look
+ youre
+ wearing
+ tonight
+-if
+ hes
+-holdin
++holding
+ onto
++your
++hands
+ tight
+ before
+-overdosed
++overlooked
+ shouldve
+-your
++love
++was
+ a
+ game
+ now
+@@ -74,8 +77,9 @@
+ its
+ such
+ shame
++laugh
+ hope
+-lying
++sitting
+ next
+ somebody
+ who
+@@ -104,21 +108,13 @@
+ afraid
+ ill
+ wrong
+-lookin
++if
+ into
+ her
+ eyes
+ shes
+-giving
+-right
+-oh
+-what
+-tonight
+-if
+-holding
+-tight
+-whoa
+-shouldve
+-game
+-now
+-brain
++we
++dont
++dont
++i
++overlooked

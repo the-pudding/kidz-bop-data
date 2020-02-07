@@ -1,0 +1,64 @@
+--- og202.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb211.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -8,8 +8,6 @@
+ with
+ you
+ hello
+-oh
+-oh
+ it
+ doesnt
+ really
+@@ -20,6 +18,7 @@
+ youre
+ alright
+ but
++im
+ here
+ darling
+ to
+@@ -32,7 +31,7 @@
+ cause
+ thats
+ all
+-youll
++you
+ from
+ me
+ hey
+@@ -48,19 +47,21 @@
+ not
+ kinda
+ girl
++whod
+ messed
+ up
+-imma
++ima
+ let
+ try
+ convince
+ me
++to
+ its
+-alright
+ getting
+ dizzy
+-okay
++ok
+ if
++dont
+ have
+ much
+ say
+@@ -70,5 +71,8 @@
+ theres
+ something
+ hey
+-hey!
+-party
++youre
++already
++x3
++alright
++dizzy

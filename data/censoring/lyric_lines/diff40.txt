@@ -1,0 +1,100 @@
+--- og575.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb40.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -1,14 +1,13 @@
+ took
+ you
+ like
+-a
+-shot
++i
+ thought
+ that
+-i
+ could
+ chase
+ with
++a
+ cold
+ evenin
+ let
+@@ -17,7 +16,7 @@
+ water
+ down
+ how
+-i’m
++im
+ feelin
+ about
+ feelin
+@@ -37,7 +36,7 @@
+ gotta
+ convince
+ myself
+-don’t
++dont
+ want
+ it
+ even
+@@ -61,10 +60,9 @@
+ true
+ wanna
+ hold
+-im
+ not
+ supposed
+-lyin
++gettin
+ close
+ someone
+ else
+@@ -78,27 +76,24 @@
+ if
+ all
+ again
+-i’d
++id
+ go
+ back
++go
+ you
+-oh
+-id
+ never
+ got
+ right
+-playin’
++playin
+ replayin
+ old
+ conversations
+ overthinkin
+ hate
+ cause
+-it’s
+ me
+ cause
+ me
+-me
+ whats
+ the
+ point
+@@ -119,17 +114,5 @@
+ said
+ wasnt
+ sure
+-can
+-wont
+-lie
+-know
+-thoughts
+-are
+-runnin
+-loose
+-just
+-thing
+-make
+-fight
+-use
+-go
++when
++to

@@ -1,0 +1,124 @@
+--- og625.txt	2020-02-06 19:31:21.000000000 -0800
++++ kb278.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -1,17 +1,16 @@
+-uhh
+-uhh
+ i
+ was
+ thinking
+-bout
++about
+ her
++bout
+ me
+ us
+ what
+ we
+-gon
++gonna
+ be
+-opened
++open
+ my
+ eyes
+ yeah
+@@ -21,7 +20,8 @@
+ a
+ dream
+ so
+-travel
++drive
++on
+ back
+ down
+ that
+@@ -46,8 +46,7 @@
+ basement
+ number
+ spot
+-found
+-her
++find
+ replacement
+ swear
+ cant
+@@ -76,20 +75,19 @@
+ fingers
+ through
+ hair
+-love
+-of
+-life
+-shorty
++shawty
+ wife
++life
+ left
+ me
+-tight
++tied
+ knew
+ right
+ when
+ be
+ riding
+ man
++your
+ face
+ every
+ turn
+@@ -97,18 +95,16 @@
+ to
+ get
+ usher
+-on
+ but
+ let
+ burn
+ hope
+ know
+ yearn
+--
+ for
+-woman
+-oh
++more
+ miss
++her
+ learn
+ didnt
+ give
+@@ -117,17 +113,16 @@
+ guess
+ payback
+ club
+-about
+ hey
+ easy
+ wait
+ wasnt
+ enough
+ going
+-time
++everytime
+ alone
+-missing
+ wishing
++shed
+ pick
+ up
+ phone
+@@ -140,12 +135,10 @@
+ ever
+ loved
+ somebody
+-your
+ hands
+ theyre
+ gone
++wish
+ could
+ them
+ everything
+-heyyy
+-said

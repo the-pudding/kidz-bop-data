@@ -1,0 +1,25 @@
+--- og181.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb187.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -30,6 +30,7 @@
+ like
+ boys
+ cars
++boys
+ will
+ laugh
+ at
+@@ -72,14 +73,10 @@
+ theres
+ nothing
+ free
+-boys
+ bodies
+ ferraris
+ lets
+ go!
+-hey!
+-ferraris
+-yeah
+ losing
+ their
+ souls

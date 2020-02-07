@@ -1,0 +1,163 @@
+--- og438.txt	2020-02-06 19:31:21.000000000 -0800
++++ kb459.txt	2020-02-06 19:31:27.000000000 -0800
+@@ -1,5 +1,3 @@
+-redone
+-uh
+ lets
+ go
+ to
+@@ -7,132 +5,68 @@
+ beach
+ each
+ get
+-a
+-wave
++away
+ they
+ say
+ what
+ gonna
++say
+ have
+-drink
++a
++think
+ clink
+-found
+-bud
+-light
+-bad
+-bitches
++looking
++good
++at
++me
++people
+ like
+ me
+-is
++its
+ hard
+ come
+ by
+ patron
+-own
++on
++move
+ it
+ on
+ zone
+-on
++own
+ yes
+ im
+ in
++zone
++is
+ two
+ three
+ leave
+-good
+ tip
+-ima
+ blow
+-off
++all
+ my
+ money
+ and
+-dont
+ give
+ two
+-shits
+-oh-oh
++tips
+ floor
+ floor
+ i
+ love
+ dance
+-so
+-me
++if
++you
++want
++some
+ more
+ more
+-til
++till
+ cant
+ stand
+-its
+ your
+ last
+ chance
+-if
+-you
+-want
+ then
+ here
+ am
+-starships
+-were
+-meant
+-fly
+-hands
+-up
+-touch
+-sky
+-stop
+-cause
+-were
+-high
+-do
+-this
+-one
+-time
+-stop
+-higher
+-than
+-motherfucka
+-jump
+-hoopty-hoopty-hoop
+-own
+-that
+-aint
+-payin
+-rent
+-month
+-owe
+-but
+-fuck
+-who
+-want
+-dancehall
+-life
+-theres
+-no
+-end
+-sight
+-twinkle
+-twinkle
+-little
+-star
+-now
+-everybody
+-let
+-hear
+-ray
+-ray
+-spend
+-all
+-money
+-today
+-payday
+-youre
+-g
+-g-g-g
+-name
+-onika
+-can
+-call
+-nicki

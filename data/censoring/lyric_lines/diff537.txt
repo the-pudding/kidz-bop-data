@@ -1,0 +1,88 @@
+--- og510.txt	2020-02-06 19:31:22.000000000 -0800
++++ kb537.txt	2020-02-06 19:31:27.000000000 -0800
+@@ -10,25 +10,23 @@
+ keep
+ you
+ like
+-an
+-oath
+-may
+-nothing
++an oath
++may nothing
+ but
+-death
+-do
++this do
+ us
+ part
+ she
+ wants
+ to
+-dance
++dance like
+ uma
+ thurman
+-bury
++talk
+ me
+-til
++till
+ confess
++dance
+ and
+ cant
+ get
+@@ -39,24 +37,31 @@
+ the
+ stench
+ stench
+-summer
+-sex
+-ck
++sunny
++heads
++it
++ends
++through
+ eternity
+-oh
+-hell
++yeah
+ yes
+ divide
+ down
+ smallest
+ be
+-put
+-your
++with
+ your
+-v-v-v-venom
++you
++venom
+ in
+-blood
+-blood
++an
++oath
++may
++nothing
++this
++do
++love
++love
+ lamb
+ is
+ worth
+@@ -82,9 +87,7 @@
+ alive
+ take
+ line
+-gem
++turn
+ city
+ we
+-turn
+ tide
+-apart

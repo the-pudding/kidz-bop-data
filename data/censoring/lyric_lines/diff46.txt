@@ -1,0 +1,118 @@
+--- og42.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb46.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -8,7 +8,6 @@
+ know
+ whats
+ happening
+-here
+ one
+ minute
+ its
+@@ -20,8 +19,9 @@
+ battlefield
+ word
+ turns
+-into
+-war
++in
++two
++oh
+ why
+ is
+ it
+@@ -36,10 +36,10 @@
+ worlds
+ nothing
+ when
+-youre
+-gone
++you
+ im
+-out
++not
++here
+ without
+ shield
+ cant
+@@ -50,7 +50,7 @@
+ hands
+ tied
+ behind
+-for
++with
+ oh
+ no
+ these
+@@ -62,11 +62,12 @@
+ fall
+ again
+ gotta
++for
+ now
+ never
+ meant
+ start
+-you
++war
+ wanna
+ hurt
+ even
+@@ -76,8 +77,9 @@
+ does
+ always
+ feel
+-like
+ battlefield
++battlefield
++like
+ swallow
+ our
+ pride
+@@ -85,30 +87,33 @@
+ of
+ raise
+ flag
++hmm
++hmm
+ if
+ surrender
+ then
+ gonna
+ lose
+ had
++no
++no
+ nothing
++oh
++oh
+ guess
+ better
+ get
+ armor
+ get
+ armor
+-your
+ could
+ pretend
+ are
+ friends
+ tonight
+-oh
+-in
+ morning
+-wed
+-wake
++well
++meet
+ up
+ be
+ alright
+@@ -118,8 +123,3 @@
+ fight
+ want
+ this
+-start
+-war
+-what
+-for
+-ohh

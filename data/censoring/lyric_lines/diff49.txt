@@ -1,0 +1,141 @@
+--- og46.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb49.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -1,6 +1,3 @@
+-jr
+-sean
+-kingston
+ youre
+ way
+ too
+@@ -14,14 +11,15 @@
+ youll
+ have
+ me
+-suicidal
+-suicidal
++in
++denial
++denial
+ when
+ you
+ say
+ its
+ over
+-damn
++hey
+ all
+ these
+ beautiful
+@@ -30,6 +28,7 @@
+ only
+ wanna
+ do
++your
+ dirt
+ theyll
+ see
+@@ -41,7 +40,7 @@
+ used
+ to
+ chill
+-after
++into
+ dark
+ oh
+ took
+@@ -55,10 +54,9 @@
+ thought
+ that
+ love
+-lasted
+-forever
+-lasted
++lasts
+ forever
++say
+ were
+ young
+ get
+@@ -75,29 +73,24 @@
+ couldnt
+ last
+ together
+-last
+-together
+-see
+-defined
++define
+ one
+ of
+ a
+ kind
+ but
+-mash
++mush
+ up
+ mind
+-haffi
++walk
+ declined
+ oh
+ lord
+-baby
+-is
++babys
+ drivin
+ crazy
+ was
+ back
+-in
+ 99
+ watchin
+ movies
+@@ -105,15 +98,11 @@
+ i
+ went
+ away
+-for
+-doin
+-first
+-crime
++gone
++long
+ gonna
+ each
+ other
+-see
+-other
+ then
+ came
+ out
+@@ -128,22 +117,19 @@
+ be
+ she
+ wasnt
+-girl
+-me
++for
+ now
+ fussin
+ fightin
+ please
+ tell
+ feelin
+-slighted
++slightin
+ dont
+ know
+ how
+ make
+ better
+-make
+-better
+ datin
+ guys
+ tellin
+@@ -156,5 +142,3 @@
+ losin
+ think
+ clever
+-think
+-clever

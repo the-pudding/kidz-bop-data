@@ -1,0 +1,49 @@
+--- og301.txt	2020-02-06 19:31:21.000000000 -0800
++++ kb316.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -10,7 +10,7 @@
+ its
+ a
+ hard
+-pill
++fact
+ for
+ you
+ to
+@@ -19,7 +19,6 @@
+ but
+ if
+ fall
+-you
+ ill
+ never
+ recover
+@@ -38,11 +37,10 @@
+ half
+ way
+ there
+-take
++it
++takes
+ me
+ all
+-way
+-touch
+ think
+ about
+ every
+@@ -57,7 +55,7 @@
+ leave
+ tomorrow
+ oh
+-oh-oh-oh
++whoa
+ where
+ start
+ im
+@@ -80,4 +78,5 @@
+ should
+ stay
+ with
+-tonight
++today
++way

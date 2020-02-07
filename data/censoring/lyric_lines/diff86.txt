@@ -1,0 +1,93 @@
+--- og78.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb86.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -12,7 +12,7 @@
+ now
+ youve
+ got
+-feeling
++feelin
+ like
+ child
+ cause
+@@ -30,7 +30,7 @@
+ silly
+ place
+ it
+-starts
++start
+ my
+ toes
+ and
+@@ -51,26 +51,24 @@
+ go
+ rain
+ is
+-falling
++pourin
+ on
+ window
+ pane
+ but
+ we
+ are
+-hiding
++hidin
+ safer
+ under
+ covers
+-staying
++stayin
+ dry
+ warm
+ give
+ feelings
+ adore
+-they
+-start
+-toes
++makes
+ what
+ am
+ gonna
+@@ -79,20 +77,8 @@
+ feel
+ this
+ way
+-just
+-mmm
+-makes
+-ta-da-dam
+-ta-da
+-da-dam
+-ta-da-da-da
+-ta-da-dam
+-um-ba
+-da-da
+-uhm
+ asleep
+ tuck
+-in
+ hold
+ arms
+ im
+@@ -100,16 +86,16 @@
+ enough
+ to
+ warmth
++starts
+ soul
+ lose
+ all
+ control
+ kiss
+-nose
+ shows
++smile
+ baby
+-holding
++now
++holdin
+ tight
+ wherever
+-go
+-even

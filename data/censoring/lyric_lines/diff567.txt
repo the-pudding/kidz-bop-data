@@ -1,0 +1,103 @@
+--- og711.txt	2020-02-06 19:31:22.000000000 -0800
++++ kb567.txt	2020-02-06 19:31:27.000000000 -0800
+@@ -10,7 +10,7 @@
+ empty
+ house
+ that
+-don’t
++dont
+ bother
+ me
+ a
+@@ -21,9 +21,9 @@
+ then
+ just
+ let
+-them
++em
+ out
+-i’m
++im
+ not
+ afraid
+ to
+@@ -37,9 +37,9 @@
+ goin
+ with
+ you
+-gone
++gon
+ still
+-upsets
++upset
+ there
+ are
+ days
+@@ -47,13 +47,13 @@
+ pretend
+ okay
+ but
+-that’s
++thats
+ what
+ gets
+ hurts
+ most
+ was
+-being
++bein
+ so
+ close
+ havin
+@@ -63,22 +63,22 @@
+ walk
+ away
+ never
+-knowing
++knowin
+ couldve
+ been
+ seein
+-love
++lovin
+ is
+-tryin’
++tryin
+ do
+-it’s
++its
+ hard
+ deal
+ pain
+-losing
++losin
+ everywhere
+ go
+-doin’
++doing
+ it
+ force
+ smile
+@@ -92,7 +92,7 @@
+ gettin
+ up
+ dressed
+-livin’
++livin
+ regret
+ know
+ if
+@@ -108,10 +108,8 @@
+ heart
+ left
+ unspoken
+-seeing
+-trying
+ do
+ oh
+-much
+-say
+-have
++oh
++seeing
++you

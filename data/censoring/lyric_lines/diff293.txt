@@ -1,0 +1,106 @@
+--- og630.txt	2020-02-06 19:31:21.000000000 -0800
++++ kb293.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -17,15 +17,14 @@
+ go
+ let
+ it
+-snow
+ snow!
+ doesnt
+ show
+ signs
+ of
+ stopping
+-i
+-brought
++ive
++bought
+ some
+ corn
+ for
+@@ -33,9 +32,9 @@
+ lights
+ are
+ turned
++way
+ down
+ low
+-snow
+ when
+ we
+ finally
+@@ -44,22 +43,23 @@
+ how
+ ill
+ hate
++going
+ out
+ in
+-storm
++storm!
+ if
+-you
++youll
+ really
+ hold
+ me
+ tight
+ all
+-way
+ home
+ be
+ warm
+ slowly
+ dying
++and
+ my
+ dear
+ were
+@@ -67,46 +67,5 @@
+ goodbying
+ as
+ long
++you
+ love
+-he
+-care
+-its
+-below
+-hes
+-sitting
+-by
+-fires
+-gloosy
+-glow
+-dont
+-about
+-cold
+-winds
+-that
+-blow
+-just
+-says
+-"let
+-snow"
+-let
+-snow!
+-oooooh-wee
+-goes
+-why
+-should
+-worry
+-nice
+-his
+-gal
+-side
+-i
+-care!
+-ummm
+-ive
+-lots
+-say
+-going
+-a
+-youll
+-only
+-dear

@@ -1,0 +1,136 @@
+--- og216.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb221.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -1,4 +1,4 @@
+-boys
++*boys
+ seem
+ to
+ like
+@@ -10,12 +10,13 @@
+ anything
+ ones
+ get
+-undressed
++impressed
+ before
+ second
+ date
++boys
+ dont
+-appreciate
++appreciate*
+ all
+ money
+ and
+@@ -23,31 +24,33 @@
+ that
+ it
+ takes
++**to
+ be
+ fly
+ as
+-a
+-mother
++another**
+ got
+ my
+ both
+ eyes
+ out
+ for
+-mr
++one
++thats
+ right
+-guessing
++**guessing
+ i
+ just
+ know
+ where
+ find
+-em
+-but
++em**
++*but
+ hope
+ they
+ come
+-tonight
++tonight*
++*where
+ do
+ good
+ go
+@@ -55,48 +58,61 @@
+ away
+ away
+ im
++a
++good
+ girl
+ needs
+ little
+-company
++honesty
+ looking
+ high
+ low
+ someone
+ let
+ me
+-kiss
+-tell
++away*
++answer
++on
++their
++cell
+ talking
+ them
+ up
+ about
+-things
++songs
++sing
+ so
+ well
++but
+ id
+ rather
+ boy
+ is
+ down
+-chase
++chase*
+ putting
+ in
++*to
+ supply
+ of
+ hearts
+-demands
+-suit
++demands*
++**suit
+ tie
+ cause
+-undercover
+-hes
++undercover**
++*hes
+ gonna
+ save
+ life
+ superman
++hey!*
++*tell
++tell
+ wont
+ somebody
+ me
+ me
++go*
++*hide
+ away

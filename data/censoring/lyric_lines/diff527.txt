@@ -1,0 +1,59 @@
+--- og500.txt	2020-02-06 19:31:22.000000000 -0800
++++ kb527.txt	2020-02-06 19:31:27.000000000 -0800
+@@ -12,7 +12,7 @@
+ warning
+ its
+ dangerous
+-falling
++fallin
+ theres
+ no
+ escape
+@@ -32,8 +32,8 @@
+ losing
+ my
+ head
+-spinnin
+-round
++spinning
++â€˜round
+ and
+ do
+ feel
+@@ -46,8 +46,9 @@
+ on
+ ride
+ toxic
+-slippin
++slipping
+ under
++the
+ poison
+ paradise
+ addicted
+@@ -58,6 +59,7 @@
+ toxic
+ love
+ what
++do
+ getting
+ late
+ up
+@@ -69,16 +71,9 @@
+ slowly
+ taking
+ over
++high
+ in
+-the
+ air
+ all
+ around
+ can
+-toxic
+-intoxicate
+-now
+-think
+-ready
+-i
+-now

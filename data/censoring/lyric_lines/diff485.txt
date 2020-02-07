@@ -1,0 +1,178 @@
+--- og463.txt	2020-02-06 19:31:21.000000000 -0800
++++ kb485.txt	2020-02-06 19:31:27.000000000 -0800
+@@ -1,5 +1,4 @@
+ hello
+-hello
+ baby
+ you
+ called
+@@ -15,89 +14,80 @@
+ in
+ the
+ club
+-say
+-say
+-wha-wha-what
++see
++what
+ did
+-huh
+-youre
++say
++your
+ breaking
+ up
+ on
+ me
+ sorry
+-cannot
+-you
++can
++not
+ im
+-kind
++kid
+ of
+ busy
+-k-kind
+-busy
++kind
+ just
++another
+ second
+ its
+ my
+ favorite
+ song
+-theyre
++there
+ gonna
+-play
+-and
++playand
+ text
+-with
+-drink
+-hand
+-eh
+-shouldve
++when
++going
++to
++dance-eh
++should
+ made
+ some
+ plans
+-me
++with
+ knew
+ that
+ was
+-free
++freeand
+ now
+ wont
+ stop
+ calling
+-calling
+ dont
+ wanna
+ think
+-anymore
++any
++more
+ left
+ head
++and
+ heart
+ dance
+ floor
+-talk
+ eh
+-telephoning
+-me!
+ stop
++telephoning
+ me
+-busy!
+ im
+ busy
+-can
+ call
+ all
+ want
+ but
+ theres
+-one
++nobody
+ home
+-not
+ reach
+-telephone
+-cause
++telephone!
+ out
+-club
+-sipping
+-bubb
+-boy
++meeting
++grub
+ way
+ blowing
+ phone
+@@ -106,21 +96,20 @@
+ faster
+ put
+ coat
+-faster
++n
+ girls
+ at
++cause
+ this
+ is
+ disaster
+-callin
+ like
+ collector
+ answer
+ party
+ am
+ sick
+-tired
+-r-ringing
++ri-ringing
+ sometimes
+ feel
+ live
+@@ -128,24 +117,12 @@
+ central
+ station
+ tonight
++be
+ taking
+ calls
+ ill
+-be
+ dancing
+-dancing
+-tonight
+-calls
++take
++talk
++
+ telephone
+-m-m-my
+-were
+-sorry
+-number
+-reached
+-time
+-please
+-check
+-or
+-try
+-your
+-again

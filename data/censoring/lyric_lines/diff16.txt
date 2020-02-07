@@ -1,0 +1,274 @@
+--- og572.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb16.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -2,30 +2,24 @@
+ is
+ life
+ and
+-living
++livin
+ its
+ very
+ special
+ all
+ my
+-love…
+-oh-oh-oh
+-uh
++love
++ohohohohoh
+ baby
+ dont
+ go
+-my
+-go
+ yeah
++go
+ uh
+-i
+-understand
+-just
+-chillin
+ yeah
+ why
+ you
+-actin
++act
+ like
+ that
+ such
+@@ -33,8 +27,7 @@
+ shame
+ but
+ im
+-leaving
+-uh
++leavin
+ cant
+ take
+ the
+@@ -44,18 +37,18 @@
+ crazy
+ oh
+ baby
+-come
+-on
+-yo
+-uh
+ it
+ matter
+ whatever
+ phase
++uh
++uh
++i
+ believe
+ wanna
+ leave
+ this
++just
+ had
+ last
+ real
+@@ -67,33 +60,27 @@
+ wait
+ minute
+ bounce
++baby
+ lets
+ talk
+ about
+ this
+ man
+ well
+-bouncing
++bouncin
+ out
+ son
+-what
+-want
+-baby
+ gotta
+ alone
+-on
+-now
+ cause
+ good
+-holding
+-down
++holdin
+ spot
+-good
+ reppin
+ girls
++on
+ block
+-dont
+-baby
++good
+ got
+ thing
+ lock
+@@ -105,34 +92,39 @@
+ right
+ pride
+ have
++pride
+ what
+ had
+ girl
+-needing
++have
++needin
+ me
+ too
+ bad
++be
+ easy
+ make
+ decisions
+ when
+ mad
+-path
+-chose
+ to
++your
++choice
+ run
++i
+ know
+ youre
+ independent
+ can
+-your
+ own
+ here
+ with
+ home
++but
+ time
+ of
+ essence
++why
+ spend
+ alone
+ huh
+@@ -144,28 +136,26 @@
+ boy
+ promises
+ made
+-coming
++comin
+ through
+ much
+ wasted
+ thats
+ replace
+-uh
+ makes
+ cat
+ nervous
+ thought
+-settling
++settlin
++down
+ especially
+ was
+ creepin
+ over
+ town
+-creepin
+ tender
+ touch
+ could
+-yeah
+ knew
+ you
+ as
+@@ -173,7 +163,6 @@
+ sounds
+ used
+ giggle
+-right
+ before
+ put
+ better
+@@ -183,17 +172,15 @@
+ ill
+ prove
+ now
+-here
+ stop
+-playing
+-haha
+-aw
+-gaming
+-want
++playin
++gamin
++stop
++actin
+ now
+-acting
+-that
+ need
++stop
++here
+ we
+ people
+ mistakes
+@@ -203,47 +190,31 @@
+ cold
+ lonely
+ chill
+-oh
+-homie
++homey
+ instead
+-beefin
++beef
+ hold
+ promise
+ not
+ phony
+ console
+ aint
+-nothing
++nothin
+ say
++that
+ change
+ mind
+ let
+-chill
++go
++now
+ will
+ ever
+ same
+-way
+-ahead
+-baby
+-go
++head
+ theres
+ no
+ more
+ explain
+ game
+-feeling
+-bounce
+-alone
+-youre
+-everything
+-me
+-you
+-mean
+-we
+-mistakes
+-sayin
+-i
+-still
+-ill
+-always
++feelin
+ sayin

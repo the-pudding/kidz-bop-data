@@ -1,0 +1,75 @@
+--- og493.txt	2020-02-06 19:31:22.000000000 -0800
++++ kb520.txt	2020-02-06 19:31:27.000000000 -0800
+@@ -1,7 +1,7 @@
+ just
+ a
+ young
+-gun
++one
+ with
+ quick
+ fuse
+@@ -18,12 +18,12 @@
+ and
+ leave
+ my
+-own
++old
+ life
+ behind
+ not
+-"yes
+-sir"
++yes
++sir
+ follower
+ fit
+ the
+@@ -39,15 +39,8 @@
+ before
+ thunder
+ thunder
+-thun-
+-th-th-thunder
+ feel
+-thunder
+-thun-
+-thunder
+-thun-
+-th-th-thunder
+-thun-
++then
+ kids
+ were
+ laughing
+@@ -67,10 +60,9 @@
+ star
+ they
+ say
+-"youre
+-basic"
+-easy"
+ youre
++basic
++easy
+ always
+ riding
+ backseat
+@@ -80,15 +72,5 @@
+ from
+ stage
+ clapping
+-nosebleeds
+-then
+-never
+-give
+-up
+-never
+-up
+-up
+-on
+-your
+-dreams
+-woah-oh-ohh
++nose
++bleeds

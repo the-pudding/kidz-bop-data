@@ -1,0 +1,123 @@
+--- og441.txt	2020-02-06 19:31:21.000000000 -0800
++++ kb463.txt	2020-02-06 19:31:27.000000000 -0800
+@@ -1,39 +1,3 @@
+-hey
+-matt
+-yeah
+-tim
+-you
+-talked
+-to
+-marc
+-lately
+-uh
+-havent
+-really
+-him
+-but
+-he
+-looks
+-pretty
+-down
+-"he
+-down"
+-well
+-maybe
+-we
+-should
+-cheer
+-up
+-then
+-what
+-do
+-you
+-suppose
+-do
+-does
+-like
+-butter
+-tarts
+ i
+ was
+ lying
+@@ -76,11 +40,13 @@
+ lunar
+ speak
+ course
++you
+ cant
+ become
+ if
+ only
+ say
++what
+ would
+ have
+ done
+@@ -90,7 +56,8 @@
+ miles
+ fun
+ know
+-its
++it’s
++up
+ for
+ me
+ if
+@@ -102,35 +69,6 @@
+ too
+ keeping
+ versed
+-chad
+-come
+-here
+-here
+-wow
+-look
+-at
+-her
+-man
+-ive
+-never
+-seen
+-sharon
+-bad
+-before
+-did
+-once
+-before
+-this
+-is
+-pretty
+-think
+-she
+-got
+-night
+-i
+-sharon
+-love
+-you!
+ frying
+ bench
+ slide
+@@ -155,6 +93,7 @@
+ heap
+ funny
+ glare
++to
+ pay
+ gleaming
+ tare
+@@ -165,9 +104,12 @@
+ usual
+ feat
+ among
++but
+ invite
+ who
+ want
++come
++its
+ some
+ hard
+ see

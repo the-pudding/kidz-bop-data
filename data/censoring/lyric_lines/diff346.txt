@@ -1,0 +1,42 @@
+--- og336.txt	2020-02-06 19:31:21.000000000 -0800
++++ kb346.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -21,11 +21,13 @@
+ that
+ would
+ just
++leave
+ cause
+ your
+ presence
+ still
+ lingers
++here
+ it
+ wont
+ me
+@@ -53,6 +55,7 @@
+ youd
+ scream
+ fight
++ive
+ held
+ hand
+ through
+@@ -77,7 +80,6 @@
+ chased
+ sanity
+ in
+-ive
+ tried
+ hard
+ tell
+@@ -86,8 +88,6 @@
+ gone
+ though
+ with
++me
+ been
+ along
+-ah
+-me
+-ah

@@ -1,0 +1,120 @@
+--- og615.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb230.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -1,6 +1,3 @@
+-ohh
+-oh
+-oh
+ its
+ been
+ about
+@@ -20,7 +17,6 @@
+ do
+ you
+ sleep
+-found
+ the
+ letter
+ wrote
+@@ -30,17 +26,15 @@
+ smells
+ just
+ like
+-damn
++ya
+ those
+ sweet
+ memories
+-how
+-sleep
+ tried
+ my
+ best
+ at
+-movin
++moving
+ on
+ have
+ yet
+@@ -49,8 +43,11 @@
+ girl
+ see
+ things
++that
+ didnt
+ before
++now
++im
+ wishing
+ had
+ more
+@@ -66,66 +63,28 @@
+ you
+ we
+ thought
+-then
+ never
+ will
+-done
+ happen
+ again
++can
+ if
+-could
+ way
+ id
+ come
+ and
+-getcha
++get
+ in
+ your
+ favorite
+ car
+ top
+ remember
+-round
++around
+ way
+ where
+ used
+-park
++walk
+ did
+ steal
+ heart
+-baby
+-that
+-hear
+-friends
+-again
+-come
+-ask
+-bout
+-you
+-they
+-say
+-"we
+-saw
+-game
+-gotta
+-big
+-mistake
+-by
+-you"
+-not
+-only
+-does
+-body
+-bang
+-but
+-miss
+-conversation
+-too
+-tell
+-youre
+-gettin
+-no
+-sleep
+-cant
+-eat
+-til

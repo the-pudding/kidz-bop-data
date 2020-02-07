@@ -1,0 +1,94 @@
+--- og20.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb18.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -16,8 +16,7 @@
+ she
+ was
+ looking
+-kind
+-of
++kinda
+ dumb
+ with
+ her
+@@ -25,6 +24,7 @@
+ and
+ thumb
+ shape
++of
+ an
+ "l"
+ on
+@@ -61,7 +61,7 @@
+ see
+ whats
+ wrong
+-taking
++takin
+ backstreets
+ youll
+ never
+@@ -84,6 +84,7 @@
+ rock
+ show
+ paid
++and
+ that
+ glitters
+ gold
+@@ -103,7 +104,7 @@
+ wait
+ til
+ older
+-meteor
++media
+ men
+ beg
+ differ
+@@ -122,28 +123,23 @@
+ warm
+ might
+ as
+-well
+ swim
+ my
+ worlds
+ fire
+ how
+-bout
++about
+ yours
+ thats
+ way
+ like
+-ill
+ bored
+-go
+-moon
+ asked
+-could
++"could
+ spare
+ some
+ change
+ gas
+-"i
+ need
+ myself
+ away
+@@ -151,11 +147,13 @@
+ this
+ place"
+ said
+-"yep
++yep
+ what
+ concept
++could
+ use
+ little
+ fuel
+-change"
+-go!
++taking
++back
++streets

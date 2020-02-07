@@ -1,0 +1,145 @@
+--- og695.txt	2020-02-06 19:31:22.000000000 -0800
++++ kb519.txt	2020-02-06 19:31:27.000000000 -0800
+@@ -3,8 +3,8 @@
+ to
+ midnight
+ something
+-evils
+-lurking
++evil
++lurkin
+ in
+ the
+ dark
+@@ -42,6 +42,7 @@
+ this
+ is
+ thriller
++thriller
+ night
+ and
+ no
+@@ -59,8 +60,6 @@
+ inside
+ killer
+ tonight
+-yeah
+-ooh
+ hear
+ door
+ slam
+@@ -84,13 +83,11 @@
+ all
+ while
+ creature
+-creeping
++creepin
+ up
+ behind
+-out
+-of
++outta
+ time
+-thriller
+ there
+ aint
+ second
+@@ -98,33 +95,31 @@
+ against
+ thing
+ with
+-40
++forty
+ eyes
+ girl
+-ooh
+-ooh
+-killer
+-tonight
+ creatures
+ call
+ dead
+ walk
+ their
+ masquerade
++masquerade
+ escaping
+ jaws
++of
+ alien
+-theyre
+-open
+-wide
+ end
+ life
++theyre
++out
+ get
+ demons
+ closing
+ on
+ every
+ side
++ooh
+ they
+ will
+ possess
+@@ -145,7 +140,7 @@
+ more
+ than
+ any
+-ghoul
++ghost
+ would
+ dare
+ so
+@@ -154,9 +149,9 @@
+ hold
+ tight
+ share
++diller
+ chiller
+ here
+-im
+ darkness
+ falls
+ across
+@@ -182,23 +177,16 @@
+ face
+ hounds
+ hell
+-rot
++rots
+ corpses
+ shell
+-thriller
+-ooh
+-thriller
+-thriller
+-night
+-babe
+-babe
+ foulest
+ stench
+ air
+ funk
+ thousand
+ years
+-grisly
++grizzly
+ ghouls
+ tomb
+ are
+@@ -211,12 +199,6 @@
+ body
+ starts
+ shiver
+-im
+-tonight
+ mere
+ mortal
+ resist
+-evil
+-thriller!
+-ahahahahahahahaha
+-ahahahahahahahaha!

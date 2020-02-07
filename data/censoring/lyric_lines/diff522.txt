@@ -1,0 +1,80 @@
+--- og696.txt	2020-02-06 19:31:22.000000000 -0800
++++ kb522.txt	2020-02-06 19:31:27.000000000 -0800
+@@ -19,7 +19,7 @@
+ wanna
+ go
+ home
+-‘cause
++cuz
+ was
+ afraid
+ of
+@@ -53,8 +53,7 @@
+ tonight
+ is
+ night
+-night
+-we’re
++were
+ losing
+ control
+ we
+@@ -62,18 +61,15 @@
+ it
+ off
+ everybody
+-whoa
+-oh
+-oh
+-yeah
+-yeah
++wooh
++ooh
++yea
+ and
+ dont
+ know
+ better
+ but
+ as
+-came
+ felt
+ like
+ forever
+@@ -83,7 +79,7 @@
+ months
+ another
+ year
+-pass
++pa**
+ by
+ feel
+ much
+@@ -91,10 +87,10 @@
+ got
+ one
+ chance
+-motherfucker
+-imma
++motherf***er
++ima
+ make
+-y’all
++yall
+ dance
+ fun
+ can
+@@ -104,7 +100,7 @@
+ etch
+ plan
+ im
+-better
++feelin
+ than
+ ever
+ thought
+@@ -114,4 +110,3 @@
+ did
+ impossible
+ exist
+-exist

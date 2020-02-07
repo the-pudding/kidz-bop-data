@@ -1,0 +1,52 @@
+--- og693.txt	2020-02-06 19:31:22.000000000 -0800
++++ kb512.txt	2020-02-06 19:31:27.000000000 -0800
+@@ -31,9 +31,9 @@
+ darling
+ be
+ loving
+-till
++til
+ were
+-seventy
++70
+ baby
+ heart
+ could
+@@ -41,7 +41,7 @@
+ as
+ hard
+ at
+-twenty-three
++23
+ im
+ thinking
+ bout
+@@ -69,7 +69,6 @@
+ honey
+ now
+ take
+-me
+ into
+ arms
+ kiss
+@@ -81,9 +80,9 @@
+ head
+ on
+ beating
+-heart
+ out
+ loud
++that
+ we
+ found
+ right
+@@ -120,8 +119,7 @@
+ making
+ mistakes
+ hoping
+-that
+ youll
+ understand
+-that
+ oh
++darling

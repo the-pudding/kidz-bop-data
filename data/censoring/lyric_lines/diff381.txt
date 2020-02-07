@@ -1,0 +1,117 @@
+--- og373.txt	2020-02-06 19:31:21.000000000 -0800
++++ kb381.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -3,53 +3,50 @@
+ staying
+ in
+ paris
+-to
+-get
++and
++were
+ away
+ from
+-your
++the
+ parents
+-and
+ i
+ thought
+-“wow
++wow
+ if
+ could
+ take
+ this
+ a
+-shot
++pic
+ right
+ now
+ dont
+ think
+ that
+ work
+-out”
+ out
+ on
+-the
+ terrace
+ know
+ its
+ fair
+ but
+ thought
+-“how
++how
+ let
+ you
+-fall
++go
+ by
+ yourself
+ while
+ im
+-wasted
++going
+ with
+ someone
+-else”
+-go
++else
+ down
+ then
++down
+ together
+ theyll
+ say
+@@ -58,37 +55,43 @@
+ was
+ clever
+ well
++get
+ everything
+ lets
+ show
+ them
+ are
+ better
+-look
++looked
+ so
+ proud
+ standing
+ there
+ frown
+-cigarette
++like
++only
+ posting
+ pictures
+-of
++every
++trip
+ internet
+ breathe
+ air
++of
+ small
+ town
+ our
+ own
+-cuttin
++having
+ class
+ for
+ thrill
+ it
+ getting
+-drunk
++lost
+ past
+-livin
+-if
++living
++everything
++are
++go
+ down

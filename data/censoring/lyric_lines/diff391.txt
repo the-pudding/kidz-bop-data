@@ -1,0 +1,48 @@
+--- og380.txt	2020-02-06 19:31:21.000000000 -0800
++++ kb391.txt	2020-02-06 19:31:27.000000000 -0800
+@@ -34,7 +34,7 @@
+ tomorrow
+ with
+ our
+-lips
++hearts
+ locked
+ yeah
+ got
+@@ -45,8 +45,8 @@
+ please
+ dont
+ go
+-wake
+-tomorrow
++find
++out
+ will
+ still
+ be
+@@ -56,10 +56,9 @@
+ do
+ leave
+ gonna
+-find
+ go
++baby
+ dont
+-bed
+ and
+ start
+ another
+@@ -68,12 +67,10 @@
+ instead
+ well
+ said
+-please
+-go
++leave
+ im
+ gon
+ you
+ dont
+-leave
+ me
+ me

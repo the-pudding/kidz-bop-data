@@ -1,0 +1,211 @@
+--- og60.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb66.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -4,7 +4,7 @@
+ a
+ billionaire
+ so
+-fucking
++very
+ bad
+ buy
+ all
+@@ -13,6 +13,7 @@
+ things
+ never
+ had
++uh
+ on
+ cover
+ forbes
+@@ -32,13 +33,11 @@
+ see
+ name
+ in
+-shiny
++shining
+ lights
+-yeah
+ different
+ city
+ night
+-i
+ swear
+ world
+ better
+@@ -46,99 +45,7 @@
+ for
+ when
+ im
+-yeah
+-would
+-have
+-show
+-like
+-oprah
+-host
+-everyday
+-christmas
+-give
+-travie
+-wish
+-list
+-id
+-probably
+-pull
+-an
+-angelina
+-brad
+-pitt
+-adopt
+-bunch
+-babies
+-that
+-aint
+-shit
+-away
+-few
+-mercedes
+-like
+-here
+-lady
+-this
+-last
+-but
+-not
+-least
+-grant
+-somebody
+-their
+-its
+-been
+-couple
+-months
+-ive
+-single
+-you
+-can
+-call
+-me
+-claus
+-minus
+-ho-ho
+-aha
+-get
+-it
+-visit
+-where
+-katrina
+-hit
+-damn
+-sure
+-do
+-lot
+-more
+-than
+-fema
+-did
+-cant
+-forget
+-about
+-me
+-stupid
+-everywhere
+-go
+-imma
+-own
+-theme
+-music
+-what
+-see
+-what
+-brah
+-lights
+-uh-ha
+-uh-ha
+-else
+-for
+-what
+-oh-oh
+-oh-oh
+-lets
+-go
++ill
+ playing
+ basketball
+ with
+@@ -152,19 +59,19 @@
+ political
+ etiquette
+ toss
++couple
+ milli
+ air
+ just
+ heck
+ it
++but
+ keep
+ fives
+-twennies
+-tens
+-bens
++twentys
+ completely
+ separate
+-ill
++yeah
+ whole
+ new
+ tax
+@@ -172,19 +79,28 @@
+ we
+ recession
+ let
++me
+ take
+ crack
+ at
++probably
+ whatevers
+ left
+ split
+ up
+ everybody
++that
+ love
++can
++have
+ bucks
++not
++single
+ tummy
+ around
++would
+ know
++what
+ hungry
+ was
+ eating
+@@ -196,17 +112,15 @@
+ go
+ your
+ pocket
++pull
+ out
+ wallet
+ put
+ sing
+-so
+-bad
++oooh
+ buy
+ everything
+-ha-ha
++what
+ up
+-oprah
+-sing
+-it
+-oh
++oprah!
++bad!

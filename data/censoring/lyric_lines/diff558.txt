@@ -1,0 +1,64 @@
+--- og706.txt	2020-02-06 19:31:22.000000000 -0800
++++ kb558.txt	2020-02-06 19:31:27.000000000 -0800
+@@ -38,7 +38,6 @@
+ at
+ spinet
+ yes
+-it
+ hasnt
+ snowed
+ single
+@@ -47,10 +46,11 @@
+ dear
+ were
+ hurry
+-so
+ climb
+ down
+ chimney
++turn
++on
+ brightest
+ string
+ of
+@@ -59,14 +59,14 @@
+ ever
+ seen
+ slice
+-fruitcake
++fruit
++cake
+ its
+ time
++weve
+ hung
+ some
+ tinsel
+-on
+-that
+ evergreen
+ bough
+ grown
+@@ -78,22 +78,6 @@
+ angel
+ sitting
+ shoulder
+-havent
+-taught
+-you
+-all
+-to
+-live
+-each
+-living
+-day
+-auntie
+-mame
+-one
+-week
+-from
+-thanksgiving
+-day
+ music
+ laughter
+ singing

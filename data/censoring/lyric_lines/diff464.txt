@@ -1,0 +1,182 @@
+--- og442.txt	2020-02-06 19:31:21.000000000 -0800
++++ kb464.txt	2020-02-06 19:31:27.000000000 -0800
+@@ -13,39 +13,25 @@
+ thoughts
+ in
+ every
+-no—
+-oh—ote
++note
+ make
+ me
+ your
+ radio
+-yeah
+-ha
+-ha
+-and
+ turn
+ up
+ when
+ you
+ feel
+ low
+-turn
+-little
+-bit
+ this
+ melody
+ was
+ meant
+-right
+-there
+ just
+ sing
+ along
+ to
+-gym
+-class
+-heroes
+-baby!
+ if
+ i
+ another
+@@ -53,10 +39,11 @@
+ record
+ on
+ the
+-shelf
++shelve
+ would
+ blow
+ off
++and
+ play
+ like
+ everybody
+@@ -67,13 +54,12 @@
+ could
+ manage
+ that
+-yikky-yeah
++read
++well
+ check
+-it
+ travie
+ can
+ handle
+-that
+ furthermore
+ apologize
+ any
+@@ -100,9 +86,8 @@
+ artifacts
+ only
+ find
+-note
+ understand
+-i’d
++id
+ softly
+ ear
+ grab
+@@ -115,27 +100,15 @@
+ favorite
+ tune
+ know
++heart
+ plays
+-yeah
+-yeah
+-come
+-on
+-uh-uh
+-up
+-oh
+ oh
+-oh-oh
+-oh-oh
+-to
+-stereo
+-lets
+-go!
+ an
+-old-school
+-fifty-pound
++old
++school
++fifty
++pound
+ boombox
+-remember
+-them
+ hold
+ shoulder
+ wherever
+@@ -146,11 +119,10 @@
+ cops
+ crank
+ higher
+-time
++everytime
+ they
+ told
+ stop
+-peace
+ all
+ dont
+ get
+@@ -164,34 +136,25 @@
+ mixtape
+ friends
+ never
+-know
+ we
++come
+ go
++were
+ interstate
+-never
+-know
+ think
+ finally
+ found
+-hit
++it
+ take
+-listen
+-oh
+-oh
+-come
+-sing
+-like
++hands
+ pray
+ leave
+ behind
+-me
+ because
+ good
+ music
+ be
+ hard
+-so
+-find
+ closer
+ mine
+ thought
+@@ -200,13 +163,3 @@
+ youre
+ changing
+ mind
+-ah-huh
+-haha
+-ye—eh—eh
+-lets
+-go
+-its
+-boy
+-travie
+-baby
+-yeah

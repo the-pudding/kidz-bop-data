@@ -1,0 +1,77 @@
+--- og292.txt	2020-02-06 19:31:21.000000000 -0800
++++ kb307.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -1,9 +1,7 @@
+ one
+ two
+-one
+ three
+-aw
+-yeah
++oh
+ yeah
+ ooh!
+ never
+@@ -24,7 +22,8 @@
+ but
+ swimming
+ your
+-waters
++world
++is
+ something
+ spiritual
+ im
+@@ -33,10 +32,9 @@
+ every
+ time
+ you
+-spend
+-night
++are
++sight
+ cause
+-sex
+ takes
+ me
+ to
+@@ -44,6 +42,7 @@
+ and
+ it
+ shows
++yeah
+ make
+ feel
+ like
+@@ -55,8 +54,8 @@
+ heaven
+ for
+ too
+-lo-o-ong
+-lo-o-ong
++long
++long
+ bring
+ knees
+ testify
+@@ -69,7 +68,6 @@
+ open
+ up
+ gates
+-cause
+ i
+ cant
+ wait
+@@ -77,11 +75,11 @@
+ light
+ right
+ there
+-is
+ where
+ stay
+-oh-oh-oh-oh
++oh
+ just
+ here
++spend
+ rest
+ days

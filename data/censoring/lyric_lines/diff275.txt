@@ -1,0 +1,87 @@
+--- og270.txt	2020-02-06 19:31:21.000000000 -0800
++++ kb275.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -11,7 +11,6 @@
+ starting
+ to
+ think
+-want
+ him
+ too
+ am
+@@ -33,7 +32,7 @@
+ music
+ up
+ and
+-puffing
++buffing
+ chest
+ getting
+ red
+@@ -42,7 +41,8 @@
+ can
+ call
+ me
+-obsessed
++a
++mess
+ its
+ not
+ your
+@@ -55,22 +55,22 @@
+ disrespect
+ right
+ be
+-hellish
++jealous
+ still
+ get
+-jealous
+ cause
+ youre
+-sexy
++pretty
+ beautiful
+ everybody
+-wants
+-a
+-taste
++likes
+ thats
+ why
+ thats
+ why
++
++wants
++taste
+ wish
+ didnt
+ post
+@@ -84,26 +84,14 @@
+ protective
+ or
+ possessive
+-girl
+-passive
++yeah
+ aggressive
+-it’s
+-jealous
++puffing
+ only
+ one
+ invited
+-invited
+-say
+ theres
+ else
+-for
+-you
+ excited
+-yeah
+ when
+-turning
+-beautiful
+ oh
+-jealous
+-jealous
+-jealous

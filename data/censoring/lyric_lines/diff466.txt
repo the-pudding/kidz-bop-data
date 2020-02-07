@@ -1,0 +1,114 @@
+--- og444.txt	2020-02-06 19:31:21.000000000 -0800
++++ kb466.txt	2020-02-06 19:31:27.000000000 -0800
+@@ -1,12 +1,11 @@
+ just
+ stop
+-lookin
++looking
+ for
+ love
+ girl
+-youre
+-young
+ you
++know
+ still
+ got
+ time
+@@ -19,13 +18,13 @@
+ it
+ dont
+ scare
+-me
+ away
+ turning
+ somethings
+ into
+ nothing
+ babe
++youre
+ already
+ used
+ to
+@@ -38,12 +37,13 @@
+ i
+ same
+ come
+-give
++sing
++with
+ me
+-yea
+-ah
+ yeah
+-by
++oh
++yeah
++can
+ tell
+ youve
+ been
+@@ -53,9 +53,7 @@
+ cause
+ young
+ waste
+-we
+ wasting
+-away
+ no
+ matter
+ what
+@@ -65,46 +63,25 @@
+ gon
+ take
+ places
+-know
+ wanna
+ see
+ some
+ faces
++we
++look
+ im
+ working
+ my
+ magic
+-diggin
++digging
+ fabric
+ boyfriend
+ material
+ said
+ yourself
+-digging
+-id
+-lying
+-wasnt
+-equally
+-equally
+-babe
+-a
+-feeling
+-both
+-feel
+-is
+-so
+-real
++me
+ but
+-kno-o-ow
+-slo-owly
+-well
+-may
+-truthfully
+ gotta
+-looking
+-yea
+-ah
+-something
+-right
+-now
+-ya
++talking
++be
++weve

@@ -1,0 +1,92 @@
+--- og189.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb193.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -25,7 +25,7 @@
+ in
+ a
+ corner
+-crying
++cryin
+ pardon
+ me
+ if
+@@ -35,8 +35,7 @@
+ never
+ see
+ again
+-no
+-no
++know
+ ill
+ alright
+ take
+@@ -56,6 +55,7 @@
+ gone
+ so
+ over
++it
+ ive
+ been
+ there
+@@ -66,30 +66,27 @@
+ just
+ case
+ youre
+-wondering
++wonderin
+ got
+ that
+ new
+-"im
+ single
+-girl"
++girl
+ swag
+ with
+ girls
+ were
+-singing
+-it
++singin
+ sing!
+-na-na-na-na
++na
+ hey
+ hey
+ goodbye
+-goodbye
+ cut
+ hair
+ cause
+ reminded
+-like
++liked
+ the
+ long
+ do
+@@ -97,20 +94,17 @@
+ switch
+ attitude
+ up
+-oh
+-thinking
+-changing
++thinkin
++changin
+ ride
+ no
+ more
+-passengers
++passenger
+ side
+ too
+ bad
+ missed
+ out
+-way
+-drive
+-gone
+-oh
+-he-ey
++fun
++having
++goodbye

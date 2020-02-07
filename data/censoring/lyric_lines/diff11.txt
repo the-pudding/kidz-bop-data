@@ -1,0 +1,59 @@
+--- og571.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb11.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -1,3 +1,6 @@
++kidz
++bop
++kids
+ i
+ dont
+ mind
+@@ -55,23 +58,21 @@
+ running
+ things
+ well
+-could
++can
+ ring
+ anybodys
+-bell
++cell
+ and
+ get
+ want
+ see
+ its
+-easy
+ to
+ ignore
+ trouble
+ bubble
+ nobody
+ wants
+-fool
+ with
+ your
+ own
+@@ -82,21 +83,9 @@
+ crying
+ mama
+ cause
++own
+ baby
++now
+ of
+ us
+ good
+-cause
+-you
+-to
+-mother
+-dont
+-crying
+-mama
+-this
+-is
+-world
+-this
+-youre
+-own
+-crying

@@ -1,0 +1,109 @@
+--- og130.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb137.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -14,6 +14,7 @@
+ just
+ die
+ with
++no
+ goodbyes
+ details
+ matter
+@@ -32,12 +33,12 @@
+ be
+ like
+ that
++yeah
+ now
+ every
+ time
+ i
+ see
+-you
+ pretend
+ im
+ fine
+@@ -58,25 +59,21 @@
+ than
+ anything
+ remember
+-us
+ at
+ our
+ best
+ late
+ nights
+-playing
++dancin
+ dark
+-waking
+-up
++holdin
+ inside
+ arms
+-boy
+ youll
+ always
+ heart
+ can
+ your
+-eyes
+ still
+ want
+ so
+@@ -104,12 +101,13 @@
+ a
+ new
+ relationship
+-comes
+-close
++know
++compares
+ what
+ had
+ perseveres
+ cant
++it
+ how
+ good
+ used
+@@ -119,16 +117,8 @@
+ one
+ me
+ shine
+-we
+-shine
+ matter
+-who
+ through
+-are
+-one
+-thats
+-fact
+-deny
+ so
+ fire
+ pass
+@@ -141,16 +131,17 @@
+ head
+ all
+ messed
++up
++thats
+ trickery
+-why
+-act
+-loving
+-be
++shell
++have
++lovin
++supposed
+ bet
+ she
+ do
+ me
+-shell
+ never
+ mc
+-babe
++you

@@ -1,0 +1,83 @@
+--- og86.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb96.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -8,19 +8,18 @@
+ it
+ goes
+ electric
+-wavey
++wavy
+ when
+ turn
+ on
+-all
+-through
++all through my
+ city
++all through
+ home
+ were
+ flying
+ up
+-no
+-ceiling
++no ceiling
+ we
+ in
+ our
+@@ -61,7 +60,7 @@
+ to
+ hide
+ im
+-getting
++dancing
+ you
+ close
+ move
+@@ -79,20 +78,18 @@
+ dance
+ a
+ good
+-creeping
++here
++with
+ come
++all
+ those
+ things
+-shouldnt
+-do
++saying
+ aint
+ nobody
+ leaving
+ soon
+ keep
+-dancing
+-come
+-on
+ ooh
+ its
+ something
+@@ -101,19 +98,16 @@
+ blood
+ rushing
+ need
++no
+ reason
+ control
+ fly
+ high
++ceiling
+ cause
+ the
+ i
+ feeling
+ everybody
+-sing
+-wanna
+-move
+-your
++now
+ body
+-break
+-down

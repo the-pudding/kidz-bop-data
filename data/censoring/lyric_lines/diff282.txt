@@ -1,0 +1,68 @@
+--- og626.txt	2020-02-06 19:31:21.000000000 -0800
++++ kb282.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -6,7 +6,7 @@
+ she
+ knows
+ what
+-doing
++doin
+ pushed
+ me
+ in
+@@ -36,7 +36,6 @@
+ bittersweet
+ knocks
+ off
+-of
+ feet
+ cant
+ help
+@@ -63,8 +62,7 @@
+ hour
+ runs
+ on
+-100
+-proof
++100%
+ attitude
+ power
+ ignores
+@@ -72,10 +70,9 @@
+ can
+ do
+ id
+-do
+ anything
+-when
+-sees
++way
++see
+ its
+ caller
+ id
+@@ -83,17 +80,15 @@
+ pick
+ up
+ phone
+-shed
+ rather
+ be
+ alone
+ give
+ yet
++because
+ every
+ word
+-ever
+ said
+-is
+ still
+ ringing
+ head
+@@ -102,5 +97,6 @@
+ so
+ whole
+ day
++is
+ ruined
+ oh

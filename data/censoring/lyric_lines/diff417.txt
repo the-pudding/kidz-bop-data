@@ -1,0 +1,91 @@
+--- og662.txt	2020-02-06 19:31:21.000000000 -0800
++++ kb417.txt	2020-02-06 19:31:27.000000000 -0800
+@@ -1,3 +1,11 @@
++yeah
++yeah
++santa
++claus
++is
++coming
++to
++town
+ you
+ better
+ watch
+@@ -8,32 +16,33 @@
+ im
+ telling
+ why
+-santa
+-claus
+-is
+-coming
+-to
+-town
+ hes
+ making
+ a
+ list
++and
+ checking
+ it
+ twice
+-going
++gonna
+ find
++out
+ whos
+ naughty
+-and
+ nice
++ooh
++ooh
++town
++oh
++baby
+ he
+ sees
+ when
+ youre
+ sleeping
+ knows
+-awake
++wake
++if
+ youve
+ been
+ bad
+@@ -44,4 +53,32 @@
+ for
+ goodness
+ sake
+-coming
++oh
++whoa
++with
++little
++tin
++horns
++toy
++drums
++rooty
++toot
++toots
++rummy
++tum
++tums
++curly
++head
++dolls
++that
++toddle
++coo
++elephants
++boats
++kiddie
++cars
++too
++now
++ho
++merry
++christmas

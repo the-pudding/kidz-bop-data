@@ -1,0 +1,50 @@
+--- og265.txt	2020-02-06 19:31:21.000000000 -0800
++++ kb273.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -52,6 +52,7 @@
+ making
+ by
+ side
++and
+ from
+ walking
+ out
+@@ -85,7 +86,7 @@
+ even
+ look
+ eye
+-ooh
++oooh
+ was
+ their
+ shoes
+@@ -106,11 +107,12 @@
+ something
+ they
+ understand
++well
+ darling
+ watch
+ change
+ minds
+-yeah
++yea
+ for
+ try
+ try
+@@ -123,10 +125,12 @@
+ bleeding
+ thatll
+ make
+-mine
+-say
+-dont
++right
++ooooh
+ say
+ goodbye
++say
+ goodbye
+-right
++ski-yies
++sa-a-ame
++rai-ai-ai-ain

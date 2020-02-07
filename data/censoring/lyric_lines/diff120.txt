@@ -1,0 +1,69 @@
+--- og591.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb120.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -24,6 +24,7 @@
+ well
+ stars
+ yeah
++stars
+ i
+ see
+ this
+@@ -38,7 +39,6 @@
+ across
+ line
+ and
+-in
+ face
+ is
+ flashing
+@@ -46,7 +46,7 @@
+ seek
+ it
+ out
+-ye
++you
+ shall
+ find
+ old
+@@ -59,21 +59,20 @@
+ think
+ world
+ sold
+-on
+ just
+ doing
+ what
+ were
+ told
+-i-i-i-i
+ feel
+ something
+ so
+ right
+ wrong
+ thing
+-couldnt
+ lie
++coudnt
++i
+ lie
+ everything
+ kills
+@@ -88,7 +87,6 @@
+ every
+ turn
+ hope
+-our
+ four-letter
+ word
+ make
+@@ -100,6 +98,8 @@
+ take
+ money
+ sink
++in
+ river
+ lessons
+-learned
++are
++learnt

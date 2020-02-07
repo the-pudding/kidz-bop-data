@@ -1,0 +1,125 @@
+--- og418.txt	2020-02-06 19:31:21.000000000 -0800
++++ kb438.txt	2020-02-06 19:31:27.000000000 -0800
+@@ -6,10 +6,9 @@
+ something
+ about
+ ya
+-woo
+ got
+ me
+-feelin
++feeling
+ like
+ cant
+ be
+@@ -34,7 +33,6 @@
+ know
+ is
+ that
+-you
+ take
+ high
+ can
+@@ -42,17 +40,19 @@
+ drive
+ crazy
+ cause
++can’t
+ get
+ out
+ my
+ mind
+-think
++thinkin
+ of
+ when
+-going
++goin
+ bed
+ wake
+ up
++think
+ again
+ are
+ homie
+@@ -62,13 +62,11 @@
+ exactly
+ why
+ light
+-up
+ inside
+ the
+ 4th
+ july
+ whenever
+-youre
+ always
+ seem
+ smile
+@@ -82,9 +80,8 @@
+ mirror
+ singing
+ shower
+-la-da-dee
+-la-da-da
+-la-da-da
++ladade
++ladada
+ want
+ need
+ lovin
+@@ -95,26 +92,24 @@
+ since
+ came
+ what
++ive
+ discovered
+-baby
+ another
+ no
+-no
++know
+ only
+-feeling
++feelin
+ so
+ so
+ have
+ plan
+ let
+ go
+-yeah
+-whoa
+-oh
+-there
++they
+ guarantee
+ but
+ ill
++a
+ chance
+ on
+ we
+@@ -125,19 +120,17 @@
+ shower
+ times
+ rough
+-givin
++there
++given
+ it
+ feels
+ right
+ care
+ others
+ say
+-straight
+-youll
++stray
+ bring
+ heart
+ life
+ yeah
+-im
+-oh
+ hey

@@ -1,0 +1,72 @@
+--- og564.txt	2020-02-06 19:31:22.000000000 -0800
++++ kb599.txt	2020-02-06 19:31:27.000000000 -0800
+@@ -1,11 +1,11 @@
+ i
+ found
+-god
++him
+ on
+ the
+ corner
+ of
+-first
++1st
+ and
+ amistad
+ where
+@@ -15,10 +15,11 @@
+ but
+ won
+ alone
+-smoking
+-his
+-last
+-cigarette
++saying
++that
++we
++never
++met
+ said
+ "where
+ you
+@@ -35,12 +36,10 @@
+ days
+ spent
+ by
+-a
+ telephone
+-that
+-never
+ rang
+ needed
++a
+ call
+ came
+ to
+@@ -56,7 +55,6 @@
+ have
+ wait
+ you
+-you
+ just
+ little
+ late
+@@ -95,16 +93,13 @@
+ calling
+ for
+ years
+-left
+-messages
+-send
+-letters
+ got
+ some
+ kind
+ nerve
+ taking
+ want
++floor
+ wait
+ find
+ me

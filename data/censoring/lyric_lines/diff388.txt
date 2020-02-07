@@ -1,0 +1,104 @@
+--- og379.txt	2020-02-06 19:31:21.000000000 -0800
++++ kb388.txt	2020-02-06 19:31:27.000000000 -0800
+@@ -1,7 +1,6 @@
+ loving
+ can
+ hurt
+-hurt
+ sometimes
+ but
+ its
+@@ -13,12 +12,12 @@
+ know
+ when
+ it
+-gets
+-hard
+-you
+-get
++gets hard
++you know
++can get
+ hard
+ is
++only thing
+ makes
+ us
+ feel
+@@ -42,14 +41,13 @@
+ never
+ closing
+ hearts
+-were
+ broken
+-and
+ times
+ forever
+ frozen
+ still
+ so
++you
+ me
+ inside
+ pocket
+@@ -57,9 +55,9 @@
+ your
+ ripped
+ jeans
+-holding
+-close
+-until
++holdin
++closer
++til
+ meet
+ wont
+ ever
+@@ -72,9 +70,11 @@
+ heal
+ mend
+ soul
++and
+ know
+ swear
+ will
++get
+ easier
+ remember
+ with
+@@ -82,10 +82,9 @@
+ piece
+ ya
+ take
+-die
+-alone
++go
++were
+ if
+-me
+ thats
+ okay
+ baby
+@@ -94,19 +93,19 @@
+ pages
+ just
+ hold
+-won’t
+ let
+-go
+ oh
+ fit
+ necklace
+ got
+-sixteen
++13
+ next
+ heartbeat
+ should
+ deep
+ within
++well
++ok
+ im
+ away
+ how

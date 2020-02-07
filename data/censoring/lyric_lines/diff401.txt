@@ -1,0 +1,99 @@
+--- og657.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb401.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -2,7 +2,7 @@
+ he
+ was
+ a
+-killer
++dancer
+ first
+ time
+ that
+@@ -27,6 +27,7 @@
+ be
+ phantom
+ holdin
++it
+ for
+ ransom
+ some
+@@ -47,7 +48,7 @@
+ act
+ like
+ such
+-man
++fan
+ so
+ see
+ nothing
+@@ -58,39 +59,33 @@
+ i
+ this
+ is
+-gon
++gonna
+ go
+-touch
++know
+ me
+ youll
+ never
+ alone
+ i-island
+ breeze
+-lights
+-down
++sunsets
+ low
+-no
+-one
+-has
++you
++have
+ to
+-know
+ in
+ the
+ middle
+ of
+ night
+ dreams
+-you
+ should
+ things
+ we
+-do
++see
+ baby
+ im
+-gonna
+ with
+-you
+ take
+ ready
+ it
+@@ -125,7 +120,8 @@
+ tame
+ now
+ same
+-no
++gon
++all
+ know
+ night
+ oh
+@@ -133,14 +129,3 @@
+ let
+ games
+ begin
+-night
+-my
+-dreams
+-do
+-we
+-do
+-baby
+-hmm
+-eh
+-i
+-you

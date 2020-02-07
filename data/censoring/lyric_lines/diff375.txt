@@ -1,0 +1,230 @@
+--- og360.txt	2020-02-06 19:31:21.000000000 -0800
++++ kb375.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -1,27 +1,10 @@
+-jlo!
+-ya
+-tú
+-sabes
+-no
+-es
+-más
+-nada
+ its
+ a
+ new
+ generation
+-mr
+-worldwide!
+ of
+ party
+ people
+-yeah
+-get
+-on
+-the
+-floor
+-dale
+-redone
+ let
+ me
+ introduce
+@@ -29,90 +12,52 @@
+ to
+ my
+ in
++the
+ club
+-ha!
+-im
+-loose
+-im
+-loose
+-and
+-everybody
+-knows
+-i
+-off
+-chain
+-babe
+-truth
+-its
+-truth
+-like
+-inception
+-play
+-with
+-your
+-brain
+-so
+-dont
+-sleep
+-or
+-snooze
+-snooze
+-games
+-d-d-dont-dont-dont
+-it
+-confused
+-cause
+-will
+-lose
+-yeah
+-now
+-now
+-pu-pu-pu-pu-pump
+-up
+-back
+-up
+-tonka
+-truck
+-dale!
++ha
+ if
+ go
+ hard
+ gotta
++get
++on
+ floor
+-hey
+ youre
+-freak
++kid
+ then
+ step
+-yeah
+ an
+ animal
+ tear
+-break
++up
++take
+ sweat
++yeah
+ we
+ work
+-ah
++dont
+ stop
+ keep
++em
+ moving
+ put
+-drinks
+-woo!
++hands
+ pick
+ body
++and
+ drop
+-rhythm
++it
++rhythem
+ change
++your
+ world
+-hahaha
+ know
+ were
+ running
+-shit
++this
+ tonight
+ brazil
+-morocco
++morroco
+ london
+ ibiza
+ straight
+@@ -129,84 +74,17 @@
+ young
+ grab
+ somebody
+-drink
+ little
+ more
+-así
+-mismo
+-gusta
+-gusta
+-la-la-la-la-la-la-la-la-la-la-la-la-la-la
+-tonight
++lalalalalalalalalalalalalalaa
+ gon
+ be
+-lets
+-rock
++i
+ got
+-it
+ clap
+-hands
+-rocking
++rockin
+ rock
+-criminal
+-kill
+-steal
+-quick
+-getting
+-ill
+-sick
+-never
+-quit
+-rest
+-am
+-not
+-wrong
+-well
+-probably
+-die
+-dale
+-ha
+-dale
+-gusta
+-that
+-badonkadonk
+-is
+-trunk
+-full
+-bass
+-old
+-school
+-chevy
+-seven-trey
+-donkey
+-donk
+-all
+-need
+-some
+-vodka
+-chonky
+-coke
+-watch
+-konged
+-baby
+-ready
+-for
+-things
+-heavy
+-act
+-fool
+-me
+-believe
+-just
+-bet
+-name
+-aint
+-keith
+-but
+-see
+-why
+-miami
+-york
+-say
+-more
+-woo
++shoostop
++move
++prechorus
++chorusx4

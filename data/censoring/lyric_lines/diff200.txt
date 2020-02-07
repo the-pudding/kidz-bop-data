@@ -1,0 +1,42 @@
+--- og191.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb200.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -24,7 +24,7 @@
+ all
+ ive
+ held
+-onto
++on
+ standing
+ here
+ until
+@@ -43,6 +43,7 @@
+ take
+ your
+ invitation
++and
+ now
+ living
+ the
+@@ -50,13 +51,12 @@
+ thing
+ know
+ running
+-and
+ not
+ quite
+ sure
+ dont
+ what
+-diving
++driving
+ into
+ just
+ theres
+@@ -72,5 +72,5 @@
+ mind
+ there
+ is
+-here
+-you
++hangin
++diving

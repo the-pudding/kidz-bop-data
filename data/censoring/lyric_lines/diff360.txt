@@ -1,0 +1,67 @@
+--- og352.txt	2020-02-06 19:31:21.000000000 -0800
++++ kb360.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -1,20 +1,19 @@
+-cutting
++cut
+ me
++right
+ up
+-like
+-a
+-knife
++in
++my
++love
+ and
+ i
+ feel
+ it
+ deep
+-in
+-my
+ bones
+ kicking
++a
+ habit
+-love
+ even
+ harder
+ you
+@@ -32,7 +31,7 @@
+ see
+ bottom
+ its
+-so
++too
+ easy
+ to
+ fall
+@@ -44,8 +43,6 @@
+ catch
+ one
+ another
+-another
+-another
+ oh
+ na
+ na
+@@ -59,17 +56,16 @@
+ think
+ about
+ heart
+-deep
+-heart
+ maybe
+ meant
+ something
+ are
+ ooh
++so
+ promises
+ water
+ want
+-lie
++sit
+ here
+ you
+ promise

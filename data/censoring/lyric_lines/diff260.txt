@@ -1,0 +1,280 @@
+--- og622.txt	2020-02-06 19:31:21.000000000 -0800
++++ kb260.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -1,11 +1,8 @@
+-we
++im
+ the
+-best
+-music
+-another
+-one!
+-dj
+-khaled
++one
++kidz
++bop!
+ yeah
+ youre
+ lookin
+@@ -15,8 +12,6 @@
+ never
+ lie
+ no
+-im
+-one
+ one
+ early
+ mornin
+@@ -24,8 +19,8 @@
+ dawn
+ know
+ you
+-wanna
+-ride
++gotta
++rise
+ now
+ lets
+ ride
+@@ -53,197 +48,91 @@
+ oh-eh-oh-oh-oh
+ eh-oh
+ yeah!
+-quavo!
+-that
+-hit
+-same
+-spot
+-hit
+-it
+-she
+-bring
+-them
+-rain
+-drops
+-rain
+-drops
+-go
+-back
+-remember
+-criss-cross
+-hopscotch
+-hopscotch
+-hold
+-me
+-down
+-when
+-blocks
+-hot
+-hot
+-i
+-make
+-your
+-dreams
+-come
+-true
+-wake
+-up
+-dream
+-looks
+-just
+-without
+-make-up
+-had
+-to
+-pull
+-on
+-mama
+-what
+-made
+-mama
+-aint
+-gotta
+-worry
+-bout
+-em
+-commas
+-cause
+-my
+-cake
+-can
+-inside
+-life
+-from
+-fame
+-bus
+-skrrt
+-promise
+-step
+-out
+-youll
+-be
+-famous
+-yeah
+-modern
+-day
+-bonnie
+-clyde
+-they
+-named
+-us
+-why
+-up—brt-brt!—all
+-angles
+-okay
+-though
+-uh
+-beat
+-her
+-face
+-with
+-new
+-chanel
+-like
+-price
+-ice
+-it
+-coochie
+-melt
+-met
+-club
+-asked
+-who
+-felt
+-then
+-went
+-put
+-booty
+-gucci
+-belt
+-got
+-label
+-say
+-want
+-bottles
+-table
+-bed
+-frame
+-tables
+-watchin
+-netflix
+-cable
+-plug
+-plug
+ for
+-a
+-nigga
+-hair
+-door
+-baby
+-thats
+-me
+-bitch
+-okay
+ one
+ well
++best
+ yet
+ yet
++my
+ is
++to
++come
++cause
+ ive
+ been
+ somebody
+ not
++just
+ any
+-fuckin
+-body
++make
++me
+ catch
++a
++body
++thats
+ everybody
+ oh
+-god
++gosh
++she
++hit
++up
+ day
+ get
+ response
+ blow
+-high
++mind
++like
+ turnin
+ gold
+ bronze
+ roll
+ eyes
+-molly
+-zombie
+-think
++when
++hear
++this
++song
++dances
++crazy
++thinks
++party
+ but
+-its
++shes
++really
+ more
+-whitney
+-bobby
++smarty
++please
+ forgive
+ me!
+-tunechi
+-f
+-finessin
++listening
++dancing
+ legend
+ straight
++out
+ crescent
+ fly
++your
+ bae
+-essence
++down
++lesson
+ record
++i
+ knew
+-boy
++before
++we
+ was
+ spinnin
+ records
+-mula
+-gang
++with
++friends
+ winnin
+ flexin
++on
+ exes
+-god
+-another
+-one
++okay
++though
+ know
+ girl
+ am
+ im
++one

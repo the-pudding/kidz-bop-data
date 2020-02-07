@@ -1,0 +1,79 @@
+--- og218.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb225.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -1,4 +1,6 @@
+-i
++ho!
++hey!
++ive
+ been
+ trying
+ to
+@@ -9,7 +11,7 @@
+ a
+ lonely
+ life
+-sleepin
++sleeping
+ here
+ instead
+ in
+@@ -23,6 +25,7 @@
+ the
+ blood
+ that
++i
+ will
+ bleed
+ dont
+@@ -35,11 +38,16 @@
+ can
+ write
+ song
++1
++2
++3
+ with
+ you
+ you
++me
+ youre
+ sweetheart
++sweet
+ think
+ for
+ him
+@@ -48,13 +56,13 @@
+ might
+ have
+ if
+-we
+ took
+ bus
+-chinatown
++china
++town
+ id
+ be
+-standin
++standing
+ on
+ canal
+ and
+@@ -62,6 +70,7 @@
+ shed
+ next
+ love
++we
+ need
+ now
+ lets
+@@ -70,5 +79,8 @@
+ cause
+ oh
+ were
+-bleedin
++bleeding
+ out
++the
++last
++one

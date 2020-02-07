@@ -1,0 +1,72 @@
+--- og593.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb126.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -13,21 +13,21 @@
+ inside
+ it
+ was
++a rush what
+ a
+ rush
+-what
+-rush
+-cause
++cause the
+ possibility
+ that
+ you
+ would
+ ever
+-feel
++feel the
+ same
+ way
+ about
+ me
++its
+ just
+ too
+ much
+@@ -42,10 +42,12 @@
+ think
+ is
+ got
++me
+ hypnotized
+ so
+ mesmerized
+ and
++ive
+ to
+ know
+ when
+@@ -78,15 +80,16 @@
+ like
+ do
+ cause
+-ive
+-tried
++im
++trying
++trying
+ walk
+ away
+ but
+ crush
+ aint
+-going
+-away-ay-ay
++goin
++away
+ has
+ crossed
+ your
+@@ -98,9 +101,7 @@
+ friends
+ there
+ more
+-more
+ see
+-its
+ chance
+ weve
+ gotta

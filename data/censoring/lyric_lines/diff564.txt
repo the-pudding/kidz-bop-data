@@ -1,0 +1,191 @@
+--- og530.txt	2020-02-06 19:31:22.000000000 -0800
++++ kb564.txt	2020-02-06 19:31:27.000000000 -0800
+@@ -3,16 +3,24 @@
+ girl
+ wants
+ needs
++whatever
++makes
++me
++happy
++sets
++you
++free
++keeps
++in
++your
++arms
+ yeah
+-come
+-on
++cmon
+ i
+ wanna
+ thank
+-you
+ for
+-giving
+-me
++givin
+ time
+ to
+ breathe
+@@ -25,7 +33,6 @@
+ got
+ it
+ together
+-oh
+ figured
+ out
+ only
+@@ -34,55 +41,46 @@
+ never
+ touched
+ cause
+-in
+ my
+ heart
+ was
+ picture
+ of
+ us
+-holding
++holdin
+ hands
+-making
++makin
+ plans
+ and
+ its
+ lucky
+ understand
+-whatever
+-makes
+-happy
+-sets
+-free
+ im
+-thanking
+-knowing
++thankin
++knowin
+ exactly
+-keeps
+-your
+ arms
+-want
+-is
+-got
++bein
+ there
+-blind
+-confused
+-run
++weaker
++man
++might
++have
++walked
+ away
+-just
+-hide
+-all
+-from
+-baby
+-knew
+-better
+-than
+-myself
++had
++faith
++strong
++enough
++move
++over
++give
++space
+ they
+ say
+ if
+ love
+-something
++somethin
+ let
+ go
+ comes
+@@ -92,35 +90,56 @@
+ how
+ know
+ keeps
+-yeah
+ sure
+ youre
+ ready
+-willing
+-give
++willin
+ more
++than
++oh
++baby
++darlin
++you
++yeah
++found
+ somebody
+ sensitive
+-courageous
+-sexy
+-cool
+-wants
+-youre
+-right
+-much
+-care
+-about
+-her
+-swear
++tough
++down
++when
+ the
++goin
++gets
++rough
++every
++night
++hell
++be
++his
++just
++warm
++down
++cool
++tender
++too
++somebody
++can
++keep
++hangin
++around
++with
+ one
+ who
+ always
+ knew
+ ooh
+-being
+-arms
++is
+ need
+-oh
+-darlin
+-givin
++all
++that
++want
++want
++incomprehensible
++whenever
++not
++wants

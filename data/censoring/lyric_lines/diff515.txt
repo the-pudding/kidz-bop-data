@@ -1,0 +1,49 @@
+--- og489.txt	2020-02-06 19:31:22.000000000 -0800
++++ kb515.txt	2020-02-06 19:31:27.000000000 -0800
+@@ -15,22 +15,24 @@
+ everybodys
+ watching
+ her
+-but
+-shes
+-looking
++but shes looking
+ at
++you oh
++oh
+ you
+ oh
+-ooh
+-ooh-oooh
+-oooh-oooh
++oh oh
++lightning
++but
++shes
++looking
+ we
+ go
+ fast
+-with
+-the
+-game
+-play
++til
++they
++cant
++replay
+ who
+ knows
+ why
+@@ -44,8 +46,8 @@
+ than
+ need
+ i
+-"your
+-place"
++see
++your
++face
+ when
+ leave
+-yeah

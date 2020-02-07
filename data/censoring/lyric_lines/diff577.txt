@@ -1,0 +1,72 @@
+--- og542.txt	2020-02-06 19:31:22.000000000 -0800
++++ kb577.txt	2020-02-06 19:31:27.000000000 -0800
+@@ -1,7 +1,8 @@
+ so
+ lately
++ive
+ been
+-wondering
++wonderin
+ who
+ will
+ be
+@@ -28,22 +29,22 @@
+ wave
+ shall
+ fall
+-and
++it
++would
+ upon
+ us
+ all
+-then
++and
+ between
+ sand
+ stone
+ could
+ you
+ make
+-it
+ own
+ i
+ could
+-would
++then
+ ill
+ go
+ wherever
+@@ -58,22 +59,20 @@
+ out
+ back
+ someday
+-want
++watch
+ you
+ guide
+ through
+ darkest
+ of
+ days
+-then
+ hope
+ theres
+ someone
+ can
+ bring
+ me
+-run
+-away
++runaway
+ with
+ heart
+ know
+@@ -85,7 +84,6 @@
+ might
+ still
+ in
+-heart
+ mind
+ stay
+ for

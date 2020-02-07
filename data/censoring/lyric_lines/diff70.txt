@@ -1,0 +1,88 @@
+--- og63.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb70.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -26,16 +26,18 @@
+ know
+ youre
+ frozen
++frozen
+ but
+ something
+-happened
++happen
+ for
+ very
+ first
+ with
+ my
+ heart
+-melted
++melts
++into
+ ground
+ found
+ true
+@@ -46,6 +48,7 @@
+ im
+ going
+ crazy
++crazy
+ dont
+ care
+ what
+@@ -69,6 +72,7 @@
+ open
+ bleeding
+ keep
++bleeding
+ trying
+ hard
+ not
+@@ -76,20 +80,21 @@
+ talk
+ so
+ loud
+-their
+ piercing
+ sounds
+ fill
+ ears
++tryin
+ doubt
+ yet
+ goal
+ is
+ falling
++falling
+ nothings
+ greater
+ than
+-risk
++rush
+ comes
+ your
+ embrace
+@@ -102,11 +107,12 @@
+ everyone
+ around
+ thinks
++baby
+ maybe
+-maybe
++say
+ its
+ draining
+-though
++oh
+ find
+ believe
+ ill
+@@ -115,8 +121,4 @@
+ these
+ scars
+ ooh
+-i
+-oohhh
+-i
+-keep
+-ooh
++oh

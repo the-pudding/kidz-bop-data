@@ -1,0 +1,187 @@
+--- og99.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb107.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -20,23 +20,8 @@
+ right
+ now
+ watchin
+-me
+ go
+ all
+-eh
+-yea-ei-yeaaah
+-eh
+-yea-yeaaaah
+-haha!
+-nothin
+-now!
+-see
+-you
+-d
+-guetta
+-lets
+-get
+-em!
+ hey
+ own
+ night
+@@ -49,27 +34,24 @@
+ feeling
+ that
+ scarface
+-felt
++player
+ stuntin
+-gone
+ wild
+ this
+-playa
++plan
+ life
+ of
+ arrogant
+ like
+-yeah
+-talk
+-like
++yeah!
++top
+ money
+ girls
+ just
+ melt
+-one
+-too
++want
++so
+ many
+-on
+ twelve
+ look
+ cash
+@@ -77,14 +59,13 @@
+ bottles
+ models
+ standin
++on
+ chairs
+-ball
++fall
+ cause
+ thats
+ business
+-out
+ its
+-so
+ ridiculous
+ much
+ attention
+@@ -92,50 +73,45 @@
+ im
+ in
+ building
+--
+ hey!
+-watchin
+ rockin
+-rollin
+-holdin
+-it
++rolling
++holding
+ it
+ still
+ feelin
+ myself
+ outta
+ control
+-now
+ more
+ shots
++lets
+ ten
+ rounds
+ can
++get
+ a
+-ko
++k-o
+ paparazzi
+-tryna
++trying
+ pose
+ came
+ party
+-til
++till
+ celebrate
+ tip
+ groupies
+ takin
+ off
++their
+ clothes
+ grand
+ finale
+-super
+-bowl
++superbowl
+ hard
+ run
+ show
+-right
+-wild
+ got
+-money
+ blow
+ lights
+ ice
+@@ -147,7 +123,6 @@
+ big
+ over
+ globe
+-yeah!
+ said
+ tell
+ confetti
+@@ -159,10 +134,10 @@
+ your
+ hands
+ up!
+-yeah
++hey
+ my
+ everybody
+-wantin
++wanting
+ am
+ ladies
+ man
+@@ -171,7 +146,7 @@
+ we
+ ball
+ so
+-ahh!
++ah
+ bring
+ ya
+ body
+@@ -186,15 +161,13 @@
+ fly
+ around
+ world
+-whatchu
+-want
++what
+ baby
+ girl
+ are
+ ready
+-go
+-now
+-put
+-up!
++now!
++em
++lets
+ shut
+ down!

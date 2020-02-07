@@ -1,0 +1,89 @@
+--- og648.txt	2020-02-06 19:31:21.000000000 -0800
++++ kb376.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -8,10 +8,10 @@
+ no
+ more
+ air
+-tripping
++trippin
+ over
+ myself
+-going
++goin
+ nowhere
+ waiting
+ suffocating
+@@ -20,17 +20,16 @@
+ took
+ a
+ dive
+-and
+ on
+ the
+ way
+ down
+ saw
+ you
+-you
+ saved
+ me
+ from
++myself
+ wont
+ forget
+ loved
+@@ -40,7 +39,8 @@
+ through
+ but
+ held
+-to
++onto
++ive
+ been
+ wondering
+ why
+@@ -50,6 +50,7 @@
+ always
+ inside
+ waiting
++to
+ breathe
+ alright
+ sunlight
+@@ -57,27 +58,30 @@
+ face
+ wake
+ up
+-yet
++yeah
+ im
+ alive
+ cause
++down
++now
+ was
+ so
+ afraid
++going
+ under
+-now
+ weight
++world
+ feels
+ like
+ nothing
+-down
+-down
+-down
++no
++nothing
+ youre
+ all
+ wanted
+ needed
+ that
+ wanted
+-now
+ oh
++through
++yeah

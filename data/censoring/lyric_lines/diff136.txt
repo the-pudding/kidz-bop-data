@@ -1,0 +1,99 @@
+--- og128.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb136.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -1,6 +1,6 @@
+ im
+ feeling
+-sexy
++happy
+ and
+ free
+ like
+@@ -10,7 +10,7 @@
+ me
+ youre
+ a
+-shot
++ton
+ of
+ pure
+ gold
+@@ -39,27 +39,24 @@
+ spin
+ out
+ control
+-ooh-ooh-ooh-ooh
+ we
+-do
+-this
++dance
++here
+ all
+ night
+-damn
+-love
+-is
+-skin
++done
++this
++club
++up
++real
+ tight
+ baby
+-cmon
+-boom
++come
+ bass
+ drum
+ sparking
+-up
+ rhythm
+ rock
+-my
+ world
+ until
+ sunlight
+@@ -69,21 +66,23 @@
+ ive
+ ever
+ known
+-dirty
++were
+ dancing
+ moonlight
+-take
++knock
+ down
+ domino
+ every
+ second
++is
+ highlight
+ when
+-touch
++dance
+ let
+ go
+ got
+ losing
++my
+ mind
+ heart
+ beats
+@@ -91,12 +90,7 @@
+ seeing
+ hollywood
+ stars
+-strum
+-guitar
+-ooh
+-so
+-right
+-ooh
+-baby
+-in
+-moonlight
++with
++crazy
++lights
++guitars

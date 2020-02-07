@@ -1,0 +1,66 @@
+--- og54.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb58.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -11,8 +11,7 @@
+ touched
+ the
+ clouds
+-wo-o-o-o-o-o-oh
+-wo-o-o-o-o-o-oh
++wo-o-o-o-o-oh
+ stretched
+ my
+ hands
+@@ -30,24 +29,25 @@
+ gonna
+ look
+ back
+-whoa
++woah
+ give
+ it
+ up
+ no
+-just
++please
+ dont
+ wake
+ me
+ now
++oo-o-o-o-oo
+ this
+ is
+ be
+ best
+ day
+ of
+-life
+-li-i-i-i-i-i-ife
++li-ife
++li-i-i-i-i-ife
+ howled
+ at
+ moon
+@@ -60,7 +60,9 @@
+ but
+ all
+ possibilities
++no
+ limits
++just
+ epiphanies
+ hear
+ calling
+@@ -80,10 +82,10 @@
+ lose
+ control
+ control
+-wo-o-o-o-o-o-oh
++oo-o-o-o-o
+ be
++life
+ everything
+-lookin
++looking
+ up
+ everybody
+-now!

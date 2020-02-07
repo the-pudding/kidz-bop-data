@@ -1,0 +1,221 @@
+--- og114.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb124.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -1,7 +1,9 @@
++all-
+ baby
+-you
++youre
+ a
+-song
++song 
++you
+ make
+ me
+ wanna
+@@ -9,134 +11,133 @@
+ my
+ windows
+ down
+-and
+ cruise
+-hey
+-baby
++i
++got
++down
++and
++the
++radio
++up
++get
++your
++up
++boy
++solo-
+ yeah
+ when
+-i
+ first
+ saw
+ that
+-bikini
+-top
++pretty
++smile
+ on
+-her
+-she’s
+-popping
++her 
++girl
++shes
++dancin
+ right
+ out
+ of
+-the
+ south
+ georgia
+-water
++water 
+ thought
++duet
++bot
++harmony
++melody-
+ "oh
+ good
+ lord
+ she
+ had
+ them
+-long
+-tanned
+-legs"
+-couldnt
++cool
++dance
++moves"
++ couldnt
+ help
+ myself
+ so
+ walked
+-up
+ said
++spoken
++he
++cruise 
+ back
+ road
+-blowing
+-stop
+-signs
++blowin
++thru
++pines
+ through
+-middle
++middle 
+ every
+ little
+ farm
+ town
+ with
++ 
+ in
+ this
+ brand
+ new
+ chevy
+ lift
+-kit
++kit 
+ would
+ look
+-hell
++heck
+ lot
+ better
+-it
++us
++it 
++come
++on!
++boy
++mel
++har-ya
+ was
+-sipping
++talkin
++all
+ southern
+-singing
++singin
+ marshall
+-tucker
++tucker 
+ we
+ were
+ falling
+ love
+ sweet
+ heart
+-summer
++summer 
++girl
++har-
+ hopped
+ into
+-cab
++side
+ truck
+-"fire
+-up
++said 
++"sing
+ lets
+ go
+-get
+-thing
++song
+ stuck"
++sing
++it!
++you 
++kit
++ would
++song
++hey
++go!
++x2-
++signs
++3
++part
++harmony
++group
++one-
++two-
+ sun
+-fell
+-to
+-its
+-knees
+-looked
+-at
+-turned
+-those
+-kc
+-lights
+-drove
+-all
+-night
+-because
+-felt
+-right
+-i
+-man
+-put
+-park
+-grabbed
+-guitar
+-strummed
+-couple
+-chords
+-sang
+-from
+-girl
+-sure
+-got
+-beat
+-chest
+-bumping
+-hell
+-cant
+-head
+-come
+-on
+-girl
+-aww
+-yeah
++goes

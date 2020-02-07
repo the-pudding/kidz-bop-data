@@ -1,0 +1,98 @@
+--- og120.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb128.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -20,7 +20,7 @@
+ you
+ patient
+ understanding
+-‘cause
++cause
+ i
+ might
+ need
+@@ -33,6 +33,7 @@
+ my
+ heart
+ and
++ive
+ tried
+ every
+ remedy
+@@ -40,17 +41,17 @@
+ seems
+ work
+ for
+-baby
++me
+ baby
+ this
+-situation’s
++situations
+ driving
+ crazy
+ really
+ wanna
+ be
+ your
+-lady
++girl
+ but
+ one
+ before
+@@ -75,8 +76,6 @@
+ what
+ baby
+ do
+-hold
+-on
+ try
+ gain
+ trust
+@@ -97,40 +96,12 @@
+ put
+ together
+ again
+-h-e-a-r-t
+-tell
+-me
+-heart
+-it’s
+-d-a-m-a-g-e-d
+-don’t
+-damaged
++h
++e
++r
++t
++it
++d
++m
++g
+ challenge
+-it’s
+-type
+-of
+-pain
+-that
+-feel
+-deep
+-inside
+-makes
+-pray
+-cry
+-but
+-gon
+-alright
+-day
+-this
+-too
+-shall
+-pass
+-sometimes
+-go
+-though
+-pain
+-experience
+-joy
+-pass
+-danity
+-kane

@@ -1,0 +1,77 @@
+--- og627.txt	2020-02-06 19:31:21.000000000 -0800
++++ kb283.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -9,7 +9,7 @@
+ like
+ theyre
+ not
+-shinin
++shining
+ hair
+ hair
+ falls
+@@ -38,39 +38,40 @@
+ sad
+ to
+ think
+-that
+ dont
+ see
+ what
+ but
+ time
+ asks
+-me
+-"do
+-okay"
++do
++okay
+ say
+ your
+ face
++face
+ theres
+ a
+ thing
++that
+ would
+ change
+ cause
+ youre
+ amazing
++amazing
+ just
+ way
+ you
+ are
+ smile
++smile
+ whole
+ world
+ stops
+ stares
+ for
+-while
+-cause
++awhile
+ girl
+ lips
+ lips
+@@ -85,8 +86,7 @@
+ laugh
+ hates
+ sexy
+-beautiful
+-oh
++everyday
+ id
+ never
+ ask
+@@ -98,7 +98,6 @@
+ even
+ bother
+ asking
+-okay
+ ill
++say!
+ are
+-yeah

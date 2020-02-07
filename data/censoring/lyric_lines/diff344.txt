@@ -1,0 +1,79 @@
+--- og334.txt	2020-02-06 19:31:21.000000000 -0800
++++ kb344.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -1,12 +1,12 @@
+-oh-oh
+-oh-oh
++oh
++oh
++oh
+ so
+ much
+ for
+ my
+ happy
+ ending
+-oh-oh
+ lets
+ talk
+ this
+@@ -37,8 +37,6 @@
+ such
+ breakable
+ thread
+-breakable
+-thread
+ were
+ all
+ the
+@@ -53,20 +51,16 @@
+ everything
+ that
+ wanted
+-that
+-wanted
+ meant
+ to
+ be
+ supposed
+ but
+ lost
+-we
+-it
+ of
++our
+ memories
+ close
+-me
+ just
+ fade
+ away
+@@ -81,23 +75,16 @@
+ what
+ they
+ say
+-know
+-say
+ tell
+ im
+ difficult
+ are
+-but
+-they
+ do
+ even
+ you
+-even
+-you
+ hide
+ from
+-shit
+-all
++stuff
+ do
+ nice
+ there
+@@ -115,4 +102,3 @@
+ letting
+ done
+ he
+-oh-oh

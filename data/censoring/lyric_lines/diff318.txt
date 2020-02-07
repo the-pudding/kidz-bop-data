@@ -1,0 +1,97 @@
+--- og303.txt	2020-02-06 19:31:21.000000000 -0800
++++ kb318.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -18,7 +18,6 @@
+ standing
+ there
+ on
+-a
+ balcony
+ in
+ summer
+@@ -34,7 +33,7 @@
+ through
+ crowd
+ say
+-"hello"
++hello
+ little
+ did
+ know
+@@ -47,7 +46,7 @@
+ "stay
+ away
+ from
+-juliet"
++juliet!"
+ was
+ crying
+ staircase
+@@ -55,7 +54,7 @@
+ you
+ "please
+ dont
+-go"
++go!"
+ said
+ take
+ me
+@@ -76,12 +75,12 @@
+ prince
+ princess
+ its
++a
+ love
+ story
+ baby
+ just
+-say
+-"yes"
++yes
+ so
+ sneak
+ out
+@@ -94,7 +93,6 @@
+ if
+ they
+ knew
+-eyes
+ escape
+ this
+ town
+@@ -104,8 +102,6 @@
+ letter
+ but
+ everything
+-please
+-go
+ save
+ me
+ theyre
+@@ -133,8 +129,6 @@
+ fading
+ met
+ outskirts
+-town
+-romeo
+ ive
+ been
+ feeling
+@@ -148,16 +142,14 @@
+ ground
+ pulled
+ ring
+-said:
+-"marry
++marry
+ juliet
+ have
+ thats
+ really
+ talked
+ dad
++go
+ pick
+ white
+ dress
+-yes"
+-because

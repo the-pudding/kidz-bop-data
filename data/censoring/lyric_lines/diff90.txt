@@ -1,0 +1,96 @@
+--- og80.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb90.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -1,9 +1,9 @@
+-hey
+-hey
+ bye
+ bye
++oh
++oh
+ im
+-doing
++doin
+ this
+ tonight
+ youre
+@@ -17,13 +17,14 @@
+ cant
+ be
+ right
++hey
+ baby
+ come
+ on
+ loved
+ you
+ endlessly
+-and
++when
+ werent
+ there
+ for
+@@ -34,6 +35,7 @@
+ time
+ to
+ leave
++and
+ make
+ it
+ alone
+@@ -47,8 +49,7 @@
+ see
+ out
+ door
+-bye
+-bye
++baby
+ dont
+ fool
+ just
+@@ -61,7 +62,6 @@
+ may
+ hate
+ but
+-baby
+ really
+ tough
+ tell
+@@ -76,7 +76,6 @@
+ truth
+ now
+ girl
+-more
+ than
+ welcome
+ give
+@@ -90,18 +89,25 @@
+ better
+ once
+ gone
++ooh
++ooh
+ giving
+ up
+ sure
+ love
+-bye
+ checkin
+-out
+ signin
+ off
+-want
+ loser
+ ive
+-leaving
++leavin
+ behind
+-my
++wanna
++tough
++bye
++baby
++i
++fool
++dont
++that
++enough

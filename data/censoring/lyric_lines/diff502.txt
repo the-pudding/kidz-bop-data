@@ -1,0 +1,120 @@
+--- og475.txt	2020-02-06 19:31:22.000000000 -0800
++++ kb502.txt	2020-02-06 19:31:27.000000000 -0800
+@@ -28,8 +28,7 @@
+ gonna
+ kick
+ feet
+-up
+-then
++and
+ stare
+ fan
+ turn
+@@ -37,17 +36,16 @@
+ on
+ throw
+ hand
+-pants
++air
+ nobodys
+ tell
+ me
+ cant
+ ill
+ be
+-lounging
+-on
++lying
+ couch
+-chillin
++chilling
+ snuggie
+ click
+ to
+@@ -58,16 +56,17 @@
+ how
+ dougie
+ castle
+-freaking
++only
+ man
+ oh
+-oh
+ yes
+ said
+ it
+-it
+ nothing
+ all
++woo-hoo
++ooh
++hooh
+ tomorrow
+ wake
+ do
+@@ -77,35 +76,34 @@
+ really
+ nice
+ girl
+-have
+-sex
++send
++text
+ shes
+-scream
+-out
+-"this
+-is
+-great!"
+-oh
+-god
+-this
++write
++back
++"youre
++great"
++
++omg
++youre
+ great
+-yeah
++yea-aah
+ might
+ mess
+ around
+-and
+ get
+ college
+ degree
+ bet
+ old
+-will
++would
+ proud
+ of
+ but
+ sorry
+-pops
++paps
+ youll
++have
+ wait
+ no
+ aint
+@@ -113,12 +111,11 @@
+ hair
+ going
+ anywhere
+-no
+ strut
+-birthday
+-suit
++with
+ let
+ everything
+-hang
+-loose
++go
++through
++yeah
+ yeah

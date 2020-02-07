@@ -1,0 +1,114 @@
+--- og498.txt	2020-02-06 19:31:22.000000000 -0800
++++ kb524.txt	2020-02-06 19:31:27.000000000 -0800
+@@ -1,83 +1,35 @@
+-you
+-know
+-im
+-not
+-one
+-to
+-break
+-promises
+ i
+-dont
+-want
+-hurt
++feel
++so
++close
++to
+ you
+-but
+-need
+-breathe
+-at
+-the
+-end
+-of
+-it
+-all
+-youre
+-still
+-my
+-best
+-friend
+-theres
+-something
+-inside
+-that
+-release
+-which
+-way
+-is
+ right
+-wrong
+-how
+-do
+-say
+-move
+-on
+-were
+-heading
+-separate
+-ways
+-and
+-feels
++now
++its
++a
++force
++field
++wear
++my
++heart
++upon
++sleep
+ like
+-am
+-just
+-too
+-close
++big
++deal
++your
+ love
+-nothing
+-can
+-really
+-cant
+-lie
+-no
+-more
+-hide
+-got
+-be
+-true
+-myself
+-so
+-ill
++pours
++down
+ on
+-youve
+-given
+ me
+-than
+-return
+-yet
+-oh
+-much
+-deserve
+-ive
+-give
+-must
+-live
+-without
++surround
++waterfall
++and
++theres
++no
++stopping
++us
++but
++nowx3

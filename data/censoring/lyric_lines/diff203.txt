@@ -1,0 +1,103 @@
+--- og194.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb203.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -8,18 +8,17 @@
+ to
+ say
+ sunshine
+-shes
+-here
++is
+ you
+ can
+ take
+ a
+ break
++im
+ hot
+ air
+ balloon
+ that
+-could
+ go
+ space
+ with
+@@ -33,29 +32,30 @@
+ by
+ way
+ because
+-happy
++happy!
+ clap
+ along
+ if
+ feel
++like
+ room
+ without
+ roof
+ happiness
+-is
+ truth
++happy
+ know
++means
+ thats
+-wanna
++want
+ do
+ here
+-come
++comes
+ bad
+ news
+ talking
+ this
+ and
+-yeah!
+ well
+ give
+ me
+@@ -66,28 +66,36 @@
+ should
+ probably
+ warn
+-ya
+ ill
+ be
+ just
+ fine
+ no
+ offense
+-you
+-don’t
+ waste
+ your
+ time
+ heres
+ why
++happyness
+ bring
+ down
+-cant
+ nothing
+ my
+ levels
+-too
+ high
+-down
+-said
++let
++tell
++now
++reapeat
++person
++saying
++start
++at
+ said
++repeat
++chouse
++3x
++1st
++till
++end

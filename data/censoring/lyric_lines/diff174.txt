@@ -1,0 +1,185 @@
+--- og168.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb174.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -1,15 +1,14 @@
+-one
+-two
+-three
+-four
+-hey
++1
++2
++3
++4
+ hey
+ forever
+ its
+ you
+ and
+ me
+-moving
++movin
+ at
+ the
+ speed
+@@ -17,7 +16,6 @@
+ light
+ into
+ eternity
+-yeah
+ tonight
+ is
+ night
+@@ -33,12 +31,10 @@
+ music
+ around
+ you
+-oh-oh
+ ima
+ take
+ there
+ there
+-oh
+ so
+ dont
+ be
+@@ -52,7 +48,6 @@
+ go
+ anywhere
+ anywhere
+-yeah
+ but
+ first
+ your
+@@ -62,85 +57,56 @@
+ come
+ with
+ like
+-ive
++i
+ waited
+ whole
+ life
+ for
+ this
+ one
+-gon
++gonna
+ dance
+ floor
+ cause
+ only
+ got
+-oh
+-oh
++night
+ double
+ pleasure
+ fun
+-fore-e-ever
+-fore-e-ever
+ forever
++ever
++ever
+ on
+ feels
+ were
+ another
+ level
+-oh
+ our
+ loves
+ intertwined
+ two
+ rebels
+-breaking
++breakin
+ rules
+-i
+ all
+ gotta
+ do
+ watch
+-watch
+-me
+ look
+ what
+ feet
+-my
+-feet
+-baby
+ beat
+ inside
+-driving
+-front
+-seat
++drivin
++could
+ front
+ seat
+ just
+ need
+ trust
+-trust
+-girl
+-girl
+-ive
+-one
+-night
+-dance
+-floor
+ oh
+-night
+-a
+-long
+-way
+-down
+-high
+-off
+-ground
+-sending
+-an
+-angel
+-bring
+-heart
++oh
+ girl
+ where
+ did
+@@ -148,19 +114,9 @@
+ undone
+ gaze
+ eyes
+-saying
+-"what
+-beautiful
+-lady"
+-no
+-ifs
+-ands
+-or
+-maybes
+-releasing
+-feeling
+-amazing
++sayin
+ theres
++no
+ else
+ that
+ matters
+@@ -169,15 +125,3 @@
+ let
+ fall
+ girl
+-fall
+-girl
+-yeah
+-oh-oh
+-like
+-life
+-me
+-oh-oh-oh-oh-oh
+-oh-oh-oh
+-forever
+-ever
+-ever

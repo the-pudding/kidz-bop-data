@@ -1,0 +1,61 @@
+--- og311.txt	2020-02-06 19:31:21.000000000 -0800
++++ kb326.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -3,13 +3,13 @@
+ the
+ taste
+ of
+-a
+-sweeter
++sweet
+ life
+ conversation
+-im
++i’m
+ searching
+ for
++a
+ song
+ tonight
+ changing
+@@ -44,11 +44,10 @@
+ your
+ darkest
+ times
+-night
++nights
+ wonder
+ where
+ were
+-you
+ when
+ at
+ my
+@@ -72,23 +71,19 @@
+ hear
+ voice
+ sleep
++night
+ hard
+ resist
+-temptation
++feeling
+ cause
+-something
+-strange
+-has
++these
++strangers
+ come
+ over
+ now
+-cant
++can’t
+ get
+ no
+ just
+-ah
+-ooh
+ yeah
+-aha
+ ah
+-mmm

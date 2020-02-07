@@ -1,0 +1,84 @@
+--- og391.txt	2020-02-06 19:31:21.000000000 -0800
++++ kb403.txt	2020-02-06 19:31:27.000000000 -0800
+@@ -1,14 +1,19 @@
+ run
+-away-ay
++away
+ with
+ me
++away
++me
+ lost
+ souls
+-in
++and
++revelry
++revelry
+ revelry
+ running
+ wild
+-and
++free
++running
+ free
+ two
+ kids
+@@ -16,45 +21,47 @@
+ i
+ say
+ hey
+-hey
+-livin
++living
+ like
+-were
+-renegades
++we’re
+ renegades
+ long
+ live
+ the
+ pioneers
++pioneers
++pioneers
+ rebels
+ mutineers
++mutineers
++mutineers
+ go
+ forth
+ have
+ no
+ fear
++have
++fear
+ come
+ close
+-lend
+-an
+-ear
++to
++in
++so
+ all
+ hail
+ underdogs
+ new
+-kids
+ outlaws
+ spielbergs
+ kubricks
+-its
++it’s
+ our
+ time
+-to
+ make
+ a
+ move
+ amends
+ break
+ rules
+-lets
++let’s
+ begin

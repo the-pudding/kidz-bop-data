@@ -1,0 +1,183 @@
+--- og178.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb186.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -1,97 +1,49 @@
+-spirit
+-of
+-marilyn
+-callin
+-me
+-audibly
+-bawling
+-she
+-said
+-that
+-would
+-never
+-leave
+-continued
+-to
+-torture
+-me
+-telling
+-come
+-with
+-her
+-underneath
+-my
+-comforter
+-and
+-brought
+-a
+-gun
+-pills
+-some
+-rum
+-her
+-took
+-on
+-the
+-balcony
+-jump
+-yeah
+-im
+-in
+-ghost
+-but
+-i
+-aint
+-doing
+-stunts
+-trying
+-be
+-that
+-haters
+-wanna
+-see
+-got
+-em
+-aggy
+-cause
+-win
+-gold
+-like
+-gabby
+ shes
+ just
++a
+ girl
++and
++on
+ fire
+ hotter
+ than
+ fantasy
+ lonely
++like
+ highway
+ living
++in
+ world
+ its
+-feeling
++filled
++with
+ catastrophe
++but
++she
+ knows
+ can
+ fly
+ away
++ohhhh
+ oh
++got
+ both
+ feet
++the
+ ground
+ burning
+ it
+ down
++her
+ head
+ clouds
+ not
+ backing
+ this
+-girl
+ is
+ walking
+ looks
++girl
+ flame
+ so
+ bright
+@@ -105,10 +57,11 @@
+ you
+ try
+ youll
++never
+ forget
+ name
+ top
+-world
++of
+ hottest
+ girls
+ say
+@@ -116,14 +69,14 @@
+ our
+ were
+ coming
+-fire
+-fire
+ everybody
+-stands
++stares
+ as
+ goes
+ by
++cause
+ they
++see
+ thats
+ watch
+ when
+@@ -131,36 +84,10 @@
+ up
+ night
+ nobody
++that
+ gon
+ let
+ burn
+ baby
+ baby
+-dear
+-god
+-if
+-youre
+-here
+-god
+-make
+-disappear
+-stare
+-take
+-fear
+-interfere
+-do
+-god
+-backyard
+-deer
+-horse
+-ranch
+-core
+-fans
+-keep
+-reppin
+-til
+-death
+-x
+-box
+-checkin
+ oh

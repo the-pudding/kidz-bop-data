@@ -1,0 +1,99 @@
+--- og671.txt	2020-02-06 19:31:21.000000000 -0800
++++ kb441.txt	2020-02-06 19:31:27.000000000 -0800
+@@ -1,17 +1,17 @@
+-yeah
++and
+ it’s
+ over
+ i’m
+ circling
+ these
+ vultures
++just
+ got
+ me
+ praying
+-man
+-this
+-hunger
+-and
++that
++its
++longer
+ feeling
+ something
+ rotten
+@@ -30,7 +30,6 @@
+ tried
+ to
+ catch
+-you
+ but
+ we’re
+ always
+@@ -38,7 +37,7 @@
+ the
+ move
+ now
+-sober
++older
+ symptoms
+ of
+ culture
+@@ -46,7 +45,8 @@
+ ain’t
+ getting
+ younger
+-call’s
++next
++day’s
+ around
+ corner
+ kinda
+@@ -54,19 +54,19 @@
+ pouring
+ out
+ truth
+-just
+ fading
+ talkers
+ ‘cause
+ all
+ want
+ is
++you
++im
+ sayin’
+ come
+ over
+ here
+ sit
+-next
+ we
+ can
+ see
+@@ -90,7 +90,6 @@
+ outlined
+ in
+ chalk
+-its
+ a
+ midnight
+ intervention
+@@ -102,6 +101,7 @@
+ wanna
+ keep
+ light
++here
+ tell
+ not
+ trying
+@@ -109,6 +109,7 @@
+ mind
+ alright
+ ooh
+-oooh
++ooh
++yeah
+ alright
+ so

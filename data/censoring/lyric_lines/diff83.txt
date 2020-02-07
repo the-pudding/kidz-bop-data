@@ -1,0 +1,81 @@
+--- og76.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb83.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -1,12 +1,3 @@
+-lacigam
+-gnihtemos
+-od
+-ot
+-thgin
+-laiceps
+-ruoy
+-sthginot
+-tub
+ some
+ days
+ things
+@@ -36,23 +27,24 @@
+ tell
+ me
+ to
+-medicate
++elevate
+ feel
+ blood
+-runnin
++runnin’
+ swear
+ skys
+ fallin
++how
++did
+ know
+-that
+-all
+ this
+-shits
++is
+ fabricated
++oh
+ time
+ goes
+ by
+-cant
++can’t
+ control
+ mind
+ dont
+@@ -65,8 +57,10 @@
+ breathin
+ oh
+ gotta
+-keep
+ on
++on
++breathin’
++breathin’
+ sometimes
+ its
+ hard
+@@ -84,15 +78,20 @@
+ when
+ werent
+ complicated
++all
+ need
+-is
+ see
+ your
+ face
++runnin
++sky’s
++mmm
++cant
+ breathin
+ mmm
+ yeah
+ my
+ air
+ air
+-oh
++fallin
++oh-woah

@@ -1,0 +1,214 @@
+--- og466.txt	2020-02-06 19:31:21.000000000 -0800
++++ kb491.txt	2020-02-06 19:31:27.000000000 -0800
+@@ -1,79 +1,85 @@
+ hey
+ hey
+-i
+-got
++there
++is
+ a
+ condo
+ in
+ manhattan
+-baby
+-girl
++there
++whats
++happening
+ whats
+-
+-hatnin
++happening
+ you
+ and
+ your
+-ass
++friends
+ invited
+ so
+-gon
++go
++on
+ get
+ to
+-clappin
+-pop
++dancing
++dancing
++sing
++it
++with
++the
+ it
+ for
+-player
+-pop
+ me
+-turn
+-around
+-drop
+-drop
+-ill
+-rent
++come
++down
++dance
++dance
++dance
++it
++i
++have
+ beach
+ house
+ miami
+--ami
+-wake
+-up
+-with
+-no
++ami
++hang
++out
++my
+ jammies
+-nope
++yep
+ lobster
+ tail
+ dinner
+-julio
++uh
++huh
++then
++we
+ serve
+ that
+ scampi
+-julio!
++yo
++got
+ if
+ want
+ got
++wait
+ said
+ take
+-my
+ wallet
+ now
+ jump
+-the
+ cadillac
+ lets
+ put
+ some
+ miles
+-on
+ anything
+-want
+ just
+ smile
+ deserve
+ baby
+ all
++yeah
+ im
+ gonna
+ give
+@@ -82,38 +88,32 @@
+ shining
+ bright
+ strawberry
+-champagne
+-ice
++milkshakes
++nice
+ lucky
+ you
+ thats
+ what
+ like
+-like
+-sex
+ by
+ fire
+ at
+ night
+-silk
+-sheets
++those
++shiny
+ diamonds
+ white
+-talkin
++talking
+ trips
+ puerto
+ rico
++hey
+ say
+ word
+-we
+-go
+ say
+-it
+ can
+-be
+-freaka
+-brrrt!
+-fleeko
++see
++though
+ mamacita
+ will
+ never
+@@ -122,6 +122,7 @@
+ cant
+ keep
+ aint
++gon
+ leave
+ shopping
+ sprees
+@@ -129,12 +130,14 @@
+ everything
+ 24
+ karats
++yeah
+ look
+ mirror
++mirror
++now
+ tell
+ whos
+ fairest
+-is
+ you
+ is
+ you
+@@ -142,21 +145,8 @@
+ me
+ its
+ us
++say
+ us
++ill
+ agree
+-good
+-time
+-well
+-here
+-am
+-talk
+-me
+-mind
+-whats
+-mind
+-it
+-girl
+-come
+-this
+-tryna
+-do
++babe

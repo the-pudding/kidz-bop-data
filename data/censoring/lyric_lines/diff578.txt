@@ -1,0 +1,117 @@
+--- og543.txt	2020-02-06 19:31:22.000000000 -0800
++++ kb578.txt	2020-02-06 19:31:27.000000000 -0800
+@@ -25,21 +25,22 @@
+ to
+ them
+ haters
+-because
++cause
+ we
+ em
+ off
+-ain’t
+-doin
+-nothin
++aint
++doing
++nothing
+ wrong
+ so
+-don’t
++dont
+ tell
+ me
+-i’m
++nothing
++im
+ just
+-trying
++tryna
+ have
+ fun
+ keep
+@@ -50,21 +51,18 @@
+ yeah
+ now
+ they
+-dont
+ know
+ what
+ do
+ our
+-just;
+ shake
+-em
+ off
+ let
+ get
+ grind
++with
+ hair
+-if
+-i’ll
++ill
+ be
+ fine
+ fighting
+@@ -75,10 +73,9 @@
+ feel
+ like
+ giving
+-i
+ think
+ again
+-ima
++going
+ more
+ shine
+ in
+@@ -90,34 +87,39 @@
+ hit
+ stage
+ applause
++am
+ hearing
+ whether
+-is
++its
+ black
+ stars
+ cars
+-feelin
++feeling
+ but
+-cant
+ none
+ of
+ i
+-mm-yeah
++that
++mmm
++yeah
+ go
+ hard
+ see
+ pull
++hard
+ head
+ up
++yea
++ok
++ok
++hair
++again!
+ all
+ ladies
++if
+ you
+-gone
+-it
++come
+ your
+-hair
+ matter
+-it’s
+ long
+ short
+-hair!

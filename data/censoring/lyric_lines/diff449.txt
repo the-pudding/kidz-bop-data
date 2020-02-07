@@ -1,0 +1,150 @@
+--- og427.txt	2020-02-06 19:31:21.000000000 -0800
++++ kb449.txt	2020-02-06 19:31:27.000000000 -0800
+@@ -30,7 +30,7 @@
+ your
+ ghost
+ oh
+-lord
++no
+ im
+ not
+ sure
+@@ -44,11 +44,13 @@
+ dont
+ know
+ anymore
++whoa
+ this
+ is
+ it
+ boys
+ war
++-
+ are
+ we
+ waiting
+@@ -64,7 +66,6 @@
+ believe
+ hype
+ save
+-for
+ black
+ and
+ white
+@@ -86,7 +87,7 @@
+ alright
+ found
+ martyr
+-bed
++head
+ tonight
+ she
+ stops
+@@ -94,10 +95,10 @@
+ from
+ wondering
+ who
+-i
+-who
++am
+ am
+ i
++mmm
+ well
+ all
+ would
+@@ -112,30 +113,12 @@
+ me
+ always
+ win
+-i
+ win
+-oh
++for
++know
++on
++come
+ on
+-so
+-it
+-sold
+-soul
+-this
+-washed
+-hands
+-of
+-miss
+-mom
+-dad
+-no
+-when
+-stars
+-hear
+-songs
+-sound
+-like
+-swan
+-so
+ on
+ guys
+ five
+@@ -143,21 +126,22 @@
+ bored
+ ten
+ years
++of
+ this
+ if
+ anybody
+ understands
+ folks
+-back
+-home
++at
++home;
+ sorry
+ leave
+ mom
+ had
+ go
+-fuck
++heck
+ wants
+-die
++be
+ alone
+ dried
+ desert
+@@ -166,9 +150,8 @@
+ breaking
+ sister
+ con
+-called
+ "love"
+-then
++when
+ look
+ into
+ nephews
+@@ -179,12 +162,16 @@
+ amazing
+ things
+ can
++from
+ terrible
+ nights
++music
++pause
+ other
+ night
+ dream
+ about
++called
+ wed
+ both
+ agree
+@@ -195,3 +182,4 @@
+ get
+ our
+ distance
++oh

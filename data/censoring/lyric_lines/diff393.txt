@@ -1,0 +1,108 @@
+--- og656.txt	2020-02-06 19:31:21.000000000 -0800
++++ kb393.txt	2020-02-06 19:31:27.000000000 -0800
+@@ -1,4 +1,3 @@
+-oh
+ yeah
+ yeah
+ i
+@@ -12,16 +11,17 @@
+ and
+ know
+ that
+-it’s
++its
+ all
+ mine
+-oh-oh
++oh
++oh
+ do
+ what
+ you
+ want
+ but
+-you’re
++youre
+ never
+ gonna
+ break
+@@ -31,44 +31,28 @@
+ are
+ shake
+ me
+-take
+-away
++its
++wish
++could
++aint
++own
++anything
++cant
++slow
++down
++no
+ take
+ away
+ secret
+ place
+-a
+-place
+ sweet
+ escape
+-escape
++away
+ to
+ better
+ days
+-to
+-days
+ hiding
+-got
+-sunshine
+-love
+-its
+-mine
+-oh
+-never
+-me
+-i
+-know
+-wish
+-could
+-ain’t
+-own
+-anything
+-can
+-control
+-no
+-you
+-cant
+-there’s
++theres
+ go
+ nobody
+ knows
+@@ -87,15 +71,12 @@
+ cries
+ only
+ butterflies
+-sunshine
+-oh
+-mhm
+ sun
+ is
+ on
+ my
+ side
+-takes
++come
+ for
+ ride
+ smile
+@@ -103,4 +84,4 @@
+ sky
+ ill
+ be
+-alright
++right

@@ -1,0 +1,148 @@
+--- og330.txt	2020-02-06 19:31:21.000000000 -0800
++++ kb340.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -1,24 +1,38 @@
+-can
+-you
+-move
++and
++oh
++yeah
++we
++gonna
++kick
+ it
+ like
+ this
++keep
++ya
++movin
++on
++the
++dance
++floor
++move
++man
++can
++you
++this
+ i
+ shake
+ that
+ cmon
+ ladies
+ rock
+-the
+ party
+ your
+ body
+ everybody
++everybody
+ lets
+ all
+ night
+-gonna
+ take
+ back
+ to
+@@ -27,9 +41,8 @@
+ feel
+ vibe
+ just
+-dance
+ rhythm
+-and
++an
+ let
+ me
+ see
+@@ -42,20 +55,13 @@
+ electric
+ slide
+ yeah
+-move
+-man
+ fellas
+-lets
+ get
+ funky
+-
++new
+ sound
+-say
+-here
+-we
+-on
+-floor
+-this
++see
++gon
+ anyone
+ double
+ bump
+@@ -66,12 +72,11 @@
+ bring
+ baha
+ men
+-keep
+ groovin
+ well
+-doing
+-running
+-man
++everybodys
++doin
++runnin
+ mash
+ potato
+ or
+@@ -81,6 +86,7 @@
+ if
+ yall
+ remember
++day
+ when
+ used
+ boogaloo
+@@ -90,6 +96,7 @@
+ kickin
+ up
+ too
++rocks
+ together
+ with
+ dj
+@@ -102,6 +109,7 @@
+ rush
+ dippin
+ baby
++rock
+ pee
+ wee
+ herman
+@@ -109,12 +117,18 @@
+ bus
+ stop
+ robot
+-la!
+-right
+-atlanta!
+-new
+-york!
+-whazzup!
+-seattle!
++la
++atlanta
++ny
++whassup
++seattle
+ dallas
+-houston!
++houston
++baltimore
++dc
++now
++tampa
++know
++dip
++memphis
++chicken

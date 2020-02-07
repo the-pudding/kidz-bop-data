@@ -1,0 +1,126 @@
+--- og501.txt	2020-02-06 19:31:22.000000000 -0800
++++ kb528.txt	2020-02-06 19:31:27.000000000 -0800
+@@ -1,42 +1,53 @@
+-baby
+-squirrel
+-yous
+-a
+-sexy
+-mother-fucker
+ gimme
+ your
+-your
+ attention
++baby
++attention
++baby
+ i
+ gotta
+ tell
++up
+ you
++a
+ little
+-somethin
++something
+ about
+-yourself!
++yourself
++self
++self
++self
+ youre
+ wonderful
+-flawless
+-ooh
+-lady
++thoughtless
++knew
++youd
++drive
++me
++crazy
++drive
++crazy
+ but
+ walk
+ around
+ here
+ like
+-wanna
++want
++to
+ be
+ someone
+ else
++else
++else
++wo-oa-oah
+ know
+ that
+ dont
+ it
+-fine
++kind
+ so
+-fine
++kind
++kind
+ oh
+ girl
+ im
+@@ -44,6 +55,8 @@
+ show
+ when
+ mine
++all
++mine
+ mine
+ treasure
+ is
+@@ -53,30 +66,37 @@
+ my
+ golden
+ star
+-can
++and
++if
++could
+ make
+ wish
+ come
+ true
+-if
+ let
+-me
+-treasure
++oh
++ooh
+ pretty
+-girl
+ should
+ smiling
++you
++smiling
+ never
+ look
+ blue
++blue
++blue
+ everything
+ see
+ in
+ dreams
+ wouldnt
+ say
+-to
+-it
+ wasnt
++true
++true
++can
+ yeah
+-you
++treasure
++are
++dream

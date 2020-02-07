@@ -1,0 +1,64 @@
+--- og680.txt	2020-02-06 19:31:21.000000000 -0800
++++ kb467.txt	2020-02-06 19:31:27.000000000 -0800
+@@ -2,7 +2,6 @@
+ count
+ the
+ years
+-on
+ one
+ hand
+ that
+@@ -17,7 +16,6 @@
+ you
+ make
+ feel
+-feel
+ better
+ its
+ not
+@@ -54,6 +52,7 @@
+ and
+ baby
+ even
++on
+ worst
+ nights
+ let
+@@ -67,21 +66,19 @@
+ really
+ at
+ yeah
+-time
+ recount
+ night
+ first
+ met
+ your
+ mother
++and
+ drive
+ back
+ my
+ house
+ told
+-that
+ loved
+-ya
+ felt
+ weight
+ of
+@@ -98,10 +95,13 @@
+ some
+ things
+ just
+-just
+ sense
+ those
+ is
++time
++baby
+ day
+ goes
+ by
++not
++you

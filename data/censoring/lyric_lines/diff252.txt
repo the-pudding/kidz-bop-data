@@ -1,0 +1,74 @@
+--- og236.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb252.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -23,8 +23,8 @@
+ here
+ with
+ me
+-drunk
+-midnight
++we
++go
+ into
+ morning
+ coffee
+@@ -33,7 +33,7 @@
+ the
+ hours
+ talking
+-damn
++yeah
+ like
+ better
+ when
+@@ -46,27 +46,25 @@
+ stay
+ for
+ a
++time
+ cause
+-when
+ dont
+ what
+ it
+ is
+ got
+ feeling
+-waking
+-up
+-this
+-bed
++hanging
++out
++on
++couch
+ next
+ swear
+ room
+-yeah
+ no
+ ceiling
+ if
+-we
+-lay
++stay
+ let
+ day
+ just
+@@ -77,15 +75,15 @@
+ get
+ too
+ much
+-talking
+ have
+ tell
+ something
+ awhile
+ awhile
+ oh
+-lay
++right
+ me
++yeah
+ ooh
+ yes
+ do

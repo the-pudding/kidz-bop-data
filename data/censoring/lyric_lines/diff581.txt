@@ -1,0 +1,214 @@
+--- og715.txt	2020-02-06 19:31:22.000000000 -0800
++++ kb581.txt	2020-02-06 19:31:27.000000000 -0800
+@@ -1,29 +1,20 @@
+-for
+-one
+-zillion
+-dollas
+-the
+-question
+-is:
+ who
+ let
++the
+ dogs
+ out
+-{alarm
+-rings}
+-{spoken}
+-hey!
+-out!
+-who
+-who
+-who
+-well
++woof
++woof
++woof
++when
+ party
+ was
+ nice
+-pumpin
++bumping
+ hey
+-yippie-yi-yo
++yippie
++yi
++yo
+ and
+ everybody
+ havin
+@@ -31,27 +22,27 @@
+ ball
+ hah
+ ho
+-until
++yippie
++yi
++i
++tell
+ fellas
+-started
++"start
+ name
+-callin
+-yippie-yi-yo
++callin"
++yippie
+ girls
+-respond
++report
+ to
+ call
+-i
+-heard
+-woman
++poor
++man
+ shout
+-out
+-"who
+-out"
+ see
+ ya
+ little
+-speedboat
++speed
++boat
+ head
+ up
+ our
+@@ -63,40 +54,38 @@
+ town
+ get
+ back
+-gruffy
+-scruffy
++off
++me
++beast
++me
+ you
+-flea-infested
+-mongrel!
++flea
++infested
++monger
++im
+ gonna
+-tell
+ myself
+-"hey
+-man
+-no
+-angry"
+-yippie
+-yi
+-yo
++not
++that
++hungry
+ any
+ calling
+ them
+ canine
+-yippie
+-but
+-they
+-me
++dummy
++"hey
+ man
+ its
+ part
+ of
+ party!"
+-yippie
+-put
++fetch
++women
+ in
+ front
+ her
+ behind
++woman
+ say
+ doggy
+ is
+@@ -105,52 +94,46 @@
+ he
+ dont
+ have
+-bone!
+-oh
++bone
++all
++dogy
+ hold
+ bone
+-oh
+ it
+-speed
+-boat
+-am
+-dog
++wait
++for
++yall
++my
++dogs
+ on
+ gotta
+-my
+-groove
+-cause
++girl
++got
+ mind
+-done
+-gone
+ do
+ rays
+ comin
+ from
+ eye
+-walking
+-through
+-place
+-that
+-diji
++what
++could
++be
++friend
++benji
++thats
+ breakin
+-it
+ down
+ white
+ short
+ shorts
+ cant
+-color
+-color
++seek
++lot
+ will
+-ill
+-stick
+-you
+-thats
++figurin
+ why
+-pitbull
+-im
++they
++faithful
++cause
+ land
+-when
+-say
+-woo!
++doah-ooohowl

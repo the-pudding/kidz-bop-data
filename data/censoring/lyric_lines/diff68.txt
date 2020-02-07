@@ -1,0 +1,45 @@
+--- og62.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb68.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -1,6 +1,6 @@
+ cant
+ be
+-sleeping
++sleepin
+ keep
+ on
+ waking
+@@ -27,7 +27,7 @@
+ it
+ night
+ dont
+-me
++can’t
+ you
+ see
+ it
+@@ -41,7 +41,6 @@
+ no
+ choice
+ in
+-this
+ friend
+ she
+ missed
+@@ -49,15 +48,13 @@
+ talk
+ oh
+ sorry
+-sorry
+ baby
++yeah
+ ill
+ better
+ time
+ will
+ time
+ got
+-say
++defense
+ promise
+-time
+-ill

@@ -1,0 +1,256 @@
+--- og151.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb158.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -1,90 +1,11 @@
+-first
+-things
+-first
+ im
+-the
+-realest
+-realest
+-drop
+-this
+-and
+-let
+-whole
+-world
+-feel
+-it
+-let
+-em
+-it
+-still
+-in
+-murda
+-bizness
+-i
+-can
+-hold
+-you
+-down
+-like
+-giving
+-lessons
+-physics
+-right
+-right
+-should
+-want
+-a
+-bad
+-bitch
+-huh
+-low
+-pick
+-up
+-just
+-yeah
+-cup
+-of
+-ace
+-goose
+-cris
+-high
+-heels
+-something
+-worth
+-half
+-ticket
+-on
+-my
+-wrist
+-on
+-wrist
+-taking
+-all
+-liquor
+-straight
+-never
+-chase
+-that
+-never
+-rooftop
+-we
+-bringing
+-88
+-back
+-what
+-bring
+-hooks
+-in
+-where
+-bass
+-at
+-champagne
+-spilling
+-taste
+ so
+ fancy
++you
+ already
+ know
++in
++the
+ fast
+ lane
+ from
+@@ -92,49 +13,64 @@
+ to
+ tokyo
+ cant
++ya
++taste
++this
+ gold
+ remember
++my
+ name
+-bout
+-blow-oh-oh-oh
++‘bout
++blow
++i
+ said
+ baby
+ do
+ this
+ thought
++that
+ knew
+ stand
+ no
+ haters
++and
+ honest
+ truth
+ is
+ flow
+-retarded
++just
++started
+ each
+-beat
+-dear
+-departed
++speak
++it
++depart
++it
+ swagger
+-stupid
++on
++super
+ shop
++at
+ department
++better
+ get
+ money
+ time
+ if
+ they
+-got
++not
+ money
+ decline
+ swear
+ meant
++that
+ there
+ much
+ give
+ line
++a
+ rewind
+ worry
++haters
+ gotta
+ stay
+ grind
+@@ -143,81 +79,23 @@
+ me
+ who
+ that
+-that
+ put
+ paper
+ over
+ all
+ be
+-i-g-g-y
++k-i-d-z
+ name
+ bold
+ been
+ working
++up
+ here
+ with
+ some
+ change
+ throw
+-trash
+-hotel
+-lets
+-drunk
+-minibar
+-make
+-phone
+-call
+-feels
+-good
+-getting
+-what
+-yeah
+-keep
+-turning
+-chandelier
+-swinging
+-dont
+-fuck
+-film
+-star
+-i’m
+-deluxe
+-classic
+-expensive
+-touch
+-ow!
+-stunting
+-how
+-love
+-asking
+-does
+-hot
+-girl
+-hands
+-off
+-touch
+-look
+-at
+-it
+-bet
+-wishing
+-could
+-clutch
+-thats
+-way
+-huh
+-its
+-good
+-he
+-bite
+-turn
+-down
+-nothing
+-slayin
+-these
+-hoes
++la
+ gold
+-trigger
+-gun
+-i-g-g-y
+-blow-oh-oh-oh
++k-i-d-z
++blow…

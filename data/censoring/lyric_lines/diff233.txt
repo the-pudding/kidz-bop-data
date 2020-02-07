@@ -1,0 +1,77 @@
+--- og226.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb233.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -1,4 +1,3 @@
+-alright
+ ooh
+ yeah
+ ill
+@@ -13,13 +12,13 @@
+ girl
+ cant
+ you
+-blame
++break
+ my
+ head
+ and
+ not
+ heart
+-drunk
++lost
+ gone
+ that
+ dont
+@@ -47,10 +46,10 @@
+ show"
+ "save
+ your
+-apologies”
++apologies
+ baby
+ gotta
+-know
++know"
+ how
+ long
+ has
+@@ -69,14 +68,12 @@
+ actin
+ so
+ shady
+-shady
+ ive
+ feelin
+ lately
+-baby"
++baby
+ ooo-oh
+ yeah
+-encore
+ oooh-ooh-oh
+ its
+ fault
+@@ -93,7 +90,7 @@
+ see
+ the
+ one
+-wanna
++here
+ love
+ oh
+ said
+@@ -106,15 +103,4 @@
+ ooo-oh
+ go
+ now
+-apologies
+ you
+-ooo-oh
+-yeah
+-ooh
+-encore
+-oooh-ooh-oh
+-oh
+-ooo-oh
+-you
+-now
+-baby

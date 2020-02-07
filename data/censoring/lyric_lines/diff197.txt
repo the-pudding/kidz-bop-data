@@ -1,0 +1,59 @@
+--- og188.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb197.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -1,5 +1,5 @@
+-hmm-mmm-mmm
+-whoa-oh-oh-oh
++whoa
++oh
+ its
+ always
+ a
+@@ -22,14 +22,12 @@
+ my
+ head
+ hands
+-up
+ if
+ youre
+ down
+ to
+ get
+ tonight
+-hmm-mmm-mmm
+ cause
+ slept
+ in
+@@ -48,7 +46,7 @@
+ im
+ morning
+ and
+-goodnight
++night
+ wake
+ at
+ twilight
+@@ -60,13 +58,8 @@
+ even
+ have
+ try
+-woo!
+-whoa-oh-oh-oh
+-whoa-oh-oh
+-good
+-time
+-time
+-whoa-oh-oh-oh
++oh
++try
+ freaked
+ out
+ dropped
+@@ -86,8 +79,3 @@
+ then
+ where
+ there
+-its
+-time!
+-doesnt
+-where
+-where

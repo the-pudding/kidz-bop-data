@@ -1,0 +1,60 @@
+--- og229.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb239.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -36,8 +36,7 @@
+ "shall
+ we
+ dance"
+-hell
+-yeah
++oh
+ know
+ love
+ ya
+@@ -85,8 +84,8 @@
+ nights
+ ooh
+ ooh
+-as
+ long
++as
+ just
+ hold
+ near
+@@ -99,13 +98,11 @@
+ cant
+ hear
+ ourselves
+-read
++move
+ your
+ lips
+ id
+ rather
+-kiss
+-em
+ right
+ these
+ people
+@@ -121,7 +118,6 @@
+ crazy
+ really
+ mind
+-oh
+ yeah
+ walked
+ in
+@@ -131,13 +127,13 @@
+ should
+ stay
+ oh
++yeah
+ no
+ nobody
+ you
+ only
+ one
+ here
+-hate
+ everyone
+ dont
+ care

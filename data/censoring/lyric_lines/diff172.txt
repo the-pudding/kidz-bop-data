@@ -1,0 +1,47 @@
+--- og165.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb172.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -21,7 +21,8 @@
+ and
+ they
+ see
+-twenty-five
++twenty
++five
+ years
+ old
+ my
+@@ -39,6 +40,7 @@
+ me
+ baby
+ dance
++a
+ little
+ stranger
+ show
+@@ -48,6 +50,7 @@
+ love
+ can
+ make
++you
+ hostage
+ do
+ it
+@@ -58,7 +61,7 @@
+ to
+ think
+ about
+-starting
++startin
+ or
+ end
+ well
+@@ -71,6 +74,7 @@
+ so
+ want
+ everyone
+-know
+-has
++knows
++been
+ good
++

@@ -1,0 +1,113 @@
+--- og690.txt	2020-02-06 19:31:21.000000000 -0800
++++ kb496.txt	2020-02-06 19:31:27.000000000 -0800
+@@ -1,30 +1,29 @@
+ dog
+ goes
+-"woof"
++woof
+ cat
+-"meow"
++meow
+ bird
+-"tweet"
++tweet
+ and
+ mouse
+-"squeak"
++squeak
+ cow
+-"moo"
++moo
+ frog
+-"croak"
++croak
+ the
+ elephant
+-"toot"
++toot
+ ducks
+ say
+-"quack"
++quack
+ fish
+ go
+-"blub"
++blub
+ seal
+-"ow
+ ow
+-ow"
++ow
+ but
+ theres
+ one
+@@ -36,18 +35,13 @@
+ does
+ fox
+ say
+-"ring-ding-ding-ding-dingeringeding!
++ring-ding-ding-ding-dingeringeding!
+ gering-ding-ding-ding-dingeringeding!
+-gering-ding-ding-ding-dingeringeding!"
+-"wa-pa-pa-pa-pa-pa-pow!
++whats
+ wa-pa-pa-pa-pa-pa-pow!
+-wa-pa-pa-pa-pa-pa-pow!"
+-"hatee-hatee-hatee-ho!
+ hatee-hatee-hatee-ho!
+-hatee-hatee-hatee-ho!"
+-"joff-tchoff-tchoffo-tchoffo-tchoff!
++joff-tchoff-tchoffo-tchoffo-tchoff!
+ tchoff-tchoff-tchoffo-tchoffo-tchoff!
+-joff-tchoff-tchoffo-tchoffo-tchoff!"
+ big
+ blue
+ eyes
+@@ -86,24 +80,21 @@
+ communicate
+ by
+ mo-o-o-o-orse
++mo-o-o-o-orse
+ how
+ speak
+ to
+ ho-o-o-o-orse
+-"jacha-chacha-chacha-chow!
++ho-o-o-o-orse
++jacha-chacha-chacha-chow!
+ chacha-chacha-chacha-chow!
+-chacha-chacha-chacha-chow!"
+-"fraka-kaka-kaka-kaka-kow!
+ fraka-kaka-kaka-kaka-kow!
+-fraka-kaka-kaka-kaka-kow!"
+-"a-hee-ahee
+-ha-hee!
+ a-hee-ahee
+-ha-hee!"
+-"a-oo-oo-oo-ooo!
+-woo-oo-oo-ooo!"
++ha-hee!
++a-oo-oo-oo-ooo!
+ secret
+ of
++fox
+ ancient
+ mystery
+ somewhere
+@@ -121,14 +112,6 @@
+ do
+ my
+ guardian
+-wa-wa-way-do
+-wub-wid-bid-dum-way-do
+-wa-wa-way-do
+-bay-budabud-dum-bam
++angel
++woods
+ want
+-mama-dum-day-do
+-know!
+-abay-ba-da
+-bum-bum
+-bay-do
+-la

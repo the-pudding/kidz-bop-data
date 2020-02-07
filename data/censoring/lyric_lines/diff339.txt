@@ -1,0 +1,49 @@
+--- og329.txt	2020-02-06 19:31:21.000000000 -0800
++++ kb339.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -1,4 +1,7 @@
++along
+ go
++on
++on
+ ahead
+ as
+ you
+@@ -40,11 +43,9 @@
+ strong
+ move
+ along
+-along
+ like
+ i
+ know
+-ya
+ do
+ even
+ hope
+@@ -61,6 +62,7 @@
+ could
+ be
+ night
++dream
+ ends
+ such
+ heart
+@@ -70,18 +72,9 @@
+ deceiving
+ pain
+ mine
+-go
+-on
+-on
+ everything
+ wrong
+ we
+-along
+-just
+-through
+-like
+-do
+ right
+ back
+ what
+-wrong

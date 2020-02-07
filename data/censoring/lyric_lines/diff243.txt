@@ -1,0 +1,52 @@
+--- og250.txt	2020-02-06 19:31:21.000000000 -0800
++++ kb243.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -1,4 +1,7 @@
+-from
++amen
++i
++im
++alive
+ underneath
+ the
+ trees
+@@ -22,12 +25,7 @@
+ were
+ tonight
+ singing
+-amen
+-im
+ alive
+-im
+-alive
+-singing
+ if
+ everyone
+ cared
+@@ -40,13 +38,11 @@
+ swallowed
+ their
+ pride
+-then
+ wed
+ see
+ day
+ when
+ died
+-i
+ in
+ air
+ fireflies
+@@ -66,6 +62,7 @@
+ to
+ sing
+ along
++died
+ as
+ lie
+ beneath
+@@ -80,4 +77,5 @@
+ me
+ imagine
+ what
++world
+ day

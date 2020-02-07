@@ -1,0 +1,188 @@
+--- og504.txt	2020-02-06 19:31:22.000000000 -0800
++++ kb531.txt	2020-02-06 19:31:27.000000000 -0800
+@@ -1,8 +1,7 @@
+ why
+-men
++you
+ great
+ til
+-they
+ gotta
+ be
+ great
+@@ -14,18 +13,15 @@
+ dna
+ test
+ turns
+-out
+-im
+-100%
++out im 100%
+ that
+-bitch
+-even
+-when
++kid
++even when
++im
+ crying
+ crazy
+ yeah
+-got
+-boy
++got some
+ problems
+ thats
+ the
+@@ -38,11 +34,10 @@
+ solve
+ em
+ goddess
+-you
+ coulda
+ had
+-bad
+-bitch
++good
++friend
+ non-committal
+ help
+ with
+@@ -62,8 +57,6 @@
+ of
+ not
+ calling
+-til
+-great
+ dont
+ text
+ me
+@@ -72,31 +65,24 @@
+ straight
+ my
+ face
+-tell
+-face
+ best
+ friend
+ sat
+ down
+ salon
+ chair
+-down
+-chair
+ shampoo
+ press
+ get
++out
+ hair
+ fresh
+ photos
+ bomb
+ lighting
+-with
+-lighting
+ new
+-man
+-on
+-minnesota
+-vikings
++ones
++like
+ minnesota
+ vikings
+ truth
+@@ -105,15 +91,12 @@
+ something
+ more
+ exciting
+-yee
+ bom
+ bi
+ dom
+ dum
+ bum
+ bay
+-eh
+-yeah
+ tried
+ break
+ heart
+@@ -128,38 +111,52 @@
+ start
+ hey
+ glad
++friends
+ mean
+ who
+ would
+-wanna
+ hide
+ this
+ will
+ never
+ ever
+-side
+-chick
++want
+ put
+ sing
+ single
+ worried
+ bout
+ ring
++on
+ finger
+ so
+ can
+-friend
+ "shoot
+ shot"
++when
+ see
+ him
+ its
+ okay
+ he
+ already
+-dms
++knows
++feelings
++til
++great
++tell
++face
++down
++chair
++bomb
++lighting
++minnesota
++vikings
++yee
++eh
++yeah
+ ima
+-hit
++call
+ minute
+ yeah
+ play
+@@ -168,7 +165,7 @@
+ one
+ time
+ we
+-fuck
++deal
+ lies
+ two
+ times
+@@ -177,8 +174,8 @@
+ woo
+ keep
+ pushing
+-like
+ ay-ay-ay
++they
+ yee
+ eh
+ yeah

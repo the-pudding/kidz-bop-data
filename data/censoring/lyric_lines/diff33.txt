@@ -1,0 +1,68 @@
+--- og12.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb33.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -1,3 +1,5 @@
++oh
++yeah
+ there
+ go
+ the
+@@ -13,7 +15,6 @@
+ to
+ do
+ whatever
+-we
+ want
+ gonna
+ stand
+@@ -39,7 +40,6 @@
+ a
+ public
+ affair
+-all
+ night
+ thats
+ right
+@@ -60,7 +60,6 @@
+ looking
+ over
+ here
+-baby
+ are
+ keep
+ or
+@@ -74,6 +73,7 @@
+ that
+ wanna
+ miss
++plans
+ what
+ world
+ does
+@@ -81,24 +81,17 @@
+ exist
+ no
+ no
+-no
+ move
+ how
++move
+ my
+ work
+ it
+-out
+ like
+ this
+ give
++me
+ room
+ shake
+ shake
+-stop
+-who
+-cares
+-rock
+-dont
+-stop
+-oh-oh-oh
+-oh-oh-oh
++oh

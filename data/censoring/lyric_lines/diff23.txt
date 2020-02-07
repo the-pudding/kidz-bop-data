@@ -1,0 +1,58 @@
+--- og25.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb23.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -51,6 +51,7 @@
+ take
+ this
+ road
++but
+ someones
+ gotta
+ go
+@@ -60,14 +61,13 @@
+ loved
+ me
+ better
+-but
+ move
+ on
+ so
+ im
+ already
+ gone
+-looking
++lookin
+ at
+ makes
+ harder
+@@ -80,28 +80,20 @@
+ started
+ a
+ perfect
+-kiss
++thing
+ then
+ could
+ feel
+-poison
++power
+ set
+ in
+-"perfect"
+ keep
+ love
+ alive
+-so
+ enough
+ let
+ gone
+-right
+-when
+-its
+-wrong
+ theres
+ no
+ moving
+-ahh
+-ooh
+-oh
++memories

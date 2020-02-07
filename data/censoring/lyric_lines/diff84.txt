@@ -1,0 +1,26 @@
+--- og584.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb84.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -91,7 +91,6 @@
+ oh
+ baby
+ ill
+-put
+ pride
+ side
+ good
+@@ -111,13 +110,9 @@
+ every
+ day
+ night
+-all/yeah
++yeah
++yeah
+ yeah
+ no
+ dont
+-all/ooh
+-oh
+-oh/ooh
+-yeah
+-woah
+ ooh

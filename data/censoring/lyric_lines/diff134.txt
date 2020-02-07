@@ -1,0 +1,142 @@
+--- og126.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb134.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -1,20 +1,3 @@
+-bum
+-be-dum
+-be-dum
+-whats
+-wrong
+-with
+-me
+-why
+-do
+-i
+-feel
+-like
+-this
+-im
+-goin
+-crazy
+-now
+ no
+ more
+ gas
+@@ -26,22 +9,22 @@
+ get
+ it
+ started
+-nothin
++nothing
+ heard
+ said
+ speak
+ about
+-it
+-all
++on
+ my
+ life
+-on
+ head
+ dont
+ wanna
+ think
+ feels
++like
+ im
++going
+ insane
+ yeah
+ its
+@@ -53,7 +36,6 @@
+ and
+ grab
+ you
+-aha!
+ can
+ creep
+ up
+@@ -63,16 +45,14 @@
+ of
+ mind
+ control
+-
+ too
+ close
+ for
+ comfort
+-ah
+ put
+ your
+-brake
+-lights
++pretty
++lies
+ youre
+ city
+ wonder
+@@ -103,53 +83,37 @@
+ darkness
+ is
+ light
+-disturbia
+ am
+-scarin
++i
++scaring
+ tonight
+ used
+ what
++disturbia
+ faded
+ pictures
+ wall
+-they
+-talkin
++theyre
++talking
+ me
+-disconnected
+-one
++disconnecting
+ calls
+ phone
+-dont
+ ring
+ gotta
+ or
+ figure
+ this
+-shit
+-out
++thing
++comfort
+ oh
++feel
+ monster
+-city
+-lights
+-think
+-twice
+-be
+-wise
+-what
+-like
+-disturbia
+-oh-oh
+ release
+ from
+ curse
+-tryin
++trying
+ maintain
+ but
+-strugglin
+-cant
+-go
+-oh-oh-oh-oh-oh
++struggling
+ gonna
+-ah-ah-ah-ah-ah
+-better
+-so

@@ -1,0 +1,194 @@
+--- og374.txt	2020-02-06 19:31:21.000000000 -0800
++++ kb385.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -1,10 +1,6 @@
+ party
+ rock
+-yeah
+-whoo!
+-lets
+-go!
+-rockers
++is
+ in
+ the
+ house
+@@ -15,7 +11,6 @@
+ a
+ good
+ time
+-yeah
+ and
+ we
+ gon
+@@ -24,58 +19,50 @@
+ lose
+ your
+ mind
+-whoo!
+-clap!
+-oh!
+-i
+-can
+-feel
+-it
+-baby!
+ wanna
+ see
+-you
++yaa!
+ shake
+ that!
+-club:
+-looking
+-for
++club
++look
++up
++on
+ girl
+ she
+-on
+ my
+ jock
+-huh
+-non-stop
++non
++stop
+ when
+ spot
+ booty
+-moving
+-weight
++move
++away
+ like
+ block
+-where
+-drank
++what
++track
+ i
+ gots
+ to
+ know
+-tight
++top
+ jeans
+ tattoo
+ cause
+ im
+ roll
+-half-black
+-half-white:
+-domino
+-gainin
++half
++black
++white
++diamond
++gane
+ money
+-oprah
+-dough
+-yo!
+-i’m
+-running
++out
++door
++yoooo!
++runnin
+ through
+ these
+ hoes
+@@ -86,72 +73,57 @@
+ flow
+ no
+ halo
+-rock!
+-yeah
+-that’s
++yea!
++thats
+ crew
+ reppin
+ rise
+-top
+ led
+ our
+ zeppelin
+ hey!
+-lets
+-go!
+-every
+-day
+-shufflin
+-shake
+-shufflin
++everyday
++shuffelin
+ step
+-up
+ fast
+ be
+ first
+-girl
+ me
+ throw
+ this
+ cash
+ get
+-money
+-don’t
++dont
+ mad
+ now
+-stop
+--
+-hatin
+-is
++hating
+ bad
+ one
+ more
+ shot
++for
+ us
+ another
+-round!
++round
+ please
+ fill
+ cup
+-don’t
+ mess
+-around!
+-you
++around
+ it
+-now!
+-youre
+ naked
+-up
+ down
+ put
+ hands
+ sound
++up!
+ put
+-whoo!
+-up
+-good
+-oh-oh-oh-oh-oh
+-shu-shufflin
+-yo
+-yo
+-hands
++up!
++gonna
++wooo!
++every
++day
++am
++shuffling
++yourput
++your

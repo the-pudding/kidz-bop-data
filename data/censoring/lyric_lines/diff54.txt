@@ -1,0 +1,73 @@
+--- og578.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb54.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -8,6 +8,7 @@
+ that
+ you
+ did
++i
+ let
+ myself
+ cause
+@@ -30,6 +31,7 @@
+ far
+ because
+ of
++ill
+ stray
+ too
+ from
+@@ -48,7 +50,6 @@
+ everyone
+ around
+ me
+-you
+ am
+ afraid
+ lose
+@@ -60,8 +61,8 @@
+ out
+ cannot
+ cry
+-know
+-thats
++a
++moments
+ weakness
+ in
+ your
+@@ -69,7 +70,6 @@
+ im
+ forced
+ fake
+-a
+ smile
+ laugh
+ every
+@@ -84,7 +84,7 @@
+ start
+ with
+ watched
+-die
++cry
+ heard
+ night
+ sleep
+@@ -105,13 +105,15 @@
+ now
+ middle
+ for
+-damn
++old
+ thing
+-try
++stay
++side
++tried
+ hardest
+ forget
+ everything
++know
+ how
+-else
+ ashamed
+ empty

@@ -1,0 +1,100 @@
+--- og384.txt	2020-02-06 19:31:21.000000000 -0800
++++ kb395.txt	2020-02-06 19:31:27.000000000 -0800
+@@ -11,7 +11,7 @@
+ nothing
+ without
+ oh
+-but
++and
+ after
+ everything
+ youve
+@@ -23,21 +23,20 @@
+ strong
+ have
+ become
+-’cause
++cause
+ brought
+ the
+ flames
+-and
+-put
+-through
+-hell
++know
++it
++too
++well
+ to
+ learn
+ fight
+ myself
+ we
+ both
+-know
+ all
+ truth
+ could
+@@ -52,7 +51,7 @@
+ hope
+ youre
+ somewhere
+-prayin’
++prayin
+ prayin
+ your
+ soul
+@@ -80,52 +79,3 @@
+ best
+ yet
+ come
+-cause
+-make
+-it
+-my
+-own
+-oh
+-dont
+-need
+-you
+-found
+-a
+-strength
+-i’ve
+-never
+-known
+-i’ll
+-bring
+-thunder
+-rain
+-oh-oh
+-when
+-i’m
+-finished
+-they
+-wont
+-even
+-name
+-sometimes
+-pray
+-at
+-night
+-someday
+-maybe
+-youll
+-see
+-light
+-some
+-say
+-in
+-life
+-gonna
+-get
+-what
+-give
+-things
+-only
+-god
+-forgive
+-prayin

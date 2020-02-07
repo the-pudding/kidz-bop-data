@@ -1,0 +1,106 @@
+--- og269.txt	2020-02-06 19:31:21.000000000 -0800
++++ kb272.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -11,28 +11,26 @@
+ to
+ make
+ sense
+-youve
+-taken
++youre
++taking
++away
+ everything
+ and
+ cant
+-deal
+-with
+-that
++do
++without
+ try
+ see
+ the
+ good
+ in
+ life
+-but
+ things
+ are
+ hard
+ find
+-well
+-blow
+-away
++were
++blowing
+ can
+ we
+ this
+@@ -40,54 +38,50 @@
+ good
+ well
+ ill
+-do
+ right
+ time
+ around
+-lets
+-start
+-over
+ its
+ not
++over
+ cause
+ a
+ part
+ of
+ me
+ is
+-dead
++standing
++on
+ ground
+ love
+-killing
+-me
+-youre
++hurting
++but
+ only
+ one
+-ive
++taken
+ take
+ cannot
+ wait
+-were
+ wasting
+ too
+ much
+ being
+ strong
+ holding
+-on
+ let
+ bring
+ us
+ down
+ my
++with
+ you
+ means
+ so
+ wont
+ give
+ up
++that
+ easily
+-misunderstood
+ get
+ out
+ out
+@@ -95,4 +89,3 @@
+ caught
+ yourself
+ over
+-yeah

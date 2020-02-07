@@ -1,0 +1,110 @@
+--- og18.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb15.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -22,33 +22,32 @@
+ can
+ shake
+ it
++it
+ like
+ supposed
+ to
+ do
+ cause
+ got
+-boom
++those
++dance
++moves
+ the
+ boys
+ chase
+ and
+ right
+-junk
+ in
+ places
+ see
+-magazines
+-working
++magazine
++workin
+ photoshop
+ we
+-shit
+ real
+-come
+-on
++cmon
+ now
+ make
+-it
+ stop
+ if
+ beauty
+@@ -65,7 +64,7 @@
+ bottom
+ top
+ my
+-momma
++mama
+ she
+ told
+ me
+@@ -73,26 +72,24 @@
+ worry
+ your
+ says
+-a
+-little
+-more
+-booty
+-hold
++"dont
++let
++keep
+ at
+-night
+-that
+-booty
+-uh
+-booty
++home
++room
++night"
+ wont
+ be
+-stick-figure
+-silicone
++stick
++figure
++fake
++plastic
+ barbie
+ doll
+ so
+ thats
+-whats
++what
+ youre
+ into
+ then
+@@ -100,15 +97,17 @@
+ ahead
+ move
+ along
+-hey
++hey!
+ bringing
+ back
+ tell
+ them
+ skinny
+-bitches
++ladies
+ no
+ playing
+ think
+ fat
+ here
++ya
++yeah

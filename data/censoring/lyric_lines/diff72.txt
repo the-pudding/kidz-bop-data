@@ -1,0 +1,220 @@
+--- og64.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb72.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -1,63 +1,25 @@
+-welcome
+-to
+-the
+-end
+-do
+-not
+-panic
+-there
+-is
+-nothing
+-fear
+-everything
+-around
+-you
+-changing
+-stays
+-same
+-this
+-version
+-of
+-myself
+-permanent
+-tomorrow
+-i
+-will
+-be
+-different
+-energy
+-never
+-dies
+-cannot
+-destroyed
+-or
+-created
+-it
+-always
+-is
+-and
+-end
+-beginning
+-forever
+-infinite
+ gotta
+ get
+-that
+-that
+-that-that
+-boom
++get
++get-get
++g-g-get
+ boom
+ boom
+ yo
++i
+ got
++that
+ hit
+ beat
++the
+ block
++you
+ can
+ bass
+-on
+-low
+-rocknroll
++overload
++rock
++and
++roll
+ future
+ flow
+ digital
+@@ -65,14 +27,13 @@
+ next
+ level
+ visual
+-shit
+ how
+ bang
+ like
+ pow
+ them
+ chickens
+-jacking
++jackin
+ my
+ style
+ they
+@@ -80,100 +41,71 @@
+ copy
+ swagger
+ im
++on
++next
++sit
+ now
+ so
+-three
+-thousand
+-eight
+-two
++3008
++2000
+ late
+ let
+ me
++it
+ supersonic
+-boom
+ yall
+ hear
+ spaceship
+-zoom!
++zoom
++when
+ when
+ step
+ inside
+ room
+ girls
+ go
+-apeshit
+-mmm
++crazy
++uh
+ stuck
+ super
+ 8
+-shit
+-lo-fi
++bit
++low-fi
+ stupid
+-8-bit
+ hd
+ flat
+-boom-boom-bap
+-a
+-beast
+-turn
+-into
+-future
+-cybertron
+-harder
+-faster
+-better
+-stronger
+-sexy
+-ladies
+-extra
+-longer
+-cause
+-we
+-bounce
+-pound
+-beat
+-808
+-in
+-your
+-town
++this
++bap
+ people
++in
+ place
+ if
+ wanna
+ down
+-uh
+ put
++your
+ hands
+ air
+-​william
++come
++now
+ drop
+-now!
+ yup
+ yup
++be
+ rockin
+-beats!
+-y-yup
+-ha
+-ha
++beats
+ here
++we
+ go
+ satellite
+ radio
+ gettin
+-wit
+-boom
+-boom!
++with
+ beats
+ big
+-stepping
++steppin
+ leprechauns
+-shitting
+-bumping
+-bumping
+-boom!
+-rock
+-let
+-rock
+-beat
+-rock
++hittin
++bumpin
++bumpin
+ rock

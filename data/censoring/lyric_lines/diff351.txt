@@ -1,0 +1,104 @@
+--- og342.txt	2020-02-06 19:31:21.000000000 -0800
++++ kb351.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -9,12 +9,11 @@
+ turns
+ finger
+ green
++that
+ when
+ youre
+-in
+-bed
++out
+ with
+-her
+ think
+ of
+ me
+@@ -30,10 +29,9 @@
+ tell
+ by
+ flames
+-that
+ burned
+ your
+-words
++word
+ read
+ letter
+ cause
+@@ -50,7 +48,7 @@
+ make
+ it
+ all
+-ok
++okay
+ does
+ hurt
+ know
+@@ -58,28 +56,28 @@
+ be
+ there
+ bet
+-sucks
++hurts
+ see
+ my
+ face
+ everywhere
+ was
+-you
+ who
+ chose
+ end
+ like
+ did
+ last
++knew
+ exactly
+ do
+-say
+ simply
+ lost
+ way
+ she
+ may
+ believe
++but
+ will
+ again
+ if
+@@ -89,7 +87,7 @@
+ deserves
+ a
+ trophy
+-wife
++girl
+ oh
+ how
+ cute
+@@ -100,22 +98,21 @@
+ comes
+ hes
+ through
++you
+ hell
+ youll
+-die
+ together
+ alone
+ wrote
++in
+ couldnt
+ right
+ repent
+ yourself
+ away
+-they
+ hear
+ miss
+ fall
+ kiss
+ want
+ love
+-will

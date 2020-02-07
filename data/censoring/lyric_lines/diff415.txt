@@ -1,0 +1,50 @@
+--- og661.txt	2020-02-06 19:31:21.000000000 -0800
++++ kb415.txt	2020-02-06 19:31:27.000000000 -0800
+@@ -1,11 +1,13 @@
+ i
+-could
++cant
+ lift
+ you
+ up
++can
+ show
+ what
+-wanna
++want
++to
+ see
+ and
+ take
+@@ -26,6 +28,7 @@
+ safe
+ sound
+ were
++could
+ fill
+ your
+ cup
+@@ -42,22 +45,17 @@
+ hurricane
+ of
+ frowns
+-safe
+-sound
+ hold
+ ground
+ love
+-love
+ tidal
+ wave
+ mystery
+ youll
+ standing
+ next
+-to
+ me
+ six
+ feet
+ underground
+-sound
+-sound
++wanna

@@ -1,0 +1,131 @@
+--- og544.txt	2020-02-06 19:31:22.000000000 -0800
++++ kb579.txt	2020-02-06 19:31:27.000000000 -0800
+@@ -1,6 +1,7 @@
+ yeah
+ found
+-cigaretts
++someones
++name
+ in
+ your
+ fendi
+@@ -9,22 +10,21 @@
+ though
+ you
+ dont
+-smoke
++know
+ always
+-changing
+-access
+-codes
+-yeah
+-i
++changin
++access codes
++yeah i
+ can
+-tell
+-know
+-been
+-actin’
++tell you
++i
++knew
++yeah
++youve
++been actin
+ so
+ conspicuous
+-flip
+-it
++flippin
+ on
+ me
+ say
+@@ -32,20 +32,20 @@
+ too
+ much
+ youre
+-movin
++actin
+ different
+ when
+-we’re
+-makin
++were
++talking
+ love
+ baby
++tell
+ me
+ who
+ do
+ love
+ now
+-want
+-to
++wanna
+ the
+ truth
+ woah
+@@ -55,49 +55,34 @@
+ aint
+ gotta
+ make
++it
+ easy
++hey
+ where
+-sleepin
++been
++leavin
+ keepin
+ up
+ at
+ night
+ just
+ admit
+-wanna
+ know
+ now
+ you
++love
+ yeah
+-now
+ keep
+ switchin
+ alibi
+-or
+-stuttering
++stutterin
+ reply
+ cant
+ look
+-my
+ eye
+-well
+ tell
+-you’re
+-lying
+-’cause
+-youve
+-conspicuous
+-too
+-much
+-were
+-makin’
+-baby
+-who
+-actin
+-this
+-shit
+-is
++lyin
++cause
++talkin
++so
+ who
+-love
+-now
+-now

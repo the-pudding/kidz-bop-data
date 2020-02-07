@@ -1,0 +1,77 @@
+--- og416.txt	2020-02-06 19:31:21.000000000 -0800
++++ kb433.txt	2020-02-06 19:31:27.000000000 -0800
+@@ -2,14 +2,14 @@
+ me
+ somethin
+ girl
+-are
++are 
+ you
+ happy
+ in
+ this
+ modern
+ world
+-or
++or 
+ do
+ need
+ more
+@@ -18,15 +18,16 @@
+ somethin
+ else
+ youre
+-searchin
++searching
+ for
+ im
+ fallin
++in 
+ all
+ the
+ good
+ times
+-i
++i 
+ find
+ myself
+ longing
+@@ -35,7 +36,9 @@
+ and
+ bad
+ times
++i
+ fear
++tell 
+ something
+ boy
+ arent
+@@ -44,13 +47,14 @@
+ fill
+ that
+ void
++or
+ aint
+ it
+ hard
+ keepin
+ so
+ hardcore
+-falling
++im 
+ off
+ deep
+ end
+@@ -75,10 +79,9 @@
+ shallow
+ now
+ sha-ha
+-sha-hallow
+ sha-la-la-la-low
+ oh
+ ha
+ ah
+-ha
+-oh-ah
++ah
++oh

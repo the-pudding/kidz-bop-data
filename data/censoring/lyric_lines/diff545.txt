@@ -1,0 +1,92 @@
+--- og700.txt	2020-02-06 19:31:22.000000000 -0800
++++ kb545.txt	2020-02-06 19:31:27.000000000 -0800
+@@ -14,28 +14,27 @@
+ you
+ and
+ wishing
+-you
+ would
+ come
+ back
+ through
+ my
+ door
+-oh
++ooh
+ why
+ did
+ have
+ to
+ go
+-could
++couldve
+ let
+ me
+ know
+ so
+-now
+ all
+ alone
+ girl
++could
+ stayed
+ but
+ wouldnt
+@@ -55,7 +54,7 @@
+ tears
+ they
+ keep
+-runnin
++running
+ down
+ face
+ turn
+@@ -71,7 +70,7 @@
+ afraid
+ of
+ me
+-lie
++lot
+ what
+ inside
+ is
+@@ -79,7 +78,6 @@
+ want
+ it
+ be
+-so
+ baby
+ will
+ wait
+@@ -111,14 +109,13 @@
+ long
+ since
+ called
+-how
+ forget
+ about
+-me
+ gotta
+ feeling
+ crazy
+ walk
++away
+ everything
+ stays
+ same
+@@ -129,6 +126,7 @@
+ back
+ told
+ is
++no
+ look
+ at
+ youre
+@@ -149,6 +147,7 @@
+ telling
+ wont
+ enough
++lie
+ keeping
+ last
+ thing

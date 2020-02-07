@@ -1,0 +1,106 @@
+--- og39.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb43.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -2,8 +2,10 @@
+ is
+ the
+ moment
++when
+ we
+-needed
++need
++it
+ most
+ you
+ kick
+@@ -17,18 +19,17 @@
+ me
+ your
+ blue
+-skies
+-fade
++skys
++faded
+ to
+-gray
++grey
+ passions
+ gone
+ away
+ i
+ dont
+-need
+ no
+-carryin
++carrying
+ on
+ stand
+ in
+@@ -50,9 +51,9 @@
+ off
+ falling
+ pieces
+-every
+-time
+-because
++everytime
++chorus:
++cause
+ had
+ bad
+ day
+@@ -63,11 +64,9 @@
+ sad
+ song
+ turn
+-it
+ around
+ say
+ know
+-me
+ lie
+ work
+ at
+@@ -78,14 +77,12 @@
+ back
+ really
+ mind
+-will
++well
+ sky
+ holiday
+ point
+ laugh
+ what
+-ooh
+-holiday
+ sometimes
+ system
+ goes
+@@ -101,25 +98,15 @@
+ that
+ could
+ be
+-well
+ oh
+ strong
+ im
+-yeah
+-yeah
+-yeah
+ so
+ passion
+-when
+-cause
+-youve
+-seen
++seem
+ like
+ how
+ does
+ feel
+ more
+-ah
+-yeah
+-ah
+-ah
++time

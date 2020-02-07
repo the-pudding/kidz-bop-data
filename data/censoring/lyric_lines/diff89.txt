@@ -1,0 +1,113 @@
+--- og587.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb89.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -18,16 +18,16 @@
+ on
+ my
+ toes
+-slipping
++slippin
+ into
+ the
+ lava
+ and
+-trying
++tryin
+ to
+ keep
+ from
+-going
++goin
+ under
+ baby
+ turned
+@@ -38,28 +38,15 @@
+ up
+ up
+ for
+-you
+-baby
+-come
+-on
+-girl
+-fell
+-i
+ fell
+ so
+ fast
+-so
+-fast
+ cant
+ hold
+ myself
+ back
+ high
+ heels
+-high
+-heels
+-red
+-dress
+ red
+ dress
+ all
+@@ -74,34 +61,27 @@
+ can
+ see
+ is
+-oh
+-staring
++starin
+ down
+ feel
+ it
+ too
+-yo
+ were
+-burning
+ this
+ place
+ tonight
+ your
+ brothers
+ sing
+-it
+ loud
+-and
+-feeling
++feelin
+ right
+ get
+ dance
+-dont
+ try
+ fight
+-it
+ big
+-robs
++rob
+ real
+ thats
+ no
+@@ -110,20 +90,13 @@
+ drop
+ roll
+ touch
+-floor
+-it
+ keeps
+-up
+ more
+ jb
+ with
+-laying
+-down
++playin
++come
+ boys
+-let’s
++lets
+ bring
+ chorus
+-yeah
+-come
+-man
+-sup

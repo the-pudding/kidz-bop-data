@@ -1,0 +1,73 @@
+--- og679.txt	2020-02-06 19:31:21.000000000 -0800
++++ kb462.txt	2020-02-06 19:31:27.000000000 -0800
+@@ -23,18 +23,20 @@
+ is
+ one
+ her
+-mum
++mom
+ calls
+ me
+ love
+ dad
+ son
++alright
+ know
+ know
+ for
+ sure
+ everybody
+-wanna
++wants
++to
+ steal
+ girl
+ take
+@@ -49,17 +51,18 @@
+ find
+ another
+ belongs
+-to
++na
+ na
+ oh
+ yeah
+-na
++right
+ kisses
+ like
+-cream
++a
++queen
+ walk
+ so
+-mean
++lean
+ and
+ every
+ jaw
+@@ -70,23 +73,18 @@
+ dont
+ exist
+ if
+-have
+ sun
+ doesnt
+ shine
+ turn
+-but
++knows
+ knows
+ that
+ never
+ let
+ down
+ before
+-oh
+ im
+ gonna
+-love
+ from
+ now
+-well
+-yeah

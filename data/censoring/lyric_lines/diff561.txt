@@ -1,0 +1,20 @@
+--- og709.txt	2020-02-06 19:31:22.000000000 -0800
++++ kb561.txt	2020-02-06 19:31:27.000000000 -0800
+@@ -14,16 +14,4 @@
+ to
+ your
+ kin
+-now
+-us
+-some
+-figgy
+-pudding
+-out
+-here
+-wont
+-go
+-until
+-get
+-some
+-so
++for

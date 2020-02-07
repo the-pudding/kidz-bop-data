@@ -1,0 +1,72 @@
+--- og692.txt	2020-02-06 19:31:22.000000000 -0800
++++ kb507.txt	2020-02-06 19:31:27.000000000 -0800
+@@ -1,6 +1,7 @@
+ yeah
+ yeah
+ oh
++oh
+ ive
+ got
+ it
+@@ -39,31 +40,30 @@
+ life
+ than
+ chasing
+-down
+ every
+ temporary
+ high
+ satisfy
+-cause
++coz
+ the
+ tripping
++out
+ thinking
+ there
+ must
+-well
++of
++where
+ life
+ sure
+-than
+ wanting
+-more
+ time
+ wasting
+ slowly
+ here
+ in
+ moment
+-halfway
+-out
++half
++way
+ door
+ onto
+ next
+@@ -72,19 +72,13 @@
+ for
+ something
+ thats
+-trippin
+-thinkin
++missing
+ always
+ waiting
+ on
+ other
+ am
+-feeling
++feelin
+ missed
+-something
+-missed
+-yeah
+-more
+-im
+-oh
+-life
++much
++to

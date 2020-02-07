@@ -1,0 +1,99 @@
+--- og381.txt	2020-02-06 19:31:21.000000000 -0800
++++ kb392.txt	2020-02-06 19:31:27.000000000 -0800
+@@ -1,4 +1,3 @@
+-da
+ i
+ dont
+ know
+@@ -9,12 +8,11 @@
+ louder
+ how
+ many
+-times
++time
+ have
+ kicked
+ you
+-out
+-of
++outta
+ here
+ or
+ said
+@@ -27,22 +25,26 @@
+ wanna
+ am
+ capable
++of
+ really
+ anything
+-cut
+-into
++could
++break
++your
++heart
++in
+ pieces
++but
+ my
+-heart
+ is
+ broken
+ please
+ leave
+ me
++me
+ always
+ say
+ need
+-but
+ its
+ gonna
+ come
+@@ -57,7 +59,7 @@
+ it
+ with
+ that
+-makes
++make
+ act
+ like
+ this
+@@ -75,29 +77,24 @@
+ one
+ wins
+ will
+-hits
++work
+ hardest
+ baby
+ it
+ promise
+-oh
+-dont
+-me
+ forgot
++out
+ loud
+ beautiful
+ are
++cannot
+ without
+ youre
+ perfect
+-little
+-punching
+-bag
++see
+ and
++you
+ im
+ sorry
+-no
+-i
+-say
+-i
+-i
++please
++baby

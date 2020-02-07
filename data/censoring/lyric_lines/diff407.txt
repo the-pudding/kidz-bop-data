@@ -1,0 +1,96 @@
+--- og397.txt	2020-02-06 19:31:21.000000000 -0800
++++ kb407.txt	2020-02-06 19:31:27.000000000 -0800
+@@ -27,15 +27,14 @@
+ fly
+ fly
+ fly
+-fly
+ up
+ up
+ go
++go
+ where
+ stop
+ nobody
+ knows
+-knows
+ dont
+ need
+ roads
+@@ -50,9 +49,12 @@
+ want
+ it
+ got
+-jetpack
++got
++jet
++pack
+ name
+ on
++yeah
+ above
+ clouds
+ in
+@@ -61,22 +63,25 @@
+ just
+ say
+ words
+-of
++outta
+ outta
+ here
+ hold
+ hand
+-feeling
++feelin
+ scared
+ scared
+-flying
++flyin
++up
+ baby
+ can
+ stay
++fly
+ like
+ g6
+ shop
+ streets
++of
+ tokyo
+ get
+ kicks
+@@ -89,7 +94,6 @@
+ looking
+ down
+ priceless
+-yeah
+ at
+ only
+ few
+@@ -108,11 +112,12 @@
+ til
+ then
+ geronimo
+-now
++nah
+ been
+ space
+ before
+ but
++aint
+ seen
+ face
+ yours
+@@ -124,10 +129,9 @@
+ moon
+ watch
+ grab
+-aint
+ star
+ stuck
+-by
++off
+ way
+ glow
+ like

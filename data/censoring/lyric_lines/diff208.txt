@@ -1,0 +1,86 @@
+--- og199.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb208.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -1,8 +1,8 @@
+-puttin
++puttin’
+ my
+-defenses
++defences
+ up
+-cause
++‘cause
+ i
+ don’t
+ wanna
+@@ -26,7 +26,7 @@
+ the
+ line
+ said
+-"yes"
++yes
+ to
+ right
+ guy
+@@ -68,10 +68,9 @@
+ wear
+ high
+ heels
+-yes
++yea
+ so
+ nervous
+-that
+ just
+ can’t
+ hold
+@@ -79,11 +78,10 @@
+ hand
+ glow
+ cover
+-up
+ let
+ show
+-im
+-putting
++cause
++x3
+ break
+ sweat
+ for
+@@ -93,8 +91,7 @@
+ around
+ get
+ paralyzed
+-every
+-time
++everytime
+ try
+ be
+ myself
+@@ -117,7 +114,7 @@
+ hurts
+ perfume
+ feelings
+-are
++got
+ lost
+ lungs
+ they’re
+@@ -130,7 +127,6 @@
+ else
+ blame
+ scared
+-i’ll
+ take
+ off
+ run
+@@ -141,7 +137,5 @@
+ burst
+ into
+ flames
+-heart
+-attack
+--tack
+-oh
++id
++x2

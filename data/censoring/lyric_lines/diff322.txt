@@ -1,0 +1,146 @@
+--- og307.txt	2020-02-06 19:31:21.000000000 -0800
++++ kb322.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -15,9 +15,10 @@
+ gold
+ everybody
+ knows
++ive
+ when
+ hit
+-floor
++flow
+ girls
+ come
+ snappin
+@@ -27,7 +28,6 @@
+ some
+ presto
+ magic
+-ahooooooo
+ these
+ tricks
+ ill
+@@ -36,24 +36,21 @@
+ blow
+ your
+ mind
+-mind
+ pick
+ a
+ verse
+ any
++verse
+ hypnotize
+ you
+ with
+ line
+-ah!
+ need
+ volunteer
+ how
+ about
+ you
+ eyes
+-right
+-there
+ on
+ down
+ to
+@@ -65,9 +62,8 @@
+ dont
+ be
+ shy
+-bobby
+ have
+-travellin
++time-travellin
+ babblin
+ people
+ tryin
+@@ -86,17 +82,14 @@
+ see
+ mindfreak
+ like
+-"whats
++whats
+ up
+ man
+-whats
+-happenin"
+-mindfreak!
++happenin
+ one
+ all
+ show
+ tonight
+-ha
+ prepare
+ astounded
+ no
+@@ -111,19 +104,19 @@
+ lie
+ call
+ mr
++man
+ float
+ cloud
+-9
+-haha
++nine
+ i
+ baby
+ yes
+ gold
+ they
++snappin
+ well
+ journey
+ my
+-mind
+ youll
+ why
+ its
+@@ -137,16 +130,12 @@
+ then
+ jump
+ crowd
+-ah
+ see
+-flow
+ beat
+-pitta-da-da
++pidda-dow-dow
+ deceive
+-ya
+ intergalactic
+ ether
+-yeah
+ sing
+ just
+ aretha
+@@ -160,16 +149,13 @@
+ cautious
+ cause
+ what
+-onll
+ leave
+ amnesia
+ break
+ rules
+ evel
+ knievel
+-yeah!
+ spectacular
+-show
+ heart
+ pumps
+ diesel
+@@ -183,4 +169,7 @@
+ hocus
+ pocus
+ is
+-steelo
++styl-o
++yes
++hey
++yeah

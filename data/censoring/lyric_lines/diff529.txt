@@ -1,0 +1,66 @@
+--- og502.txt	2020-02-06 19:31:22.000000000 -0800
++++ kb529.txt	2020-02-06 19:31:27.000000000 -0800
+@@ -11,23 +11,21 @@
+ for
+ and
+ can
+-tell
+-me
+-if
++tell me if
+ im
+ off
+-but
++but i
+ see
+ it
+ on
+ your
+ face
+-when
++when you
+ say
+ that
+ the
+ one
+-want
++love
+ youre
+ spending
+ all
+@@ -37,6 +35,7 @@
+ wrong
+ situation
+ anytime
++want
+ stop
+ treat
+ better
+@@ -48,12 +47,15 @@
+ deserves
+ a
+ gentleman
++tell
++me
+ why
+ are
+ we
+ wasting
+ wasted
+-crying
++crime
++when
+ should
+ be
+ with
+@@ -67,8 +69,8 @@
+ loving
+ missing
+ baby
+-wake
+-up
++sit
++next
+ would
+ everything
+ need

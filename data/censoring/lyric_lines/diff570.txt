@@ -1,0 +1,56 @@
+--- og540.txt	2020-02-06 19:31:22.000000000 -0800
++++ kb570.txt	2020-02-06 19:31:27.000000000 -0800
+@@ -27,7 +27,7 @@
+ would
+ climb
+ andes
+-solely
++soley
+ to
+ count
+ freckles
+@@ -42,12 +42,11 @@
+ ways
+ somebody
+ le
+-ro
++do
+ lo
+ le
+ cant
+-see
+-im
++seeim
+ at
+ feet
+ whenever
+@@ -73,7 +72,6 @@
+ play
+ by
+ ear
+-but
+ lips
+ not
+ mumble
+@@ -109,6 +107,8 @@
+ will
+ cry
+ river
++le
++feetim
+ think
+ out
+ loud
+@@ -119,7 +119,6 @@
+ one
+ more
+ time
+-live
+ lost
+ in
+ youve
+@@ -135,3 +134,4 @@
+ really
+ feel
+ way
++together

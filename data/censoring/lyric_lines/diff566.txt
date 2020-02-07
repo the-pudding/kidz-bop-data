@@ -1,0 +1,33 @@
+--- og536.txt	2020-02-06 19:31:22.000000000 -0800
++++ kb566.txt	2020-02-06 19:31:27.000000000 -0800
+@@ -38,7 +38,8 @@
+ me
+ like
+ a
+-racehorse
++race
++horse
+ pull
+ ripcord
+ break
+@@ -125,20 +126,3 @@
+ theres
+ more
+ see
+-product
+-system;
+-catastrophe
+-yet
+-masterpiece
+-half-diseased
+-am
+-deceased
+-least
+-ill
+-go
+-grave
+-die
+-happily
+-leave
+-soul
+-thee

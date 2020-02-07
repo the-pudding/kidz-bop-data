@@ -1,0 +1,46 @@
+--- og163.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb170.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -48,22 +48,22 @@
+ says
+ first
+ time
+-well
+ maybe
+ wrong
++but
+ right
+-wherever
++where
+ i
+ belong
+ with
+ tonight
++love
+ feel
+ world
+ that
+ see
+ waiting
+ come
+-life
+ waking
+ me
+ up
+@@ -71,11 +71,6 @@
+ reality
+ your
+ eyes
+-wrong
+-but
+-for
+-time
+-time
+ crashing
+ into
+ unknown
+@@ -84,5 +79,3 @@
+ it
+ feels
+ home
+-sky
+-thats

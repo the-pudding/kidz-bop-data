@@ -1,0 +1,144 @@
+--- og453.txt	2020-02-06 19:31:21.000000000 -0800
++++ kb476.txt	2020-02-06 19:31:27.000000000 -0800
+@@ -1,48 +1,32 @@
+-kiss
+-me
+-hard
+-before
+-you
+-go
+-summertime
+-sadness
+ i
+-just
+-wanted
+-to
+-know
+-that
+-baby
+-youre
+-the
+-best
+ got
+ my
+-red
++new
+ dress
+ on
+ tonight
+-dancin
++dancing
+ in
++the
+ dark
+ pale
+ moonlight
+ done
+ hair
+ up
+-real
++really
+ big
+ beauty
+ queen
+ style
+-high
+-heels
+-off
++shoes
++on
+ im
+-feelin
++feeling
+ alive
++chorus
+ oh
+-god
++gosh
+ feel
+ it
+ air
+@@ -50,54 +34,51 @@
+ wires
+ above
+ are
+-sizzlin
++sizzling
+ like
+ a
+ snare
+ honey
+ fire
++see
+ everywhere
+-nothin
++nothing
+ scares
++me
+ anymore
+-one
+-two
+-three
+-four
++listen
++hard
++before
++you
++go
++summertime
++sadness
++just
++wanted
++to
++know
++that
++baby
++youre
++best
++ive
+ that
+ summertime
+-su-su-summertime
+-oh-oh-oh-oh
++s-s-summertime
++oh-ooooh
+ electric
+-cruisin
++cruising
+ down
+ coast
+-goin
+-bout
+-99
+-bad
+-baby
++going
++out
++drive
++gotta
++good
+ by
+ heavenly
+ side
+ if
+-go
+ ill
+-die
++be
+ happy
+-think
+-miss
+-forever
+-stars
+-sun
+-mornin
+-sky
+-laters
+-better
+-than
+-never
+-even
+-gone
+-gonna
+-drive
+-drive

@@ -1,0 +1,70 @@
+--- og363.txt	2020-02-06 19:31:21.000000000 -0800
++++ kb369.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -19,12 +19,13 @@
+ take
+ the
+ night
++goes
+ real
+ easy
+ and
+ know
+ that
+-youll
++you’ll
+ still
+ wanna
+ see
+@@ -33,6 +34,7 @@
+ morning
+ music
+ loud
++move
+ while
+ moon
+ out
+@@ -46,26 +48,37 @@
+ wont
+ slee-ee-eep
+ cause
+-im
++i’m
+ lost
+ way
+ move
+-feel
++seem
++darling
+ just
++hold
+ your
+-skin
++hands
+ mine
+ eyes
+-do
+-exploring
+-passion
++glued
++morning
++right
++here
+ message
+ when
+ smile
+ my
+ time
++im
++yeah
+ a
+ wonderland
++oh
+ might
+-company
++to
++talk
+ tonight
++it’s
++you-ou-ou
++won’t
++yeah

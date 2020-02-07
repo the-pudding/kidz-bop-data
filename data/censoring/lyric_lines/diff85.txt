@@ -1,0 +1,53 @@
+--- og585.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb85.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -19,7 +19,7 @@
+ without
+ a
+ soul
+-spirits
++spirit
+ sleeping
+ somewhere
+ cold
+@@ -38,10 +38,9 @@
+ inside
+ i
+ cant
+-save
+-me
+ call
+ name
++save
+ from
+ the
+ dark
+@@ -66,11 +65,10 @@
+ bring
+ life
+ been
+-livin
++living
+ lie
+ theres
+ frozen
+-inside
+ your
+ touch
+ love
+@@ -86,7 +84,6 @@
+ couldnt
+ kept
+ in
+-dark
+ but
+ were
+ front
+@@ -102,8 +99,3 @@
+ let
+ die
+ here
+-must
+-be
+-something
+-more
+-living

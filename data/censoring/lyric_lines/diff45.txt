@@ -1,0 +1,90 @@
+--- og41.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb45.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -6,7 +6,7 @@
+ toda
+ mi
+ vida
+-quédate
++quedate
+ conmigo
+ tonight
+ we
+@@ -28,7 +28,9 @@
+ dont
+ let
+ world
+-outside
++dim
++sight
++don’t
+ a
+ moment
+ go
+@@ -36,20 +38,18 @@
+ can
+ stop
+ us
+-bailamos!
++bailamos
+ rhythm
+ you
+ over
+ quiero
+ amor
+ mio
+-wanna
++gonna
+ live
+ this
+ night
+ forever
+-mío
+-tonight
+ im
+ yours
+ make
+@@ -57,35 +57,35 @@
+ happen
+ so
+ sure
+-wont
++now
++i’m
++letting
+ there
+ something
+ think
+ should
+ know
++wont
+ be
+ leaving
+ side
+ were
+-gonna
+ through
+-want
+-to
+ reach
+ for
+ stars
+ whoa
+-oh-oh-oh
++oh
++oh
+ like
+ no
+ tomorrow
++whoa
+ if
+ will
+ stay
+ with
+ me
+-quedate
+-como
+-quiero
+-como
+ quiero
++conmigo
++cielo

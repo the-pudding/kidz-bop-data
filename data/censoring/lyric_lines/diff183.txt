@@ -1,0 +1,108 @@
+--- og607.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb183.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -1,52 +1,53 @@
+ ghostbusters!
+ if
+ theres
+-something
++somethin
+ strange
+ in
+ your
+ neighborhood
+ who
+-you
++ya
+ gonna
+ call
++its
+ weird
+-and
++an
+ it
+ dont
+ look
+ good
+ i
+ aint
+-fraid
+-of
++afraid
++o
+ no
+ ghost
+ youre
+-seeing
++seein
+ things
+-running
++runnin
+ through
+ head
+ can
++you
+ an
+ invisible
+ man
+ sleepin
+ bed
+-ow
++oh
+ all
+ alone
+ pick
+ up
+ the
+ phone
++and
+ call
+-ooh
+ hear
+ likes
+ girls
+-hm
+ yeah
+ yeah
+ mmm
+@@ -54,34 +55,29 @@
+ had
+ a
+ dose
++of
+ freaky
+-ghost
+ baby
+ better
+-ow!
+-lemme
++let
++me
+ tell
+-ya
+ bustin
+ makes
+-me
+ feel
+-good!
+ get
+ caught
+-oh
+ when
++he
+ comes
+ door
+ unless
+ just
+-a-want
++want
+ some
+ more
+ think
+-uh
+-ha
+-ha
++oh
++ah
+ cant
+ louder
+-too

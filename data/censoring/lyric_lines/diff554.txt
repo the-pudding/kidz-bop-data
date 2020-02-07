@@ -1,0 +1,141 @@
+--- og527.txt	2020-02-06 19:31:22.000000000 -0800
++++ kb554.txt	2020-02-06 19:31:27.000000000 -0800
+@@ -8,15 +8,15 @@
+ first
+ time
+ saying
+-"this
++this
+ is
+ it
+ ive
+ had
+-enough"
++enough
+ cause
+ like
+-hadnt
++havent
+ seen
+ each
+ other
+@@ -26,52 +26,46 @@
+ you
+ said
+ needed
+-"space"
++space
+ what
+ then
++you
+ come
+ around
+ again
+ and
+ say
+-"baby
++baby
+ miss
+ swear
+ im
+ gonna
+ change
+ trust
+-me"
++me
+ how
+ that
+ lasted
+ for
+ day
+ say
+-"i
+ hate
+-you"
+ break
+ up
+ call
+-me
+ love
+-you"
+-ooh-ooh-ooh-ooh-ooh
++oooh
+ called
+ it
+ off
+ last
+ night
+ but
+-this
+-time
++oooh
+ telling
+-you
+ are
+ never
+ ever
+-ever
+ getting
+ back
+ together
+@@ -82,18 +76,18 @@
+ friends
+ my
+ me
+-like
++ever
+ really
+ picking
+ fights
+ falling
+ screaming
+ right
+-would
++will
+ hide
+ away
+ find
+-peace
++piece
+ of
+ mind
+ with
+@@ -106,33 +100,21 @@
+ than
+ mine
+ tonight
+-ever
+-talk
+-me
+-yeah
+-oh-oh-oh
+ used
+ think
++we
+ were
+ forever
+-"never
+-never"
+-ugh
+-so
++huh
+ he
+ calls
+ hes
++like
+ still
+-just-
++just
+ mean
+ exhausting
+ know
+-never
+ together
+-ever"
+-ooh
+-ooh-ooh-ooh-ooh-ooh
+-ooh-ooh-ooh
+-no
++not
+ oh
+-yeah

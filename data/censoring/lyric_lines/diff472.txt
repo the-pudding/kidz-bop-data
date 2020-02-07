@@ -1,0 +1,123 @@
+--- og447.txt	2020-02-06 19:31:21.000000000 -0800
++++ kb472.txt	2020-02-06 19:31:27.000000000 -0800
+@@ -1,23 +1,22 @@
+ you
+ know
+-the
+-bed
++that
++life
+ feels
+-warmer
+-sleepin
++better
++sitting
+ here
+ alone
+-sleepin
+ alone
+-i
+-dream
+-in
++im
++dreaming
+ color
+ and
+ do
++the
+ things
++i
+ want
+-do
+ want
+ think
+ got
+@@ -28,8 +27,7 @@
+ had
+ last
+ laugh
+-bet
+-that
++but
+ everything
+ good
+ is
+@@ -41,13 +39,11 @@
+ come
+ running
+ back
+-baby
++maybe
+ dont
+-me
+ cause
+-youre
+-dead
+-wrong
++been
++
+ what
+ doesnt
+ kill
+@@ -58,48 +54,47 @@
+ little
+ taller
+ mean
+-im
+ lonely
+ when
+ fighter
+ footsteps
+ even
+ lighter
+-over
++loner
++youre
+ stronger
+ just
++me
+ myself
+ heard
+ was
+ starting
++over
+ with
+ someone
+ new
+-they
+-told
++new
+ moving
+ on
+-didnt
+ id
+ swinging
+-tried
++try
+ to
+ break
+-but
+ see
++myself
+ thanks
+-you
+ thing
+ started
+ not
+-broken-hearted
++brokenhearted
+ finally
+-thinkin
++thinking
+ bout
++in
+ end
+ day
++your
+ my
+-beginning
+-end
+-what
+-you
++weakenin
++self

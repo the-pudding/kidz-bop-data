@@ -1,0 +1,68 @@
+--- og95.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb103.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -17,7 +17,7 @@
+ im
+ a
+ put-on-a-show
+-kinda
++kind
+ girl
+ dont
+ like
+@@ -25,13 +25,10 @@
+ gotta
+ be
+ first
+-oh-oh
+ ringleader
+ i
+ call
+ shots
+-i
+-shots
+ firecracker
+ make
+ it
+@@ -63,7 +60,6 @@
+ same
+ all
+ eyes
+-me
+ center
+ ring
+ just
+@@ -73,9 +69,10 @@
+ everybody
+ gonna
+ trip
+-stand
++sit
+ there
+ watching
++me
+ follow
+ what
+ can
+@@ -83,7 +80,6 @@
+ let
+ go
+ we
+-floor
+ guys
+ out
+ hang
+@@ -96,14 +92,6 @@
+ run
+ tight
+ ship
+-so
+ beware
+ lets
+-see
+-circus
+-circus
+-running
+-this
+-like
+-yeah
+ what

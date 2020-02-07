@@ -1,0 +1,64 @@
+--- og238.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb254.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -10,28 +10,30 @@
+ you
+ were
+ gone
+-crashed
+-my
++drove
++your
+ car
+-into
++across
+ bridge
+ watched
+ let
+ it
+-burn
++swim
+ threw
+-your
+-shit
++stuff
++into
+ a
+ bag
+ and
+ pushed
+ down
+ stairs
++bridge
+ dont
+-care!
++care
+ love
+ it
++care
+ youre
+ different
+ road
+@@ -46,17 +48,18 @@
+ am
+ up
+ space
+-so
+-damn
++soso
+ hard
+ to
+ please
+ we
+ gotta
+-kill
++flip
+ switch
+ from
+ 70s
+-90s
+-bitch
++kidz
++bop
++kid!
+ it!
++it

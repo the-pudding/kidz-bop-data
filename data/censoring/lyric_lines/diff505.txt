@@ -1,0 +1,56 @@
+--- og480.txt	2020-02-06 19:31:22.000000000 -0800
++++ kb505.txt	2020-02-06 19:31:27.000000000 -0800
+@@ -7,7 +7,7 @@
+ daddy
+ cry
+ and
+-curse
++yell
+ at
+ the
+ wind
+@@ -22,7 +22,7 @@
+ to
+ reassemble
+ it
+-mama
++momma
+ swore
+ that
+ she
+@@ -61,7 +61,7 @@
+ ways
+ make
+ alone
+-but
++or
+ keep
+ a
+ straight
+@@ -89,7 +89,6 @@
+ ever
+ worth
+ risk
+-well
+ tight
+ grip
+ on
+@@ -100,17 +99,15 @@
+ front
+ me
+ here
+-know
+ youre
+ leaving
+ morning
+-wake
+ leave
+ some
+ kind
+ proof
+ its
+ dream
++oh
+ way
+ believing
+-oh

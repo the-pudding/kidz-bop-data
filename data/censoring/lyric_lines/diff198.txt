@@ -1,0 +1,75 @@
+--- og190.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb198.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -46,6 +46,7 @@
+ screen
+ holding
+ my
++own
+ breath
+ right
+ up
+@@ -66,6 +67,7 @@
+ someone
+ cares
+ love
++life
+ their
+ hands
+ theres
+@@ -74,50 +76,38 @@
+ me
+ do
+ on
+-own
+-their
+-own
+ and
+ theyre
+ not
+ alone
+-not
+-alone
+ else
+ same
+ somewhere
+-the
+-somewhere
+ tonight
+ street
+ moonlight
+-dammit
++you
+ too
+ its
+-déja
++déjà
+ vu
+ standing
+ here
+-you
++breath
+ could
+ end
+ is
+-with
+-ooh
+ cant
+ give
+-when
+-youre
++up
+ looking
+-for
+ diamond
+ rough
+-cause
+ never
+-know
+ shows
+ make
+ sure
+-on
++youre
++one
+ me
+ oh

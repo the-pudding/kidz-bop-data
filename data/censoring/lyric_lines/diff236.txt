@@ -1,0 +1,167 @@
+--- og249.txt	2020-02-06 19:31:21.000000000 -0800
++++ kb236.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -1,31 +1,28 @@
+ fussin
+-and
++an
+ fightin
+ we
+ back
+ at
+ it
+ again
+-again
+ i
+ know
+ that
+ its
+ my
+ fault
++but
+ you
+ dont
+ understand
+-no
+ got
+ memories
+-uh
+ this
+ is
+ crazy
+-uh
+ aint
+-nothing
++nothin
+ like
+ the
+ girl
+@@ -37,19 +34,16 @@
+ pa
+ cool
+ all
+-niggas
+-my
+-niggas
++friends
+ should
+ try
+-truth
++decide
+ wanna
+ let
+ in
+-but
+-damn
+-these
+-ooh
++means
++memories
++and
+ girl
+ really
+ work
+@@ -58,47 +52,34 @@
+ im
+ tired
+ of
+-fighting
+-tired
+-fighting
++fightin
+ hope
+ still
+ want
+ me
+ way
+-you
+-you
+ said
+ out
+-trying
+-im
+-trying
+-yeah
++yo
++tryin
+ no
+ excuse
+ excuse
+-but
+-this
+ ice
+ box
+ where
+ heart
+ be
+-said
+-it
+-no
+ so
+ cold
+-coldno
+ cold
+-be
++said
+ why
+ cant
+ get
+ right
+ just
+ go
+-go
+ opened
+ up
+ she
+@@ -112,50 +93,25 @@
+ you
+ baby
+ help
+-in
+ same
+ ol
+ condition
+ baby
+ left
+-and
+ i
+ apologize
+ for
+ makin
+ cry
+ look
+-eyes
++eye
+ promise
+ do
+-same
+-yeah-yeah
+-fighting
+-baby
+-oh
+-no-no-no
+-no-no-no
+-box
+ stuck
+-off
++up
+ world
+ mess
+ better
+ keep
+ your
+-eye
+ me
+-up
+-cause
+-be
+-ooh
+-ooh-ooh
+-keep
+-me
+-girl
+-yeah
+-woo
+-cold
+-oh
+-omarion
+-bitch

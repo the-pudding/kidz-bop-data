@@ -1,0 +1,113 @@
+--- og320.txt	2020-02-06 19:31:21.000000000 -0800
++++ kb329.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -6,7 +6,7 @@
+ further
+ than
+ this
+-want
++miss
+ you
+ so
+ badly
+@@ -18,8 +18,8 @@
+ spend
+ time
+ just
+-thinking
+-thinking
++thinkin
++thinkin
+ bout
+ every
+ single
+@@ -27,8 +27,8 @@
+ yes
+ im
+ really
+-missing
+-missing
++missin
++missin
+ and
+ all
+ those
+@@ -43,11 +43,9 @@
+ whats
+ up
+ it
+-used
+ be
+ me
+ up
+-yo
+ can
+ meet
+ halfway
+@@ -60,16 +58,23 @@
+ gonna
+ wait
+ for
++you
+ ill
+-looking
++lookin
+ out
+ night
+-day
++n
+ took
+ heart
+ limit
++and
+ is
++ill
+ stay
++oh
++whoa
++oh
++whoa
+ bad
+ only
+ travel
+@@ -84,7 +89,6 @@
+ other
+ galaxies
+ tell
+-go
+ wanna
+ navigate
+ myself
+@@ -100,13 +104,16 @@
+ downtown
+ have
+ around
++round
+ like
+ love
+-always
+-ways
++way
++way
++halfway
++meet
+ halfway
+ lets
+-cross
++walk
+ bridge
+ side
+ just
+@@ -116,7 +123,9 @@
+ fly
+ skies
+ for
+-try
+-until
+-die
+-for
++can
++halfway
++out
++took
++limit
++stay

@@ -1,0 +1,133 @@
+--- og407.txt	2020-02-06 19:31:21.000000000 -0800
++++ kb422.txt	2020-02-06 19:31:27.000000000 -0800
+@@ -17,16 +17,17 @@
+ danced
+ night
+ away
+-drank
+-too
++sang
++so
+ much
+ held
+ your
+-hair
+-back
+-when
++hand
++that
++way
+ were
+-throwing
++singing
++oh
+ then
+ smiled
+ over
+@@ -34,23 +35,21 @@
+ for
+ a
+ minute
+-stone
+-cold
+-sober
+-pulled
+-closer
+-to
+-my
+-chest
++feeling
++older
++said
++thought
++best
+ and
+ asked
+-stay
++to
++stand
++closer
+ said
+ already
+ told
+ ya
+ think
+-that
+ should
+ get
+ some
+@@ -65,6 +64,7 @@
+ played
+ it
+ cool
++when
+ scared
+ of
+ letting
+@@ -72,6 +72,7 @@
+ needed
+ showed
+ wanna
++stay
+ with
+ until
+ were
+@@ -81,32 +82,12 @@
+ say
+ wont
+ let
+-ill
+-wake
+-breakfast
+-bed
+-bring
+-coffee
+-kiss
+-on
+-head
+-take
+-kids
+-school
+-wave
+-them
+-goodbye
+-thank
+-lucky
+-stars
+ looked
+ forget
+ im
+-older
+ dance
+ right
+ now
+-oh
+ look
+ beautiful
+ ever
+@@ -116,9 +97,7 @@
+ better
+ make
+ this
+-way
+ somehow
+-so
+ love
+ hope
+ darling
+@@ -132,6 +111,7 @@
+ weve
+ come
+ far
++my
+ dear
+ how
+ grown
+@@ -147,7 +127,6 @@
+ give
+ out
+ promise
+-til
+ death
+ part
+ like

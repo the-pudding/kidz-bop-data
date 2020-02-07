@@ -1,0 +1,416 @@
+--- og573.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb29.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -14,17 +14,16 @@
+ you
+ all
+ know
+-him
+-he
+-had
+ me
++was
+ scared
+ as
+-hell!
++hell
++he
+ comes
+ at
+ night
+-after
++when
+ crawl
+ into
+ bed
+@@ -36,7 +35,7 @@
+ his
+ name
+ is
+-fred!
++fred
+ wears
+ the
+ same
+@@ -51,9 +50,8 @@
+ hot
+ outside
+ it
+-anyway!
+-gone
+-when
++anyway
++home
+ im
+ awake
+ but
+@@ -62,20 +60,20 @@
+ cant
+ believe
+ theres
+-nightmare;
++nightmare
+ on
+ my
+-street!
+-was
++street
+ saturday
+ evening
+ remember
+ right
+ we
++had
+ just
+ gotten
+-back
+ off
++of
+ tour
+ last
+ so
+@@ -86,9 +84,9 @@
+ groovy
+ summoned
+ posse
+-bum
+-rush
+-movies
++down
++watch
++movie
+ got
+ angie
+ jeff
+@@ -97,33 +95,52 @@
+ rock
+ some
+ girl
++ive
+ never
+ seen
+ in
+ life
++alright
+ though
+ cause
+ lady
+ chill
+ then
+ dipped
+-theater
++theatre
+ set
+ ill
+-saw
++buggin
++
++cold
++havin
++ball
++somethin
++bout
+ elm
+-street
+-man
+-def
++saw
++way
++started
++decent
++know
++nothin
++real
++fancy
++homeboy
++named
++nancy
++but
++word!
++over
++said
++"yo
++def!"
+ everything
+ seemed
+ left
+-home
+ laid
+-down
+ began
+-nightmare
+-burning
++burnin
+ room
+ an
+ oven
+@@ -131,24 +148,34 @@
+ with
+ sweat
+ man
+-buggin
+ checked
+ clock
+ stopped
+-12:30
++12
++30
+ melted
+ darn
+ hot
+ thirsty
+-went
++wanted
++something
++cool
++quench
++thirst
++myself
++yo!
++heat
++worst
+ downstairs
+-grab
+-juice
+-or
+-coke
+-flipped
++noticed
++wrong
++alone
+ tv
+-off
++grabbed
++remote
++pushed
++power
++button
+ almost
+ choked
+ heard
+@@ -159,9 +186,9 @@
+ behind
+ said
+ "you
+-turned
+-david
+-letterman
++are
++favorite
++rapper
+ must
+ die!"
+ aint
+@@ -169,24 +196,26 @@
+ see
+ who
+ broke
++inside
+ drawers
+ screamed
+ "so
+ long
+-cuz!"
++cause!"
+ halfway
+ block
+ calmed
+ screamin
+ thought
+-"oh
++oh
+ get
+ it
+-dreamin"
++dreamin
+ strolled
++back
+ grin
+ grill
+-figured
++thinkin
+ since
+ dream
+ might
+@@ -200,18 +229,15 @@
+ freddy
+ killed
+ noise
+-real
+ quick
+-grabbed
+ by
+ neck
+-said
+ "heres
+ what
+ well
+ do
+-lot
+-of
++weve
++lotta
+ work
+ here
+ souls
+@@ -221,32 +247,44 @@
+ claim
+ youve
+ body
+-ive
+-brain"
+-"yo
++brains"
+ fred
+ think
+-wrong
+ partners
+ nobody
+ nails
+-long!
+ look
+ ill
+ honest
+ team
+ wont
+ girls
+-you
++yours
+ fred
+ face
+-burnt!"
++burnt"
++mad
++head
++steamin
++hell
++only
++"please
++leave
++can
++gimme
++call
++maybe
++hang
++out
++next
++week"
+ pat
+ him
+ shoulder
++say
+ "thanks
+ for
+-stopping
++stoppin
+ by"
+ opened
+ door
+@@ -254,20 +292,19 @@
+ care
+ guy!"
+ mad
+-drew
++threw
+ arm
+ slashed
+ shirt
+ laughed
+ first
+-"hold
++hold
+ up
+-hurt!"
++hurt
+ wasnt
+-dream
++guy
+ "freddy
+ uh
+-pal
+ been
+ mistake
+ here"
+@@ -282,25 +319,22 @@
+ pulled
+ covers
+ over
+-head
+ "oh
+ please
+ do
+-somethin
+ fred!"
+-bed
+-ripped
+ claws
+ tried
+-me
+ alarm
+-silence!
++went
++off
++silence
+ whole
+ new
+-"huh
+-anyway"
++day
++heh
++him
+ until
+-noticed
+ those
+ rips
+ sheets
+@@ -310,36 +344,35 @@
+ gotta
+ call
+ jeff
+-come
+-on
++cmon
++cmon
+ answer
++man
+ hello
+-prince
+ wake
+ want
++man
+ listen
+-three
+-oclock
+-mornin
+ me
++3
++oclock
++morning
+ listen
++me
+ whatever
++do
+ dont
+ fall
+ asleep
+-man!
+ go
+-sleep
+ talk
+ tomorrow
+-going
+-rrahhhh!
+-ahhhhhh!
++goin
++aghh
++aghhh
+ jeff!
+-ha
+-haaaa!
++me
+ dj
+ now
+-princey!
+-ahh
+-haaaaa!
++princy
++ha

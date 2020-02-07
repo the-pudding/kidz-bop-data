@@ -1,0 +1,118 @@
+--- og9.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb7.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -1,4 +1,3 @@
+-sha
+ i
+ probably
+ shouldnt
+@@ -16,12 +15,11 @@
+ the
+ previous
+ relationship
+-weve
++we
+ shared
+ it
+ was
+ awesome
+-we
+ lost
+ its
+ not
+@@ -30,6 +28,9 @@
+ me
+ to
+ care
++you
++know
++care
+ and
+ now
+ were
+@@ -41,16 +42,13 @@
+ gonna
+ change
+ until
+-you
+-hear
++youre
++here
+ my
+ dear
+-seven
++7
+ things
+ hate
+-you
+-oh
+-youre
+ vain
+ your
+ games
+@@ -63,7 +61,6 @@
+ laugh
+ cry
+ dont
+-know
+ which
+ side
+ buy
+@@ -73,13 +70,12 @@
+ act
+ them
+ just
+-know
+ hurts
+ wanna
+ be
+ with
+ one
+-seventh
++7th
+ thing
+ most
+ that
+@@ -91,7 +87,6 @@
+ what
+ need
+ hear
+-now
+ sincere
+ apology
+ mean
+@@ -103,14 +98,12 @@
+ delete
+ lets
+ clear
+-clear
+-clear
++oh
+ im
+ coming
+ back
+ taking
+ steps
+-here
+ compared
+ all
+ great
+@@ -131,16 +124,10 @@
+ thats
+ both
+ have
+-hand
++hands
+ mine
+ intertwined
+ everythings
+ alright
+-sha
+-do
+-oh
+-ooh-ooh-ooh-ooh
+-ooh-ooh-ooh
+-la
+-la
+-la
++you
++ooh

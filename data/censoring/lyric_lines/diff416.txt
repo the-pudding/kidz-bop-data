@@ -1,0 +1,55 @@
+--- og403.txt	2020-02-06 19:31:21.000000000 -0800
++++ kb416.txt	2020-02-06 19:31:27.000000000 -0800
+@@ -42,6 +42,7 @@
+ knees
+ right
+ now
++ow
+ so
+ sick
+ of
+@@ -49,24 +50,14 @@
+ same
+ old
+ love
+-shit
+ tears
+ up
+-i’m
+-bodys
++hearts
+ had
+ enough
+-oh-oh-oh
++oh
+ that
+ love
+-feels
+-like
+-blown
+-apart
+-the
+-kind
+-breaks
+-heart
+ spending
+ any
+ time
+@@ -81,9 +72,13 @@
+ be
+ changing
+ too
+-still
+-breathe
+-now
+-ow
++feels
++like
++torn
++apart
++the
++kind
++breaks
++heart
+ that
+ love

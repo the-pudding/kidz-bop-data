@@ -1,0 +1,152 @@
+--- og276.txt	2020-02-06 19:31:21.000000000 -0800
++++ kb284.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -11,12 +11,13 @@
+ and
+ how
+ need
+-your
++youre
+ space
+ give
+ keys
+ back
+ to
++your
+ door
+ i
+ cried
+@@ -24,7 +25,6 @@
+ make
+ stay
+ with
+-but
+ still
+ love
+ was
+@@ -32,32 +32,31 @@
+ had
+ leave
+ now
+-you
+ talkin
+ bout
+ a
+ family
+-saying
++sayin
+ complete
+-dream
++my
++dreams
++oh
+ im
+ everything
+-youre
+ confusing
+ what
+-say
+ play
++me
+ cause
+ goes
+ around
+ comes
+-around
+ up
+ must
+ come
+ down
+ whos
+-crying
++cryin
+ desiring
+ remember
+ when
+@@ -67,20 +66,19 @@
+ waitin
+ for
+ til
+-three
++3
+ oclock
+ in
+-morn
++â€˜morn
+ came
+-home
+ youd
+ always
+ have
+ some
+ sorry
+ excuse
++half
+ explaining
+-me
+ like
+ just
+ kind
+@@ -88,31 +86,35 @@
+ fool
+ sacrificed
+ things
++wanted
+ do
++but
+ its
+ time
+ never
+-through
++thru
+ wanna
+ be
+-part
+-ayy
++under
+ so
+ much
+-hey
++say
++whatcha
+ doin
+ me
+-waiting
+-morn
++confusin
++cryin
++cryin
++till
+ night
+ after
+ knowing
+ something
+-going
++goin
+ on
+ wasnt
++long
+ before
+-was
+ lord
+ knows
+ it
+@@ -120,15 +122,16 @@
+ believe
+ thought
+ would
+-deceived
++deceive
+ supposed
+ no
+ approach
+-boo
++fool
++cuz
+ over
+ gotta
+ stop
+-tryin
++trying
+ called
+ karma
+ baby

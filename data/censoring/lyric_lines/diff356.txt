@@ -1,0 +1,110 @@
+--- og349.txt	2020-02-06 19:31:21.000000000 -0800
++++ kb356.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -10,12 +10,10 @@
+ air
+ air
+ air
+-ooh
+-oh
+ if
+ i
+ should
+-die
++fly
+ before
+ wake
+ its
+@@ -32,7 +30,6 @@
+ in
+ a
+ world
+-air
+ oh
+ here
+ alone
+@@ -43,7 +40,6 @@
+ wont
+ move
+ incomplete
+-wish
+ there
+ was
+ way
+@@ -65,23 +61,19 @@
+ for
+ cant
+ live
+-thats
+ feel
+ whenever
+ aint
++theres
+ got
+ out
+ the
+ water
+ deep
+-youre
+-gon
++gonna
+ be
+ without
+-here
+-no
+-ooh
+-walked
++walk
+ ran
+ jumped
+ flew
+@@ -89,49 +81,16 @@
+ off
+ ground
+ float
+-theres
+ gravity
+ hold
+ down
+ real
++real
+ somehow
+ still
+ alive
+ inside
+-breath
+ survived
+ dont
+-know
+-how
+ even
+ care
+-me
+-oh
+-oh
+-water
+-so
+-deep
+-yeah
+-breathe
+-no
+-more
+-baby
+-no
+-hey
+-breathing
+-breathing
+-at
+-all
+-its
+-i
+-you
+-baby
+-how
+-me
+-me
+-yeah
+-hard
+-breathe
+-no
+-not
+-there

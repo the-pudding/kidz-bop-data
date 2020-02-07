@@ -1,0 +1,51 @@
+--- og167.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb173.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -10,13 +10,12 @@
+ around
+ and
+ say
+-goodbye
++good-bye
+ all
+ is
+ when
+ im
+ with
+-you
+ i
+ make
+ free
+@@ -30,7 +29,7 @@
+ in
+ the
+ sea
+-singin
++singing
+ follow
+ everything
+ alright
+@@ -63,7 +62,6 @@
+ knows
+ then
+ care
+-youre
+ feelin
+ guilty
+ well
+@@ -76,6 +74,7 @@
+ give
+ money
+ sky
++youre
+ better
+ off
+ ask
+@@ -85,6 +84,5 @@
+ astray
+ well
+ stay
+-follow
+-alright
+-sea17837211
++leave
++why

@@ -1,0 +1,49 @@
+--- og531.txt	2020-02-06 19:31:22.000000000 -0800
++++ kb562.txt	2020-02-06 19:31:27.000000000 -0800
+@@ -14,13 +14,13 @@
+ that
+ we
+ are
++but
+ not
+ saying
+ can
+ see
+ beyond
+ scars
+-and
+ make
+ it
+ to
+@@ -29,6 +29,7 @@
+ colors
+ of
+ sky
++and
+ open
+ up
+ ways
+@@ -69,6 +70,7 @@
+ before
+ too
+ late
++now
+ sun
+ breaking
+ in
+@@ -92,15 +94,6 @@
+ by
+ side
+ where
+-now
+-were
+-here
+-weve
+-come
+-far
+-just
+-hold
+-on
+ there
+ nothing
+ fear

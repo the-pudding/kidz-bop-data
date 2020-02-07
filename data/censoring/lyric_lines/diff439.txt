@@ -1,0 +1,72 @@
+--- og420.txt	2020-02-06 19:31:21.000000000 -0800
++++ kb439.txt	2020-02-06 19:31:27.000000000 -0800
+@@ -21,7 +21,7 @@
+ time
+ wasnt
+ long
+-till
++til
+ i
+ called
+ mine
+@@ -33,7 +33,7 @@
+ say
+ is
+ how
+-pictured
++picture
+ with
+ thats
+ can
+@@ -45,13 +45,6 @@
+ moving
+ on
+ yeah
+-thanks
+-to
+-you
+-now
+-get
+-what
+-want
+ put
+ it
+ on
+@@ -62,19 +55,14 @@
+ love
+ song
+ come
+-id
+ never
+-"i
+ just
+ wanna
+ be
+-you"
+-be
+ you
+ guess
+ felt
+ way
+-get
+ had
+ your
+ chance
+@@ -87,12 +75,10 @@
+ cant
+ take
+ again
+-since
+-gone
+-thanks
+-i
+-get
+ should
+ know
+-you
+-know
++get
++get
++what
++want
++gone

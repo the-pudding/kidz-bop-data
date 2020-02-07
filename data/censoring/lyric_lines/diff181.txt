@@ -1,0 +1,120 @@
+--- og174.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb181.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -8,19 +8,19 @@
+ this
+ party
+ started
+-the
+ on
+ a
+ saturday
+ night
+ everybodys
+-waiting
++waitin
+ for
+ me
+ to
+ arrive
+-sending
++sendin
+ out
++the
+ message
+ all
+ of
+@@ -28,16 +28,15 @@
+ friends
+ well
+ be
+-looking
++lookin
+ flashy
+ in
+ mercedes
+ benz
+ i
+ got
+-lots
++lotsa
+ style
+-check
+ gold
+ diamond
+ rings
+@@ -48,61 +47,56 @@
+ know
+ what
+ mean
+-im
+-comin
+-pumping
+-up
++pumpin
+ volume
+-breaking
++breakin
+ down
+ beat
+-cruising
++cruisin
+ through
+ west
+ side
+-checking
++checkin
+ scene
+ boulevard
+ is
+-freaking
++freakin
+ as
+-coming
+ fast
+ ill
+-burning
++burnin
+ rubber
+ youll
+-kissing
+-ass
++watchin
++pass
+ pull
+ bumper
+ car
+ license
+ plate
+ says
+-"stunner:
++stunner
+ #1
+-superstar"
+-better
+-making
++superstar
++makin
+ connection
+ enter
+ room
+ chillin
+ set
+ groove
++pumpin
+ volume
+ with
+ brand
+ new
+-dancing
++dancin
+ and
+-theyre
++their
+ your
+ operator
+ call
+ anytime
+ line
+-ooh
+ right
+ now

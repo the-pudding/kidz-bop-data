@@ -1,0 +1,56 @@
+--- og565.txt	2020-02-06 19:31:22.000000000 -0800
++++ kb600.txt	2020-02-06 19:31:27.000000000 -0800
+@@ -13,23 +13,21 @@
+ way
+ try
+ again
+-another
+-day
+-should
+-happy
+-not
++another day
++i should
++happy not
+ tipping
+ the
+-scales
++scale
+ just
+-wont
+-lay
++wont play
+ letting
+ my
+ life
+ get
+ away
+ im
++not
+ fool
+ no
+ a
+@@ -68,12 +66,10 @@
+ gonna
+ do
+ only
+-because
++cause
+ that
+ feel
+ same
+-train
+-me
+ an
+ animal
+ better
+@@ -83,7 +79,8 @@
+ on
+ every
+ move
+-theres
++there
++s
+ need
+ so
+ damn

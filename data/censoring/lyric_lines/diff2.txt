@@ -1,0 +1,79 @@
+--- og3.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb2.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -1,6 +1,6 @@
+-na
++knock
+ oh
+-na
++knock
+ oh
+ been
+ trying
+@@ -22,7 +22,7 @@
+ even
+ thought
+ speak
+-don’t
++dont
+ wanna
+ tell
+ you
+@@ -43,17 +43,16 @@
+ but
+ its
+ this
+-one
++1
+ thing
+-that’s
+-trippin
+ thats
++trippin
+ you
+ did
+ soul
+ may
+ be
+-feelin
++feeling
+ did
+ that
+ caught
+@@ -68,10 +67,8 @@
+ each
+ other
+ well
+-why
+-picking
+-up
+-cell
++what
++myself
+ memories
+ ringing
+ bells
+@@ -91,18 +88,18 @@
+ your
+ door
+ maybe
+-can’t
++cant
+ believe
+-it’s
++one
+ deny
+ tired
+ of
+-nothing
+-left
+-do
++open
++up
++door
+ on
+ seeing
+-i’m
++im
+ hoping
+ can
+ a

@@ -1,0 +1,184 @@
+--- og287.txt	2020-02-06 19:31:21.000000000 -0800
++++ kb296.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -10,7 +10,6 @@
+ keeps
+ runnin
+ runnin
+-runnin
+ this
+ context
+ theres
+@@ -24,11 +23,11 @@
+ rhyme
+ you
+ break
+-ya
++your
+ necks
+ we
+ got
+-five
++5
+ minutes
+ for
+ us
+@@ -41,7 +40,6 @@
+ rhythm
+ effect
+ lose
+-your
+ inhibition
+ follow
+ intuition
+@@ -53,23 +51,21 @@
+ cause
+ be
+ out
+-girlies
+-pull
+-they
+-weave
+-out
++girl
++its
++gonna
++that
+ wouldnt
+ believe
+ how
+ wow
+-shit
++out
+ burn
+-til
+-its
++till
+ burned
+ turn
+ turned
+-act
++actin
+ up
+ north
+ west
+@@ -77,16 +73,15 @@
+ south
+ everybody
+ yeah
+-just
++yeah
+ into
++it
+ stupid
+ come
+ on
+ started
++on
+ ha
+-in
+-here
+-yeah
+ control
+ of
+ body
+@@ -95,6 +90,7 @@
+ too
+ fast
+ people
++just
+ take
+ slow
+ ahead
+@@ -102,23 +98,23 @@
+ yall
+ hear
+ about
+-it
+-peas
+-will
++kidzll
+ do
++stupid
+ worry
+-people
++bout
++well
+ walk
+ through
+ step
+ by
+ like
+-an
+ infant
+ new
+ kid
+ inch
+ with
++a
+ solution
+ transmit
+ hits
+@@ -126,35 +122,24 @@
+ feelings
+ irresistible
+ thats
+-movin
+-cmon
+-yall
+-coo-koo
+-uh
+-huh
+-coo-koo
+-wild
+-ohh
+-ohh
+-ya-ya-ya-ya-ya-ya-ya
+-ya-ya-ya-ya
+-ya-ya-ya-ya-ya!
++cuckoo
++cuckoo
++why
++not
++cuckoo
++ya
++ya
+ ill
+ deal
+-at
+ gate
+-well
+ bring
+-thugged
++bud
++top
+ drill
+-just
+ mind
+ is
+ time
+-cant
+-stand
+-still
+-trust
++guessed
+ bang
+ spine
+ bob
+@@ -169,15 +154,12 @@
+ loud
+ sick
+ mind
+-pass
+-normal
++more
++than
+ another
+ trip
+-so
+-come
+ them
+ now
+-not
+ correct
+ ignorant
+ hectic

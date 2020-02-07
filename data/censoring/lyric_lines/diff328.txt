@@ -1,0 +1,82 @@
+--- og318.txt	2020-02-06 19:31:21.000000000 -0800
++++ kb328.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -5,11 +5,12 @@
+ and
+ relax
+ kick
++both
++of
+ your
+-pretty
+ feet
+ up
+-my
++the
+ dash
+ no
+ need
+@@ -49,6 +50,7 @@
+ meant
+ be
+ itll
++baby
+ just
+ let
+ it
+@@ -65,6 +67,7 @@
+ dont
+ mean
+ uptight
++my
+ hearts
+ been
+ hurt
+@@ -72,20 +75,16 @@
+ couple
+ times
+ by
+-guys
++ones
+ that
+ didnt
+ treat
+-me
+ aint
+-gon
+ lie
+ lie
+ cause
+ im
+ tired
+-of
+-the
+ fake
+ love
+ show
+@@ -94,23 +93,14 @@
+ boy
+ make
+ believe
+-whoa
++oh
+ hold
+ girl
+ know
+ beautiful
+ easy
+-cmon
++come
++on
+ maybe
+ do
+ will
+-sing
+-it
+-baby
+-cmon
+-lets
+-go
+-come
+-for
+-ride
+-yeah

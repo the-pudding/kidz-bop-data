@@ -1,0 +1,104 @@
+--- og598.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb148.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -1,6 +1,3 @@
+-uh
+-yeah
+-yeah
+ when
+ i
+ was
+@@ -20,9 +17,9 @@
+ then
+ grew
+ up
+-started
++stayed
+ touch
+-kiss
++talk
+ underneath
+ the
+ light
+@@ -51,9 +48,9 @@
+ found
+ a
+ way
+-out
+-window
+-sneak
++stay
++phone
++real
+ late
+ meet
+ eastside
+@@ -62,7 +59,6 @@
+ sun
+ dont
+ set
+-wed
+ ride
+ through
+ backstreets
+@@ -81,13 +77,14 @@
+ down
+ coast
+ jump
+-sea
++seat
+ take
+ my
+ hand
+ come
+ with
+ me
++yeah
+ do
+ anything
+ if
+@@ -95,7 +92,7 @@
+ our
+ minds
+ it
+-old
++whole
+ life
+ line
+ is
+@@ -127,18 +124,19 @@
+ run
+ away
+ 17
+-got
+-dream
+ have
++dream
+ family
+ house
+ everything
+ between
+ then
++uh
+ suddenly
+ turned
+ 23
+ now
++got
+ pressure
+ for
+ taking
+@@ -148,6 +146,7 @@
+ jobs
+ bills
+ pay
++old
+ friends
+ are
+ enemies
+@@ -157,5 +156,5 @@
+ young
+ day
+ falling
+-singing
++singin
+ now

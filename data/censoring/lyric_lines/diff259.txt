@@ -1,0 +1,94 @@
+--- og246.txt	2020-02-06 19:31:21.000000000 -0800
++++ kb259.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -5,12 +5,14 @@
+ love
+ songs
+ songs
++songs‚
+ just
+ wanna
+ go
++home‚
+ home
++woah
+ home
+-whoa
+ party
+ trying
+ my
+@@ -23,51 +25,50 @@
+ around
+ me
+ is
+-falling
++fallin
+ in
+ our
+ song
+ i
++i‚
+ oh
+ yeah
+ hate
+ it
+-taking
++talkin
+ a
+-shot
++lot
+ cause
+ i
+ cant
+ take
+-it
+ dont
+ think
+ that
+ they
+-make
++feel
+ anything
+ strong
+ hold
+ on
+ strangers
+-killing
+-lonely
+-nights
+-with
+-strangers
++watching
++them
++all
++pass
++by
++those
+ and
+ when
+ leave
+ back
+-song
+ hurts
+ like
+ heaven
+ lost
+ the
+ sound
+-buzz
+-cut
++buzzcut
+ season
+ youre
+ still
+@@ -75,10 +76,10 @@
+ you
+ need
+ now
+-yeah
+ someone
+ home
+ cause
+ be
+ alone
++im
+ tired

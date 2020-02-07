@@ -1,0 +1,33 @@
+--- og713.txt	2020-02-06 19:31:22.000000000 -0800
++++ kb573.txt	2020-02-06 19:31:27.000000000 -0800
+@@ -1,6 +1,7 @@
++whoa
++whoa
+ oh
+ yeah
+-oh-oh
+ if
+ the
+ heart
+@@ -77,8 +78,8 @@
+ makes
+ darkness
+ disappear
+-more
+-more
++moving
++on
+ start
+ realize
+ reach
+@@ -96,9 +97,4 @@
+ let
+ wanna
+ go
+-yeah
+-its
+-alright
+-by
+-side
+-whoa
++cause

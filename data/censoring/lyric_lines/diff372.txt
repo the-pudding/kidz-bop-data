@@ -1,0 +1,78 @@
+--- og365.txt	2020-02-06 19:31:21.000000000 -0800
++++ kb372.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -3,11 +3,11 @@
+ you
+ ima
+ tell
++you
+ one
+ time
+ one
+ time
+-time
+ when
+ i
+ met
+@@ -44,33 +44,26 @@
+ climbing
+ to
+ the
+-mountain
+-top
++mountaintop
+ your
+ world
+ fight
+ breath
+-youre
+-hurt
+-im
+-not
+-right
+-heart
++ive
+ life
+ for
+ sure
+ let
++me
+ girl
+ love
+-you
+ be
+ guy
+-youll
+ number
+ girl
+ always
+ making
+-loves
++look
+ deep
+ know
+ that
+@@ -79,6 +72,7 @@
+ by
+ side
+ troubles
++not
+ trouble
+ many
+ have
+@@ -91,6 +85,7 @@
+ ill
+ give
+ shawty
++right
+ there
+ shes
+ everything
+@@ -104,5 +99,6 @@
+ happy
+ where
+ cause
+-me
+-yeah
++and
++youre
++time

@@ -1,0 +1,81 @@
+--- og52.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb56.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -1,6 +1,3 @@
+-after
+-love
+-love
+ no
+ matter
+ how
+@@ -17,19 +14,20 @@
+ break
+ through
+ theres
+-talking
++talkin
+ to
+ its
+ so
+ sad
+ that
+ youre
+-leaving
++leavin
+ it
+ takes
+ time
+ believe
+ but
++after
+ all
+ is
+ said
+@@ -38,8 +36,7 @@
+ be
+ the
+ lonely
+-one
+-oh
++oneohhh
+ do
+ in
+ life
+@@ -57,32 +54,31 @@
+ what
+ am
+ supposed
+-do
+ sit
+ around
+ wait
+ for
+-you
+ well
+-turning
++turnin
+ back
+ need
+ move
+ on
+-cause
++love
++cos
+ ive
+ had
++n
+ maybe
+ im
+ too
+ good
+ you
++ohhh
+ know
+ ill
+ get
+ this
++and
+ anymore
+-oh
+ no
+-after
+-love

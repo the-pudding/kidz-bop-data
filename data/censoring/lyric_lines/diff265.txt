@@ -1,0 +1,158 @@
+--- og260.txt	2020-02-06 19:31:21.000000000 -0800
++++ kb265.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -2,17 +2,16 @@
+ the
+ left
+ left
+-mmm
+ everything
+ you
+ own
+ in
++a
+ box
+ closet
+ thats
+ my
+ stuff
+-yes
+ if
+ i
+ bought
+@@ -20,58 +19,51 @@
+ please
+ dont
+ touch
+-dont
+-touch
+-and
+ keep
+-talking
++talkin
+ that
+ mess
+ fine
+ but
+ could
+ walk
++and
+ talk
+ at
+ same
+ time
+-and
+ its
+ name
+ on
+ jag
+-so
+-remove
++go
++move
+ your
+ bags
+ let
+ me
+ call
+-a
+ cab
+ standing
+ front
+ yard
+-tellin
+-me
++telling
+ how
+ im
+ such
+ fool
+-talkin
+ bout
+ ill
+ never
+ ever
+ find
+-man
++boy
+ like
+ got
+ twisted
+ must
+ not
+ know
+-about
+ have
+ another
+ minute
+@@ -86,17 +78,17 @@
+ can
+ by
+ tomorrow
++so
+ for
+ second
+ get
+ thinking
+ youre
+ irreplaceable
+-go
+ ahead
+ gone
+ up
+-chick
++girl
+ see
+ shes
+ home
+@@ -111,11 +103,11 @@
+ putting
+ out
+ for
+-cause
++because
+ untrue
+ rollin
+ her
+-around
++round
+ car
+ baby
+ drop
+@@ -125,33 +117,21 @@
+ before
+ taxi
+ leaves
+-will
+-irreplaceable
+ since
++about
+ nothing
+ nothing
+ all
+ wont
+ shed
+ tear
+-i
+-tear
++you
+ lose
+ wink
+ sleep
++cause
+ truth
+ is
+ replacing
++is
+ easy
+-baby
+-pack
+-bags
+-you
+-me
+-were
+-finished
+-made
+-bed
+-now
+-lay
+-it

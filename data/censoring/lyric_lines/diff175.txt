@@ -1,0 +1,86 @@
+--- og603.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb175.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -1,17 +1,9 @@
+-mmm
+-mmm
+ in
+ your
+ arms
+-ohh
++arms
+ i
+ can
+-hear
+-heartbeat
+-now
+-it
+-beating
+-loud
+ still
+ feel
+ the
+@@ -21,6 +13,7 @@
+ me
+ when
+ hold
++hear
+ words
+ whispered
+ told
+@@ -35,13 +28,13 @@
+ im
+ letting
+ go
++now
+ how
+ ill
+ never
+ see
+-that
+ day
+-cause
++‘cause
+ keeping
+ for
+ always
+@@ -61,7 +54,7 @@
+ to
+ sweet
+ face
+-mmmm
++ooh
+ baby
+ heart
+ a
+@@ -74,12 +67,10 @@
+ much
+ miss
+ love
+-and
+-way
+-oh
+-yeah
++heart
++day
++wanna
+ morning
+-oh
+ eyes
+ i
+ look
+@@ -88,6 +79,7 @@
+ who
+ really
+ loves
++that
+ want
+ wouldnt
+ put
+@@ -97,6 +89,4 @@
+ above
+ me
+ love
+-got
+-keep
+-you
++face

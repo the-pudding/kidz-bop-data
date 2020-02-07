@@ -1,0 +1,56 @@
+--- og637.txt	2020-02-06 19:31:21.000000000 -0800
++++ kb311.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -31,7 +31,6 @@
+ wanna
+ see
+ ya
+-oh
+ gotta
+ ask
+ do
+@@ -50,7 +49,8 @@
+ could
+ fly
+ to
+-hotel
++hang
++with
+ tonight
+ cause
+ i-i-i
+@@ -60,11 +60,11 @@
+ my
+ mind
+ oh
++seem
+ feel
+ tension
+ we
+ cut
+-with
+ knife
+ its
+ more
+@@ -84,15 +84,14 @@
+ hours
+ about
+ leave
+-hoping
+-lost
+-paradise
+-thing
+-bout
+-seem
+ lets
++lost
+ baby
+-oh-oh-oh-oh
+ tonight
+ baby
+-mind
++hoping
++this
++paradise
++paradise
++thing
++bout

@@ -1,0 +1,92 @@
+--- og305.txt	2020-02-06 19:31:21.000000000 -0800
++++ kb320.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -1,8 +1,8 @@
+-everybody’s
++everybodys
+ talking
+ but
+ they
+-don’t
++dont
+ say
+ a
+ thing
+@@ -14,17 +14,18 @@
+ eyes
+ i
+ want
+-the
++their
+ sympathy
+ its
+ cool
+ you
+-didn’t
++didnt
+ sometimes
+-can’t
++cant
+ go
+ back
+-why’d
++by
++whyd
+ have
+ to
+ and
+@@ -41,10 +42,10 @@
+ low
+ had
+ friend
+-that
+ down
+ so
+ when
++the
+ truth
+ came
+ out
+@@ -58,14 +59,13 @@
+ what
+ did
+ was
+-low
+ no
+ need
+ your
+ number
+-there’s
++theres
+ nothing
+-except
++cept
+ never
+ thought
+ itd
+@@ -79,25 +79,19 @@
+ are
+ outside
+ waiting
+-i’ve
++ive
+ gotta
+-have
+-been
+ walk
+ of
+ darkness
+-no
+ sense
+ regret
+ clear
+ conscience
+ we
+ both
+-know
+-heres
+ show
+ for
+ all
+ time
+ loved
+-so

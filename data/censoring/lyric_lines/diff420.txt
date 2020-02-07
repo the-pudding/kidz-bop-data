@@ -1,0 +1,101 @@
+--- og405.txt	2020-02-06 19:31:21.000000000 -0800
++++ kb420.txt	2020-02-06 19:31:27.000000000 -0800
+@@ -1,14 +1,10 @@
+-frk-frk-down
+ hey
+ you
+ dont
+ mean
+ nothin
+-at
+-all
+ to
+ me
+-hey
+ in
+ the
+ day
+@@ -16,10 +12,11 @@
+ say
+ it
+ right
++all
+ either
+ got
+-it
+ or
++dont
+ stand
+ fall
+ when
+@@ -34,14 +31,12 @@
+ no
+ time
+ for
+-jokin
++joking
+ a
+ hole
+ plan
+ oh
+-nothing
+-hey
+-hey
++at
+ no
+ but
+ what
+@@ -52,51 +47,31 @@
+ everything
+ i
+ cant
+-say
+ that
+ im
+ not
+-not
+-lost
+ lost
+ and
+ fault
+-fault
+-dont
+ love
+ light
+-love
+ dark
+ know
+ am
+ alive
+ of
++all
+ feel
+-feel
+-show
+ show
+ tonight
+ tonight
+ my
+ hands
+ give
+-something
++somethin
+ made
+ mouth
+ sing
+ another
+ brick
+ laid
+-body
+-place
+-god
+-knows
+-should
+-space
+-holy
+-do
+-really
+-wanna
+-go
+-three
+-four

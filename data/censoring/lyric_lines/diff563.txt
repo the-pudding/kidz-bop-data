@@ -1,0 +1,43 @@
+--- og532.txt	2020-02-06 19:31:22.000000000 -0800
++++ kb563.txt	2020-02-06 19:31:27.000000000 -0800
+@@ -53,7 +53,7 @@
+ need
+ loved
+ were
+-willin
++willing
+ came
+ when
+ called
+@@ -66,23 +66,14 @@
+ enough
+ oh
+ oh
+-sticks
+-stones
+-they
+-may
+-break
+-these
+-bones
+-then
+-ill
+-ready
+-ready
+ its
+ start
+ waking
+ come
+ on
+ ready
++ill
++ready
+ i
+ dont
+ control
+@@ -93,4 +84,4 @@
+ time
+ them
+ know
+-so
++ready

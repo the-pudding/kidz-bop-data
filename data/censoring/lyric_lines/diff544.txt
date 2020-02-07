@@ -1,0 +1,57 @@
+--- og517.txt	2020-02-06 19:31:22.000000000 -0800
++++ kb544.txt	2020-02-06 19:31:27.000000000 -0800
+@@ -43,6 +43,8 @@
+ lose
+ beggin
+ beggin
++beggin
++you
+ wait
+ can
+ turn
+@@ -70,27 +72,22 @@
+ of
+ holdin
+ on
+-wasnt
+-tryna
++before
++my
++words
+ get
+ wasted
+ needed
+ more
+ than
+ three
+-or
+-four
++minutes
+ to
+ say
+ this
+ apologize
+ yeah
+-lose
+ begging
+-no
+-just
+-wait
+-pleaseyeah
+ another
+ bad
+ guy
+@@ -100,13 +97,7 @@
+ things
+ cant
+ undo
+-before
+ tell
+ the
+ last
+ time
+-can
+-out
+-
+-you
+-aroundyea

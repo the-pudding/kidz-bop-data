@@ -1,0 +1,25 @@
+--- og556.txt	2020-02-06 19:31:22.000000000 -0800
++++ kb589.txt	2020-02-06 19:31:27.000000000 -0800
+@@ -28,8 +28,9 @@
+ need
+ is
+ and
+-oh-oh-oh
+-without
++oh
++oh!
++you!
+ erase
+ so
+ ill
+@@ -45,8 +46,8 @@
+ right
+ one
+ more
+-sleepless
+-night
++lonely
++day
+ soar
+ climb
+ if

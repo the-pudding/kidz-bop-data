@@ -1,0 +1,99 @@
+--- og659.txt	2020-02-06 19:31:21.000000000 -0800
++++ kb412.txt	2020-02-06 19:31:27.000000000 -0800
+@@ -27,19 +27,19 @@
+ shiny
+ nose
+ like
+-light
+-bulb
++flashlight
+ if
+ ever
+ saw
+ it
+ saw
+ it
+-would
++could
+ even
+ say
++it
+ glows
+-flashlight
++lightbulb
+ all
+ other
+ used
+@@ -47,14 +47,14 @@
+ laugh
+ call
+ him
+-names
++names;
+ pinocchio
+ they
+ never
+ let
+ poor
+ rudolph
+-play
++join
+ in
+ any
+ games
+@@ -66,18 +66,20 @@
+ eve
+ santa
+ came
+-ho
+-ho
+-ho
++saythat
++he
++did:
++"rudolph
+ with
+ your
++nose
+ so
+ bright
+ wont
+ guide
+ my
+ sleigh
+-tonight
++tonight"
+ how
+ loved
+ loved
+@@ -86,10 +88,26 @@
+ shouted
+ out
+ glee
+-yippee
+-"rudolph
++yipee!
++reindeerreindeer
+ youll
+ go
+ down
+-history!"
+-columbus
++history"like
++george
++washington
++really
++big
++hey
++look
++glows
++dont
++names
++just
++games
++on
++saywe
++now
++tonight"rudolph
++best
++history"

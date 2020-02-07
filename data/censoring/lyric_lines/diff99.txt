@@ -1,0 +1,56 @@
+--- og589.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb99.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -66,7 +66,6 @@
+ yeah
+ think
+ free
+-drink
+ this
+ one
+ is
+@@ -74,6 +73,7 @@
+ all
+ chained
+ rhythm
++crazy
+ tone
+ deaf
+ sweeping
+@@ -88,37 +88,5 @@
+ i
+ hope
+ can
+-my
+-desire
+-break
+-down
+-walls
+-connect
+-inspire
+-ay
+-high
+-place
+-liars
+-time
+-ticking
+-for
+-empire
+-truth
+-they
+-feed
+-feeble
+-as
+-many
+-times
+-before
+-greed
+-over
+-people
+-fumbling
+-about
+-riot
+-woke
+-lions
+-woo!
+ goes
+ cause

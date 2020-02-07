@@ -1,0 +1,130 @@
+--- og619.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb240.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -7,22 +7,23 @@
+ oh
+ so
+ good
+-it
+-hurts
+-
++it hurts
++i dont
+ want
++it i
+ gotta
+ gotta
+ have
++uh oh
+ when
+ cant
+ find
+ the
+ words
+-words
+ just
+ go
+ no
++it
+ all
+ out
+ turn
+@@ -56,7 +57,6 @@
+ down
+ em
+ aint
+-no
+ problem
+ my
+ roads
+@@ -65,19 +65,18 @@
+ right
+ got
+ another
+-comma
++comin
+ in
+ budget
+ a
+-anaconda
+-trukfit
++
++hear
+ push
+ cause
+-ima
+-hit
+-til
+-jackpot
+-thats
++play
++and
++wont
++stop
+ wax
+ on
+ baby
+@@ -89,12 +88,13 @@
+ black
+ card
+ night
+-and
+ spend
++cause
++hurts
+ night
+ let
+ me
+-groove
++group
+ dance
+ with
+ me
+@@ -126,11 +126,12 @@
+ aboard
+ them
+ other
+-girls
+ they
+ touch
+ competition
++thats
+ whole
++nother
+ subject
+ wanna
+ walk
+@@ -139,8 +140,8 @@
+ star
+ baby
+ know
+-metro
+-condo
++concert
++club
+ perfect
+ time
+ flow
+@@ -149,10 +150,10 @@
+ at
+ studio
+ bangarang
+-rufio
++ruffio
+ feel
+-bass
+-booty
++base
++music
+ inside
+ run
+ away
+@@ -161,7 +162,8 @@
+ thinkin
+ bout
+ love
+-touché
++touche
+ tied
+ shoe
+ lace
++no

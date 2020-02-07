@@ -1,0 +1,61 @@
+--- og177.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb185.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -54,12 +54,12 @@
+ gets
+ top
+ bunk
+-and
+ sleeping
+ on
+ floor
+ miss
+ america
++and
+ girl
+ next
+ door
+@@ -76,13 +76,13 @@
+ one
+ standing
+ backseat
+-debutante
++debutaunt
+ everything
+ you
+ want
+-too
+ harsh
+ or
++too
+ demanding
+ ill
+ admit
+@@ -91,7 +91,6 @@
+ bitter
+ everybody
+ loves
+-her
+ wanna
+ hit
+ oh
+@@ -101,7 +100,6 @@
+ feeling
+ sorry
+ for
+-myself
+ spend
+ all
+ time
+@@ -111,10 +109,5 @@
+ get
+ bit
+ more
+-america
+-yeah
+-hey
+-hey
+-girl
+-ooh
+-yeah
++and
++door

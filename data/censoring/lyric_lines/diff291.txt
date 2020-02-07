@@ -1,0 +1,92 @@
+--- og281.txt	2020-02-06 19:31:21.000000000 -0800
++++ kb291.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -32,8 +32,8 @@
+ in
+ heaven
+ knows
+-ive
+-tried
++i
++tried!
+ dont
+ let
+ them
+@@ -49,6 +49,7 @@
+ well
+ now
+ they
++know!
+ go
+ go
+ cant
+@@ -58,8 +59,7 @@
+ turn
+ away
+ slam
+-door
+-i
++door!
+ care
+ what
+ theyre
+@@ -70,7 +70,7 @@
+ never
+ bothered
+ me
+-anyway
++anyway!
+ its
+ funny
+ how
+@@ -86,7 +86,7 @@
+ controlled
+ get
+ at
+-all
++all!
+ time
+ can
+ do
+@@ -99,16 +99,18 @@
+ wrong
+ rules
+ for
+-free
++free!
++am
+ one
+ with
+ sky
+ youll
+-cry
++cry!
+ here
+ stand
+ ill
+ stay
++on!
+ my
+ power
+ flurries
+@@ -120,19 +122,18 @@
+ in
+ frozen
+ fractals
++all
+ around
+ thought
+ crystallizes
+ an
+ icy
+ blast
+-back
+ past
+ past!
+ rise
+ dawn
+ perfect
+-gone
+-stand
++gone!
+ light
+ day

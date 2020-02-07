@@ -1,0 +1,83 @@
+--- og457.txt	2020-02-06 19:31:21.000000000 -0800
++++ kb480.txt	2020-02-06 19:31:27.000000000 -0800
+@@ -7,7 +7,6 @@
+ i
+ rush
+ to
+-my
+ bed
+ with
+ hopes
+@@ -21,6 +20,7 @@
+ you
+ when
+ close
++my
+ eyes
+ im
+ going
+@@ -44,16 +44,15 @@
+ skies
+ hope
+ it
+-rains;
++rains
+ youre
+ perfect
+ lullaby
+ what
+-kind
++kinda
+ dream
+ is
+ this
+-could
+ sweet
+ or
+ beautiful
+@@ -81,11 +80,8 @@
+ as
+ here
+ floating
+-on
+ air
+ cause
+-mine
+-way
+ mention
+ say
+ prayers
+@@ -94,12 +90,13 @@
+ all
+ thoughts
+ boy
+-temporary
+-high
++certain
++type
++guy
+ wish
++go
+ there
+ arms
+-me
+ for
+ real
+ tell
+@@ -107,9 +104,8 @@
+ stay
+ by
+ side
+-cover
+-skies
+-tattoo
++ive
++got
+ name
+ across
+ heart
+@@ -122,3 +118,4 @@
+ make
+ us
+ part
++kind

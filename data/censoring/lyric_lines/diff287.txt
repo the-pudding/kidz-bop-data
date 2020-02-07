@@ -1,0 +1,39 @@
+--- og278.txt	2020-02-06 19:31:21.000000000 -0800
++++ kb287.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -1,4 +1,3 @@
+-well
+ i
+ took
+ a
+@@ -26,7 +25,8 @@
+ side
+ moon
+ feel
+-theres
++there
++is
+ nothing
+ can
+ do
+@@ -64,8 +64,8 @@
+ superman
+ im
+ alive
+-there
+-holding
++well
++a-holding
+ hand
+ ill
+ keep
+@@ -97,6 +97,9 @@
+ on
+ solid
+ ground
+-kryptonite
++well
++holding
++yeah!!
++oh
+ whoa
+ whoa

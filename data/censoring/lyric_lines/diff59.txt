@@ -1,0 +1,53 @@
+--- og55.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb59.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -4,6 +4,7 @@
+ way
+ she
+ walked
++wow
+ straight
+ into
+ my
+@@ -69,31 +70,26 @@
+ a
+ dentist
+ had
+-dirty
+-mouth
+-kissed
+-me
++crooked
++smile
++i
++got
++smile
+ meant
+-take
+-home
++come
++dance
+ with
+ know
+ ill
+ youll
++me
++oh
++yeah
+ hope
+ danced
+ 1
+ 2
+--
+-2
+ 3
+-how
+-danced!
+ we
+-line
+ something
+-this
+-i
+-her
+-best
+-ever!
++like

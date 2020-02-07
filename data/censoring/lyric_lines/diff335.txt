@@ -1,0 +1,98 @@
+--- og326.txt	2020-02-06 19:31:21.000000000 -0800
++++ kb335.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -56,13 +56,13 @@
+ couldnt
+ go
+ put
+-past
+-here
+-tryna
++glass
++ill
++be
++tryin
+ pull
+ through
+ gotta
+-be
+ strong
+ dont
+ wanna
+@@ -80,7 +80,6 @@
+ how
+ fight
+ for
+-ill
+ you
+ baby
+ it
+@@ -88,6 +87,7 @@
+ easy
+ comin
+ back
++here
+ once
+ figured
+ out
+@@ -96,9 +96,7 @@
+ along
+ its
+ youre
+-oh
+ staring
+-
+ get
+ any
+ bigger
+@@ -121,7 +119,7 @@
+ doesnt
+ seem
+ merely
+-assembled
++sample
+ stare
+ see
+ truth
+@@ -138,41 +136,8 @@
+ time
+ yesterday
+ history
+-oh
+ tomorrows
+ mystery
+ keep
+-you
++please
+ baby
+-ohh
+-oh
+-oh
+-oh
+-uhh
+-are
+-are
+-life
+-now
+-inspiration
+-precious
+-song
+-face
+-light
+-up
+-since
+-so
+-say
+-goodbye
+-old
+-already
+-gone
+-wait
+-wait
+-home
+-let
+-know
+-girl
+-reflection
+-everything
+-do
+-reflection

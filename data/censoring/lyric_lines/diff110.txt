@@ -1,0 +1,138 @@
+--- og590.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb110.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -1,36 +1,23 @@
+-haha!
+-yall
+-need
+-to
+-get
+-ready
+-hear
+-the
+-unbelievable
+-indescribable
+-vanessa
+-hudgens
+-baby
+-v!
+ baby
+ come
+ back
+-every
+-day
++everyday
+ i
+ try
++to
+ play
+ another
+ game
+ but
+ my
+ heart
+-can’t
++cant
+ take
+ it
+ find
+ boy
+ all
++the
+ while
+ face
+ why
+@@ -45,7 +32,6 @@
+ hurt
+ inside
+ oh
+-baby
+ please
+ give
+ us
+@@ -56,7 +42,7 @@
+ with
+ your
+ friends
+-laughing
++laughin
+ up
+ as
+ pretend
+@@ -75,15 +61,13 @@
+ got
+ say
+ we
+-cant
+ keep
+ way
+-i’ll
++ill
+ be
+ yeah
+ it
+ again
+-back
+ me
+ in
+ still
+@@ -101,38 +85,36 @@
+ then
+ stall
+ after
+-all
+ just
+-couldn’t
++couldnt
+ if
++play
+ was
+ push
+ away
+-know
+ that
+ day
+-heart
+-you’d
++youd
+ break
+ made
+ mistake
+ foolish
+ pride
+ and
+-me
+-let’s
++lets
+ try
++baby
+ v
+ can
+ think
+ about
+ act
+ like
+-don’t
++dont
+ care
+ love
+ between
+-isn’t
++isnt
+ there
+ youre
+ upset
+@@ -142,12 +124,12 @@
+ pay
+ for
+ pain
+-i’ve
++ive
+ caused
+ end
+ comes
+ down
+ thing
+-it’s
++its
+ me
+ sing

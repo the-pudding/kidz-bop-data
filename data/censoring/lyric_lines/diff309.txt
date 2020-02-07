@@ -1,0 +1,49 @@
+--- og296.txt	2020-02-06 19:31:21.000000000 -0800
++++ kb309.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -22,7 +22,8 @@
+ when
+ lie
+ said
+-gun
++this
++thing
+ was
+ mine
+ isnt
+@@ -61,7 +62,6 @@
+ look
+ what
+ just
+-me—
+ kingdom
+ keys
+ they
+@@ -96,28 +96,4 @@
+ mine
+ youll
+ get
+-trust
+-nobody
+-trusts
+-ill
+-be
+-actress
+-starring
+-bad
+-dreams
+-ooh
+ me—
+-"im
+-sorry
+-old
+-taylor
+-cant
+-come
+-phone
+-right
+-now
+-"why
+-oh
+-cause
+-shes
+-dead!"

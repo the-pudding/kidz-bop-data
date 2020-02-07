@@ -1,0 +1,136 @@
+--- og156.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb161.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -1,5 +1,5 @@
+ hey!
+-well
++no
+ nothing
+ ever
+ last
+@@ -62,8 +62,7 @@
+ chase
+ thrills
+ aint
+-pop
+-pills
++like
+ baby
+ scared
+ with
+@@ -71,11 +70,13 @@
+ your
+ window
+ shopper
+-sucker
+-for
+-love
++read
++all
++of
++novels
+ oh
+-wearing
++wind
++off
+ goggles
+ virtual
+ reality
+@@ -94,97 +95,11 @@
+ ha
+ oh-oh-oh
+ oh
++about
+ straight
+ up
+ woah
+-goddamn
+-love
+-make
+-an
+-entrance
+-like
+-getting
+-paid
+-or
+-attention
+-mixed
+-wrong
+-guys
+-right
+-intentions
+-in
+-same
+-bed
+-but
+-still
+-distance
+-shes
+-looking
+-more
+-consistency
+-when
+-stop
+-gon
+-find
+-whats
+-meant
+-honestly
+-too
+-done
+-hoes
+-cut
+-off
+-all
+-my
+-exes
+-x
+-os
+-old
+-flings
+-was
+-preparing
+-say
+-want
+-back
+-parakeet
+-fly
+-first-class
+-through
+-air
+-airbnb
+-best
+-had
+-comparing
+-ima
+-at
+-at
+-put
+-on
+-phone
+-upload
+-it
+-itll
+-get
+-maximum
+-views
+-came
+-clutch
+-lipsticks
+-phones
+-wear
+-fave
+-cologne
+-alone
+ these
+ yeah
+ i
+ know
+-woah
+-woah
+-no
+-no
+-afraid
+-baby
+-woah
+-okay
+-know

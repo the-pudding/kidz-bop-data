@@ -1,0 +1,80 @@
+--- og332.txt	2020-02-06 19:31:21.000000000 -0800
++++ kb342.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -1,52 +1,48 @@
+ you
+ make
+ me
+-dance
++this
+ bring
+ up
+ down
+-play
+-it
++playing
+ sweet
+ move
+-like
+-a
+-freak
+-mr
++to
++the
++beatmr
+ saxobeat
+ makes
+-brings
+-plays
+-oh-oh-oh-oh
+-girl
+-yeah
++breaks
++saxo
++he
++beat
++mr
++oh
+ yeah
+-oh-oh
++mmmmmm
++yeahhhh
++yeahhhhh
++mmmmmmmm
++mmmmm
++yeahhhhhh
++music
++mr
+ hey
+-sexy
+-boy
++dance
++with
+ set
+-free
+ dont
+ be
+ so
+ shy
+-with
+-my
+-dirty
++me
+ cant
+ see
+ that
+ belong
+ next
+-to
+-me
+-see
+-are
+-the
+-one
+-i
+-need
+-freak
+-yeah
++free
+ down
++saxobeat!
++brings

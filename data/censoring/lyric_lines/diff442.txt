@@ -1,0 +1,85 @@
+--- og672.txt	2020-02-06 19:31:21.000000000 -0800
++++ kb442.txt	2020-02-06 19:31:27.000000000 -0800
+@@ -37,11 +37,21 @@
+ why
+ dont
+ slide
++ooh
++slide
+ yeah
+-im
+-gonna
+-let
+ slide
++ill
++ever
++dreamed
++be
++complete
++little
++pieces
++of
++nothing
++that
++fall
+ love
+ life
+ killed
+@@ -51,15 +61,12 @@
+ father
+ hit
+ wall
+-ma
++mom
+ disowned
+ suppose
+-ill
+-ever
+ know
+ what
+ means
+-be
+ a
+ man
+ its
+@@ -67,39 +74,19 @@
+ cant
+ change
+ around
+-ooh
+-dreamed
+-complete
+-little
+-pieces
+-of
+-nothing
+-that
+-fall
+ oh
+ may
+ put
+ arms
+ me
+ beautiful
+-oh
+ get
+ married
+ or
+ run
+ away
+ yeah
+-slide
+ oh
+-between
+-sheets
+-them
+-beds
+-never
+-knew
+-into
+-room
+-just
++stay
+ well
+ away
+-away

@@ -1,0 +1,29 @@
+--- og618.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb234.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -9,7 +9,7 @@
+ he
+ walks
+ sit
+-down;
++down
+ its
+ just
+ a
+@@ -92,7 +92,6 @@
+ pray
+ god
+ hears
+-you
+ begins
+ raise
+ voice
+@@ -115,7 +114,9 @@
+ admit
+ everything
+ hell
++say
+ hes
+ not
+ same
+ youll
++life

@@ -1,0 +1,152 @@
+--- og70.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb77.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -3,7 +3,7 @@
+ was
+ your
+ boyfriend
+-i’d
++id
+ never
+ let
+ you
+@@ -11,14 +11,14 @@
+ can
+ take
+ places
+-ain’t
++aint
+ been
+ before
+ baby
+ a
+ chance
+ or
+-you’ll
++youll
+ ever
+ know
+ got
+@@ -32,13 +32,12 @@
+ to
+ blow
+ swag
+-swag
+ on
+-chillin
++chilling
+ by
+ the
+ fire
+-while
++why
+ we
+ eating
+ fondue
+@@ -52,26 +51,27 @@
+ falsetto
+ three
+ two
++swag
+ be
+ everything
+ want
+ hey
+ girl
+-me
++lemme
+ talk
+-id
+ keep
+ arm
+-you’d
++girl
++youd
++be
+ alone
+ gentleman
+ anything
+ go
+ tell
+ what
+-like
+ yeah
+-don’t
++dont
+ could
+ buzz
+ lightyear
+@@ -81,18 +81,18 @@
+ wanna
+ fight
+ already
+-i‘ma
++imma
+ make
+ shine
+ bright
+-you’re
++youre
+ laying
+ snow
+ burr
+-girlfriend
++girlfriend-girlfriend
+ girlfriend
+ until
+-the-the-the
++the
+ world
+ ends
+ dance
+@@ -108,38 +108,35 @@
+ whirl
+ wind
+ swaggie
+-arm
+ give
+-‘cause
++chance
++cause
+ all
+ need
+-girl
+ spend
+ week
+ with
+ boy
+-i’ll
++ill
+ calling
+ man
++if
++man
+ leave
++you
+ just
+ love
+ treat
+ right
+-oh
+-yeah
+ never
+ alone
+-gentleman
+ a
+-ooh
+-boyfriend
+-boyfriend
+-if
++gentleman
++oh-oh
+ boyfriend
+-uh
+-na
+-na
+-yeah
++go
++na-na-na
+ yeah
+-hey
++na-na-na-eh
++na-na-na-eh
++boyfriend

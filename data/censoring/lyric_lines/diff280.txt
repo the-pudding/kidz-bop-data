@@ -1,0 +1,87 @@
+--- og273.txt	2020-02-06 19:31:21.000000000 -0800
++++ kb280.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -13,7 +13,7 @@
+ i
+ your
+ willing
+-victim
++person
+ let
+ see
+ parts
+@@ -25,21 +25,18 @@
+ pretty
+ with
+ every
+-touch
++talk
+ fixed
+ them
+ now
+ youve
+ been
+ talking
+-in
+-sleep
+-oh
+-oh
++out
++to
+ things
+ never
+ say
+-to
+ tell
+ had
+ enough
+@@ -52,7 +49,6 @@
+ little
+ bits
+ second
+--
+ were
+ not
+ broken
+@@ -62,6 +58,7 @@
+ learn
+ again
+ its
++in
+ stars
+ written
+ scars
+@@ -85,7 +82,7 @@
+ dear
+ still
+ have
+-everything
++its
+ mind
+ yeah
+ but
+@@ -105,11 +102,8 @@
+ empty
+ sheets
+ between
+-bit’s
+-we’re
+-i’ve
+ stopped
+-you’re
++youre
+ tears
+ ducts
+ rust
+@@ -121,7 +115,6 @@
+ collecting
+ dust
+ loves
+-youre
+ holding
+ pouring
+ drink
+@@ -131,4 +124,3 @@
+ well
+ come
+ clean
+-broken

@@ -1,0 +1,32 @@
+--- og304.txt	2020-02-06 19:31:21.000000000 -0800
++++ kb319.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -22,7 +22,7 @@
+ goodness
+ sake
+ im
+-cryin
++crying
+ own
+ well
+ i
+@@ -47,6 +47,7 @@
+ ill
+ be
+ movin
++it
+ should
+ somethin
+ hold
+@@ -71,11 +72,10 @@
+ see
+ whats
+ going
+-but
+ now
+ know
+ better
+-sleeping
++living
+ own
+ if
+ way

@@ -1,0 +1,22 @@
+--- og596.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb138.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -49,6 +49,7 @@
+ most
+ d-dont
+ down
++don’t
+ r-r-running
+ of
+ time
+@@ -60,8 +61,9 @@
+ theres
+ nobody
+ by
+-ooh
++oh
++i’m
+ yeah
+ oh
+ no
+-no-o
++said

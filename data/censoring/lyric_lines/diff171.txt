@@ -1,0 +1,71 @@
+--- og164.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb171.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -8,7 +8,7 @@
+ the
+ other
+ day
+-well
++and
+ he
+ just
+ drove
+@@ -31,13 +31,12 @@
+ it
+ was
+ all
+-and
+-well
++we
+ float
+ on
+-on
+-anyway
+-well
++yeah
++alright
++already
+ fake
+ jamaican
+ took
+@@ -50,10 +49,8 @@
+ worth
+ to
+ learn
+-some
+-sleight
+-of
+-hand
++from
++sleight-of-hand
+ bad
+ news
+ comes
+@@ -69,27 +66,11 @@
+ way
+ them
+ plans
+-we
+ both
+ got
+ fired
+ exactly
+ same
++well
+ is
+-alright
+-already
+-no
+-worry
+-alright
+-already
+-alright
+-if
+-things
+-end
+-up
+-heavy
+-okay
+-get
+-heavy
+-alright!
+ now

@@ -1,0 +1,125 @@
+--- og386.txt	2020-02-06 19:31:21.000000000 -0800
++++ kb397.txt	2020-02-06 19:31:27.000000000 -0800
+@@ -1,7 +1,6 @@
+-uh-huh!
+ its
+ iggy
+-iggs!
++iggs
+ i
+ got
+ one
+@@ -10,11 +9,7 @@
+ with
+ you
+ girl
+-hey!
+-one
+-less
+-less
+-problem
++aye
+ hey
+ baby
+ even
+@@ -24,9 +19,7 @@
+ wanna
+ love
+ ya
+-i
+ want
+-you
+ and
+ cant
+ forgive
+@@ -34,6 +27,7 @@
+ to
+ tell
+ me
++baby
+ why
+ leave
+ me
+@@ -58,7 +52,9 @@
+ realize
+ that
+ ive
++less
+ without
++less
+ know
+ youre
+ never
+@@ -74,20 +70,16 @@
+ or
+ let
+ come
++back
+ every
+ time
+-touch
+-me
++see
+ say
+ get
+ a
+ little
+ bit
+ breathless
+-ooh
+-babe
+-woah
+-uh
+ what
+ got
+ smart
+@@ -101,7 +93,6 @@
+ about
+ sayin
+ know
+-but
+ really
+ doubt
+ understand
+@@ -114,6 +105,7 @@
+ iggy
+ too
+ biggie
++to
+ here
+ stressin
+ im
+@@ -130,7 +122,6 @@
+ for
+ exit
+ go
+-back
+ finally
+ learned
+ lesson
+@@ -144,24 +135,11 @@
+ theres
+ million
+ yous
+-baby
+-boo
++boy
+ so
+ dont
+ dumb
+ 99
+ problems
+ wont
+-one
+ like
+-hey
+-no
+-ooh
+-baby
+-yeah
+-got
+-woo
+-hey!
+-problem
+-without
+-yeah

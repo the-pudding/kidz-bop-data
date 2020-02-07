@@ -1,0 +1,47 @@
+--- og255.txt	2020-02-06 19:31:21.000000000 -0800
++++ kb263.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -21,7 +21,7 @@
+ blood
+ laying
+ on
+-bathroom
++bedroom
+ floor
+ feeling
+ nothing
+@@ -33,16 +33,17 @@
+ me
+ something
+ could
+-take
++say
+ to
+ ease
+ mind
+ slowly
+ have
+ a
+-drink
++think
+ youll
+ better
++take
+ her
+ home
+ keep
+@@ -51,8 +52,6 @@
+ gets
+ does
+ ever
+-no
+-medicine
+ is
+ strong
+ enough
+@@ -82,5 +81,5 @@
+ could
+ need
+ now
+-out
+ blood
++no

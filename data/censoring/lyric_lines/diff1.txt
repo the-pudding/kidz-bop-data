@@ -1,0 +1,128 @@
+--- og2.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb1.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -37,11 +37,11 @@
+ actress
+ star
+ shake
+-ass
++fast
+ on
+ hood
+ of
+-whitesnake’s
++whitesnakes
+ car
+ yellow
+ suv
+@@ -53,11 +53,8 @@
+ average
+ life
+ and
+-nothing
+-has
+-alright
+-since
+-bruce
++nothin-has
++been-alright
+ springsteen
+ madonna
+ way
+@@ -77,15 +74,14 @@
+ they
+ tell
+ that
+-she’s
++shes
+ uncool
+ cause
+-shes
+ preoccupied
+ 19
+-1985
++1985!
+ seen
+-classics
++clasics
+ knows
+ every
+ line
+@@ -94,28 +90,29 @@
+ pretty
+ pink
+ even
+-saint
+-elmo’s
++st
++elmos
+ fire
+ rocked
+-wham
++wham!
+ not
+ big
+ limp
+ bizkit
+ fan
+ thought
+-she’d
++shed
+ get
+ hand
+ member
+ duran
+-where’s
+-mini-skirt
++wheres
++mini
++skirt
+ made
+ snake
+ skin
+-who’s
++whos
+ other
+ guy
+ thats
+@@ -123,26 +120,34 @@
+ van
+ halen
+ did
+-reality
+-become
++reality-become
+ tv
+ whatever
+-sitcoms
+-game
+-shows
++sitcoms!-game
++shows!-
++all
+ radio
++highschool
+ hates
+ time
+ make
+ stop
+-mötley
+-crüe
++"when
++my
++motley
++crew
++become
++clasic
++rock
+ classic
+ rock
++"and
+ ozzy
+ actor
+ please
+ this
+ stop
++stop!"
+ bring
+ back
++19191985!

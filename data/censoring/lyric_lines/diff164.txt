@@ -1,0 +1,168 @@
+--- og155.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb164.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -24,14 +24,14 @@
+ life
+ one
+ day
+-when
++while
++my
+ light
+ is
+-glowin
+-i’ll
++glowing
++ill
+ be
+ in
+-my
+ castle
+ golden
+ until
+@@ -43,7 +43,7 @@
+ feel
+ this
+ moment
+-whoa-oh
++ohhh
+ mr
+ worldwide
+ christina
+@@ -51,17 +51,15 @@
+ oye
+ mamita
+ come
+-on!
++on
+ dale
+ que
+ la
+ cosa
+-está
++esta
+ rica
+ i
+ moment
+-woo!
+-moment!
+ reporting
+ live
+ tallest
+@@ -69,11 +67,12 @@
+ tokyo
+ long
+ ways
+-them
+ hard
+-bills
+-os
+-oh-yays
++filled
++with
++"so"s
++"oh
++yeah"s
+ dade
+ county
+ always
+@@ -85,6 +84,7 @@
+ can
+ parlay
+ or
++baby
+ party
+ she
+ read
+@@ -93,64 +93,54 @@
+ about
+ red
+ rooms
+-tie-ups
+-yeah
++tie
++ups
+ got
++her
+ hooked
+-‘cause
++cause
+ seen
+ me
+ suit
+-with
+-tie
+ tied
+ up
+-christian
+-gris
+-to
+ meet
++greet
++to
+ ya
+ time
+ only
+ difference
+ own
+-now
+ lets
+ stop
+ enjoy
+-cmon
+-on
+ see
+ future
+ make
+ sense
+ dont
+ it
+-hah
++ha
+ dollars
+ mean
+ billions
+-yeah
+ genius
+-brilliant
+-brilliant
++brilliance
+ street
+ what
+-schooled
+-him
+-schooled
+-him
++scoot
++em
+ made
+ slicker
+-than
++too
+ slick
+-rick
+ ruler
+-eah
+ ive
+ lost
+ lot
+ learned
++lot
+ still
+ undefeated
+ like
+@@ -161,13 +151,9 @@
+ down
+ companies
+ peeps
+-thats
+-right
+ travel
+ world
+ give
+ you
+-stopwatch
+-dalé
+-come
+-moment!
++watch
++dale

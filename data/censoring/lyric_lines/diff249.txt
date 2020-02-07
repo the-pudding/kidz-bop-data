@@ -1,0 +1,66 @@
+--- og233.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb249.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -5,7 +5,7 @@
+ the
+ snow
+ on
+-fifth
++5th
+ avenue
+ and
+ right
+@@ -57,14 +57,14 @@
+ do
+ linger
+ slipping
+-our
+ fingers
+ dont
+ wanna
+ try
++now
+ thats
+ lefts
+-good-bye
++goodbye
+ to
+ find
+ a
+@@ -72,6 +72,7 @@
+ tell
+ you
+ hate
++here
+ just
+ your
+ tears
+@@ -89,7 +90,7 @@
+ routine
+ gotta
+ talk
+-before
++fore
+ go
+ sleep
+ will
+@@ -97,6 +98,7 @@
+ whats
+ hurting
+ me
++our
+ youll
+ ask
+ me
+@@ -115,11 +117,4 @@
+ see
+ sunset
+ eyes
+-cant
+-this
+-its
+-fingers
+-goodbye
+-now
+-oh
+-these
++it

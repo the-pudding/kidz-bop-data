@@ -1,0 +1,103 @@
+--- og443.txt	2020-02-06 19:31:21.000000000 -0800
++++ kb465.txt	2020-02-06 19:31:27.000000000 -0800
+@@ -1,4 +1,6 @@
+-mmm
++oh
++no
++no
+ come
+ on
+ i
+@@ -21,7 +23,6 @@
+ everybodys
+ breaking
+ up
+-and
+ throwing
+ their
+ love
+@@ -38,22 +39,21 @@
+ why
+ say
+ hey
+-nobody
++nobodys
+ gonna
+ me
+ better
+-mmh
+ ima
+-stick
+-with
++stickwitu
+ forever
+ take
+ higher
+ how
+ to
+ appreciate
+-you
++me
+ baby
++nobody
+ ever
+ made
+ feel
+@@ -61,6 +61,7 @@
+ way
+ see
+ the
++way
+ we
+ ride
+ in
+@@ -76,35 +77,27 @@
+ only
+ one
+ for
+-one
+-me
++and
+ say
+-oh
+-bae
+-yeah
+ now
+ nothing
+ else
+ could
+ need
+-nothing
+-need
+ singing
+ cause
+-so
+ into
++you
+ well
+ be
+-making
++hanging
++out
+ endlessly
++with
+ baby
+-you
+-baby
+-higher
+ worry
+ about
+ people
+-hanging
+ around
+ they
+ bringing
+@@ -112,8 +105,3 @@
+ down
+ all
+ counts
+-hey
+-hey
+-thats
+-come
+-on

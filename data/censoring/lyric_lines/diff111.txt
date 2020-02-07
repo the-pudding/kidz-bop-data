@@ -1,0 +1,54 @@
+--- og104.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb111.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -16,6 +16,7 @@
+ didnt
+ feel
+ so
++perfect
+ trying
+ fit
+ a
+@@ -42,16 +43,15 @@
+ wanna
+ thunder
+ scream
++down
+ im
+ coming
+ clean
+ clean
+-oh
+ shedding
+ shedding
+ every
+ color
+-tryna
+ find
+ pigment
+ of
+@@ -59,7 +59,7 @@
+ beneath
+ skin
+ different
+-doesnt
++different
+ going
+ out
+ is
+@@ -69,13 +69,7 @@
+ staying
+ in
+ wind
+-lets
+-beginning
+-rain
+-down
+-fall
+-let
+-dreams
++away
+ oh
+-sanity
+-oh-oh
++yeah
++fall

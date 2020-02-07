@@ -1,0 +1,135 @@
+--- og632.txt	2020-02-06 19:31:21.000000000 -0800
++++ kb300.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -2,15 +2,12 @@
+ your
+ lips
+ are
+-movin
+-movin
++moving
++moving
+ then
+-you’re
+-lyin’
+-baby
+-oh
+-i
+-said
++youre
++lyin
++babe
+ boy
+ look
+ at
+@@ -25,10 +22,10 @@
+ about
+ this
+ bass
+-uh
+ you
+ really
+ think
++i
+ could
+ be
+ replaced
+@@ -42,11 +39,9 @@
+ a
+ classy
+ girl
+-imma
+ hold
+ it
+ up
+-youre
+ full
+ of
+ something
+@@ -56,6 +51,7 @@
+ what
+ we
+ got
++is
+ straight
+ overdue
+ go
+@@ -78,20 +74,15 @@
+ bye-bye-bye
+ know
+ lyin
+-lyin
+ cause
+ movin
+-movin
+-me
+ do
+ dumb
+ might
+ young
+-young
+-stupid
+ stupid
+ talking
+-around
++round
+ circles
+ with
+ tongue
+@@ -99,21 +90,14 @@
+ bass
+ sweet
+ talk
+-sweet
+-talk
+ saying
+ how
+-i’m
+ number
+ one
+-lie
+-lie
+-movin
+ baby
+ dont
++ya
+ done
+-lyin’
+-hey
+ hey
+ bring
+ them
+@@ -123,30 +107,20 @@
+ late
+ babe
+ oh
+-ha
+ only
+ when
+ here
+ two-faced
+-yes
+-can
+-babe
++young
+ on
+-say
+-hey
+-hey
+-hey
++say!
+ alright
+ now
+ i
+ wanna
+ hear
+ yall
+-sing
++singing
+ me
+ here
+-go
+-ohh
+-lie
+-your
+-movin
++go!

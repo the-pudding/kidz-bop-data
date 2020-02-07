@@ -1,0 +1,109 @@
+--- og699.txt	2020-02-06 19:31:22.000000000 -0800
++++ kb534.txt	2020-02-06 19:31:27.000000000 -0800
+@@ -1,3 +1,6 @@
++people
++people
++people
+ its
+ getting
+ so
+@@ -15,9 +18,9 @@
+ wounds
+ or
+ say
+-"woe
++woe
+ is
+-me"
++me
+ instead
+ and
+ theres
+@@ -25,11 +28,10 @@
+ aching
+ head
+ telling
+-me
+-"youre
++youre
+ better
+ off
+-alone"
++alone
+ but
+ after
+ midnight
+@@ -46,21 +48,17 @@
+ that
+ girl
+ ya
+-know
+ she
+ act
+ too
+ tough
+ well
+-till
++til
+ turn
+ light
+ light
+ rough
+-til
+-say
+ follow
+-me
+ down
+ all
+ dreams
+@@ -98,21 +96,19 @@
+ slow
+ full
+ then
+-youre
+ gonna
+ searching
+ things
+ just
+ cannot
+ why
+-you
+ be
+ with
+-me
+ pretend
+ to
+ cool
+-wanna
++me
++want
+ believe
+ can
+ do
+@@ -124,23 +120,16 @@
+ running
+ catch
+ up
+-where
+ love
+ looking
+ find
+ cant
+ see
++you
+ yeah
++where
+ your
+ logic
+-turn
+-light
++of
+ who
+ need
+-said
+-down
+-dreams
+-yeah
+-do
+-dreams
+-turn

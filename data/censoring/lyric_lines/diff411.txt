@@ -1,0 +1,120 @@
+--- og400.txt	2020-02-06 19:31:21.000000000 -0800
++++ kb411.txt	2020-02-06 19:31:27.000000000 -0800
+@@ -1,7 +1,8 @@
+ saturday
+-mornin
++morning
+ jumped
+-outta
++out
++of
+ bed
+ and
+ put
+@@ -10,8 +11,7 @@
+ best
+ suit
+ got
+-in
+-car
++bike
+ raced
+ like
+ a
+@@ -26,6 +26,7 @@
+ door
+ with
+ heart
++in
+ hand
+ ask
+ question
+@@ -35,16 +36,15 @@
+ that
+ youre
+ an
+-old-fashioned
++old
++fashioned
+ man
+ yeah
+-yeah
+ can
+ have
+ daughter
+ for
+ rest
+-of
+ life
+ say
+ yes
+@@ -53,17 +53,17 @@
+ ill
+ never
+ get
+-blessin
++blessing
+ till
+ day
+-die
+-"tough
++fly
++tough
+ luck
+ friend
+ but
+ answer
+ is
+-no!"
++no!
+ why
+ gotta
+ be
+@@ -73,13 +73,12 @@
+ im
+ human
+ too
++rude
+ gonna
+ marry
+ her
+ anyway
+-marry
+ girl
+-yeah
+ no
+ matter
+ what
+@@ -96,14 +95,12 @@
+ love
+ me
+ or
+-me
+ we
+ will
+-both
+-standin
++boys
++standing
+ at
+-altar
+-run
++alter
+ away
+ another
+ galaxy
+@@ -111,13 +108,8 @@
+ she
+ go
+ anywhere
+-cause
+ answers
+ still
+-so
+ rude
++die
+ means
+-why
+-why
+-say
+-say

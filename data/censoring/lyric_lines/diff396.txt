@@ -1,0 +1,122 @@
+--- og385.txt	2020-02-06 19:31:21.000000000 -0800
++++ kb396.txt	2020-02-06 19:31:27.000000000 -0800
+@@ -1,11 +1,3 @@
+-okay
+-coconut
+-man
+-moonhead
+-and
+-pea
+-you
+-ready
+ seems
+ like
+ everybodys
+@@ -24,6 +16,7 @@
+ sale
+ comes
+ first
++and
+ truth
+ second
+ just
+@@ -37,11 +30,11 @@
+ so
+ serious
+ acting
+-damn
+ mysterious
++you
++your
+ shades
+ on
+-your
+ eyes
+ heels
+ high
+@@ -60,8 +53,9 @@
+ feel
+ that
+ yeah
+-were
+-paying
++well
++pay
++them
+ with
+ love
+ tonight
+@@ -80,8 +74,6 @@
+ forget
+ tag
+ aint
+-the
+-uh
+ cha-ching
+ cha-ching
+ ba-bling
+@@ -98,12 +90,11 @@
+ wasnt
+ low
+ blows
+-video
+-hoes
++videos
+ am
+ only
+ one
+-getting
++gettin
+ tired
+ obsessed
+ buy
+@@ -113,10 +104,10 @@
+ enjoy
+ now
+ guarantee
+-well
+ be
+-feeling
++feelin
+ alright
++yeah
+ well
+ keep
+ cash
+@@ -134,18 +125,19 @@
+ are
+ keys
+ guitars
+-within
++guess
++what
+ 30
+ seconds
+ im
+ leaving
+ mars
+-leaping
+ across
+ these
+ undefeatable
+ odds
+ this
++man
+ put
+ life
+ do
+@@ -162,7 +154,7 @@
+ sign
+ of
+ defeat
+-uh-uh
++uh
+ everyone
+ moving
+ feet
+@@ -170,4 +162,4 @@
+ beat
+ then
+ sing
+-ooh-ooh
++oh

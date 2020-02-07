@@ -1,0 +1,95 @@
+--- og673.txt	2020-02-06 19:31:21.000000000 -0800
++++ kb443.txt	2020-02-06 19:31:27.000000000 -0800
+@@ -10,12 +10,14 @@
+ the
+ midday
+ sun
++well
+ i
+ hear
+ you
+-whisper
+-and
++whispering
++in
+ words
++to
+ melt
+ everyone
+ but
+@@ -31,12 +33,11 @@
+ youre
+ reason
+ for
+-reason
+ step
+-in
+ groove
++and
+ if
+-say
++said
+ this
+ life
+ aint
+@@ -45,7 +46,6 @@
+ would
+ give
+ world
+-to
+ lift
+ up
+ could
+@@ -60,6 +60,7 @@
+ ocean
+ under
+ moon
++oh
+ same
+ as
+ emotion
+@@ -68,10 +69,12 @@
+ got
+ kind
+ of
+-loving
++lovin
+ can
+ be
+-gimme
++smooth
++yeah
++me
+ heart
+ make
+ it
+@@ -91,26 +94,16 @@
+ word
+ name
+ calling
+-me
+ out
+ barrio
+ rhythm
++on
+ radio
+ feel
+ turning
++world
+ soft
+ slow
+ round
+-oh
+ lets
+-dont
+-gimme
+-real
+-hey
+-no
+-oh
+-no
+-oh
+-hey
+-hey
+-hey
++not

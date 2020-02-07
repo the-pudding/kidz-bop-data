@@ -1,0 +1,114 @@
+--- og663.txt	2020-02-06 19:31:21.000000000 -0800
++++ kb419.txt	2020-02-06 19:31:27.000000000 -0800
+@@ -16,7 +16,6 @@
+ today
+ but
+ back
+-all
+ around
+ the
+ way
+@@ -32,8 +31,6 @@
+ thing
+ that
+ love
+-baby
+-girl
+ you
+ ive
+ been
+@@ -41,38 +38,40 @@
+ lot
+ of
+ places
++all
+ seen
+ joy
+ pain
+ dont
+-want
++wanna
+ write
+ song
+ for
+ world
+ just
++want
+ about
+ boy
+ girl
+-junkies
++people
+ on
+ corner
+ always
+-calling
++callin
+ my
+ name
+ kids
+-playing
++playin
+ ghetto
+ games
+ when
+ saw
+-getting
++gettin
+ down
+ well
+-hope
++hoped
+ was
+-look
++looked
+ into
+ your
+ eyes
+@@ -93,14 +92,15 @@
+ in
+ middle
+ road
++look
+ their
+ suddenly
+-rocking
++rockin
+ dance
+ hall
+-moving
++movin
+ with
+-dancing
++dancin
+ night
+ june
+ momma
+@@ -111,22 +111,13 @@
+ best
+ luck
+ had
+-say
+-hall
++seem
++said
++said
+ hey
+ momma
+ close
+-poppa
+-you
+-promise
+-rocking
+-you
+-its
+-true
+-its
+-true
+-i
+-poppa
+ come
+ on
+-whoo!!
++hope
++its

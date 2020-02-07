@@ -1,0 +1,52 @@
+--- og402.txt	2020-02-06 19:31:21.000000000 -0800
++++ kb414.txt	2020-02-06 19:31:27.000000000 -0800
+@@ -1,6 +1,6 @@
+ into
+ your
+-head
++hand
+ mind
+ out
+ of
+@@ -16,15 +16,15 @@
+ dreams
+ the
+ dark
+-sunlight
+-again
++light
+ explain
+ explain
+ can
+ feel
+ it
+-rushing
++rushin
+ hair
++and
+ head
+ dont
+ let
+@@ -47,6 +47,7 @@
+ it
+ all
+ before
++youll
+ try
+ pulling
+ in
+@@ -60,6 +61,7 @@
+ believe
+ its
+ happening
++now
+ takes
+ another
+ place
+@@ -70,5 +72,6 @@
+ blend
+ system
+ overloads
++again
+ yeah
+ yeah

@@ -1,0 +1,72 @@
+--- og541.txt	2020-02-06 19:31:22.000000000 -0800
++++ kb575.txt	2020-02-06 19:31:27.000000000 -0800
+@@ -2,9 +2,11 @@
+ need
+ you
+ the
+-m-
+ you
+-m-
++you you you
++need you
++the
++the
+ most
+ gave
+ key
+@@ -22,7 +24,7 @@
+ doubt
+ into
+ hoping
+-can’t
++cant
+ deny
+ now
+ im
+@@ -40,7 +42,6 @@
+ that
+ you
+ now
+-ya
+ couldnt
+ find
+ anywhere
+@@ -48,7 +49,6 @@
+ down
+ didnt
+ leave
+-ya
+ was
+ by
+ side
+@@ -56,24 +56,26 @@
+ attention
+ nobody
+ else
+-payin
++paying
+ shirt
+ off
+ back
+ what
+-sayin
++saying
+ keep
+ warm
+ showed
+ game
+ everybody
+-playin
++playing
+ thats
+ for
+ sure
+ on
+ knees
+-prayin
++praying
+ oh
+ lord
++i
++most
+ most

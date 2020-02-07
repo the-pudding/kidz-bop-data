@@ -1,0 +1,149 @@
+--- og197.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb212.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -3,28 +3,27 @@
+ your
+ all
+ girl
+-all
+-you
++ya
+ got
+-can
+ take
+-a
+ chance
+-and
+-best
++at
++a
++second
++hand
+ shot
+-i
+-see
++say
+ what
++you
+ want
+-whatcha
++girl
+ do
+ hes
+ never
+ gonna
++gonna
+ make
+ with
+-youre
+ pulling
+ petals
+ off
+@@ -33,13 +32,11 @@
+ to
+ get
+ way
+-way
+ keep
+ til
+ says
+-say
+-say
+-girl
++wanna
++can
+ pick
+ field
+ full
+@@ -51,14 +48,17 @@
+ be
+ my
+ baby
++i
+ know
+ hardly
+ wait
++till
+ im
+ away
+ from
+ him
+ instinctively
++youre
+ thinking
+ youll
+ giving
+@@ -75,8 +75,6 @@
+ tempt
+ sweet
+ kiss
+-sweet
+-kiss
+ flirt
+ pretty
+ eyes
+@@ -92,17 +90,20 @@
+ free
+ wants
+ into
++what
+ loves
+ me
+ not
+ matter
++do
+ the
+-kinda
+-thats
++kind
++that
++is
+ always
+ up
+ for
+-do-or-dare
++or
+ dare
+ only
+ just
+@@ -112,36 +113,23 @@
+ new
+ ride
+ grass
+-is
+ greener
+ on
+ other
+ side
+-kind
+ whos
+-used
++use
+ hearing
+-no
+ lovers
+ where
+-wanna
+-go
+ go
+ doesnt
+ how
+ hard
++try
+ guy
++and
+ thats
+ me
+-want
+-whatcha
+-pretty
+-eyes
+-no
+-chains
+-hes
+-you
+-take
+-shot
+-he
+-guy
++best
++got

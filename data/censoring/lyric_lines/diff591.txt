@@ -1,0 +1,31 @@
+--- og557.txt	2020-02-06 19:31:22.000000000 -0800
++++ kb591.txt	2020-02-06 19:31:27.000000000 -0800
+@@ -11,11 +11,11 @@
+ and
+ lose
+ sweet
+-divine
++divide
+ truth
+ water
+ or
+-wine
++food
+ dont
+ make
+ me
+@@ -31,8 +31,7 @@
+ summer
+ night
+ night
+-drunk
+-on
++lost
+ feeling
+ alone
+ with
+@@ -82,3 +81,4 @@
+ these
+ walls
+ come
++on

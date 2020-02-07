@@ -1,0 +1,71 @@
+--- og14.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb12.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -37,7 +37,7 @@
+ all
+ partyin
+ and
+-smashin
++cashin
+ crashin
+ glitz
+ glam
+@@ -95,7 +95,6 @@
+ close
+ gate
+ make
+-that
+ then
+ ill
+ switch
+@@ -117,11 +116,11 @@
+ ever
+ mattered
+ bank
+-tryna
++tryin
+ tip
+ subway
+ rappin
+-hell
++thrill
+ nowadays
+ stay
+ relevant
+@@ -131,31 +130,31 @@
+ out
+ maybe
+ oh
++maybe
+ politics
+ rap
+ game
+ aint
+ nobody
+ listened
+-mixtape
++mix
++tape
+ tried
+ cover
+ up
+ slang
+ is
+-decatur—whats
++hater
++whats
+ up
+ bobby
+ ray
+ politics
+ music
+ started
+-shit
++hit
+ here
+ stand
+ again
+ say
+ i
+-like
+-stars
+-wish

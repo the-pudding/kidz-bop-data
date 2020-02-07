@@ -1,0 +1,134 @@
+--- og454.txt	2020-02-06 19:31:21.000000000 -0800
++++ kb477.txt	2020-02-06 19:31:27.000000000 -0800
+@@ -2,7 +2,6 @@
+ ayy
+ ooh
+ ooh
+-ooh
+ needless
+ to
+ say
+@@ -10,9 +9,9 @@
+ keep
+ in
+ check
+-she
+-was
+-a
++things
++are
++all
+ bad-bad
+ nevertheless
+ yeah
+@@ -22,11 +21,12 @@
+ now
+ baby
+ im
++a
+ wreck
+ wreck
+-crash
++back
+ at
+-my
++that
+ place
+ youre
+ keeping
+@@ -37,6 +37,7 @@
+ your
+ grip
+ screamin
++my
+ face
+ dont
+ trip
+@@ -46,7 +47,6 @@
+ l
+ know
+ how
+-that
+ felt
+ lookin
+ you
+@@ -54,22 +54,19 @@
+ party
+ on
+ tilt
+-ooh-ooh
+ some
+-things
+ just
+ cant
+ refuse
++she
+ wanna
+-ride
+-me
+-like
++go
++off
+ cruise
+ and
+ not
+ tryna
+ lose
+-then
+ left
+ the
+ dust
+@@ -93,17 +90,13 @@
+ make
+ easy
+ no
+-no
+-no
+ wish
+ could
+ there
+ for
+ give
++me
+ reason
+-to
+-oh
+-oh
+ walkin
+ out
+ can
+@@ -111,33 +104,23 @@
+ tellin
+ turn
+ around
+-oh
+-oh
+ fightin
+ trust
+ wont
+-back
+ down
+-no
+ even
+ if
+ we
+ gotta
+ risk
+-all
+ right
+-now
++oh
+ scared
+ of
+ unknown
+-known
+-alone
+ alone
+ always
+ come
+-go
+-and
+-go
+ but
+ its
+ control

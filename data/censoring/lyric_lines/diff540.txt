@@ -1,0 +1,44 @@
+--- og513.txt	2020-02-06 19:31:22.000000000 -0800
++++ kb540.txt	2020-02-06 19:31:27.000000000 -0800
+@@ -30,7 +30,8 @@
+ illuminate
+ words
+ that
+-cannot
++could
++not
+ find
+ reaching
+ for
+@@ -62,7 +63,7 @@
+ live
+ life
+ with
+-arms
++eyes
+ wide
+ today
+ is
+@@ -71,7 +72,7 @@
+ begins
+ rest
+ still
+-yeah
++unwritten
+ oh
+ oh
+ break
+@@ -85,10 +86,10 @@
+ been
+ conditioned
+ to
+-not
+ make
+ mistakes
+ but
+ way
+-no
+-unwritten
++arms
++yeah
++yeah

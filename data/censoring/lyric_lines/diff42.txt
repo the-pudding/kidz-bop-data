@@ -1,0 +1,226 @@
+--- og38.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb42.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -1,7 +1,7 @@
+-‘cause
++cause
+ baby
+ now
+-weve
++we
+ got
+ bad
+ blood
+@@ -14,136 +14,104 @@
+ mad
+ love
+ so
++take a look
++what
++youve done
++bad blood
++hey
++problems
++and
++i
++dont
++think
++can
++solve
++them
+ take
+ a
+ look
+-what
++at
+ youve
+ done
+-blood
+-hey!
+-i
+-cant
+-back
+-where
+-im
+-at
+-we
++and
++did
++have
++do
++this
+ was
+-og
+-like
+-doc
+-remember
++thinking
+ that
+-my
+-tlc
+-quite
+-od
+-id
+-facts
+-pov
+-of
+-and
++could
++trusted
++ruin
++shiny
++its
++all
++rusted
++hurt
+ me
+-similar
+-iraq
+-dont
+-hate
+-you
+-but
+-critique
+-overrate
+-these
+-beats
+-dark
+-heart
+-use
+-basslines
+-replace
+-time
+-erase
+-hear
+-no
+-more
+-no
+-fear
+-better
+-yet
+-respect
+-aint
+-sincere
++when
++im
++weak
++couldnt
++breathe
++rub
++in
++deep
++salt
++the
++wound
++like
++youre
++laughing
++right
+ oh
+-its
+ sad
+-think
+ about
+-the
+ good
+ times
+-problems
+-can
+-solve
+-em
+-made
+-really
+-deep
+-cut
+-and
+-when
+-tried
+-write
+-me
+-off
+-thought
+-id
+-loss
+-remember
+-that
+-would
+-need
+-ya
+-follow
+-procedure
+-wait
+-amnesia
+-season
+-for
+-battle
++wed
++fine
++want
++back
++my
++life
++past
++these
++kinda
+ wounds
+-scars
+-body
+-bumped
+-bruised
+-stabbed
+-in
+-back;
+-brimstone
+-fire
+-jumping
++they
++last
+ through
+-still
+-all
+-life
+-money
+-power
+-gotta
+-live
+-with
++things
++will
++catch
++up
++time
++heal
++but
++this
++wont
++if
++coming
++way
++just
+ band-aids
+ fix
+-bullet
+-holes
+ say
+ sorry
+-just
++for
+ show
++live
+ that
++with
+ ghosts
+-forgive
+-forget
+-never
+-let
+-go
+-if
++ghosts
++mhmm
+ runs
+ cold
++mad
++love
++think
++them
++hey

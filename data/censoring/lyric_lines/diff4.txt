@@ -1,0 +1,201 @@
+--- og5.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb4.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -1,48 +1,29 @@
+-tonight
+-i
+-just
+-want
+-to
+-take
+-you
+-higher
+-throw
+-your
+-hands
+-up
+-in
+-the
+-sky
+-lets
+-set
+-this
+-party
+-off
+-right
+-players
++hey
++kids
+ put
+ yo
+ pinky
+ rings
++up
++to
++the
+ moon
+-girls
++hey
+ what
+ yall
+ trying
+ do
+-24
+-karat
+-magic
+-air
++24 karat magic
++in
++the air
+ head
+ toe
+-so
++soul
+ player
+ uh
+-look
+-out!
+-pop
+-pop
++look out
++kidz
++bop
+ its
+ show
+ time
+@@ -60,6 +41,7 @@
+ on
+ tell
+ em
++i
+ bet
+ know
+ soon
+@@ -73,12 +55,13 @@
+ links
+ ya
+ designer
+-minks
++things
+ inglewoods
+ finest
+ shoes
+ whoop
+ whoop
++look
+ too
+ hard
+ might
+@@ -90,26 +73,30 @@
+ red
+ blues
+ ooh
+-shit
++yeah
+ im
+ a
+ dangerous
+-man
++one
+ with
+ some
+ money
+ my
+ pocket
+ keep
++so
+ many
+ pretty
+-girls
++ones
+ around
+ me
+ and
+-waking
+-rocket
++just
++how
++talk
++it
+ why
++you
+ mad
+ fix
+ ya
+@@ -118,52 +105,20 @@
+ fault
+ be
+ jocking
+-players
+-only
+ come
+-second
+-verse
+-for
+-hustlas
+-hustlas
+-gangstas
+-gangstas
+-bad
+-bitches
+-ugly
+-ass
+-friends
+-haha
+-can
+-preach
+-uh
+-oh
+-gotta
+-em
+-how
+-pimp
+-get
+-it
+-first
+-sip
+-sip
+-do
+-dip
+-dip
+-spend
+-like
+-shit
+-fresh
+-got
+-blame
+-jesus
+-hashtag
+-blessed
++your
++24
++karat
++magic
++air
++out
+ ready
+-hey
++for
++kids
+ wooh
+ everywhere
+ go
++like
+ ooh
+ now
+ now
+@@ -172,15 +127,10 @@
+ down
+ uh
+ karat
+-whats
+-that
+-sound
+ fight
+ feeling
+ invite
+ do
+ 24
+ karat
+-out
+-magic
+ magic

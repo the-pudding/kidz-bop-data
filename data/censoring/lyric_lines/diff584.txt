@@ -1,0 +1,102 @@
+--- og716.txt	2020-02-06 19:31:22.000000000 -0800
++++ kb584.txt	2020-02-06 19:31:27.000000000 -0800
+@@ -6,7 +6,7 @@
+ you
+ like
+ walking
+-round
++around
+ with
+ little
+ wings
+@@ -16,11 +16,11 @@
+ stomachs
+ filled
+ butterflies
+-ooh
+ and
+ its
+ alright
+ bouncing
++round
+ from
+ cloud
+ to
+@@ -36,11 +36,10 @@
+ didnt
+ it
+ then
++youd
+ know
+ id
+-lied
+-ooh
+-but
++lie
+ every
+ time
+ try
+@@ -49,15 +48,14 @@
+ tongue-tied
+ turns
+ out
++that
+ everything
+ say
+ comes
+ wrong
+ right
+ so
+-ill
+-say
+-"why
++why
+ dont
+ together
+ take
+@@ -69,7 +67,7 @@
+ will
+ tails
+ well
+-again"
++again
+ hold
+ each
+ other
+@@ -79,11 +77,10 @@
+ heaven
+ cause
+ without
+-you
+ theyre
+ let
+ me
+-in"
++in
+ whens
+ this
+ fever
+@@ -97,19 +94,21 @@
+ man
+ can
+ a
+-love-sick
++love
++sick
+ puppy
+ chasing
+-around
+ slowly
+ begin
+ realize
+ is
+ end
++but
+ about
+ same
+ walk
+ by
++say
+ "oh
+ here
+ go

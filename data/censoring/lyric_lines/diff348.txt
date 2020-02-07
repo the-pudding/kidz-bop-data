@@ -1,0 +1,276 @@
+--- og338.txt	2020-02-06 19:31:21.000000000 -0800
++++ kb348.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -1,81 +1,28 @@
+-yo
+-whitney
+-and
+-wyclef
+-turn
+-this
+-up
+-you
+-gonna
+-feel
+-it
++clap
++your
++hands
++yall
++its
++alright
+ if
+-i
+-became
+-broke
+ tomorrow
+-would
+-still
+-be
+-your
+-pharaoh
+-ghetto
+-prince
+-of
+-egypt
+-got
+-into
+-a
+-motorcycle
+-accident
+-crashed
+-paraplegic
+-yeah
+-the
+-feds
+-rush
+-door
+-find
+-guns
+-on
+-floor
+-took
+-us
+-to
+-federal
+-court
+-say
+-they
+-were
+-yours
+-had
+-do
+-bid
+-take
+-care
+-kids
+-never
+-let
+-another
+-nig
+-in
+-crib
+-keep
+-kitty
+-licked
+ is
+ judgment
+ day
+ sing
+ mommy
++and
+ im
+ standing
++on
++the
+ front
+ line
+ lord
+ asks
+ me
+ what
++i
+ did
+ with
+ my
+@@ -83,46 +30,51 @@
+ will
+ say
+ spent
++it
++you
+ wake
++up
++in
+ world
+ war
+-three
++iii
+ see
+ destruction
+ poverty
++feel
+ like
+-wanna
++want
++to
+ go
+ home
+-its
+ okay
+ youre
+ coming
++cause
+ love
++would
++take
+ an
+ eternity
+ break
++us
+ chains
++of
+ amistad
+-couldnt
++coulnt
+ hold
+ lose
+ fame
+ fortune
+-it
+-really
+-dont
+-matter
+ homeless
+-streets
++street
+ sleeping
+ grand
+ central
+ station
+-okay
+-baby
+ as
+ years
++they
+ pass
+ by
+ we
+@@ -132,113 +84,26 @@
+ each
+ others
+ eyes
+-each
+-eyes
+ no
+ matter
+ how
+ old
+ get
+-ooh
+ long
+-you
++got
+ baby
+-yeah
+ should
+ die
++this
+ very
++dont
+ cry
+-cause
+ earth
+-wasnt
++werent
+ meant
+ people
+-wont
+ ill
++be
+ waiting
+ for
+ after
+-now
+-lay
+-down
+-rest
+-pray
+-that
+-get
+-stressed
+-cry
+-these
+-means
+-more
+-than
+-rolley
+-plat
+-heard
+-that
+-believe
+-that
+-aint
+-letting
+-none
+-down
+-when
+-come
+-tell
+-em
+-none
+-dough
+-clothes
+-price
+-can
+-have
+-yall
+-shouting
+-dyme
+-thats
+-name
+-chicks
+-spit
+-fire
+-putting
+-out
+-flame
+-life
+-wifee
+-mommy
+-baby
+-girl
+-wouldnt
+-give
+-all
+-money
+-oh
+-time
+-up
+-bricks
+-mt
+-vernon
+-clef
+-star
+-bring
+-houston
+-collabo
+-star
+-east
+-side
+-refugee
+-camp
+-from
+-basement
+-west
+-clap
+-hands
+-stop
+-south
+-me
+-north
+-i
+-said
+-record
+-not
+-over
+-yet

@@ -1,0 +1,119 @@
+--- og597.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb142.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -1,32 +1,27 @@
+-oh
+-hey
+-oh
+-uh
+ i
+ dont
+ wanna
+ know
+ know
+ whos
+-taking
+-you
+-home
+-home
+-and
+ loving
++you so so
+ so
+ so
+-the
+-way
++the way
+ used
+ to
+ love
++you no
+ you
+-no
++the
++way
++you
++oh
+ wasted
+ wasted
++and
+ more
+-drink
+ think
+ about
+ no
+@@ -64,6 +59,7 @@
+ name
+ happy
+ now
++no
+ time
+ out
+ yeah
+@@ -72,6 +68,7 @@
+ this
+ one
+ one
++glad
+ got
+ someone
+ new
+@@ -82,56 +79,10 @@
+ even
+ in
+ head
+-youre
+-still
+-bed
++all
++things
++said
+ maybe
+ just
+ a
+ fool
+-what
+-be
+-that
+-around
+-oh
+-hey
+-“please
+-stop”
+-hashtag
+-bood
+-screenshots
+-tryin
+-make
+-jealous
+-on
+-birthday
+-how
+-made
+-birthday
+-he
+-like
+-this
+-woo
+-this
+-lay
+-down
+-for
+-touch
+-poona
+-matter
+-fact
+-never
+-mind
+-well
+-let
+-past
+-be
+-may
+-his
+-right
+-now
+-bodys
+-me
+-whoa
+-the
+-you

@@ -1,0 +1,85 @@
+--- og491.txt	2020-02-06 19:31:22.000000000 -0800
++++ kb517.txt	2020-02-06 19:31:27.000000000 -0800
+@@ -4,7 +4,7 @@
+ kiss
+ you
+ and
+-nobody’s
++nobodys
+ there
+ the
+ smell
+@@ -13,22 +13,21 @@
+ perfume
+ still
+ stuck
+-in
+-air
+-it’s
++in the air
++its
+ hard
+ yesterday
++i thought
+ i
+-thought
+ saw
+ shadow
+-running
+-round
++running round
+ funny
+ how
+ things
+ never
+ change
++in
+ this
+ old
+ town
+@@ -60,7 +59,7 @@
+ whole
+ world
+ watching
+-i’d
++id
+ dance
+ drive
+ highways
+@@ -71,6 +70,7 @@
+ truth
+ comes
+ back
++mmm
+ that
+ moved
+ on
+@@ -78,10 +78,9 @@
+ new
+ pub
+ met
+-he’s
++hes
+ his
+ arms
+-because
+ make
+ me
+ nervous
+@@ -92,13 +91,13 @@
+ they
+ come
+ alive
+-i’m
++im
+ next
+ know
+ wrong
+-can’t
++cant
+ move
+ but
+-there’s
++theres
+ something
+ about

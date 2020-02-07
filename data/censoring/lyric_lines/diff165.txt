@@ -1,0 +1,51 @@
+--- og159.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb165.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -15,16 +15,14 @@
+ word
+ can
+ make
+-heart
+-open
++a heart open
+ i
+ might
+-only
+-have
++only have
+ one
+-match
++chance
+ but
+-an
++make an
+ explosion
+ and
+ all
+@@ -56,6 +54,7 @@
+ prove
+ im
+ alright
++hey
+ powers
+ turned
+ starting
+@@ -90,7 +89,6 @@
+ about
+ too
+ deep
+-deep
+ in
+ deep
+ its
+@@ -105,8 +103,9 @@
+ bones
+ believe
+ yeah
+-hey!
+-power’s
++only
++have
++an
+ ill
+ strong
+ no

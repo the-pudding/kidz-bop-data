@@ -1,0 +1,57 @@
+--- og579.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb61.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -56,14 +56,11 @@
+ when
+ heals
+ too
+-oh
+-yeah
+ itll
+ get
+ better
+ in
+ time
+-and
+ even
+ though
+ smile
+@@ -90,18 +87,16 @@
+ but
+ thats
+ path
++ill
+ believe
+ in
++and
+ will
+ heal
+ boy
+-meant
+-heals
+ since
+ theres
+ more
+-no
+-me
+ let
+ go
+ so
+@@ -110,18 +105,7 @@
+ life
+ how
+ should
+-and
+-know
+-know
+ matter
+ hard
+-is
+-ill
+ fine
+ yes
+-will!
+-loved
+-to
+-yes
+-do
+-yeah

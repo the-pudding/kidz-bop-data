@@ -1,0 +1,31 @@
+--- og426.txt	2020-02-06 19:31:21.000000000 -0800
++++ kb444.txt	2020-02-06 19:31:27.000000000 -0800
+@@ -39,8 +39,10 @@
+ everyone
+ to
+ lighten
++im
+ em
+ that
++that
+ ive
+ no
+ one
+@@ -82,7 +84,6 @@
+ act
+ way
+ do
+-im
+ while
+ still
+ free
+@@ -103,9 +104,6 @@
+ am
+ crazy
+ too
+-to
+-up
+-im
+ 45
+ can
+ rock

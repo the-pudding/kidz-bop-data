@@ -1,0 +1,81 @@
+--- og223.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb229.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -8,14 +8,14 @@
+ changes
+ clothes
+ yeah
+-pms
+-bitch;
++be
++mess
+ i
+ would
+ know
+ and
+-overthink
+ always
++think
+ speak
+ cryptically
+ should
+@@ -27,7 +27,6 @@
+ me
+ cause
+ hot
+-then
+ cold
+ yes
+ in
+@@ -43,7 +42,6 @@
+ we
+ fight
+ break
+-up
+ kiss
+ make
+ you
+@@ -54,13 +52,12 @@
+ but
+ go
+ oh
++then
+ used
+ to
+-be
+ just
+ twins
+ so
+-in
+ sync
+ the
+ same
+@@ -69,20 +66,11 @@
+ dead
+ battery
+ laugh
+-used
+-laugh
+ bout
+ nothing
+-bout
+-nothing
+-now
+-plain
+ now
+ plain
+ boring
+-boring
+-i
+-know
+ not
+ gonna
+ someone
+@@ -92,7 +80,7 @@
+ case
+ of
+ love
+-bipolar
++disorder
+ stuck
+ on
+ roller

@@ -1,0 +1,34 @@
+--- og192.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb201.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -47,6 +47,7 @@
+ me
+ anyway
+ holding
++on
+ strong
+ the
+ only
+@@ -60,7 +61,6 @@
+ live
+ life
+ alright
+-me
+ went
+ wrong
+ but
+@@ -80,12 +80,14 @@
+ alone
+ again
+ laugh
++me
+ when
+-feel
+ lonely
++feel
+ like
+ floating
+ is
+ real
+ above
+ all
++it

@@ -1,0 +1,148 @@
+--- og415.txt	2020-02-06 19:31:21.000000000 -0800
++++ kb432.txt	2020-02-06 19:31:27.000000000 -0800
+@@ -1,6 +1,6 @@
+ i
+ stay
+-out
++up
+ too
+ late
+ got
+@@ -8,12 +8,11 @@
+ in
+ my
+ brain
++and
+ thats
+ what
+ people
+ say
+-mm
+-mm
+ go
+ on
+ many
+@@ -25,11 +24,11 @@
+ at
+ least
+ keep
+-cruisin
++cruising
+ stop
+ wont
+ stop
+-movin
++moving
+ its
+ like
+ this
+@@ -44,7 +43,6 @@
+ players
+ play
+ play
+-and
+ haters
+ hate
+ hate
+@@ -55,84 +53,62 @@
+ shake
+ it
+ off
+-off
+-heartbreakers
++heart
+ break
++is
+ break
+-fakers
++think
+ fake
+ fake
++off
+ never
+ miss
+ a
+ beat
+-lightning
++lighting
+ feet
+ they
+-don’t
++dont
+ see
+ dancing
+ own
+-dancing
+-own
+ moves
+-up
+ as
+-moves
+-go
+-dont
+ know
+-that’s
+-groovin
+-i
++grooving
+ hey
+ hey
+-think
+ while
+-youve
++you
+ been
+ getting
+ down
++out
+ about
+ liars
+ dirty
+-dirty
+ cheats
+-of
+ world
+-you
+-couldve
++could
++have
+ to
+ sick
+-ex-man
++ex
++boy
+ brought
+ his
+ new
+ girlfriend
+ shes
+-like
+-“oh
+-god”
++oh
++god
+ fella
+ over
+ there
+ with
+-hella
++really
+ good
+ hair
+-come
+-over
+-baby
++get
+ we
+-can
+-yeah
+-oh
+-oh
+-haters
+-hate
+-mmhm
+-and
+-fake
+ yeah
+-you
+-to

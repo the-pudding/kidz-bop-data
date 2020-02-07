@@ -1,0 +1,106 @@
+--- og100.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb108.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -6,7 +6,7 @@
+ girl
+ it
+ oh
+-baby!
++babe
+ first
+ time
+ that
+@@ -20,8 +20,6 @@
+ right
+ through
+ me
+-mmm
+-mmm
+ played
+ cool
+ but
+@@ -29,11 +27,10 @@
+ cupid
+ hit
+ got
+-me
+ trippin
+ oh
+ stumblin
+-flippin
++flippinoh
+ fumblin
+ clumsy
+ cause
+@@ -41,19 +38,10 @@
+ fallin
+ in
+ love
+-in
+--
+-in
+-love
+ slippin
+-tumblin
+ sinkin
+-crumblin
++love
+ so
+-with
+-no!
+-no
+-how!
+ breathe
+ when
+ touch
+@@ -70,27 +58,28 @@
+ dont
+ know
+ whats
+-please!
+-know
++with
+ this
+ aint
+ has
+ happened
+ to
+-"love
+-sick"
++me
++no
++sick
+ thing
+ like
+ serious
+ relationships
+-and
+-uh
+-a
++do
+ stay
+ single
+ for
+ long
++sure
++cos
+ every
++a
+ boyfriend
+ and
+ break
+@@ -104,14 +93,4 @@
+ comes
+ back
+ bites
+-back!
+-love!
+-god!
+-im
+-ooh
+-whoo
+-ooh!
+-now!
+-and
+-now
+-me
++yeah

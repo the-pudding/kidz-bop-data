@@ -1,0 +1,159 @@
+--- og335.txt	2020-02-06 19:31:21.000000000 -0800
++++ kb345.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -1,30 +1,30 @@
+-open
+-up
+-the
+-champagne
+-pop!
++this
++is
++how
++we
++do
++it!
++kidz
++bop!
+ its
+ my
+ house
+ come
+ on
+-turn
+-it
+ hear
+ a
+ knock
+-on
++the
+ door
+ and
+ night
+ begins
+ cause
+-we
+ done
+-this
+ before
+ so
+ you
++walk
+ in
+ make
+ yourself
+@@ -34,11 +34,11 @@
+ me
+ where
+ been
+-pour
++play
++song
+ something
+-cold
+-baby
+-cheers
++good
++dance
+ to
+ sometimes
+ gotta
+@@ -48,10 +48,9 @@
+ live
+ yeah
+ what
+-is
++it
+ in
+ welcome
+-house
+ take
+ control
+ now
+@@ -63,18 +62,17 @@
+ have
+ go
+ out
+-play
+ that
+ music
+ too
+ loud
+ show
+-do
+-morning
+-comes
++were
++all
++here
+ wanna
+-close
+-blinds
++hang
++around
+ lets
+ pretend
+ time
+@@ -82,28 +80,26 @@
+ changed
+ keep
+ our
+-clothes
+-floor
+-champagne
++hands
++air
++open
++up
+ continue
+ tonight
++on
+ celebrate
+-thats
+-how
+-do
+-duck
+-off
++house
+ crib
+ spot
+ pad
+ but
+ your
+ if
+-throwin
++turnin
+ back
+ excuse
+-homes
+-draining
++home
++bringing
+ sad
+ soon
+ as
+@@ -114,7 +110,7 @@
+ can
+ run
+ with
+-cash
++fast
+ homerun
+ slam
+ dunk
+@@ -128,10 +124,11 @@
+ no
+ holding
+ another
+-shot
+-of
+-vodka
+-whats
+-glass
++song
++move
++to
++favorite
++track
+ just
+ relax
++house!

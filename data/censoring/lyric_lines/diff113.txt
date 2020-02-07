@@ -1,0 +1,144 @@
+--- og105.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb113.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -1,28 +1,18 @@
+ come
+ on
+ over
+-over
+ baby
+-here
+-we
+-go
+-thats
+-right
+-yeah
+-yeah
+-yeah
+ hey
+ boy
+ dont
+ you
+ know
+-ive
++i
+ got
+ something
+ going
+-ah
+-on
+ on
++i’ve
+ an
+ invitation
+ keep
+@@ -31,12 +21,11 @@
+ all
+ night
+ long
+-i
+ know
+ so
+ baby
+ pretend
+-wont
++won’t
+ guessing
+ if
+ will
+@@ -47,15 +36,14 @@
+ that
+ game
+ with
++you
++said
+ listen
+ to
+-me
+ want
+ is
+-come
++over
+ here
+-baby
+-you
+ make
+ go
+ crazy
+@@ -71,15 +59,12 @@
+ love
+ right
+ cause
+-right
+ not
+ just
+ talking
+ about
+ your
+ sexuality
+-your
+-sexuality
+ but
+ cant
+ help
+@@ -87,23 +72,19 @@
+ when
+ put
+ hands
+-when
+-me
+-oooh
+-oh
+-its
+-paradise
+-its
++it’s
+ paradise
+ and
+ get
+ close
+ tight
+ one
+-wanna
++one
+ all
+-crazy
++don’t
++’cause
+ tonight
++we
+ could
+ do
+ exactly
+@@ -119,17 +100,15 @@
+ mind
+ made
+ up
+-yeah
+ serious
+ never
+ been
+ more
++i’m
+ sure
++its
+ real
+-so
+-sure
+-here
+-uh
++on
+ give
+ girl
+ feels
+@@ -137,11 +116,3 @@
+ needs
+ wants
+ i
+-ooh
+-oh
+-oh
+-woo
+-cause
+-ohh
+-yeah
+-you

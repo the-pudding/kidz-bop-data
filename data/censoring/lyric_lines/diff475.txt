@@ -1,0 +1,209 @@
+--- og452.txt	2020-02-06 19:31:21.000000000 -0800
++++ kb475.txt	2020-02-06 19:31:27.000000000 -0800
+@@ -15,7 +15,7 @@
+ remember
+ we
+ met
+-that
++last
+ summer
+ new
+ kids
+@@ -36,9 +36,10 @@
+ its
+ fly
+ for
+-summer
++that
+ wear
+ abercrombie
++&
+ fitch
+ id
+ take
+@@ -51,10 +52,12 @@
+ been
+ gone
+ since
+-hip
+-hop
+-marmalade
+-spick-and-span
++hip-hop
++mama
++spic
++n
++span
++met
+ all
+ began
+ youre
+@@ -65,7 +68,7 @@
+ see
+ great
+ larry
+-bird
++byrd
+ jersey
+ 33
+ sip
+@@ -77,13 +80,12 @@
+ whole
+ sonnets
+ call
+-willy
+-whistle
++miss
+ cause
+ cant
+ speak
+ baby
+-somethin
++something
+ your
+ eyes
+ really
+@@ -101,36 +103,35 @@
+ then
+ went
+ home
+-macaulay
++macualay
+ culkin
+-was
++wasnt
+ alone
+ fell
+ deep
+ love
+ aint
+-speakin
++speaking
+ michael
+ j
+ fox
++was
+ alex
+ p
+ keaton
+-you
+-said
++saw
+ my
+ name
+ is
+ rich
+ look
+ from
+-&
+ cherry
+-pez
++pants
+ coke
+-crush
+-rock
+-stud
++crushed
++rocks
++till
+ boogie
+ used
+ to
+@@ -140,17 +141,19 @@
+ play
+ hookie
+ always
+-b-boy
++hip
++be	-ball
+ style
+ known
+ act
+ wild
+ make
+ smile
+-love
+ edition
+ candy
+-reminds
++remind
++because
++rock
+ world
+ come
+ georgia
+@@ -160,10 +163,9 @@
+ they
+ drink
+ lemonade
+-speak
+ real
+ slow
+-hop
++n
+ roll
+ dad
+ took
+@@ -181,7 +183,6 @@
+ feel
+ much
+ better
+-baby
+ near
+ fun
+ dip
+@@ -189,14 +190,13 @@
+ laugh
+ tell
+ joke
+-looked
++said
+ summertime
+ got
+ goin
+ shake
+ wiggle
+ song
+-summertime
+ are
+ kind
+ ill
+@@ -204,27 +204,25 @@
+ honey
+ stole
+ bike
+-boogaloo
++bugalute
+ shrimp
+ pogo
+ sticks
+ mind
+ takes
+-oh
++oh-so
+ quick
+ let
+ hook
+ mr
+-limpet
++limpit
+ about
+ bug
+-miss
+ color
+ purple
+ macaroni
+ cheese
+-ruby
+-red
++ruby-red
+ slippers
+ trees
+ up
+@@ -242,5 +240,4 @@
+ go
+ some
+ worthwhile
+-s-
+-honey
++so-so

@@ -1,0 +1,83 @@
+--- og647.txt	2020-02-06 19:31:21.000000000 -0800
++++ kb370.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -13,7 +13,6 @@
+ always
+ dreamed
+ of
+-close
+ enough
+ for
+ you
+@@ -32,12 +31,9 @@
+ your
+ name
+ yet
+-no
+-yet
+ wonder
+ when
+ where
+-how
+ youre
+ gonna
+ make
+@@ -56,14 +52,11 @@
+ feeling
+ more
+ frustrated
+-frustrated
+ getting
+ all
+ kind
+ impatient
+-impatient
+-waitin
+-waitin
++waiting
+ we
+ live
+ learn
+@@ -82,14 +75,12 @@
+ or
+ falling
+ love
+-just
+-love
+ happen
+ supposed
+-then
+ find
+ reasons
+ why
++time
+ believe
+ doubt
+ confused
+@@ -106,26 +97,14 @@
+ they
+ only
+ knew
+-make
+-it
+-rush
+-its
+-happen
++wait
+ any
+ longer
+-you
+-wait
+ end
+ sight
+-ooh
+-oh
+-when
+-strength
+ faith
+ makes
+ stronger
+ way
+ there
+ is
+-oh
+-falling

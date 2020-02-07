@@ -1,0 +1,46 @@
+--- og13.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb37.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -1,15 +1,16 @@
+-makin
++making
+ my
+ way
+ downtown
+-walkin
++walking
+ fast
+ faces
+ pass
+ and
+ im
+-homebound
+-starin
++home
++bound
++staring
+ blankly
+ ahead
+ just
+@@ -50,18 +51,18 @@
+ when
+ of
+ ever
+-everythings
++every
++things
+ so
+ wrong
+ dont
+ belong
+-livin
++living
+ in
+ your
+ precious
+ memory
+-ill
+-oh
++by
+ i
+ wanna
+ let

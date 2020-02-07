@@ -1,0 +1,144 @@
+--- og620.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb241.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -1,5 +1,5 @@
+ shes
+-going
++goin
+ out
+ to
+ forget
+@@ -11,7 +11,7 @@
+ time
+ he
+ was
+-taking
++takin
+ her
+ for
+ granted
+@@ -23,11 +23,11 @@
+ more
+ than
+ gave
+-looking
++lookin
+ calls
+-up;
++up
+ hes
+-tripping
++trippin
+ on
+ the
+ phone
+@@ -38,10 +38,11 @@
+ and
+ alone
+ knows
+-moving
++movin
++it
++usin
+ it
+-using
+-losing
++losin
+ dont
+ care
+ everybody
+@@ -49,37 +50,37 @@
+ up
+ your
+ hands
+-say:
+-"i
++say
++i
++wanna
+ be
+ in
+ love
+-i
+-love"
++love
+ feel
+ beat
+-now
+-youve
++you
+ got
+ nothing
+ left
+ back
++now
+ a
+ reason
+ live
+-feeling
++feelin
+ good
+ afraid
+ get
+ down
+ always
+-giving
++givin
+ attention
+-working
+ hard
+ find
+ things
+-mentioned
++shed
++mention
+ dedicated
+ by
+ most
+@@ -93,22 +94,24 @@
+ him
+ had
+ aint
+-coming
++comin
+ home
+-trying
+-her;
++tryin
++her
+ thats
+ how
++we
++come
+ with
+ when
+ first
+ met
+-her
+-you
++beat
++yeah
++youve
++nothin
+ lose
+-we
+ break
+-up
+ its
+ something
+ do
+@@ -130,11 +133,12 @@
+ stop
+ what
+ youre
+-doing
++doin
+ ruin
+ chance
+ new
+ one
++no
++no
+ so
+-come
+-on
++feeling

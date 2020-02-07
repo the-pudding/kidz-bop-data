@@ -1,0 +1,65 @@
+--- og668.txt	2020-02-06 19:31:21.000000000 -0800
++++ kb435.txt	2020-02-06 19:31:27.000000000 -0800
+@@ -2,7 +2,7 @@
+ blood
+ flesh
+ and
+-bone
++bones
+ no
+ tucks
+ or
+@@ -22,6 +22,8 @@
+ should
+ happen
+ know
++were
++right
+ where
+ belong
+ nothings
+@@ -34,14 +36,12 @@
+ above
+ me
+ lovely
+-high
+ like
+ cleopatra
+ joan
+ of
+ arc
+ aphrodite
+-da-da-da-da
+ me
+ first
+ class
+@@ -51,7 +51,7 @@
+ the
+ best
+ everything
+-what
++why
+ could
+ a
+ guy
+@@ -63,17 +63,17 @@
+ she
+ can
+ be
+-why
+ even
+ bother
+ a-ah
++cause
+ comes
+ to
+ speak
+ freeze
+ immediately
++what
+ says
+ sounds
+ unreal
+-yeah
+-oh
++below

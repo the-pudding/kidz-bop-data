@@ -1,0 +1,90 @@
+--- og616.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb231.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -1,36 +1,31 @@
+ im
+ done
+-hatin
++blamin
+ myself
+ for
+ feelin
+ cryin
+ awake
+-i
++ive
+ gotta
+ leave
+ and
+ start
+-the
+-healin
+-but
+-when
++the healin
++but when
+ you
+-move
+-like
++talk like
+ that
++i
+ just
+ wanna
+ stay
+-what
+-have
++what have
+ become
+-now
+ lookin
+-through
++at
+ your
+ phone
+-now
+ oh
+ now
+ love
+@@ -39,8 +34,11 @@
+ a
+ game
+ look
++what
++have
+ dialling
+ up
++the
+ numbers
+ on
+ dont
+@@ -52,6 +50,7 @@
+ how
+ do
+ sleep
++when
+ lie
+ me
+ all
+@@ -76,7 +75,10 @@
+ not
+ this
+ desperate
+-crazy
++not
++so
++aint
++me
+ theres
+ no
+ way
+@@ -85,9 +87,7 @@
+ find
+ out
+ wont
++like
+ done
+-diallin
+-me
+-yeah
+ yeah
+ oh

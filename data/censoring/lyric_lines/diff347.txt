@@ -1,0 +1,252 @@
+--- og337.txt	2020-02-06 19:31:21.000000000 -0800
++++ kb347.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -1,32 +1,23 @@
+-aint
+-another
+-woman
+-that
+-can
+-take
+-your
+-spot
+-my—
+ if
+ i
+ wrote
+ you
+ a
+ symphony
+-just
+-to
++would
+ say
+ how
+ much
+ mean
++to
+ me
+ what
+-would
+ do
+ told
+ were
+ beautiful
+-date
++page
++me
+ on
+ the
+ regular
+@@ -40,8 +31,10 @@
+ around
+ world
+ but
++aint
+ seen
+ myself
++another
+ girl
+ like
+ you
+@@ -52,40 +45,42 @@
+ my
+ heart
+ theres
++just
+ one
+ thing
+ need
+ from
+-saying
++say
+ "i
+ do"
+ because
++can
+ see
+ us
+-holdin
++holding
+ hands
+-walkin
++walking
+ beach
+ our
+ toes
+ in
+ sand
+-country
+-side
+-sittin
++countryside
++sitting
+ grass
+-layin
++laying
++side
+ by
+ be
+ baby
+-let
++gonna
+ make
+ lady
+ girl
+ amaze
+ gotta
+ do
+-nothin
++nothing
+ crazy
+ see
+ all
+@@ -96,24 +91,25 @@
+ dont
+ give
+ away
+-could
++that
++take
++your
+ spot
+ love
+ now
+ note
+ and
+-made
+ smile
+-at
++with
+ every
+ word
+ wanna
+ change
+ scene
+-team
++scene
+ whats
+ point
+-waitin
++waiting
+ anymore
+ cause
+ never
+@@ -122,115 +118,8 @@
+ that
+ its
+ everything
++youve
+ for
+ just
+-it
+-aight
+-time
+-get
+-jt
+-know
+-what
+-hesitatin
+-for
+-man
+-ay
+-ay
+-shawty
+-cool
+-as
+-fan
+-move
+-once
+-again
+-ay
+-he
+-still
+-has
+-fans
+-peru
+-japan
+-hey
+-listen
+-ruin
+-plan
+-nah
+-got
+-man
+-try
+-lose
+-him
+-girls
+-worldwide
+-throw
+-they
+-up
+-high
+-when
+-come
+-kick
+-it
+-with
+-stand-up
+-guy
+-really
+-chance
+-go
+-so
+-fly
+-and
+-babe
+-friends
+-fly
+-private
+-handle
+-bi
+-call
+-candle
+-why
+-simply
+-am
+-fire
+-haha
+-hate
+-have
+-cancel
+-vacation
+-cant
+-deny
+-im
+-patient
+-gon
+-come
+-die
+-hold
+-up
+-go
+-why
+-boyfriend
+-we
+-no
+-tie
+-uh-huh
+-man
+-obvious
+-yo
+-lie
+-ill
+-fill
+-space
+-forget
+-face
+-swear
+-will
+-st
+-barths
+-anguilla
+-anywhere
+-chill
+-nice
+-bring
+-any
+-pair
+-cmon
+-love
++say
++let

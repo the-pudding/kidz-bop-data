@@ -1,0 +1,64 @@
+--- og605.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb178.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -1,5 +1,5 @@
+-ooh-oh
+-ooh-woh
++ooooh-oh
++ooooh-woh
+ you
+ say
+ love
+@@ -14,7 +14,7 @@
+ youre
+ not
+ my
+-lover
++other
+ like
+ a
+ brother
+@@ -29,8 +29,7 @@
+ it
+ up
+ talking
+-that
+-shit
++this
+ only
+ gonna
+ push
+@@ -39,6 +38,7 @@
+ thats
+ it!
+ when
++that
+ make
+ here
+ go
+@@ -102,7 +102,6 @@
+ pouring
+ been
+ before
+-so
+ havent
+ it
+ clear
+@@ -110,17 +109,9 @@
+ to
+ you
+ how
+-f******
++always
+ "friends"
+-get
+-inside
+-head
+-no
+-yeah
+-uh
+-ah
+ just
+-nowhere
+ have
+ obvious
+ yeah

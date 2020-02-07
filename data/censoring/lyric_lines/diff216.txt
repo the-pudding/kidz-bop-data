@@ -1,0 +1,56 @@
+--- og612.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb216.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -1,10 +1,8 @@
+ we
+-could
+-hide
+-away
++go
++hideaway
+ in
+ daylight
+-go
+ undercover
+ wait
+ out
+@@ -20,7 +18,7 @@
+ streets
+ are
+ empty
+-that’s
++thats
+ run
+ everyday
+ people
+@@ -42,27 +40,24 @@
+ kind
+ can
+ anything
+-heroes
++could
+ heroes
+ and
+-anybody’s
++anybodys
+ power
+ they
+ dont
+ see
+ it
+-‘cause
++cause
+ understand
+-spin
+-around
++spinning
+ round
+ for
+ hours
+-me
+ world
+ our
+ hands
+-you
+ all
+ were
+ looking

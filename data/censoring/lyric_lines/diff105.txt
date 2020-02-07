@@ -1,0 +1,123 @@
+--- og98.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb105.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -7,20 +7,17 @@
+ before
+ met
+ you
+-drink
++talk
+ too
+ much
+ and
+-thats
+-an
+-issue
++thats an issue
+ but
+-im
+-okay
++im okay
+ tell
+ your
+ friends
+-it
++it was
+ nice
+ to
+ meet
+@@ -30,6 +27,7 @@
+ see
+ again
+ know
++it
+ breaks
+ heart
+ moved
+@@ -37,7 +35,8 @@
+ city
+ in
+ a
+-broke-down
++broke
++down
+ car
+ four
+ years
+@@ -45,45 +44,45 @@
+ calls
+ now
+ youre
+-lookin
++looking
+ pretty
+-hotel
+-bar
+-i-i-i
++are
++so
++far
+ cant
+ stop
+ no
+-so
+ baby
+ pull
+ me
+ closer
+-backseat
+-of
++as
++we
++stand
++against
+ rover
+ that
++they
+ afford
+-bite
+-tattoo
+-on
+-shoulder
+-sheets
++brush
++stress
+ right
+ off
++shoulder
++sheets
+ corner
+-mattress
++of
++notebook
+ stole
+ from
+-roommate
++way
+ back
+ boulder
+-we
+ aint
+ ever
+ getting
+ older
+ look
+-as
+ good
+ day
+ forget
+@@ -95,10 +94,10 @@
+ play
+ blink-182
+ song
+-beat
++played
+ death
+-tucson
+-call
+-no
+-older
++tuscon
++okay
++am
+ we
++older

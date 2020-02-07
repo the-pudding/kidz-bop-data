@@ -1,0 +1,108 @@
+--- og67.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb75.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -10,6 +10,7 @@
+ it
+ has
+ begun
++oh
+ dear
+ you
+ look
+@@ -23,18 +24,22 @@
+ shed
+ this
+ world
+-mustve
++must
++have
+ crossed
++she
+ said
++"you
+ dont
+ know
+ me
+ even
+-care
++care"
+ yeah
++well
+ wear
+ my
+-chains
++chains"
+ essential
+ yet
+ appealed
+@@ -46,33 +51,33 @@
+ an
+ open
+ field
+-when
++where
+ flowers
+ gaze
+ at
++you
+ theyre
+ not
+ only
+ ones
+ who
+ cry
++when
+ they
+ see
+-oh
+-well
+-she
+-i
++"i
+ think
+-ill
+-go
++im
++going
+ to
+ boston
++i
++ill
+ start
+ a
+ new
+ life
+ over
+-where
+ no
+ one
+ knows
+@@ -80,12 +85,11 @@
+ get
+ out
+ california
+-im
+ tired
+ weather
+-lover
++love
+ fly
+-him
++em
+ spain
+ that
+ just
+@@ -95,7 +99,7 @@
+ behind
+ sunrise
+ sunset
+-hear
++here
+ its
+ nice
+ summer
+@@ -103,4 +107,4 @@
+ snow
+ would
+ be
+-name
++nice"

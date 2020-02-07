@@ -1,0 +1,155 @@
+--- og196.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb206.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -28,8 +28,8 @@
+ bout
+ his
+ manners
+-uh-huh
+ uh
++huh
+ didnt
+ walk
+ up
+@@ -38,6 +38,7 @@
+ "how
+ you
+ doin"
++hey
+ when
+ came
+ the
+@@ -48,123 +49,41 @@
+ girls
+ i
+ can
+-do
++talk
++huh
+ cant
+ without
+ knew
+ him
+ forever
+ minute
+-hey
+ summer
+-night
++day
+ june
+ and
+-papa
++then
+ says
+ got
+-malo
++love
++within
+ feelin
+ like
+-ooh
+-ooh-ooh-ooh-ooh-ooh-ooh-ooh
++oooh-oooh-ooh
+ it
+ met
+-ayy
+ loved
+ left
+ like
+-then
+ had
+ tell
+-him
+ go
+ oh
+ na-na-na-na-na
+ woo
+-hey
+-ayy
+-uh-huh
+-na-na-na
+-huh
+-jeffery
+-just
+-graduated
+-fresh
+-on
+-campus
+-mmm
+-out
+-atlanta
+-no
+-manners
+-damn
+-fresh
+-atlanta
+-bump
+-her
+-bumper
+-like
+-traffic
+-jam
+-hey
+-was
+-quick
+-pay
+-girl
+-uncle
+-sam
+-here
+-go
+-back
+-up
+-shawty
+-cravin
+-me
+-get
+-eatin
+-on
+-me
+-she
+-waited
+-and
+-what
+-cakin
+-bacon
+-wait
+-this
+-history
+-makin
+-homie
+-homie
+-point
+-blank
+-close
+-range
+-b
+-tah
+-tah
+-if
+-cost
+-million
+-thats
+-thats
+-gettin
+-mula
+-baby
+-oh
+-no
+-na-na
+ ooh
+-ooh-ooh-ooh-ooh-ooh-ooh
++na-na-na
++all
++ooh-na-na
++oh-na-na
+ take
+ back
+-yeah
+-babe
+-yeah
+-hey
+-havana
+-na
+-no
+-no
+-back

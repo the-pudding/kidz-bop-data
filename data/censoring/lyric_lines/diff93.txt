@@ -1,0 +1,72 @@
+--- og83.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb93.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -22,6 +22,7 @@
+ youre
+ my
+ way
++id
+ trade
+ soul
+ for
+@@ -35,30 +36,29 @@
+ your
+ stare
+ was
+-holding
++holdin
+ ripped
+ jeans
+-skin
++smile
+ showin
+ hot
+ night
+ wind
+ blowin
+ where
++do
+ think
+ going
+ baby
+ hey
+ just
+ met
+-you
+ is
+ crazy
+ heres
+ number
+ so
+ call
+-me
+ maybe
+ its
+ hard
+@@ -71,6 +71,7 @@
+ boys
+ try
+ chase
++me
+ took
+ time
+ with
+@@ -81,16 +82,13 @@
+ still
+ beg
+ borrow
+-steal
+-first
+-sight
++feel
++have
++foresight
+ real
+ didnt
+ know
+ would
+-feel
+-showing
+-blowing
+ before
+ came
+ into

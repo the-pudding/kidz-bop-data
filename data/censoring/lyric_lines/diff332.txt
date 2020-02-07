@@ -1,0 +1,108 @@
+--- og314.txt	2020-02-06 19:31:21.000000000 -0800
++++ kb332.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -1,8 +1,8 @@
+-ow!
++ow
+ whos
+ that
+-sexy
+-thang
++pretty
++girl
+ i
+ see
+ over
+@@ -14,23 +14,21 @@
+ the
+ mirror
+ whats
+-icy
+-hangin
++icy thing hangin
+ round
+-my
+-neck
+-mmm
++my neck
+ gold
+ show
+ me
+ some
+-respect
+-oh-ah
++respect oh
++ah
+ thank
+ god
+ every
+ day
+-uh-huh
++uh
++huh
+ woke
+ up
+ feelin
+@@ -45,7 +43,8 @@
+ need
+ nobody
+ else
+-nuh-uh
++nuh
++uh
+ if
+ was
+ you
+@@ -55,9 +54,8 @@
+ too
+ walk
+ like
+-a
+-dime
+-piece
++own
++it
+ go
+ straight
+ to
+@@ -65,7 +63,9 @@
+ never
+ pay
+ for
+-drinks
++a
++thing
++my
+ entourage
+ behind
+ lifes
+@@ -80,30 +80,7 @@
+ they
+ tried
+ do
+-it
+-thank
+-god
+-and
+-feel
+-good
+-woo
+-no
+-no
+-baby
+-oh
+-you
+-i
+-would
+-wanna
+-hey
+-hey
+ turn
+ bass
+ up
+-turn
+ lets
+-go!
+-said
+-ow!
+-hey
+-yeah

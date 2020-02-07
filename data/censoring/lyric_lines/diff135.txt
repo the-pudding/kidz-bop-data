@@ -1,0 +1,191 @@
+--- og595.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb135.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -1,5 +1,5 @@
+-usher
+-usher
++kidz
++bop
+ yeah
+ man
+ so
+@@ -8,16 +8,14 @@
+ in
+ the
+ club
+-with
+-our
++get
++that
+ bodies
+-rockin
++rocking
+ from
+ side
+ to
+ side
+-side-side
+-uh
+ thank
+ god
+ week
+@@ -30,7 +28,7 @@
+ zombie
+ gone
+ life
+-back-back
++back
+ life
+ hands
+ up
+@@ -38,6 +36,7 @@
+ suddenly
+ all
+ got
++our
+ no
+ control
+ of
+@@ -52,7 +51,6 @@
+ those
+ eyes
+ eyes
+-eye-eyes
+ cause
+ baby
+ tonight
+@@ -61,10 +59,7 @@
+ falling
+ love
+ again
+-love
+-again
+-l-love
+-again-gain
++yeah
+ dance
+ dance
+ its
+@@ -72,115 +67,34 @@
+ last
+ night
+ your
+-gon
+-get
++gonna
+ right
+ keep
+-downin
+-drinks
++dancing
++round
+ theres
+ tomorrow
+ just
+-right
+ now
+ now
+ set
+ roof
+ on
+ fire
+-gonna
+ burn
+ this
+-motherf*****
++whole
++place
+ down
+ down
+-come
+-on
++up
+ when
+ music
+ drops
+ both
+ put
+-up
++air
+ swear
+-ive
+ before
+-again-gain
+-oh
+-yeah
+-again-gainohh
+-dont
+-lie!
+-haha
+-hear
+-evil
+-speak
+-see
+-evil
+-it
+-hope
+-catch
+-that
+-to
+-thats
+-how
+-roll
+-movie
+-tivo
+-ha
+-mami
+-me
+-twisted
+-dreadlock
+-she
+-wrestle
+-but
+-her
+-headlock
+-yabba-dabba-doo
+-make
+-bed
+-rock
+-fire
+-pshh
+-red
+-hot
+-bada
+-bing
+-boom
+-mr
+-worldwide
+-as
+-step
+-room
+-im
+-hustler
+-knew
+-you
+-dale
+-mr
+-worldwide
+-lets
+-take
+-over
+-world
+-haha
+-hahahaha
+-yeah
+-man
+ love
+-o-oh
+-dale
+-let
+-go
+-woo!
+-on
+-come
+-yeah
+-somebody
+-djs
+-up
+-somebody
+-aw
+-hahaha
+-dj
++yes

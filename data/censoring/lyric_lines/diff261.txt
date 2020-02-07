@@ -1,0 +1,156 @@
+--- og248.txt	2020-02-06 19:31:21.000000000 -0800
++++ kb261.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -2,6 +2,7 @@
+ you
+ done
+ me
++wrong
+ and
+ bet
+ i
+@@ -36,9 +37,8 @@
+ my
+ bestest
+ nothings
+-gonna
++going
+ stop
+-me
+ divine
+ intervention
+ reckon
+@@ -53,12 +53,10 @@
+ hesitate
+ no
+ more
++more
+ cannot
+ wait
+ yours
+-hmm
+-hey
+-hey
+ open
+ up
+ your
+@@ -66,8 +64,6 @@
+ see
+ like
+ plans
+-and
+-damn
+ free
+ look
+ into
+@@ -89,7 +85,7 @@
+ big
+ family
+ our
+-god-forsaken
++god-intended
+ loved
+ loved
+ sure
+@@ -101,29 +97,19 @@
+ short
+ this
+ fate
+-a-do
+-you
++d-d-do
+ do
+-do
+-want
++you
++wanna
+ come
+-on
+ scooch
+ on
+ over
+ closer
+ dear
+-will
+-nibble
++whisper
++in
+ ear
+-a-soo
+-da
+-ba
+-bum
+-whoa
+-oh
+-whoa
+-uh-huh
+ ive
+ been
+ spending
+@@ -132,7 +118,6 @@
+ long
+ checking
+ tongue
+-in
+ mirror
+ bending
+ backwards
+@@ -155,54 +140,20 @@
+ reason
+ rid
+ yourself
++off
+ vanities
+ go
+ with
+ seasons
+ we
+ aim
++do
+ name
+ virtue
+-i
+-hesitate
+-no
+-more
+-more
+-it
+-wait
+-sky
+-im
+-no
+ please
+ dont
+ dont
+-need
+-oh
+-now
+-for
+-reggae
+-time
+-cause
++complicate
++because
++down
+ is
+-short
+-this
+-fate
+-fate
+-yours
+-ha!
+-brr
+-mmm
+-bo
+-day
+-na
+-ch
+-doo
+-doo
+-oh-oh
+-oh-oh-oh-oh
+-whoa-oh-oh-oh
+-baby
+-believe
+-yours
+-best
+-believe

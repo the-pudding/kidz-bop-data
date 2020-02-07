@@ -1,0 +1,72 @@
+--- og350.txt	2020-02-06 19:31:21.000000000 -0800
++++ kb358.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -1,3 +1,9 @@
++when
++you
++wanna
++baby
++so
++ooh
+ got
+ somebody
+ shes
+@@ -8,7 +14,7 @@
+ really
+ and
+ truly
+-takes
++take
+ good
+ care
+ of
+@@ -18,7 +24,6 @@
+ her
+ duty
+ want
+-you
+ right
+ by
+ my
+@@ -33,18 +38,23 @@
+ because
+ are
+ lady
+-when
+ im
+ with
+ all
+ that
+ girl
++i
++am
+ so
+ glad
+ weve
+ made
+ it
+ back
++no
++yeah
++that
++yeah
+ they
+ say
+ things
+@@ -60,16 +70,13 @@
+ your
+ friend
+ though
+-i
++make
+ cry
+ doings
+ keisha
+ anisha
+ was
+ then
+-that
+-yeah
+-yeah
+ appreciate
+ loving
+ after

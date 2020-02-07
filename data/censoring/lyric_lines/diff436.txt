@@ -1,0 +1,49 @@
+--- og417.txt	2020-02-06 19:31:21.000000000 -0800
++++ kb436.txt	2020-02-06 19:31:27.000000000 -0800
+@@ -41,8 +41,7 @@
+ dont
+ mind
+ spending
+-every
+-day
++everyday
+ out
+ on
+ corner
+@@ -58,8 +57,7 @@
+ if
+ wants
+ stay
+-a
+-while
++awhile
+ will
+ be
+ loved
+@@ -92,9 +90,9 @@
+ full
+ doors
+ open
++can
+ come
+-any
+-time
++anytime
+ want
+ where
+ hide
+@@ -112,10 +110,13 @@
+ makes
+ me
+ catch
++every
++time
+ falls
+ rain
+-oh
++no
+ please
++dont
+ try
+ hard
+ say

@@ -1,0 +1,105 @@
+--- og497.txt	2020-02-06 19:31:22.000000000 -0800
++++ kb523.txt	2020-02-06 19:31:27.000000000 -0800
+@@ -36,7 +36,7 @@
+ well
+ la
+ were
+-going
++goin
+ at
+ tonight
+ tonight
+@@ -46,7 +46,7 @@
+ rooftop
+ top
+ world
+-dancing
++dancin
+ edge
+ hollywood
+ sign
+@@ -56,12 +56,12 @@
+ if
+ ill
+ make
+-it
+ watch
+ how
+ good
+ fake
+-alright
++all
++right
+ woke
+ with
+ strange
+@@ -69,6 +69,7 @@
+ not
+ sure
+ got
++it
+ dollar
+ in
+ pocket
+@@ -80,15 +81,12 @@
+ mixed
+ zach
+ galifianakis
+-huh
+-singing
+-like
++singin
+ whoa
+-cmon!
+-matter
++come
++oh
+ everybody
+ now
+-oh!
+ stop
+ lets
+ keep
+@@ -105,37 +103,27 @@
+ get
+ crazy
+ let
+-all
+-out!
+-me
++out
+ runnin
+ this
+ town
+-you
+ shakin
+ ground
+ aint
+ nobody
++gonna
+ tell
+ us
+ go
+ cause
+ is
+ our
+-show!
+-everybody!
+-whoa!
+-animals!
++show
++animals
+ hear
+-now
+-rooftop-top
+-sign!
+ yeah
+-whoa
+-cmon
+ people
+ singletons
+ even
+ white
+-kids!
+-its
++kids

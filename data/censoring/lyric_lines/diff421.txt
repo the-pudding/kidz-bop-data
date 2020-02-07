@@ -1,0 +1,38 @@
+--- og406.txt	2020-02-06 19:31:21.000000000 -0800
++++ kb421.txt	2020-02-06 19:31:27.000000000 -0800
+@@ -18,7 +18,6 @@
+ wouldve
+ followed
+ and
+-i
+ am
+ feeling
+ so
+@@ -35,22 +34,16 @@
+ will
+ stumble
+ fall
+-still
++just
+ learning
+ love
+-just
+ starting
+ crawl
++not
+ sorry
+ that
+ couldnt
+ get
+-swallow
+-pride
+-youre
+-one
+-saying
+-goodbye
+-you
+-oh-oh
+-something
++but
++silence
++from

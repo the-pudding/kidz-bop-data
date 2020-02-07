@@ -1,0 +1,299 @@
+--- og455.txt	2020-02-06 19:31:21.000000000 -0800
++++ kb478.txt	2020-02-06 19:31:27.000000000 -0800
+@@ -3,12 +3,9 @@
+ are
+ what
+ say
+-yeah
+-yeah
++are
+ a
+ superstar
+-gon
+-now
+ then
+ have
+ no
+@@ -16,39 +13,28 @@
+ the
+ cameras
+ here
+-ugh
+ and
+ microphones
+ they
+ wanna
+-know-oh-oh-oh
+-the
+-return!
+-what
+-crowd
+-is
+-yeah!
+-lights
+-on
+-haaa!
+-want
+-show-oh-oh-oh
++know
++oh
++oh
+ yeah
+-free
+-chilly!
+-yeah!
+-ugh!
++uh
+ fresh
+ cool
+ young
+ lu
+-trying
+-to
+-cash
++tryna
++catch
+ his
+ microphone
+ check
+-2-1-2
++two
++one
++two
++wanna
+ believe
+ my
+ own
+@@ -60,24 +46,25 @@
+ world
+ brought
+ me
++to
+ knees
+ brung
+ you
+ did
+ improve
++on
+ design
+ do
+-something
++somethin
+ new
+ well
+-your
++ya
+ name
+ aint
+ guest
+ list
+ who
+-brung
+-you!
++you
+ more
+ famous
+ person
+@@ -86,25 +73,26 @@
+ sexy
+ lady
+ next
+-you—you
+ it
+ hit
+-me—standing
++me
++standin
+ outside
+ of
+ heaven
+-waiting
++waitin
+ for
+ god
+ get
+-me:
+ im
+ uncouth
+ unschooled
+ rules
+-gumshoe
++gum
++shoe
+ much
+-newcomer
++new
++comer
+ uncool
+ like
+ shadow
+@@ -112,7 +100,6 @@
+ i
+ battle
+ with
+-well
+ though
+ need
+ holiday
+@@ -126,29 +113,26 @@
+ as
+ heaven
+ devil
+-me
+-two
+ tons
+-ha
+-ha-ha-ha
+-know-oh-oh-oh
++yeah
+ better
+ wear
++your
+ shades
+ spotlights
++here
+ can
+ burn
+ holes
+ stage
+ down
+ basement
+-past
++pass
+ indian
+ graves
+ where
+ dinosaurs
+ laid
+-pyoom!
+ out
+ china
+ nearly
+@@ -157,8 +141,7 @@
+ magnified
+ times
+ five
+-this
+-was
++less
+ pointed
+ at
+ rhymer
+@@ -168,7 +151,6 @@
+ sets
+ forest
+ ablaze
+-woo!
+ now
+ thats
+ important
+@@ -179,29 +161,11 @@
+ most
+ us
+ dont
+-fade-uh
+-we
+-braid
+-meaning
+-grow
+-meaning
+-stay
+-governor
+-called
+-he
+-told
+-him
+-wait
+-unstrap
+-from
+-chair
+-put
+-back
+-in
+-cage-uh
++want
++fade
+ audience
+ fazed
+-gon
++gonna
+ clap
+ praise
+ everything
+@@ -213,35 +177,38 @@
+ since
+ ten
+ see
++lights
+ dim
++crowd
++is
++show
+ so
+ chauffeur
+ take
+ away
+ ive
+-standing
++in
++this
+ line
+-for
+-like
+ five
+ whole
+ days
+ security
+-getting
++gettin
+ along
+ when
+ got
+ front
++told
+ tickets
+ were
+ gone
+-so
+ just
+ home
+ mood
+ mellow
+ roses
+-thrown
++grown
+ m&ms
+ yellow
+ light
+@@ -264,9 +231,8 @@
+ listener
+ every
+ songs
+-her
+ favorite
+-song;
++song
+ mics
+ feedback
+ reviewers
+@@ -275,15 +241,9 @@
+ that"
+ claps
+ pleased
+-then
+ start
+-performing
+-"ha
+-ha-ha-ha"
+-ha-ha-ha
+-ha"
+-fear
+-superstar!
+-show-oh
+-oh
+-yeah
++performin
++like
++ha
++ha
++know

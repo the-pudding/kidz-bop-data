@@ -1,0 +1,103 @@
+--- og643.txt	2020-02-06 19:31:21.000000000 -0800
++++ kb355.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -31,18 +31,17 @@
+ is
+ sign
+ number
+-uh
+ need
+ it
+ go
+-the
+ first
++youre
+ gonna
+ say
+ aint
+-runnin
+-game
+-thinkin
++running
++games
++thinking
+ im
+ believing
+ every
+@@ -61,10 +60,8 @@
+ came
+ along
+ now
+-thinking
+ maybe
+ should
+-go
+ blah
+ blah
+ be
+@@ -75,11 +72,9 @@
+ if
+ that
+ boy
+-giving
+-lick
++givin
++move
+ lips
+-swing
+-hips
+ girl
+ gotta
+ thank
+@@ -87,44 +82,18 @@
+ dont
+ wanna
+ dance
+-nope
+-hands
+-over
+-no
+-no
+-want
+-a
+-man
++talking
++here
++with
++dance
+ then
+-ima
+-get
+-man
++imma
+ never
+ priority
+-hey
+-zone
++want
+ take
+ this
+ personal
+-all
+-ladies
+-ain’t
+-giving’
+-up
+-hey
+-hey
+-lets
+-go!
+-ooh
+-feeling
+-untouchable
+-untouchable
+-hey
+-nah
+-sing
+-im
+ feeling
+-untouchable
+-say
+-aint
+-girl
++unreachable
++unreachable

@@ -1,0 +1,92 @@
+--- og253.txt	2020-02-06 19:31:21.000000000 -0800
++++ kb246.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -20,10 +20,8 @@
+ on
+ what
+ wanted
+-then
+ go
+-drink
+-beer
++hang
+ with
+ guys
+ chase
+@@ -36,7 +34,7 @@
+ get
+ confronted
+ cause
+-theyd
++they
+ stick
+ up
+ me
+@@ -61,61 +59,35 @@
+ lose
+ one
+ hes
+-taken
++taking
+ granted
+ everything
+ had
+ got
+ destroyed
+-would
+-turn
+-off
+-my
+-phone
+-tell
+-everyone
+ its
+-broken
+-so
+-that
+-was
+-sleepin
+-alone
+-put
+-myself
+-first
+-make
+-rules
+-as
+-shed
+-faithful
+-waitin
+-come
+-home
+-wanted
+-granted
+ little
+ too
+ late
++come
+ back
+ say
+ mistake
+ forgive
+ like
++that
+ thought
++would
+ wait
++you
+ wrong
+ but
+ youre
++boy
+ dont
+ yeah
+-understand
+-oh
+ someday
+-youll
+ wish
++her
+ care
+ until
+-youve
+-have
+-boy

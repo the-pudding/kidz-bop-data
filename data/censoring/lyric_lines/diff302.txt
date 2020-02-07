@@ -1,0 +1,72 @@
+--- og634.txt	2020-02-06 19:31:21.000000000 -0800
++++ kb302.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -1,7 +1,3 @@
+-listen
+-to
+-your
+-heart
+ i
+ know
+ theres
+@@ -10,6 +6,7 @@
+ the
+ wake
+ of
++your
+ smile
+ get
+ a
+@@ -17,13 +14,12 @@
+ from
+ look
+ eyes
+-yeah
++yea
+ youve
+ built
+ love
+ but
+ that
+-love
+ falls
+ apart
+ little
+@@ -32,6 +28,9 @@
+ turns
+ too
+ dark
++listen
++to
++heart
+ when
+ hes
+ calling
+@@ -68,8 +67,27 @@
+ swept
+ away
+ what
+-it
+ seems
+ feeling
+ belonging
+ dreams
++there
++voices
++want
++be
++heard
++so
++much
++mention
++cant
++find
++words
++sense
++magic
++beauty
++thats
++been
++was
++wilder
++than
++wind

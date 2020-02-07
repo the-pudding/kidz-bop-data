@@ -1,0 +1,72 @@
+--- og230.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb242.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -16,11 +16,13 @@
+ cruel
+ existence
+ like
++theres
+ no
+ point
+ at
+ all
+ baby
++baby
+ i
+ feel
+ crazy
+@@ -33,8 +35,8 @@
+ give
+ me
+ something
+-oh
+-but
++or
++will
+ you
+ say
+ nothing
+@@ -54,7 +56,7 @@
+ living
+ in
+ vain
+-fit
++flee
+ wherever
+ keep
+ calling
+@@ -74,29 +76,24 @@
+ wondering
+ if
+ dodged
+-bullet
+-or
++problem
+ lost
+ the
+ love
+ of
+ life
++oh
+ gave
+-fit
+-babe
+-wherever
++but
++nothing
+ ive
+ looking
+-sad
++tired
+ nicest
+ places
+-see
+-around
+-empty
+-faces
+ now
+ cab
+ tell
+-em
++him
+ where
+ place

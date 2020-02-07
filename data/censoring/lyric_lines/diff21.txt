@@ -1,0 +1,91 @@
+--- og23.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb21.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -7,19 +7,17 @@
+ armor
+ your
+ movie
+-would
++we
+ put
+-lips
+-on
+-mine
+-and
+-love
+-aftertaste
++hand
++mine and love
++afterthought now
+ now
+ im
+ a
+ ghost
+-call
++i
++call your
+ name
+ you
+ look
+@@ -28,9 +26,9 @@
+ me
+ youre
+ reason
+-alone
+-masturbate
+-i
++just
++cant
++concentrate
+ ive
+ been
+ trying
+@@ -40,12 +38,16 @@
+ pride
+ but
+ that
+-shits
++thing
++is
+ broken
+ broken
+ lie
++lie
++lie
++lie
+ l-lie
+-tried
++try
+ hide
+ know
+ it
+@@ -55,10 +57,12 @@
+ time
+ low
+ low
++low
+ prototype
+ like
+ 3
+ stacks
++on
+ cd
+ example
+ of
+@@ -69,16 +73,6 @@
+ dont
+ want
+ see
+-just
+-cant
+-concentrate
+ i
+ i
+-lie
+-lie
+-lie
+-try
+-l-lie
+-hide
+-time
+-hey!
++hey

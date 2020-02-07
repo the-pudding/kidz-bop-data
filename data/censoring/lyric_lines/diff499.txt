@@ -1,0 +1,99 @@
+--- og473.txt	2020-02-06 19:31:21.000000000 -0800
++++ kb499.txt	2020-02-06 19:31:27.000000000 -0800
+@@ -1,5 +1,5 @@
+ uh-oh
+-runnin
++running
+ out
+ of
+ breath
+@@ -9,19 +9,18 @@
+ i
+ got
+ stamina
+-running
+ now
+-close
+-my
+-eyes
++close my eyes
+ well
++oh
++i got
+ and
+ see
+-another
+-mountain
++another mountain
+ to
+ climb
+ need
++another
+ lover
+ be
+ mine
+@@ -40,59 +39,17 @@
+ greatest
+ here
+ tonight
++close
++my
++eyes
+ but
+-oh
+ yeah
+-through
+ waves
+-love
++below
+ ive
+ just
+ enough
+-oh-oh
+-ayy
+-am
+-truth
+-wisdom
+-fallen;
+-youth
+-this
+-is
+-proof
+-work
+-hard
+-pray
+-pay
+-dues
+-ayy
+-transform
+-with
+-pressure
+-hands-on
+-effort
+-fell
+-twice
+-before
+-bounce
+-back
+-was
+-special
+-letdownsll
+-get
+-you
+-criticsll
+-test
+-you
+-strongll
+-survive
+-scar
+-may
+-bless
+-ah
+-no
+-no
+-no
+-nah
+ dont
++no
+ up;
+ stamina

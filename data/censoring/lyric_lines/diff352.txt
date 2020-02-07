@@ -1,0 +1,136 @@
+--- og344.txt	2020-02-06 19:31:21.000000000 -0800
++++ kb352.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -6,11 +6,11 @@
+ happy
+ but
+ without
+-you
+ here
+ feel
+ low
+ watched
++you
+ as
+ left
+ can
+@@ -26,23 +26,24 @@
+ were
+ my
+ everything
+-its
++it’s
+ clear
+ see
+ that
+-hasnt
++hasn’t
+ changed
+ thing
+-buried
++very
+ deep
+ inside
+ me
+-theres
+-somethin
++there’s
++something
+ should
+ know
+-will
++i’ll
+ forget
++you’ll
+ always
+ by
+ side
+@@ -53,9 +54,10 @@
+ knew
+ would
+ love
+-til
++till
+ die
+ and
++will
+ want
+ much
+ more
+@@ -67,10 +69,9 @@
+ we
+ both
+ end
+-up
+-here
+ seems
+-right
++alright
++ooh
+ wonder
+ what
+ happen
+@@ -78,10 +79,10 @@
+ went
+ back
+ put
++up
+ fight
+ so
+-this
+-world
++just
+ do
+ think
+ could
+@@ -89,41 +90,30 @@
+ take
+ off
+ mind
+-take
+-mind
+-be
+-side
+-day
+-you
+-sure
+-never
+-feelin
++doing
++it
++loving
+ it
+-lovin
+ all
+ along
+ had
+ special
+ with
+ sometimes
+-just
+ gotta
+ these
+ things
+ fall
+ through
+-im
++i’m
+ still
+-tied
+-cant
++tired
++can’t
+ hide
+ connection
+-something
+-you
+-my
+-in
++feeling
+ die
+-yeah
+-oh
+-yeah
++i
++never
+ never
++ill

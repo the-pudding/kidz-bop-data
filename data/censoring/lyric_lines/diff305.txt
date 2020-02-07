@@ -1,0 +1,347 @@
+--- og291.txt	2020-02-06 19:31:21.000000000 -0800
++++ kb305.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -2,55 +2,14 @@
+ hee
+ ho
+ hu
+-ha-ha
+-ay
+-this
+-a
+-special
+-whats
+-happenin
+-to
+-all
+-my
+-soldiers
+-over
+-there
+-in
+-iraq
+-erybody
+-right
+-here
+-what
+-you
+-need
+-do
+-is
+-be
+-thankful
+-for
+-the
+-life
+-got
+-yknowmsayin
+-stop
+-lookin
+-at
+-aint
+-got
+-start
+-bein
+-lets
+-give
+-it
+-em
+-baby
+-girl
+-hey
++ha
+ youre
+ gonna
+ be
++a
+ shinin
+ star
++with
+ fancy
+ clothes
+ and
+@@ -65,252 +24,82 @@
+ knows
+ just
+ who
+-ya
+-are-are
++you
++are
+ so
+ live
+ your
+-ayy!
+-ayyy
+-ayyy
++life
++hey
+ steady
+ chasin
+ that
+ paper
+-ohh!
++oh
++aint
++got
+ no
+ time
++for
+ haters
+ tellin
+ where
+ itll
+ take
++ya
+ im
+ chaser
+ livin
+-ayy
+-ohh
++my
+ hey
+-never
+-mind
+-say
+-ignore
+-til
+-they
+-fade
+-away
+-amazing
+-ungrateful
+-after
+-game
+-i
+-gave
+-safe
+-say
+-paved
+-way
+-cats
+-get
+-paid
+-today
+-youd
+-still
+-wastin
+-days
+-now
+-had
+-saved
+-day
+-consider
+-them
+-protege
+-homage
+-think
+-should
+-pay
+-instead
+-of
+-gracious
+-violate
+-major
+-been
+-hater
+-still
+-love
+-crazy
+-some
+-sold
+-yay
+-know
+-couldnt
+-work
+-on
+-labor
+-black
+-white
+-has
+-an
+-area
+-shade
+-gray
+-westside
+-anyway
+-even
+-if
+-left
+-stayed
+-move
+-make
+-way
+-not
+-afraid
+-brought
+-back
+-hood
+-ever
+-did
+-was
+-pray
+-patience
+-but
+-me
+-wanna
+-melt
+-face
+-like
+-once
+-made
+-spray
+-could
+-put
+-ks
+-thuggin
+ life
+-cant
+-dont
+-deserve
+-break
+-rather
+-see
+-catch
+-case
+-watch
+-future
+-car-ars
+-opposite
+-moderate
+-immaculately
+-polished
+-with
+-spirit
+-hustler
+-swagger
+-college
+-kid
+-allergic
+-counterfeit
+-impartial
+-politics
+-articulate
+-ill
+-grab
+-nigga
+-by
+-collar
+-quick
+-whoever
+-havin
+-problems
+-their
+-record
+-sales
+-holler
+-tip
+-else
+-fails
+-turn
+-around
+-follow
+-game
+-ay
+-without
+-fame
+-rappers
+-nowadays
+-are
+-comedy
+-hootin
+-hollerin
+-forth
+-arguin
+-from
+-know
+-kind
+-car
+-seems
+-as
+-though
+-lost
+-sight
+-important
+-when
+-depositin
+-checks
+-into
+-bank
+-account
+-up
+-out
+-poverty
+-values
+-disarray
+-prioritizin
+-horribly
+-unhappy
+-riches
+-piss
+-poor
+-morally
+-ignorin
+-prior
+-advice
+-forewarnin
+-we
+-mighty
+-full
+-ourselves
+-sudden
+-arent
+-we
+ everybody
+ watchin
++what
++i
+ do
+ come
+ walk
++in
+ shoes
++the
++way
++if
+ really
+ want
++to
++mind
++on
+ money
++not
+ goin
+-awayyyyyyy
++away
+ keep
+ gettin
+-paper
+ climbin
+ look
+ mirror
+-shinin
+-until
++til
++game
+ ends
+ clock
++stop
++we
+ gon
+ post
++up
+ top
+ spot
+-windmill
++brand
++new
+ city
+ whole
+ team
++me
++it
+ how
++wanna
+ will
++never
+ lose
++ill

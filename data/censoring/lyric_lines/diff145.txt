@@ -1,0 +1,177 @@
+--- og127.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb145.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -1,41 +1,24 @@
+-hey
+-jay
+-sean
+-sean
+-paul
++mmm
+ yeah
+-lil
+-jon
+-this
+-one
+-right
+-here
+-is
+-for
+-all
+-the
+-ladies
+-ladies
+-who
+-want
+-to
+-take
+-it
+-back
+-holler
+-at
+-them
++alright
++alright
++oh
++no
+ ive
+ been
+-thinking
++thinkin
+ about
+ you
+ and
+ how
+ we
+ used
++to
+ be
++then
++back
+ when
++it
+ didnt
+ have
+ end
+@@ -53,106 +36,49 @@
+ just
+ me
+ tonight
+-everything
++everythin
+ will
+ okay
+ if
+ its
+-alright
+ with
+-then
+ baby
+ lets
++take
++this
+ time
+ make
+ new
+ memories
+ do
+ remember
+-of
++do
++remember
++remember
++all
++the
++fun
+ times
+ had
+ bring
+-back
+-ohhhh
+-yo
+-jay
+-sing
+-these
++bring
++it
+ so
+ long
+ since
+ youve
+-been
+ missing
+ good
+ see
++are
+ you
+-ya
+ doin
+-me
+ let
+ happen
+-ay
+-girl
+-when
+-begun
+-i
+-was
+-still
+-your
+-number
+-well
+-might
+-seem
+-far-fetched
+-but
+-cant
+-done
+-got
+-feeling
+-fire
+-blazing
+-hot
+-like
+-sun
+-know
+-feel
+-too
+-my
+-freeze
+-up
+-may
+-vibes
+-run
+-
+-a
+-sip
+-champange
+-trip
+-down
+-lane
+-while
+-now
+-every
+-night
+-youll
+-look
+-tell
+-dis
+-atta
+-world
+-change
+-imma
+-na
+-rearange
+-straight
+-many
+-years
+-come
+-kiss
+-miss
++again
+ thats
+ what
++i
+ heard
+-word
++lets
++back

@@ -1,0 +1,33 @@
+--- og449.txt	2020-02-06 19:31:21.000000000 -0800
++++ kb473.txt	2020-02-06 19:31:27.000000000 -0800
+@@ -29,8 +29,8 @@
+ top
+ cars
+ stumblin
+-out
+-bars
++really
++far
+ i
+ follow
+ through
+@@ -78,16 +78,15 @@
+ break
+ rules
+ true
++yeah
+ dont
+ complicate
+ it
+-yeah
+ cause
+ everything
+ remember
+-nights
++woo
++days
+ oh
+ yeah
+ yeah
+-uh
+-im

@@ -1,0 +1,32 @@
+--- og660.txt	2020-02-06 19:31:21.000000000 -0800
++++ kb413.txt	2020-02-06 19:31:27.000000000 -0800
+@@ -33,14 +33,14 @@
+ rudolph
+ cause
+ im
+-reeling
++reelin
+ like
+ a
+ merry-go-round
+ said
+ boy
+-"child
+-what
++child
++"what
+ have
+ been
+ longing
+@@ -62,7 +62,10 @@
+ whizzing
+ shooting
+ star
+-has
++town
++come
++on
++reeling
+ girl
+ would
+ please

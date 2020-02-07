@@ -1,0 +1,68 @@
+--- og469.txt	2020-02-06 19:31:21.000000000 -0800
++++ kb494.txt	2020-02-06 19:31:27.000000000 -0800
+@@ -10,23 +10,25 @@
+ alone
+ tonight
+ yeah
+-baby
+-but
++baby!
++tonight
++baby!
+ i
+ got
+ a
+ that
+-you-hoo
++youre
++who
+ take
+ home
+ tonight
++tonight
+ need
+ man
+ thinks
+-it
++its
+ right
+ when
+-its
+ so
+ wrong
+ on
+@@ -37,7 +39,7 @@
+ know
+ both
+ belong
+-hot
++hard
+ to
+ feel
+ rush
+@@ -56,7 +58,7 @@
+ love
+ of
+ glory
+-hangin
++hanging
+ moment
+ truth
+ out
+@@ -80,6 +82,7 @@
+ ill
+ dancing
+ flames
++it
+ isnt
+ hell
+ if
+@@ -88,3 +91,8 @@
+ my
+ name
+ you
++you
++you
++4x
++with
++you

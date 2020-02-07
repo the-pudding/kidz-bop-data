@@ -1,0 +1,40 @@
+--- og207.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb214.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -48,7 +48,6 @@
+ mind
+ about
+ dream
+-you
+ with
+ in
+ dreams
+@@ -59,7 +58,7 @@
+ yeah
+ just
+ keep
+-rolling
++rollin
+ as
+ people
+ leave
+@@ -80,11 +79,11 @@
+ we
+ go
+ oh
+-yeah
+ girl
+ everything
+ know
+ anywhere
++go
+ hard
+ wont
+ take
+@@ -94,6 +93,5 @@
+ falls
+ said
+ done
++love
+ whoa
+-oh
+-me

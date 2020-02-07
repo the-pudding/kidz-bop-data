@@ -1,0 +1,148 @@
+--- og686.txt	2020-02-06 19:31:21.000000000 -0800
++++ kb488.txt	2020-02-06 19:31:27.000000000 -0800
+@@ -3,28 +3,30 @@
+ end
+ up
+ with
+-sean
++him
+ but
+ he
+-wasnt
++wasn’t
+ a
+ match
+ wrote
+ some
+ songs
+ about
+-ricky
++you
++then
+ now
+ i
+ listen
+ and
+ laugh
+ even
+-almost
+-got
+-married
++they
++cant
++compare
++though
+ for
+-pete
++that
+ im
+ so
+ thankful
+@@ -34,12 +36,12 @@
+ "thank
+ you"
+ to
+-malcolm
+-cause
++that
++one
++’cause
+ was
+ an
+ angel
+-one
+ taught
+ me
+ love
+@@ -57,25 +59,24 @@
+ see
+ so
+ look
+-you
+-that
++got
+ thank
+ you
+ next
+ next
+-fuckin
+ grateful
+ my
+ ex
+-fuckin—
++i’m
++so—
+ spend
+ more
+ time
+ friends
+-aint
++ain’t
+ worried
+ bout
+-nothin
++nothin’
+ plus
+ met
+ someone
+@@ -85,7 +86,6 @@
+ better
+ discussions
+ know
+-they
+ move
+ on
+ too
+@@ -93,12 +93,11 @@
+ this
+ gon
+ last
++cause
+ her
+ name
+ is
+-ari
+ good
+-that
+ so
+ that
+ she
+@@ -107,12 +106,12 @@
+ how
+ handles
+ pain
+-shits
+ yeah
+ shes
+ amazing
+ yeah
+ found
++aint
+ no
+ need
+ searching
+@@ -120,6 +119,7 @@
+ next
+ you
+ said
++yeah
+ day
+ ill
+ walk
+@@ -143,7 +143,7 @@
+ real
+ bad
+ make
+-shit
++thing
+ god
+ forbid
+ something
+@@ -158,6 +158,6 @@
+ turned
+ out
+ turned
+-searching
++next
+ yeah
+ yee

@@ -1,0 +1,74 @@
+--- og182.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb188.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -1,5 +1,6 @@
+ spent
+-24
++so
++many
+ hours
+ i
+ need
+@@ -26,9 +27,8 @@
+ all
+ good
+ babe
+-roll
+-that
+-backwood
++rollin
++backwards
+ and
+ play
+ me
+@@ -48,9 +48,9 @@
+ girl
+ you
+ yeah
++yeah
+ love
+ fun
+-yeah
+ too
+ what
+ want
+@@ -59,6 +59,7 @@
+ on
+ flight
+ to
++yeah
+ took
+ whole
+ day
+@@ -69,6 +70,8 @@
+ up
+ daylight
+ make
++oh
++oh
+ maybe
+ 6:45
+ im
+@@ -77,16 +80,20 @@
+ youve
+ taken
+ my
+-shit
++stuff
+ for
+ time
+-yeah
+ know
+-drunk
++that
++done
+ youre
+ one
+ thinking
+ better
+ if
++they
+ drive
+ oh
++girls
++you
++oh

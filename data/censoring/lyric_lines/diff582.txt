@@ -1,0 +1,77 @@
+--- og546.txt	2020-02-06 19:31:22.000000000 -0800
++++ kb582.txt	2020-02-06 19:31:27.000000000 -0800
+@@ -1,4 +1,3 @@
+-i
+ wouldnt
+ wanna
+ be
+@@ -10,6 +9,7 @@
+ me
+ insecure
+ told
++i
+ wasnt
+ good
+ enough
+@@ -37,7 +37,8 @@
+ yourself
+ it
+ comes
+-na
++want
++else
+ na
+ no
+ beauty
+@@ -48,23 +49,20 @@
+ every
+ right
+ life
+-cmon
+-says
++come
++on
+ says
+ not
+ perfect
+ worth
+-it
+ only
+ one
+ thats
+ hurting
+ trust
+-me
+ price
+ of
+ pretty
+-beautiful
+ its
+ such
+ funny
+@@ -99,23 +97,12 @@
+ cant
+ movies
+ listen
++me
+ dont
+ pass
+ test
+ best
+ said
+ said
+-would
+-said
+-that
+ yeah
+-yeah
+-yeah
+-yeah
+-hey
+-beauty
+-who
+-said
+-im
+-me
+-beautiful
++oh

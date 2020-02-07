@@ -1,0 +1,42 @@
+--- og677.txt	2020-02-06 19:31:21.000000000 -0800
++++ kb455.txt	2020-02-06 19:31:27.000000000 -0800
+@@ -12,20 +12,16 @@
+ else
+ that
+ dont
+-include
+-your
+-crazy
++include your crazy
+ friends
+ well
+-im
+-done
++im done
+ im
+ done
+ with
+ awkward
+ situations
+-empty
+-conversations
++empty conversations
+ ooh
+ this
+ is
+@@ -51,6 +47,7 @@
+ other
+ half
+ like
++im
+ walking
+ on
+ broken
+@@ -69,6 +66,7 @@
+ ends
+ conversation
+ im
++done
+ texting
+ sorry
+ miscommunication

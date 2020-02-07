@@ -1,0 +1,110 @@
+--- og570.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb10.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -1,11 +1,10 @@
+ so
+ she
+ said
+-"whats
++whats
+ the
+ problem
+-baby"
+-whats
++baby
+ problem
+ i
+ dont
+@@ -15,16 +14,14 @@
+ im
+ in
+ love
+-love
+ think
+ about
+ it
+ every
+ time
+-it
+ cant
+ stop
+-thinking
++thinkin
+ bout
+ how
+ much
+@@ -47,35 +44,30 @@
+ and
+ face
+ but
+-nothing
+-love
+-no
++nothin
+ come
+ on
+-on
+ a
+ little
+ faster
+ world
+ follow
+ after
+-because
+ everybodys
+-so
+ snowball
+-running
++runnin
+ down
+ into
+ spring
+ thats
+-coming
++comin
+ all
+ this
+-melting
++meltin
+ under
+ blue
+ skies
+-belting
++beltin
+ out
+ sunlight
+ shimmering
+@@ -88,19 +80,19 @@
+ ever
+ end
+ of
++love
+ didnt
+ mean
+ do
+ theres
+-escaping
++no
++escapin
+ your
+-oh
+ these
+ lines
+ lightning
+ were
+ alone
+-alone
+ no
+ move
+ closer
+@@ -118,9 +110,11 @@
+ were
+ once
+ upon
++time
+ accidentally
+ spin
+ tighter
++on
+ worlds
+ brighter
+ get

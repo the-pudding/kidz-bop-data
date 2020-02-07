@@ -1,0 +1,94 @@
+--- og621.txt	2020-02-06 19:31:21.000000000 -0800
++++ kb257.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -13,48 +13,28 @@
+ cant
+ believe
+ let
+-me
+ down
+-but
++with
+ the
+-proofs
+-in
++prof
+ way
+ it
+ hurts
+-months
+-on
+-end
+-ive
+-had
+-my
+-doubts
+-denying
+-every
+-tear
+-wish
+-this
+-would
+-be
+-over
+-now
+-know
+-that
+-still
+-need
+-here
+ say
+ im
+ crazy
+-cause
++cuz
+ dont
+ think
++know
+ what
+ youve
+ done
++but
+ when
+ call
+ baby
++im
+ not
+ only
+ one
+@@ -67,27 +47,21 @@
+ your
+ heart
+ is
+-unobtainable
+-even
+-though
+-lord
+-knows
+-kept
+-mine
++unattainable
++that
++still
++need
++here
+ have
+ loved
+ many
+ years
+ maybe
+-am
+ just
+ enough
+-realise
++realize
++my
+ deepest
+ fear
+-by
+-lying
+-tearing
+-us
+-up
+-know
++having
++around

@@ -1,0 +1,87 @@
+--- og474.txt	2020-02-06 19:31:22.000000000 -0800
++++ kb501.txt	2020-02-06 19:31:27.000000000 -0800
+@@ -3,9 +3,9 @@
+ its
+ party
+ time
+-feelin
++feeling
+ ready
+-lookin
++looking
+ fine
+ viene
+ diego
+@@ -16,30 +16,30 @@
+ in
+ his
+ eyes
+-checkin
++checking
+ every
+ girl
+ sight
+-groovin
++grooving
+ like
+ he
+ does
+ mambo
+-and
+ hes
+ man
+-alli
++alla
+ en
+ la
+ disco
+-playin
++playing
+ sexy
+ hotter
+ king
+-bailando
+-el
++bailar
++al
+ ritmo
+ ragatanga
++and
+ dj
+ that
+ knows
+@@ -51,7 +51,7 @@
+ twelve
+ plays
+ mix
+-mezcla
++mixes
+ con
+ salsa
+ y
+@@ -72,7 +72,6 @@
+ buididipí
+ many
+ think
+-its
+ brujeria
+ how
+ comes
+@@ -90,11 +89,9 @@
+ real
+ rastafari
+ afrogitano
+-a
+-nanana
+-nananana
+-na!
+-nananay
+-ay
+-yo!
+-oh!
++there
++ana
++nana
++na
++nau
++naeo

@@ -1,0 +1,172 @@
+--- og646.txt	2020-02-06 19:31:21.000000000 -0800
++++ kb363.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -21,19 +21,20 @@
+ baby
+ might
+ say
+-hi
++"hi"
+ and
+-hey
++"hey"
+ you
+ shouldnt
+ worry
+ about
+ what
++say
+ cause
+-yeah
+-na—na—na—nothin
+-baby
+-na—nothin
++nuh-nuh-nuh-nothin
++babe
++nuh-nothin
++you
+ know
+ feel
+ where
+@@ -53,7 +54,7 @@
+ really
+ was
+ for
+-hell
++love
+ fun
+ carousel
+ so
+@@ -65,9 +66,9 @@
+ just
+ tryna
+ get
+-some
++one
+ chase
+-skirts
++dreams
+ livin
+ summer
+ sun
+@@ -87,9 +88,9 @@
+ its
+ conscience
+ thinkin
+-maybe
++"maybe
+ should
+-out
++out"
+ dont
+ wanna
+ sound
+@@ -98,42 +99,34 @@
+ if
+ there
+ somethin
+-that
+-know
+ never
+ mind
+ that
+ we
+ let
+ go
+-we
+-go
+ a
+ tv
+ episode
+-tv
+-episode
+ bad
+ thoughts
+ em
+ go
+-go
+-hi
+-hey
+-why
++baby
++yeah
+ hands
+ down
+ will
+ another
+-one
+ been
+ seen
+ because
+ your
+ style
+ aint
+-wild
++out
+ when
++anyone
+ whole
+ package
+ plus
+@@ -158,12 +151,10 @@
+ think
+ to
+ london
+-yeah
+ paris
+ even
+ way
+ tokyo
+-tokyo
+ back
+ home
+ down
+@@ -173,48 +164,18 @@
+ always
+ steal
+ show
+-steal
+-show
+ like
+ girl
+ froze
+-got
+-froze
+ nintendo
+ 64
+-64
+ knew
+ well
+ know
+-know
+-ha-ha
+-everywhere
+-hearin
+-name
+-matter
+-at
+-girl
+-make
+-sing
+-whether
+-bus
+-or
+-plane
+-car
+-train
+-other
+-girls
+-brain
+-blame
+-hello
+ yeah
+ thats
+ how
+ do
+-heheheh
+-ima
++well
+ this
+ ride
+-bob
+-bruno
+-mars

@@ -1,0 +1,124 @@
+--- og562.txt	2020-02-06 19:31:22.000000000 -0800
++++ kb597.txt	2020-02-06 19:31:27.000000000 -0800
+@@ -7,7 +7,7 @@
+ girlfriend
+ shes
+ upset
+-going
++goin
+ off
+ about
+ something
+@@ -30,12 +30,11 @@
+ typical
+ tuesday
+ night
+-listening
++listenin
+ to
+ kind
+ of
+ music
+-and
+ shell
+ never
+ know
+@@ -48,15 +47,17 @@
+ t-shirts
+ cheer
+ captain
++and
+ bleachers
+-dreaming
++dreamin
++bout
+ day
+ when
+ wake
+ up
+ find
+ what
+-looking
++lookin
+ for
+ has
+ been
+@@ -74,23 +75,23 @@
+ so
+ why
+ cant
+-see
+ belong
+ me
+ me
+-walking
++walkin
+ streets
+-worn-out
++worn
++out
+ jeans
+ help
+-thinking
++thinkin
+ this
+ is
+ how
+ it
+ ought
+ be
+-laughing
++laughin
+ park
+ bench
+ myself
+@@ -112,31 +113,28 @@
+ fine
+ better
+ than
+-whatcha
+-doing
++doin
+ girl
+ that
+ high
+ heels
+ sneakers
+-standing
++standin
+ by
+-waiting
++waitin
+ at
+-back
+-door
++backdoor
++time
+ not
+-know
+ baby
+ oh
+ remember
+-driving
++drivin
+ my
+ house
+ middle
+ makes
+ laugh
+-bout
+ cry
+ favorite
+ songs
+@@ -144,9 +142,10 @@
+ dreams
+ think
+ where
++you
++know
+ have
+ ever
+ thought
+ just
+ maybe
+-me

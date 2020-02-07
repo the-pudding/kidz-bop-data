@@ -1,0 +1,159 @@
+--- og514.txt	2020-02-06 19:31:22.000000000 -0800
++++ kb541.txt	2020-02-06 19:31:27.000000000 -0800
+@@ -1,7 +1,6 @@
+-doh
+-doh
+-aww
+-ow
++lots
++of
++dos
+ this
+ hit
+ that
+@@ -14,14 +13,12 @@
+ one
+ for
+ them
+-hood
+-girls
+ good
+ girls
+ straight
+ masterpieces
+ stylin
+-wilin
++whilen
+ livin
+ it
+ up
+@@ -40,22 +37,20 @@
+ im
+ so
+ pretty
+-mwah!
+ too
+ hot
+ hot
+-damn
+-call
++yeah
++called
++a
+ police
+ and
+ fireman
+ make
+-a
+ dragon
+ wanna
+ retire
+ man
+-
+ say
+ my
+ name
+@@ -64,7 +59,7 @@
+ who
+ i
+ am
+-band
++bad
+ bout
+ money
+ break
+@@ -72,13 +67,16 @@
+ hit
+ your
+ hallelujah
+-woo!
++whoo
+ cause
+-uptown
++uptowntown
+ funk
+-gon
++gonna
+ give
+ to
++uptowtown
++gonna
++gon
+ saturday
+ night
+ we
+@@ -90,26 +88,24 @@
+ watch
+ come
+ on
+-ah!
+-doh
+-doh!
++uh
+ hey
+-oh!
++oh
+ stop
+ wait
+-minute!
++minute
+ fill
+ cup
+ put
+ some
+-liquor
++water
+ take
+ sip
+ sign
+ check
+-julio!
++julio
+ get
+-stretch!
++stretch
+ ride
+ harlem
+ hollywood
+@@ -122,35 +118,18 @@
+ smoother
+ than
+ fresh
+-jar
+-of
++dry
+ skippy
+-retire
+-bitch
+-before
+-leave
+-doh
+-lemme
+-tell
+-yall
+-lil
+-something
+-said
++money
++uptown
++
+ come
+ on
+ dance
+ jump
+-sexy
++can
++dance
+ then
+ flaunt
+-freaky
+-own
+-don’t
+-brag
+-about
+-it
+-me
+ well
+ its
+-say
+-whaa!

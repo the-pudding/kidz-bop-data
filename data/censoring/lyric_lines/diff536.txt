@@ -1,0 +1,161 @@
+--- og508.txt	2020-02-06 19:31:22.000000000 -0800
++++ kb536.txt	2020-02-06 19:31:27.000000000 -0800
+@@ -1,3 +1,5 @@
++intro
++2x
+ yo
+ after
+ tonight
+@@ -5,7 +7,7 @@
+ leave
+ your
+ girl
+-around
++round
+ me
+ true
+ playa
+@@ -14,29 +16,15 @@
+ ask
+ my
+ nigga
+-pharrell
+-uh
+-come
+-on
+-thats
+-how
+-its
+-going
+-down
+-you
+-smell
+-it
+-hah
+-yeah
+ situations
+ will
+ arise
+ in
+ our
+-lives
++ives
+ but
+-got
+-to
++u
++gotta
+ be
+ smart
+ about
+@@ -56,7 +44,6 @@
+ meanwhile
+ i
+ loved
+-you
+ were
+ see
+ thought
+@@ -65,40 +52,43 @@
+ youre
+ still
+ steady
+-leaving
++leavin
+ baby
++chorus
+ have
++to
+ call
++its
+ okay
+-ima
++cause
++im
++gonna
+ alright
+-tonight
++verse
++2
+ aw
+-girl
+ face
+ is
+ saying
+-"why"
++why
+ tears
+ eyes
+ shouldve
+ been
+ more
+ cherished
+-listening
++listenin
+ friends
+ now
+ end
+ and
+ again
+ no
+-story
+-can
++storycan
+ damn
+ right
+-gonna
++you
+ boogie
+-im
+ honestly
+ too
+ young
+@@ -109,44 +99,13 @@
+ waiting
+ love
+ so
+-tonight
+ do
+ what
+ single
+ man
+ does
++thats
+ party
+-yeah
+-oh
+-you
+-gotta
+-call
+-its
+-girl
+-ima
+-hah
+-aint
+-im
+-okay
+-out
+-nigga
+-hah!
+-alright
+-hah!
+-oh-oh-oh-oh
+-oh
+-hah
+-oh
+-oh
+-yeah
+-sick
+-tired
+-being
+-me
+-some
+-fun
+-hey
+-hey
+-at
+-home
+-bye
++3x
++bridge
++chorus3x

@@ -1,0 +1,48 @@
+--- og97.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb106.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -20,7 +20,7 @@
+ the
+ party
+ cause
+-hate
++bug
+ everybody
+ ones
+ they
+@@ -41,8 +41,6 @@
+ i
+ somebody
+ without
+-your
+-body
+ close
+ if
+ it
+@@ -69,15 +67,14 @@
+ had
+ cut
+ my
+-bitch
++words
+ off
+-she
+ bein
+ stubborn
+ stubborn
+ make
+ known
+-fuck
++hang
+ with
+ not
+ undercover
+@@ -112,9 +109,5 @@
+ am
+ everythings
+ timeless
+-yee
+-yeah
+ yeah
+ because
+-to
+-me

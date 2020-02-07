@@ -1,0 +1,67 @@
+--- og321.txt	2020-02-06 19:31:21.000000000 -0800
++++ kb331.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -18,13 +18,12 @@
+ when
+ im
+ around
+-ya
++you
+ show
+ an
+ open
+ door
+ and
+-you
+ go
+ slam
+ it
+@@ -46,14 +45,14 @@
+ keep
+ tearing
+ apart
+-would
++wont
+ mercy
+ heart
+ id
+-drive
++walk
+ through
+ the
+-night
++day
+ just
+ be
+ near
+@@ -76,7 +75,7 @@
+ all
+ me
+ puppet
+-strings
++string
+ good
+ intentions
+ need
+@@ -86,19 +85,15 @@
+ air
+ inside
+ lungs
+-ripping
+-skin
+-from
+-off
++feeling
+ bones
+ prepared
+ sacrifice
+ life
++would
+ gladly
+ do
+ twice
+ oh
+-string
++strings
+ begging
+-please
+-ooh

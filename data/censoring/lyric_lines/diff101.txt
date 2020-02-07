@@ -1,0 +1,84 @@
+--- og92.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb101.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -9,23 +9,21 @@
+ queen
+ cause
+ she
+-stay
++stays
+ strong
+ yeah
+ yeah
+-always
+-in
++always in my
+ corner
+ right
+-there
++there when
+ want
+ her
+ all
+ these
+-other
+-girls
++other girls
+ are
+-tempting
++singing
+ but
+ im
+ empty
+@@ -42,30 +40,36 @@
+ make
+ feel
+ like
+-cheating
++leaving
+ no
+ not
+ really
+-cause
+ oh
+ that
++ive
+ found
+ myself
+ a
+ cheerleader
+-walks
++always
++there
++looks
+ model
+-grants
++full
++of
+ wishes
++shes
+ genie
++in
+ bottle
+ the
+-wizard
+-of
++cupid
+ love
+-got
+-magic
++perfect
+ wand
++other
++girls
++ooh
+ gives
+ me
+ affection
+@@ -75,7 +79,6 @@
+ only
+ girl
+ for
+-no
+ dont
+ next
+ mama

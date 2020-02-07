@@ -1,0 +1,92 @@
+--- og707.txt	2020-02-06 19:31:22.000000000 -0800
++++ kb559.txt	2020-02-06 19:31:27.000000000 -0800
+@@ -8,7 +8,7 @@
+ in
+ his
+ hand
+-walking
++walkin
+ through
+ the
+ streets
+@@ -17,7 +17,7 @@
+ rain
+ he
+ was
+-looking
++lookin
+ for
+ place
+ called
+@@ -31,14 +31,13 @@
+ beef
+ chow
+ mein
+-aa-hooo!
++aaahoo!
+ werewolves
+-london!
+-if
+-you
++london
++ya
+ hear
+ him
+-howling
++howlin
+ around
+ your
+ kitchen
+@@ -54,19 +53,20 @@
+ late
+ last
+ night
+-london
+ again
+ hes
+-hairy-handed
++hairy
++hairy
+ gent
+ who
+ ran
+-amuck
++amok
+ kent
+ lately
+ been
+ overheard
+ mayfair
++you
+ stay
+ away
+ from
+@@ -75,6 +75,7 @@
+ lungs
+ out
+ jim
++huh
+ id
+ like
+ to
+@@ -84,10 +85,9 @@
+ lon
+ chaney
+ queen
+-doing
+-chaney
++doin
+ jr
+-drinking
++drinkin
+ pina
+ colada
+ at
+@@ -95,4 +95,6 @@
+ vics
+ and
+ hair
+-perfect!
++perfect
++draw
++blood

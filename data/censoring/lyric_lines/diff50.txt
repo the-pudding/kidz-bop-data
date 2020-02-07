@@ -1,0 +1,134 @@
+--- og47.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb50.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -5,35 +5,31 @@
+ being
+ played
+ oh
+-beyoncé
+-beyoncé
+-shakira
+-shakira
+-hey!
++oh
+ he
+ said
+ im
+ worth
+ it
+ his
+-one
+-desire
++only
++try
+ i
+ know
+ things
+ about
+-em
++him
+ that
+ you
+ wouldnt
+-want
+-to
++wanna
+ read
+ kissed
+ me
++one
+ and
+ only
+-yes
++hes
+ beautiful
+ liar
+ tell
+@@ -44,7 +40,9 @@
+ just
+ found
+ out
++youll
+ never
++know
+ why
+ are
+ we
+@@ -52,12 +50,12 @@
+ who
+ suffer
+ have
++to
+ let
+ go
+ wont
+ be
+ cry
+-ay
+ lets
+ not
+ kill
+@@ -71,9 +69,6 @@
+ cant
+ laugh
+ it
+-ha
+-ha
+-ha!
+ our
+ time
+ can
+@@ -81,33 +76,31 @@
+ without
+ him
+ trusted
+-him
+ but
+ when
+ followed
+-you
+ saw
+ together
+ didnt
+ then
+-till
++until
+ with
+ again
+ walked
+ in
+ on
+ your
+-love
++big
+ scene
+ slow
+ dancing
+ stole
+ everything
++could
+ say
+ did
+ wrong
+-yeah
+-well
++dont
+ pain
+ heartbreaks
+ over
+@@ -115,15 +108,13 @@
+ is
+ gone
+ forgive
+-ooh
+ whos
+ ashamed
+ wish
+-could
+ free
+ of
+ hurt
+ answer
+ simple
+-hes
+ blame
++hey

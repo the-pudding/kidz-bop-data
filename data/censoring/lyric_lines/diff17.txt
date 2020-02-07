@@ -1,0 +1,116 @@
+--- og19.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb17.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -11,25 +11,23 @@
+ in
+ and
+ you
+-kickin
++hearin
+ out
+-youve
+ got
+ my
+ head
+-spinnin
+-no
+-kiddin
++spininno
++kidding
+ cant
+ pin
+ down
+ whats
+ goin
+-on
+ that
+-beautiful
++bueatiful
+ mind
+ im
++on
+ magical
+ mystery
+ ride
+@@ -43,47 +41,42 @@
+ be
+ alright
+ heads
+-under
+-water
++underwater
+ breathing
+ fine
+-youre
+ crazy
+ of
+-mind
+-cause
++cuz
+ all
+ loves
+ love
+-curves
++words
+ edges
+ perfect
+ imperfections
+ give
+ to
++meill
+ end
+-beginnin
++begining
+ even
+ when
+-lose
+-winnin
+-you
+-oh-oh
++loose
++wining
++ill
++youohh
+ how
+-many
++may
+ times
+ have
+ tell
+-you
+ crying
+-too
++beautiful
+ the
+ world
+ is
+ beating
+-down
+-around
+-through
++for
+ every
+ mood
+ downfall
+@@ -93,12 +86,11 @@
+ rhythm
+ blues
+ stop
+-singing
++signing
+ its
+ ringing
+-for
+-breathin
+-oh
++im
++beginning
+ cards
+ table
+ were
+@@ -107,6 +99,5 @@
+ hearts
+ risking
+ it
+-all
+ though
+ hard

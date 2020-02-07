@@ -1,0 +1,85 @@
+--- og16.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb14.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -1,19 +1,18 @@
+-every
+-day
++everyday
+ is
+ a
+ new
++day
+ im
+ thankful
+ for
++every
+ breath
+ i
+ take
+ wont
+ it
+ granted
+-i
+-granted
+ so
+ learn
+ from
+@@ -34,8 +33,6 @@
+ lifetime
+ trust
+ love
+-so
+-love
+ you
+ have
+ given
+@@ -50,26 +47,21 @@
+ very
+ first
+ time
+-and
+ cant
+ deny
+-alive
++an
+ think
+ can
+ fly
+ sunshine
+ upon
+ face
+-sunshine
+-face
+ song
+ sing
+ tell
+ world
+ how
+ inside
+-tell
+-inside
+ even
+ though
+ might
+@@ -78,19 +70,15 @@
+ now
+ that
+ know
+-all
+-cause
+-could
++beyond
++hold
+ never
+ turn
+ back
+ away
+ see
+-now
+-you
+ look
+-for
+-time
++could
+ believe
+ no
+ matter

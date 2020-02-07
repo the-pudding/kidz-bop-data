@@ -1,0 +1,48 @@
+--- og280.txt	2020-02-06 19:31:21.000000000 -0800
++++ kb289.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -14,17 +14,15 @@
+ remember
+ all
+ did
+-was
+-care
+-for
++was care for
+ each
+ other
+-but
++but the
+ night
++was
+ warm
+ were
+-bold
+-and
++bold and
+ young
+ around
+ wind
+@@ -37,8 +35,8 @@
+ blow
+ a
+ kiss
+-fire
+-gun
++youre
++one
+ need
+ someone
+ lean
+@@ -66,11 +64,6 @@
+ nights
+ are
+ longing
++for
+ come
+ home
+-we
+-on
+-on
+-on
+-hey
+-hey

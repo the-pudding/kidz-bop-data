@@ -1,0 +1,112 @@
+--- og509.txt	2020-02-06 19:31:22.000000000 -0800
++++ kb542.txt	2020-02-06 19:31:27.000000000 -0800
+@@ -1,7 +1,7 @@
+ yo
+ i
+ aint
+-seen
++seeing
+ you
+ in
+ a
+@@ -11,11 +11,13 @@
+ something
+ to
+ tell
++ya
+ listen
+ see
+ the
+ thing
+ about
++you
+ that
+ caught
+ my
+@@ -26,8 +28,7 @@
+ me
+ change
+ mind
+-kind
+-of
++kinda
+ hard
+ explain
+ girl
+@@ -40,9 +41,9 @@
+ may
+ take
+ while
+-see
++girl
+ she
+-sort
++sorta
+ looks
+ just
+ like
+@@ -54,13 +55,14 @@
+ innocent
+ seemed
+ was
+-fooled
++schooled
+ im
+ reminded
+ when
+ look
+ at
+ remind
++of
+ once
+ knew
+ her
+@@ -76,6 +78,7 @@
+ why
+ cant
+ get
++it
+ with
+ thought
+ one
+@@ -84,8 +87,8 @@
+ found
+ out
+ on
+-creep
+-ooh
++dream
++oh
+ sexing
+ everyone
+ we
+@@ -95,25 +98,13 @@
+ know
+ its
+ unfair
+-its
+-unfair
+-relate
+-ignorance
++id
++lingering
++rest
+ wish
+ how
+ separate
+ two
+-you
+ me
+-whoa
+ oh
+-girl
+-you
+-gotta
+-let
+-go
+-all
+-shit
+-through
+-no
+-wouldnt
++

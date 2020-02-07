@@ -1,0 +1,182 @@
+--- og652.txt	2020-02-06 19:31:21.000000000 -0800
++++ kb384.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -1,116 +1,61 @@
+-y-y-yeaaaaaaah!
+-t-t-t-totally
+-duuuude!
++yeah
++yeah
++totally
++dude
+ party
+ like
+ a
+ rock
+--
+-star
+ rockstar
+-im
+-on
+-money
+-makin
+-mission
+-but
+-i
+-flyin
+-down
+-20
+-lookin
+-good
+-in
+-my
+-hot
+-car
+-you
+-know
+-dem
+-hoes
+-be
+-at
+-show
+-grabbin
+-where
+-chain
+-go
+-tryna
+-grab
+-and
+-hold
+-pants
+-these
+-wont
+-let
+-thang
+-do
++rockstar
+ do
+-cause
+-da
+-tryin
+-dat
+-ho
+-dont
+-fuck
+-wit
+-fine
+-dimes
+-that
+-look
+-pamela
+-they
+-brah
+-when
+-the
+-spot
+-brah
+-yeah
+-rockstaaaaar!!
+-iiiii
+-iiii
+ it
++with
++the
+ black
++and
+ white
+ cop
+-yeaaaaaaah!
+-whoop
+-whoop!
++car
+ me
++my
+ band
+ man
++on
+ yacht
+-marilyn
+-manson
++we
++relaxin
+ gettin
+ tan
+-maaaan!
+-cool!
+-me
+-skull
++man
++you
++know
++cool
+ belt
+ wallet
++chain
+ shop
+ boyz
+-stars
+-yeah
+-we
++rockstars
+ bout
+ to
+ change
+ game
+-change
+ game
+ uh
+-ohhhhhhhhhhh!
++oh
++they
++that
+ im
+ star
++star
++i
+ make
+ rain
+ from
+ center
+ of
+-gui-tar
++guitar
+ as
+ soon
+ came
+@@ -124,33 +69,19 @@
+ golf
+ course
+ trippin
+-osbournes
++osbourne
+ seen
+ show
+ travis
+ barker
++rock
+ mentality
+ jumpin
++in
+ crowd
+ just
+ see
+ if
+ would
+ carry
+-bitches
+-wanna
+-marry
+-might
+-panic
+-ice
+-em
+-quick
+-titanic!
+-yeah
+-what
+-surfin
+-screamin
+-"cowabonga
+-totally
+-duuude!!"
+-duuuude!
++party

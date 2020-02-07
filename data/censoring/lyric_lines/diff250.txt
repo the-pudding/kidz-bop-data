@@ -1,0 +1,50 @@
+--- og234.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb250.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -59,17 +59,15 @@
+ im
+ lying
+ cold
+-hard
+ ground
+ oh
+-oh-oh
+ trouble
+ no
+ apologies
+ hell
+ see
+ cry
+-pretend
++pretends
+ he
+ doesnt
+ know
+@@ -91,12 +89,9 @@
+ ever
+ be
+ see
+-gone
+ met
+ joke
+-hey!
+-oh
+-yeah
++yeah!
+ saddest
+ fear
+ comes
+@@ -106,11 +101,8 @@
+ her
+ anyone
+ anything
+-yeah!
+-never
+-been
+-knew
+-it
++yeah
++you
+ right
+ there
+-ooh
++there

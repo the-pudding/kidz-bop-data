@@ -1,0 +1,69 @@
+--- og425.txt	2020-02-06 19:31:21.000000000 -0800
++++ kb458.txt	2020-02-06 19:31:27.000000000 -0800
+@@ -1,6 +1,5 @@
+ so
+ yesterday
+-yesterday
+ you
+ can
+ change
+@@ -52,6 +51,7 @@
+ tomorrow
+ will
+ seem
++yesterday
+ just
+ a
+ bird
+@@ -68,22 +68,20 @@
+ that
+ be
+ okay
+-ha
+-okay
+ say
+ bored
+-could
+ act
+ real
+ tough
++could
+ torn
+ ive
+ enough
+ thank
+ you
++youve
+ made
+ my
+-up
+ for
+ started
+ to
+@@ -95,7 +93,6 @@
+ isnt
+ happen
+ here
+-over
+ me
+ all
+ been
+@@ -103,7 +100,6 @@
+ what
+ is
+ left
+-do
+ how
+ hang
+ line
+@@ -112,9 +108,8 @@
+ walk
+ step
+ ahead
+-moving
++movin
+ on
+ gone
+ light
+ then
+-heard

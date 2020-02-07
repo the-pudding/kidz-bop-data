@@ -1,0 +1,130 @@
+--- og333.txt	2020-02-06 19:31:21.000000000 -0800
++++ kb343.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -7,7 +7,7 @@
+ have
+ your
+ heart
+-you
++youll
+ never
+ see
+ it
+@@ -25,66 +25,52 @@
+ clear
+ everyone
+ to
+-oh
+-baby
+ ooh
+-yeah
++baby
+ you
+-gotta
+-rock
+-away
+-this
+-one
+ be
+ my
+ boo
+-see
+ i
+ dont
+-bout
++about
+ yall
+ but
+-about
+ us
+ and
+ uh
+-oh!
+ only
+ way
+ we
+ how
++rock
+ do
+ remember
+ girl
+ was
+-who
+ gave
+ first
+ kiss
+-girl
++who
+ said
+-"put
++put
+ lips
+ like
+-this"
++this
+ even
+ before
+ all
+ fame
+-and
+ people
+-screaming
++screamin
+ name
+-girl
+ there
+-when
+ were
+ baby
+ started
++when
+ younger
+ mine
+-my
+-boo
+ now
+ another
+ brothers
+@@ -94,9 +80,9 @@
+ in
+ eyes
+ though
+-used
++use
+ argue
+-alright
++right
+ havent
+ seen
+ each
+@@ -106,14 +92,13 @@
+ love
+ with
+ time
+-time
+ feel
++like
+ can
+ no
+ matter
+ try
+ hide
+-booand
+ man
+ whos
+ life
+@@ -121,13 +106,11 @@
+ boy
+ after
+ kissed
+-could
+ think
+ moment
+ knew
++could
+ spend
+-my
+ oh
+ my
+-younger
+-boo
++oh

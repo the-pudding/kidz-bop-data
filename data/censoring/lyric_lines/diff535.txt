@@ -1,0 +1,82 @@
+--- og507.txt	2020-02-06 19:31:22.000000000 -0800
++++ kb535.txt	2020-02-06 19:31:27.000000000 -0800
+@@ -18,16 +18,15 @@
+ this
+ could
+ be
+-something
+-cause
++somethin
++cos
+ everything
+ do
++in
+ words
+ say
+-know
+-that
+ it
+-all
++always
+ takes
+ breath
+ away
+@@ -35,11 +34,12 @@
+ im
+ left
+ with
+-nothing
++nothin
+ so
+ maybe
+ its
+ true
++that
+ cant
+ live
+ without
+@@ -48,7 +48,6 @@
+ better
+ than
+ one
+-but
+ theres
+ much
+ time
+@@ -72,32 +71,22 @@
+ way
+ roll
+ eyes
+-taste
+ make
+ hard
+ for
+ breathing
+ when
+ close
+-eyes
+ drift
+ think
+ everythings
+ okay
+ finally
+ believing
+-then
+-yeah
+-yeah
+-thought
+-hey
+-hey
+-hey
+-thinking
+-ooh
+-cause
+-baby
+-ill
++its
++but
++figured
++all
+ thats
+ said
+ done

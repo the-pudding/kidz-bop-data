@@ -1,0 +1,50 @@
+--- og242.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb238.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -55,9 +55,6 @@
+ somehow
+ put
+ past
+-fall
+-asleep
+-with
+ will
+ remember
+ me
+@@ -70,14 +67,13 @@
+ rules
+ dreaming
+ of
+-dropping
++droping
+ school
+ leave
+ place
+ never
+ come
+ back
+-now
+ maybe
+ after
+ these
+@@ -89,19 +85,16 @@
+ no
+ fear
+ ill
+-here
+ let
+ me
+ once
+ again
+-yeah
+ close
+ eyes
+ see
+ sleep
+-na
+-na
+ for
+-you
++arms
++yeah
+ theres
+ nothing

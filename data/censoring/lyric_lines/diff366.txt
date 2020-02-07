@@ -1,0 +1,92 @@
+--- og358.txt	2020-02-06 19:31:21.000000000 -0800
++++ kb366.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -1,6 +1,7 @@
+-oh
+-oh-oh
+-oh
++mmm
++na-na-na
++na-na-na
++da-da-da
+ yeah
+ im
+ gonna
+@@ -18,8 +19,9 @@
+ cant
+ no
+ more
+-kio
+-kio
++yeah
++kb
++kb
+ got
+ horses
+ in
+@@ -35,7 +37,6 @@
+ match
+ ridin
+ on
+-a
+ horse
+ ha
+ you
+@@ -55,9 +56,8 @@
+ tell
+ me
+ nothin
++a
+ tractor
+-lean
+-all
+ bladder
+ cheated
+ baby
+@@ -68,44 +68,11 @@
+ life
+ movie
+ bull
+-boobies
++bougie
+ cowboy
+ from
+ gucci
+ wrangler
+-booty
+-down
+-cross
+-town
+-livin
+ like
+-rockstar
+-spent
+-lot
+-of
+-money
+-brand
+-new
+-guitar
+-babys
+-habit:
+-diamond
+-rings
+-fendi
+-sports
+-bras
+-down
+-rodeo
+-maserati
+-car
+-stress
+-ive
+-through
+-marlboro
+-man
+-so
+-kick
+-wish
+-could
+-roll
+-wanna
++tv
++the—

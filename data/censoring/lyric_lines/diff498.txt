@@ -1,0 +1,66 @@
+--- og472.txt	2020-02-06 19:31:21.000000000 -0800
++++ kb498.txt	2020-02-06 19:31:27.000000000 -0800
+@@ -4,22 +4,20 @@
+ plastic
+ hearts
+ all
+-are
++our
+ belongings
+ in
+ shopping
+ carts
+-its
+ goodbye
+-but
+ we
+ got
+ one
+ more
+ night
+ lets
+-get
+-drunk
++have
++fun
+ ride
+ around
+ make
+@@ -50,17 +48,18 @@
+ us
+ anyway
+ watch
+-burn
++turn
+ let
+-die
++fly
+ cause
++are
+ finally
+ free
+ tonight
+ will
+ change
+-our
+ lives
++its
+ so
+ good
+ to
+@@ -68,6 +67,7 @@
+ by
+ your
+ side
++but
+ cry
+ give
+ up
+@@ -92,7 +92,6 @@
+ were
+ left
+ behind
+-me
+ answers
+ never
+ find

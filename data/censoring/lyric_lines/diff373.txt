@@ -1,0 +1,131 @@
+--- og367.txt	2020-02-06 19:31:21.000000000 -0800
++++ kb373.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -20,7 +20,6 @@
+ five
+ days
+ laughed
+-me
+ saying
+ "get
+ that
+@@ -47,7 +46,7 @@
+ still
+ be
+ two
+-til
++till
+ say
+ im
+ sorry
+@@ -79,12 +78,13 @@
+ frying
+ pan
+ hot
+-wasabi
++wasabe
+ when
+ bust
+ rhymes
+ big
+-leann
++le
++ann
+ rimes
+ because
+ about
+@@ -103,13 +103,13 @@
+ take
+ fake
+ id
+-stinking
+-aching
++stinkin
++achin
+ shake
+ vanilla
+ finest
+ of
+-flavours
++flavors
+ gotta
+ show
+ then
+@@ -127,7 +127,6 @@
+ help
+ if
+ funny
+-mad
+ trying
+ hard
+ not
+@@ -160,6 +159,7 @@
+ arms
+ in
+ air
++said
+ "youre
+ crazy"
+ tackled
+@@ -174,6 +174,8 @@
+ too
+ sit
+ wait
++til
++say
+ chickity
+ china
+ chinese
+@@ -182,7 +184,7 @@
+ brain
+ stops
+ tickin
+-watching
++watchin
+ x-files
+ with
+ no
+@@ -206,14 +208,14 @@
+ satisfy
+ kurosawa
+ films
+-kay
++okay
+ dont
+-films
+ did
+ theyd
+ samurai
+ get
+ set
++a
+ better
+ clubs
+ find
+@@ -235,22 +237,21 @@
+ babes
+ wrong
+ thing
++tryin
+ losing
+ dropped
+ sides
+ sorry"
+-said
+ "you
+-thought
+-were
+-do"
++just"
+ we
+ blame
+ could
+ do
+ smiled
+-"wasabi"
+-birchmount
++birch
++mount
+ stadium
+ home
+ robbie
++incomprehensible

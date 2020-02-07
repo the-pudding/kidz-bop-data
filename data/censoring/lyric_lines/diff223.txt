@@ -1,0 +1,72 @@
+--- og217.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb223.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -11,10 +11,12 @@
+ the
+ stars
+ when
++you
++knew
++that
+ i
+-couldnt
+-make
+-killing
++was
++willing
+ didnt
+ dime
+ but
+@@ -25,10 +27,8 @@
+ know
+ how
+ feeling
+-was
+ gonna
+ be
+-that
+ one
+ in
+ million
+@@ -39,11 +39,12 @@
+ something
+ greater
+ go
++make
+ legacy
+ manifest
+ destiny
+ back
+-days
++day
+ we
+ wanted
+ everything
+@@ -60,7 +61,6 @@
+ museum
+ victories
+ every
+-day
+ said
+ dont
+ give
+@@ -77,7 +77,6 @@
+ id
+ hate
+ see
+-you
+ waiting
+ uphill
+ oddities
+@@ -105,9 +104,10 @@
+ seen
+ best
+ of
+-me-eh-eh-eh
++me
++eh-eh-eh
+ so
+ got
+ run
+ sight
+-see-eh-eh-eh
++see

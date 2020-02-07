@@ -1,0 +1,97 @@
+--- og58.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb63.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -8,22 +8,16 @@
+ great
+ my
+ automobile
+-is
+-a
+-piece
+-of
+-crap
+ fashion
+ sense
++is
++a
+ little
+ whack
+-and
+-friends
+-are
+-just
+-as
+-screwy
+-me
++got
++nothing
++in
++pocket
+ didnt
+ go
+ to
+@@ -34,15 +28,12 @@
+ never
+ looked
+ at
++me
+ why
+ should
+ they
+ aint
+ nobody
+-got
+-nothing
+-in
+-pocket
+ beverly
+ hills
+ thats
+@@ -50,8 +41,9 @@
+ be
+ gimme
+ gimme
+-livin
+-rollin
++living
++hills
++rolling
+ like
+ celebrity
+ look
+@@ -61,6 +53,7 @@
+ theyre
+ so
+ beautiful
++and
+ clean
+ when
+ the
+@@ -74,6 +67,7 @@
+ wanna
+ live
+ life
++just
+ king
+ take
+ picture
+@@ -95,15 +89,17 @@
+ into
+ belong
+ no
+-class
+-beat
+-down
++dont
++no-class
++beat-down
+ fool
+ will
+ always
+ way
+ might
++as
+ well
+ enjoy
+ watch
+ play
++yeah

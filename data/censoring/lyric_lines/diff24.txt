@@ -1,0 +1,260 @@
+--- og27.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb24.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -1,13 +1,12 @@
+-this
+-a
+-number
++just
++another
+ one
+ champion
+ sound
+-yeah
+-estelle
+-we
+-bout
++me
++and
++you
++about
+ to
+ get
+ down
+@@ -18,14 +17,13 @@
+ world
+ right
+ now
+-just
+ touched
+ london
+ town
+ bet
+ they
+ give
+-me
++a
+ pound
+ tell
+ them
+@@ -33,8 +31,8 @@
+ money
+ my
+ hand
+-now
+ promoter
++we
+ need
+ more
+ seats
+@@ -62,11 +60,11 @@
+ kick
+ it
+ with
+-you
+ youll
+ be
+ american
+ boy
++boy
+ he
+ said
+ "hey
+@@ -77,25 +75,24 @@
+ meet
+ ya"
+ met
+-5-foot-7
+-guy
++this
++four
++foot
++seven
+ whos
+ type
+ way
+ hes
+-speakin
++speaking
+ his
+ confidence
+ is
+-peakin
++peaking
+ dont
+ baggy
+ jeans
+ but
+-might
+-whats
+-underneath
+-and
++thinking
+ no
+ aint
+ been
+@@ -105,24 +102,20 @@
+ cali
+ never
+ rains
+-and
+-yorks
+-wide
+-awake
++york
++heart
++awaits
+ first
+ lets
+ west
+ end
+ ill
+ show
+-bredrin
++best
++friends
+ im
+-liking
+-boy
+-la
+-eya
+-will
+-boy
++likin
++someday
+ can
+ away
+ weekend
+@@ -131,11 +124,12 @@
+ baby
+ then
+ well
+-café
++cafe
+ subway
+ your
+ hood
+ brooklyn
++whats
+ good
+ dressed
+ fancy
+@@ -144,116 +138,16 @@
+ looking
+ fresh
+ death
+-loving
++lovin
+ those
+ shell
+ toes
+-walking
++walkin
+ walk
+ talk
+ slick
+-em
+-wagwan
+-blud!
+-killing
+-uk
+-everybody
+-going
+-say
+-"you
+-k!"
+-reluctantly
+-because
+-most
+-of
+-press
+-fuck
+-estelle
+-once
+-said
+-me
+-"cool
+-down
+-act
+-fool
+-now
+-now"
+-always
+-oww
+-oww
+-nothing
+-crazy
+-know
+-what
+-thinking
+-ribena
+-youre
+-drinking
+-rap
+-singer
+-chain
+-blinger
+-holler
+-at
+-next
+-chick
+-soon
+-as
+-blinking
+-persona
+-about
+-americana
+-rhymer
+-am
+-shallow
+-‘cause
+-designer
+-uh
+-smart
+-bloke
+-before
+-speak
+-suit
+-bespoke
+-thought
+-was
+-cute
+-look
+-pea
+-coat
+-broke
+-into
+-lyrics
+-feel
+-spirit
+-still
+-ca-a-ash
+-cause
+-lot
+-wags
+-hear
+-feeling
+-mike
+-baddest
+-pips
+-their
+-gladdest
+-so
+-hell
+-rubbish
+ would
+ love
+ love
+ could
+-mine
+-ooh
+-trip
+-chicago
+-san
+-francisco
+-bay
+-see
+-la
+-la
+-ooh
+-ooh
++boy

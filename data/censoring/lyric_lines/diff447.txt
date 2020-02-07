@@ -1,0 +1,33 @@
+--- og675.txt	2020-02-06 19:31:21.000000000 -0800
++++ kb447.txt	2020-02-06 19:31:27.000000000 -0800
+@@ -15,7 +15,7 @@
+ so
+ happy
+ could
+-die
++cry
+ told
+ myself
+ that
+@@ -46,7 +46,6 @@
+ the
+ end
+ always
+-end
+ found
+ not
+ make
+@@ -75,7 +74,6 @@
+ stranger
+ feels
+ rough
+-no
+ stoop
+ low
+ collect
+@@ -114,5 +112,3 @@
+ on
+ i
+ know
+-now
+-that

@@ -1,0 +1,150 @@
+--- og375.txt	2020-02-06 19:31:21.000000000 -0800
++++ kb386.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -10,7 +10,7 @@
+ of
+ my
+ change
+-i
++ive
+ spent
+ on
+ you
+@@ -30,6 +30,7 @@
+ two
+ yeah
+ i
++i
+ know
+ hard
+ remember
+@@ -61,7 +62,6 @@
+ bridges
+ burned
+ down
+-ive
+ nights
+ turned
+ out
+@@ -76,11 +76,10 @@
+ sun
+ sets
+ paradise
+-change
+ if
+-"happy
++happy
+ ever
+-after"
++after
+ did
+ exist
+ would
+@@ -90,14 +89,12 @@
+ those
+ fairytales
+ full
+-shit
++air
+ one
+ more
+-fucking
+ song
+ ill
+ sick
+-oh
+ your
+ back
+ tomorrow
+@@ -115,92 +112,4 @@
+ care
+ said
+ before
+-whoa
+-whoa-oa
+-sick
+-now
+ payphone
+-uh
+-man
+-fuck
+-spending
+-money
+-while
+-sitting
+-round
+-wondering
+-why
+-wasnt
+-who
+-came
+-up
+-from
+-nothing
+-bottom
+-see
+-me
+-stuntin
+-cars
+-start
+-with
+-push
+-button
+-telling
+-changed
+-since
+-blew
+-or
+-whatever
+-switched
+-number
+-phone
+-so
+-never
+-could
+-need
+-name
+-shirt
+-can
+-tell
+-ballin
+-swish
+-what
+-shame
+-coulda
+-got
+-picked
+-had
+-really
+-good
+-game
+-missed
+-last
+-shot
+-talk
+-about
+-top
+-couldve
+-saw
+-sad
+-over
+-phantom
+-pulled
+-up
+-valet
+-open
+-doors
+-wished
+-id
+-go
+-away
+-was
+-looking
+-they
+-want
+-take
+-little
+-piece
+-whoo!
+-for
+-two
+-these

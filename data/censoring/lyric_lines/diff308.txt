@@ -1,0 +1,69 @@
+--- og295.txt	2020-02-06 19:31:21.000000000 -0800
++++ kb308.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -9,7 +9,6 @@
+ just
+ what
+ say
+-but
+ words
+ are
+ only
+@@ -43,12 +42,14 @@
+ at
+ my
+ door
+-its
+ another
+ heartache
+ on
+ list
+ angry
++youre
++one
++who
+ could
+ never
+ stand
+@@ -56,9 +57,9 @@
+ when
+ tell
+ love
+-me
+ sure
+ anymore
++its
+ hard
+ with
+ heart
+@@ -72,27 +73,29 @@
+ girlfriends
+ and
+ sing
++its
+ harmony
+ girl
+ is
+ everything
+ make
+-anything
++anything;
+ get
+ back
+ again
+ why
+-cant
+ we
+ try
+ if
+ was
+ good
++you
+ were
+ hold
+ till
+ move
+ inside
++of
+ paradise
+ symphonies
+ gave

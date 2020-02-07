@@ -1,0 +1,26 @@
+--- og503.txt	2020-02-06 19:31:22.000000000 -0800
++++ kb530.txt	2020-02-06 19:31:27.000000000 -0800
+@@ -18,14 +18,13 @@
+ but
+ deep
+ inside
+-in
+ the
+ corner
+ of
+ my
+ mind
+ im
+-attached
++attatched
+ to
+ mmmm
+ weak
+@@ -72,6 +71,7 @@
+ even
+ met
+ me
++thats
+ when
+ go
+ ill

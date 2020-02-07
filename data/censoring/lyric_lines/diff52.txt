@@ -1,0 +1,58 @@
+--- og49.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb52.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -17,6 +17,14 @@
+ your
+ beautiful
+ soul
++youre
++the
++one
++wanna
++chase
++wont
++let
++minute
+ know
+ that
+ are
+@@ -32,17 +40,9 @@
+ hope
+ youll
+ see
+-the
+ heart
+ in
+ me
+-youre
+-one
+-wanna
+-chase
+-wont
+-let
+-minute
+ soul
+ yeah
+ might
+@@ -73,21 +73,15 @@
+ crazy
+ for
+ wanting
+-you
+-maybe
++baby
+ do
+ could
+ too
+ things
+ way
+-do
+ feel
+-too
+ there
+ is
+ nothing
+ left
+ hide
+-ooh
+-oh
+-yeah

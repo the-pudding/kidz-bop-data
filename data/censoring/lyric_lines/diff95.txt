@@ -1,0 +1,285 @@
+--- og85.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb95.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -1,26 +1,22 @@
+-hey
+-hey
+-good
+-to
+-see
+-you
++ay
++ay
+ come
+ on
+-dude
++in
+ lets
+ go
+-yeah!
+-go!
+-ha-ha-ha-ha
++yeah
+ alright
+ alright
+-okay
++ok
++uh
++ok
+ return
+ of
+ the
+ mack
+ get
+-em
++up!
+ what
+ it
+ is
+@@ -31,22 +27,22 @@
+ a
+ better
+ way
++to
+ up
+-outta
++out
+ bed
+ instead
+ getting
+-on
+ internet
+ and
+ checking
+-who
++new
+ hit
+-me
+-thrift
+-shop
+-pimp-strut
+-walkin
++fresh
++out
++pimp
++strut
++walking
+ little
+ bit
+ humble
+@@ -57,15 +53,15 @@
+ rocky
+ cosby
+ sweater
+-game
++gang
+ nope
+ nope
+ yall
+ cant
+ copy
+-yeah
++yup
+ bad
+-moonwalking
++moon
+ this
+ here
+ is
+@@ -112,49 +108,41 @@
+ pounds
+ but
+ do
+-pass
++pa**
+ torch
+ town
+ trust
+ me
+ i-n-d-e-p-e-n-d-e-n-t
+-shit
+-hustlin
++s***
++hustler
+ chasing
+ dreams
+ since
+ was
+ fourteen
+ with
+-four-track
+-bussin
++four
++track
++bussing
+ halfway
+ cross
+ city
+-back
+-back
+-pack
+-pack
++backpack
+ fat
+-fat
+-cat
+ cat
+-crushin
++crushing
+ labels
+-out
+-here
+ now
+ they
+ tell
+-nothin
+-hey
+-hey
++me
++nothing
+ give
+ people
+ spread
+ across
+ country
+-oh
+ can
+ back
+ moment
+@@ -174,46 +162,52 @@
+ kick
+ it
+ thank
++you
+ yeah
+ damn
+ grateful
+ grew
++up
+ really
+-wanting
++wanted
+ gold
+ fronts
+-that’s
++thats
++you
+ when
+-wu-tang
++wu
++tang
+ raised
+ stop
++me
+ hard
++an
+ 808
+-heartbeat
++heart
++beat
+ eating
+ at
+-beat
+ gave
+ speed
+ great
+ white
+ shark
+ week
+-raw!
+-time
+-off
+-gone
++raw
++up
++gone!
+ deuces
+ goodbye
+ world
++see
+ girl
+ she
+ wanna
++see
+ rome
+-caesarll
++caesar
+ make
+ believer
+-nah
+ never
+ ever
+ throne
+@@ -221,12 +215,13 @@
+ comes
+ from
+ giving
+-people
++back
+ sing
+ song
+ goes
+ raise
+ hands
++party
+ came
+ live
+ life
+@@ -243,26 +238,40 @@
+ then
+ keep
+ marching
+-said
+-whoa
+-whoa
+-na
++ourselves
++wa
++oh
++go!
+ na
+-huh-uh
+-and
++aha
++hey
+ all
+-sing
++say
+ thats
+ right
+-here
+-go
+-right
+-uh
+-you
+-it
+-ray
++feels
++good
++its
++alright
+ oh
+-ha-ha
+-go
+-mack-le-e-e-e-e-more!
+-ooh
++oh
++ma-ckle-more
++night
++come
++before
++fights
++won
++some
++might
++run
++against
++test
++triumph
++embrace
++cause
++their
++fears
++prove
++courage
++exists
++hope

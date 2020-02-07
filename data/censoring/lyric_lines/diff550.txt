@@ -1,0 +1,148 @@
+--- og524.txt	2020-02-06 19:31:22.000000000 -0800
++++ kb550.txt	2020-02-06 19:31:27.000000000 -0800
+@@ -1,8 +1,7 @@
+-uh!
++unh!
+ mmm
+ yeah
+ la
+-haha
+ hey
+ boy
+ you
+@@ -10,22 +9,17 @@
+ had
+ much
+ game
+-thought
++so
+ i
+ needed
+ to
+ upgrade
+-so
+ went
+ and
+ walked
+-away
+-way
+-way
+-uh!
++away-way-way
+ now
+-see
+-youve
++seen
+ been
+ hanging
+ out
+@@ -40,22 +34,19 @@
+ a
+ pair
+ of
+-clowns
+-clowns
++clowns-clowns-clowns
+ remember
+ all
+ the
+ things
+ did
+ first
+-now
+ youre
+ doing
+ them
+ her
+ got
+ me
+-me
+ this
+ taking
+ every
+@@ -71,8 +62,8 @@
+ wanna
+ dont
+ give
+-a
+-shh
++it
++on
+ no
+ one
+ else
+@@ -80,17 +71,15 @@
+ want
+ back
+ back
+-want
+ you
+ broke
+-it
+ off
+ thinking
+ youd
+ be
+ crying
+ feel
+-like
++bad
+ at
+ flying
+ please
+@@ -103,49 +92,32 @@
+ tryna
+ rock
+ ugly
+-jeans
+-jeans
++jeans-jeans-jeans
+ clearly
+ didnt
+ think
+ through
+-yeah
+-yeah
+ if
+ what
+ ive
+ told
+ is
+ true
+-is
+-true
+ youll
+ crawling
+ boo-hoo-hoo
+-what!
+-ooh-ooh-ooh
++oooh
++thought
+ still
+ mine
+ when
+ kissed
+ goodbye
+ uh-oh
+-uh-oh
+ might
+ but
+-first
+-yeah
+ yo
+-this!
+-oh!
+-no
+-you
+-oh-oh-oh-oh
+-i
+-back
+-uh!
+-uh
+-does
++do
+ sound
+-helicopter
+-brrr
++hellicopter
++brrrrrrrrrrrr

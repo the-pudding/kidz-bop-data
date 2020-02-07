@@ -1,0 +1,56 @@
+--- og302.txt	2020-02-06 19:31:21.000000000 -0800
++++ kb317.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -19,6 +19,7 @@
+ i
+ know
+ that
++you
+ made
+ room
+ but
+@@ -44,7 +45,6 @@
+ way
+ say
+ this
+-you
+ mean
+ well
+ make
+@@ -59,7 +59,7 @@
+ need
+ one
+ or
+-break
++breaking
+ youre
+ stay
+ all
+@@ -93,6 +93,7 @@
+ dry
+ convinced
+ please
++you
+ think
+ trying
+ let
+@@ -102,19 +103,15 @@
+ youll
+ leave
+ light
+-with
+-daylight
+-guide
+-gone
+ believe
+ theres
+ can
+ because
+-wont
+ why
+ wanted
+ song
+ nowhere
++it
+ dont
+ want
+ minute

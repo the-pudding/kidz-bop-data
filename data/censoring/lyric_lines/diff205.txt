@@ -1,0 +1,151 @@
+--- og195.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb205.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -1,5 +1,3 @@
+-yeah
+-yeah
+ thats
+ how
+ much
+@@ -8,29 +6,31 @@
+ you
+ yeah
+ need
+-yeah
+-yeah
++you
+ and
+ cant
+ stand
+-must
++most
+ everything
+ do
+-make
++makes
+ me
+ wanna
+ smile
+ can
+ not
+ like
++it
+ for
+-awhile
++a
++while
+ no
+ but
+-wont
++dont
+ let
+-upset
+ me
++oh
++upset
+ girl
+ then
+ kiss
+@@ -38,31 +38,26 @@
+ lips
+ all
+ of
+-a
+ sudden
+ forget
+ that
+ was
+-upset
+ remember
+ what
++we
+ did
+ hate
+-it
+ know
+ exactly
+ to
+ so
+-that
+ stay
+ mad
+ at
+ too
+ long
+ wrong
+-it
+-touch
+-dont
++say
+ fuss
+ fight
+ no
+@@ -70,64 +65,46 @@
+ said
+ despise
+ adore
+-you
+ boy
+-i
+-you
+-oh
+-whoa
+ just
+ go
+-oh
+ completely
+ the
+ power
+ have
+-power
+-have
+ only
+ one
+-makes
+-laugh
+-makes
+ laugh
++sad
+ its
+ fair
+ take
+ advantage
+ fact
+-i
+-i
+ beyond
+ reason
+ why
+-why
+ aint
+ right
+-oh
+-ooh
++girl
+ these
+ days
+ maybe
+ your
+ magic
++wont
+ affect
+-hmm
++make
+ weak
+ in
+ this
+ world
+ knows
+ way
++huh
+ youll
+ probably
+ always
+ spell
+ on
+-ooh
+-oh
+-as
+-but
+-go
+-no
+ so

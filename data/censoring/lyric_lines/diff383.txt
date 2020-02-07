@@ -1,0 +1,124 @@
+--- og651.txt	2020-02-06 19:31:21.000000000 -0800
++++ kb383.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -17,7 +17,6 @@
+ of
+ fame
+ excess
+-whoa
+ am
+ gonna
+ fit
+@@ -29,7 +28,7 @@
+ for
+ first
+ time
+-look
++looked
+ right
+ see
+ hollywood
+@@ -47,7 +46,8 @@
+ im
+ feelin
+ kinda
+-homesick
++home
++sick
+ too
+ much
+ pressure
+@@ -59,7 +59,8 @@
+ turned
+ on
+ radio
+-jay-z
++jay
++z
+ song
+ was
+ put
+@@ -67,8 +68,7 @@
+ up
+ theyre
+ playin
+-song
+-butterflies
++butterflys
+ fly
+ away
+ noddin
+@@ -78,8 +78,6 @@
+ movin
+ hips
+ got
+-up
+-playing
+ they
+ know
+ be
+@@ -87,7 +85,7 @@
+ yeah
+ its
+ party
+-usa 
++usa
+ get
+ club
+ cab
+@@ -95,7 +93,8 @@
+ lookin
+ me
+ now
+-"whos
++like
++whos
+ that
+ chick
+ rockin
+@@ -104,7 +103,7 @@
+ gotta
+ from
+ out
+-town"
++town
+ hard
+ girls
+ not
+@@ -123,34 +122,14 @@
+ tune
+ britney
+ feel
+-like
+-hopping
+-flight
+-on
++hoppin
+ flight
+ back
+ hometown
+ tonight
+-town
+-tonight
+-something
++somethin
+ stops
+ every
+-every
+-time
+ plays
+ alright
+-n-n-n-noddin
+-head
+-ooh
+-yeah
+-gonna
+-okay
+-flying
+-away
+-yeah
+-noddin
+-movin
+-im
+-yeah
+-ha-ha-ha-ha
++playing

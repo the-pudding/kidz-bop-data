@@ -1,0 +1,70 @@
+--- og468.txt	2020-02-06 19:31:21.000000000 -0800
++++ kb493.txt	2020-02-06 19:31:27.000000000 -0800
+@@ -15,10 +15,9 @@
+ my
+ head
+ saying
+-"youll
++youll
+ never
+ reach
+-it"
+ every
+ step
+ taking
+@@ -31,7 +30,7 @@
+ direction
+ faith
+ is
+-shaken
++shaking
+ i
+ gotta
+ keep
+@@ -44,14 +43,13 @@
+ another
+ mountain
+ wanna
+-an
+ uphill
+ battle
+ sometimes
+ have
+ to
+ lose
+-ain’t
++aint
+ about
+ how
+ fast
+@@ -68,6 +66,7 @@
+ struggles
+ facing
+ chances
++taking
+ might
+ knock
+ me
+@@ -86,16 +85,14 @@
+ just
+ going
+ and
++got
+ strong
+ pushing
+-on
+-cause
+-youre
+-moving
++climb
++yeah
++an
+ climbing
+ faith
+ baby
+-all
+-about
+-your
+-woah-u-oh
++woah
++woah

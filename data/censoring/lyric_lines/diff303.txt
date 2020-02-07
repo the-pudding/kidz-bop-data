@@ -1,0 +1,93 @@
+--- og635.txt	2020-02-06 19:31:21.000000000 -0800
++++ kb303.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -1,8 +1,8 @@
+-oooooooo
++ooh
+ merry
+ christmas
+-saint
+-nick
++santa
++christmas
+ comes
+ this
+ time
+@@ -43,43 +43,41 @@
+ sled
+ its
+ little
+-ooooo
++saint
++nick
+ nick
+ just
+-bobsled
++bobsleigh
+ we
+ call
+ it
+ old
+ but
+-shell
+-walk
+-toboggan
++she
++sparks
++buggy
+ with
+-four
++full
+ speed
+ stick
+ shes
+-candy-apple
++candy
++apple
+ ski
+ for
+ wheel
+-when
+-santa
+-hits
++then
+ gas
+-man
+ watch
+ her
+-peel!
++peel
++yeah
++run
+ run
+ reindeer
+-whoa
+-dont
+-miss
+-no
+-one
+-hauling
++reindeer
++hes
++walking
+ through
+ snow
+ at
+@@ -90,15 +88,13 @@
+ rudy
+ to
+ lead
+-hes
+ gotta
+ wear
+-goggles
+-because
++goggle
++cause
+ really
+ flies
+ cruising
+ every
+-pad
++path
+ surprise
+-ahhhhhh

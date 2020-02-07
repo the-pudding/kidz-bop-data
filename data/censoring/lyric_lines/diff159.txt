@@ -1,0 +1,79 @@
+--- og152.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb159.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -1,3 +1,6 @@
++so
++far
++away
+ this
+ time
+ place
+@@ -24,15 +27,16 @@
+ cause
+ know
+ know
++that
+ love
++you
++have
+ loved
+ all
+ along
+ and
+ miss
+ been
+-far
+-away
+ for
+ long
+ keep
+@@ -49,7 +53,6 @@
+ dont
+ see
+ anymore
+-on
+ my
+ knees
+ ill
+@@ -57,24 +60,20 @@
+ last
+ chance
+ dance
+-you
+ id
+ withstand
+ of
+-hell
++it
+ hold
+ your
+ hand
+ give
+-it
+ all
+ us
+ anything
+ but
+ wont
+ up
+-so
+-so
+ away
+ wanted
+ stay
+@@ -82,14 +81,13 @@
+ need
+ hear
+ say
+-that
+-i
+-you
+ forgive
+ being
+ im
+ not
+ leaving
+ believe
++it
++on
+ me
+ let

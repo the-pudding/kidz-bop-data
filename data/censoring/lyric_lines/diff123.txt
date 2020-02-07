@@ -1,0 +1,240 @@
+--- og592.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb123.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -1,37 +1,36 @@
+-yes!
++yes
++its
+ so
+ crazy
+ right
+-now!
++now
+ most
+ incredibly
+-its
+-your
++ya
+ girl
+ b
+ boy
+ young
+ you
+ ready
++uh
+ oh
+-oh
+ no
+-oww!
+-geah!
++no
++yeah
+ history
+ in
+ the
+ making
+ part
+-two!
+-now
++two--its
+ i
+ look
+ and
+ stare
+ deep
++your
+ eyes
+-i
+ touch
+ on
+ more
+@@ -47,6 +46,7 @@
+ call
+ name
+ two
++or
+ three
+ times
+ a
+@@ -65,7 +65,6 @@
+ is
+ one
+ blame
+-yeah
+ cause
+ know
+ dont
+@@ -78,23 +77,25 @@
+ else
+ got
+ looking
++now
+ loves
+-your
++in
+ love
++your
+ touch
+ hoping
+ youll
+ page
+ kiss
+ save
+-crazy
++looking
+ talk
+ friends
+ quietly
+-"who
++who
+ he
+ think
+-is"
++is
+ at
+ did
+ tennis
+@@ -120,68 +121,67 @@
+ but
+ still
+ oh
++crazy
++youre
++love
+ hey
+-geah!
+-woo!
+-warmed
+-up
+-now
++check
++it
+ lets
+ hov
+ yall
+ flow
+ loco
+ r-o-c
+-uh-oh
+ oh
+-og
++ol
++g
+ big
+-homie
++homey
+ only
+-no
+ stick
+ bony
+-pockets
++pocket
+ fat
+ like
+-tony
+-soprano
++tony--soprano
++oh
++no
+ roc
+ handle
+ van
+-exel
++axel
+ shake
+ phonies
+-man
++man;
+ cant
+ get
+ next
+ genuine
+-article
++article;
+ sing
+ though
+ sling
+-though
++though;
+ anything
+ bling
+ yo
+ star
+ ringo
+-war
++roll
+ green
+ beret
+-crazy
+ bring
+-ya
+ whole
+ set
+-jay-z
++jay
++z
+ range
+ deranged
+ they
+ figure
+ him
+-out
++out;
+ like
+ "hey
+ insane"
+@@ -193,42 +193,46 @@
+ cloth
+ texture
+ best
+-fur:
++fur
+ chinchilla
+-ive
++uh
+ been
+ iller
+ than
+ chain
+ smokers
+-name
+ hova
+-realer
++realer;
+ games
+ over
+ fall
+ back
++young;
+ ever
+ since
+ made
+ change
+ platinum
+ wrap
+-looking
++crazy
+ baby
+-myself
++myself;
+ lately
+ foolish
+ this
++ive
+ playing
+-myself
+ baby
+ care
+ of
++and
+ youre
+ fool
+ sprung
+-who
+ sees
++cause
+ me
+-hey!
++hey
++lookin
++baby
++whoa

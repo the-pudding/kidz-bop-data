@@ -1,0 +1,129 @@
+--- og606.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb179.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -7,8 +7,7 @@
+ happy
+ soul
+ with
+-corn
+-cob
++corncob
+ pipe
+ and
+ button
+@@ -20,8 +19,7 @@
+ of
+ coal
+ is
+-fairy
+-tale
++fairytale
+ they
+ say
+ he
+@@ -29,7 +27,7 @@
+ but
+ children
+ know
+-that
++how
+ came
+ to
+ life
+@@ -42,6 +40,7 @@
+ some
+ magic
+ in
++that
+ old
+ silk
+ hat
+@@ -56,8 +55,8 @@
+ began
+ dance
+ around
++alive
+ as
+-live
+ could
+ be
+ laugh
+@@ -66,32 +65,44 @@
+ same
+ you
+ me
++come
++thumpety
++thump
++thump
++look
++at
++go
++over
++hills
++oh
+ knew
+ sun
+ hot
+ so
+ said
+-lets
++"lets
+ run
++well
+ fun
+ now
+ before
+ i
+ melt
+-away
++away"
+ down
+ village
+-broom
+-stick
++broomstick
+ hand
+ running
+ here
++there
+ all
+ square
+-saying
+-catch
++sayin
++"catch
++me
+ if
+-can!
++can!"
+ led
+ them
+ streets
+@@ -105,15 +116,25 @@
+ heard
+ him
+ holler
+-stop!
++"stop!"
++hey
+ had
+ hurry
+ way
+ waved
+ goodbye
+-dont
++"dont
+ cry
+ ill
+ back
+ again
++day"
++hell
++back
++yes
++will
+ someday
++see
++next
++year
++frosty!

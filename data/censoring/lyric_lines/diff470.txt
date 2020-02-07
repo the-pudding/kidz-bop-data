@@ -1,0 +1,98 @@
+--- og682.txt	2020-02-06 19:31:21.000000000 -0800
++++ kb470.txt	2020-02-06 19:31:27.000000000 -0800
+@@ -24,7 +24,7 @@
+ she
+ told
+ me
+-morning
++hallway
+ dont
+ feel
+ same
+@@ -35,12 +35,12 @@
+ seems
+ to
+ when
+-die
++go
+ words
+ will
+ be
+ on
+-stone
++own
+ and
+ ill
+ gone
+@@ -52,9 +52,8 @@
+ is
+ wide
+ way
+-ive
+ been
+-holding
++holdin
+ too
+ tight
+ with
+@@ -65,46 +64,42 @@
+ life
+ take
+ home
+-drive
+-all
+-night
++im
++by
++side
+ keep
+ warm
+ time
+ frozen
++the
++of
++of
+ give
+ hope
+ spend
+ love
+ until
+-shes
+ broke
+ inside
+-colours
++colors
+ change
+ its
+ cage
+ know
+ morning
+-now
+ see
+ light
+-up
++upon
+ hill
+ although
+ am
+ broken
+ untamed
+ still
+-fire
+-burning
+-bright
+-so
+ waiting
+ this
+ come
+ around
+-but
+ baby
+ running
+ after
+@@ -114,5 +109,3 @@
+ clouds
+ give
+ hope
+-until
+-inside

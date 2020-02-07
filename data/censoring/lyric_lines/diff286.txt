@@ -1,0 +1,329 @@
+--- og628.txt	2020-02-06 19:31:21.000000000 -0800
++++ kb286.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -1,36 +1,28 @@
+-uh
+-not
+-again
+-oh
+-this
+-aint
+-supposed
+-to
+-happen
+-me
+ keep
+-rocking
++rockin
+ and
+-knocking
++knockin
+ whether
+ you
+-louboutind
++louis
++vuitton
++it
+ up
+ or
+ reebokin
+ see
+ the
+-hate
++thing
+ that
+ theyre
+-serving
++servin
+ on
+ a
+ platter
+ so
+ what
+ we
+-gonna
++gon
+ have
+ dessert
+ disaster
+@@ -38,141 +30,92 @@
+ never
+ thought
+ id
+-be
+-in
+-love
+-like
+-when
+-look
+-at
+-you
+-my
+-mind
+-goes
+-trip
+-then
+-came
+-knocked
+-face
+-feels
+-im
+-race
+-but
+-already
+-won
+-first
+-place
+ fall
+ for
+ as
+ hard
+ did
+-as
+-did
+-yeah
+ got
+-thinking
++me
++thinkin
+ bout
+ our
+ life
+ house
+ kids
+-yeah
+ every
+-morning
++mornin
++look
++at
+ smile
+ cause
+ boy
++came
+ around
+-down
++knocked
+ down
+ sometimes
+-comes
+ love
+-around
+-around
+-it
++comes
+ knocks
+ just
+ get
+ back
+-up
++when
+ hear
+ myself
+ say
+-mmh
+-"yall
++all
+ go
+ ahead
+ think
++im
++gonna
+ kick
+ with
++my
+ girl
+-today"
+-kick
+ today
+ used
++to
++be
+ commander-in-chief
+ of
+-pimp
+-shit
+-flying
+-high
+-flying
++own
++ship
++flyin
+ high
+ til
+ met
++this
+ pretty
+ little
+ missile
+ shot
+ out
+ sky
+-oh
+-sky
+-hey
++till
+ now
+ crashing
+ dont
+ know
+ how
+ happened
+-damn
++but
++feels
++so
+ good
+ said
+ if
+ could
++back
+ make
++happen
+ faster
+ would
+ baby
+ could
+-miss
+-independent
+-fullest
+-oh
+-load
+-too
+-much
+-she
+-helping
+-pull
+-bullet
+-ended
+-life
+-swear
+-died
+-tonight
+-girl
+-love
+-hey
+-ooh
+-down
+-hey
+-whoa
+-yeah
+ tell
+-now
+ can
+ past
+ your
+@@ -185,8 +128,8 @@
+ was
+ always
+ cheerleader
+-dream
+-seem
++dreams
++seemed
+ only
+ date
+ head
+@@ -195,21 +138,13 @@
+ class
+ clown
+ kept
+-laughing
++laughin
+ were
+ meant
+ be
+-please
+-mess
+-trick
+-hey
+-young
+-world
+-new
+-slick
+-rick
+ they
+ move
++too
+ quick
+ cant
+ let
+@@ -227,77 +162,13 @@
+ wrote
+ letter
+ classes
+-goddess
+-ask
+-someone
+-thats
+-average
+-advice
+-omg
+-listen
+-that
+-bitch
+-woe
+-is
+-me
+-tragic
+-had
+-it
+-magic
+-flying
+-bad
+-real
+-michael
+-jackson
+-mad
+-joe
+-should
+-leave
+-boyfriend
+-gon
+-him
+-gotta
+-take
+-happy
+-sad
+-bring
+-better
+-future
+-than
+-wanna
+-same
+-mistakes
+-whoa
+-whoa
+-mmh
+ ill
+ admit
++it
+ scared
+-act
++answer
+ loves
+ call
+ hits
+ better
+ worth
+-fall
+-until
+-comes
+-get
+-when
+-eh
+-eh
+-oh
+-oh
+-knows
+-wont
+-coming
+-happens
+-eh
+-uh
+-huh
+-youre
+-feel
+-no
+-ooh
+-tell
+-now

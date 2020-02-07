@@ -1,0 +1,191 @@
+--- og44.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb64.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -4,11 +4,10 @@
+ with
+ you
+ gotta
++you
+ need
+ to
+-oh-oh
+-oh-oh
+-ooh
++hey
+ chemistry
+ was
+ crazy
+@@ -23,11 +22,11 @@
+ knew
+ why
+ we
+-didn’t
+-build
+-nothin’
++didnt
++deal
++nothing
+ overnight
+-cause
++cuz
+ a
+ love
+ like
+@@ -42,7 +41,7 @@
+ as
+ phase
+ said
+-can’t
++cant
+ see
+ that
+ now
+@@ -51,33 +50,32 @@
+ they
+ did
+ yes
+-it’s
++its
+ so
+ true
++that
++weve
+ been
+ through
+ got
+ real
+-shit
++yeah
++yes
+ baby
+-weve
+-been
+ too
+ strong
+ for
+ long
+ and
+ without
+-i’ll
+-waitin’
++ill
++waiting
+ up
+ until
+ home
+ sleep
+-ooh
+-if
+ anybody
+-who’s
++whos
+ ever
+ loved
+ know
+@@ -91,86 +89,75 @@
+ replace
+ call
+ radio
++if
+ your
+ question
+ ya
+-see
+ already
+ answer
+ still
+ ask
+-will
++would
+ lie
+ no
+ make
+ me
+ cry
+ do
+-somethin’
++somethin
+ behind
+ my
+ back
+ then
+ try
+ cover
++up
+ well
+-would
+ i
+ is
+ only
+ faithful
+-i’m
+-you’ll
++im
++real
++youll
+ always
+-deal
+-yeah
+ talk
+-i’mma
++ima
+ stay
+-no
+ matter
+ good
+ or
+ bad
+-thick
+-thin
+ right
+ wrong
+ all
+ day
+ every
+-hey
+-you’re
++youre
+ down
+ on
+-don’t
++dont
+ believe
+-ain’t
++aint
++
+ no
+-you
+ deep
+ in
+ heart
+-c’mon
+-c’mon
+-c’mon
++come
++on
+ let
+ put
+ hands
+-hands
+-up
+-fellas
+-tell
+-lady
+-she’s
+-oh
+-ladies
+-him
+-he’s
+-locked
++boys
++say
++girl
++shes
+ look
++him
+ his
+ eyes
++tell
+ hey
++ohh
+ oh
+-you

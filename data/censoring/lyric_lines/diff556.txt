@@ -1,0 +1,40 @@
+--- og529.txt	2020-02-06 19:31:22.000000000 -0800
++++ kb556.txt	2020-02-06 19:31:27.000000000 -0800
+@@ -1,5 +1,5 @@
+ yellow
+-diamonds
++dimonds
+ in
+ the
+ light
+@@ -29,18 +29,21 @@
+ deny
+ but
+ ive
+-gotta
++got
+ let
+ go
++chorus
+ we
+ found
+ love
+ a
+-hopeless
++hopless
+ place
++repeat
++5x
++dj
+ shine
+ through
+-an
+ open
+ door
+ life
+@@ -56,3 +59,5 @@
+ heartbeat
+ my
+ mind
++its
++standint

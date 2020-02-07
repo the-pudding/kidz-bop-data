@@ -1,0 +1,44 @@
+--- og688.txt	2020-02-06 19:31:21.000000000 -0800
++++ kb492.txt	2020-02-06 19:31:27.000000000 -0800
+@@ -1,3 +1,6 @@
++kidz
++bop
++kids
+ theyre
+ creepy
+ and
+@@ -19,17 +22,16 @@
+ people
+ come
+ to
+-see
+-em
++see-em
+ they
+ really
+ are
+-scream
++scre-um
+ neat
+ sweet
+-petite
++petit!
+ so
+-put
++get
+ witchs
+ shawl
+ on
+@@ -37,9 +39,8 @@
+ you
+ can
+ crawl
++on
+ were
+-gonna
+-pay
++going
++make
+ call
+-strange
+-deranged

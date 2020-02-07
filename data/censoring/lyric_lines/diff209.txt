@@ -1,0 +1,125 @@
+--- og200.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb209.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -3,7 +3,7 @@
+ night
+ i
+ hear
+-em
++them
+ talk
+ coldest
+ story
+@@ -20,7 +20,7 @@
+ soul
+ to
+ a
+-woman
++girl
+ so
+ heartless
+ how
+@@ -40,7 +40,7 @@
+ just
+ remember
+ that
+-talkin
++talking
+ me
+ though
+ need
+@@ -57,9 +57,9 @@
+ through
+ got
+ into
+-ayo
++hey
++yo
+ know
+-of
+ some
+ aint
+ did
+@@ -69,7 +69,7 @@
+ and
+ now
+ wanna
+-get
++give
+ back
+ gon
+ show
+@@ -88,25 +88,27 @@
+ dr
+ evil
+ youre
+-bringin
++bringing
+ out
+ side
++of
+ decided
+-wasnt
++werent
++gonna
+ speak
+ why
++are
+ up
+ 3
+ am
+ on
+ phone
+-do
++does
+ she
+ mad
+ at
+-fo
++for
+ homie
+-know
+ shes
+ hot
+ wont
+@@ -114,7 +116,7 @@
+ mess
+ my
+ groove
+-‘cause
++cause
+ already
+ thing
+ go
+@@ -131,19 +133,22 @@
+ couple
+ months
+ then
++gone
+ youll
+ never
+ find
+ nobody
+ better
+ than
+-me
++talkin
++talk
+ baby
+ lets
+ knock
+ off
++weve
+ bout
+-somethin
++something
+ keep
+ hatin
+ enemies
+@@ -156,7 +161,3 @@
+ im
+ take
+ tonight
+-night
+-how
+-how
+-and

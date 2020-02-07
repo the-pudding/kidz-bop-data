@@ -1,0 +1,36 @@
+--- og481.txt	2020-02-06 19:31:22.000000000 -0800
++++ kb506.txt	2020-02-06 19:31:27.000000000 -0800
+@@ -44,13 +44,13 @@
+ is
+ sorry
+ hurt
++you
+ its
+ something
+ must
+ live
+ with
+-every
+-day
++everyday
+ all
+ pain
+ put
+@@ -59,6 +59,7 @@
+ take
+ it
+ away
++be
+ one
+ catches
+ your
+@@ -67,8 +68,7 @@
+ why
+ need
+ hear
+-i’ve
+ show
+ side
+ of
+-didn’t
++know

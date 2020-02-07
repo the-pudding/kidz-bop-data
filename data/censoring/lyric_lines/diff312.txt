@@ -1,0 +1,75 @@
+--- og638.txt	2020-02-06 19:31:21.000000000 -0800
++++ kb312.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -1,7 +1,7 @@
+ im
+ talkin
+ bout
+-love
++love!
+ all
+ my
+ girls
+@@ -38,25 +38,28 @@
+ even
+ know
+ where
+-hell
++heck
+ goes
+ but
+-girls
+ were
+ nobodys
+ gonna
+ break
+-l-o-l-o-l-o-l-o-v-e
+-l-o-l-o-l-o
++lo
++love
++lo
+ oh
+ did
+ hear
+ say
+-talking
++im
+ bout
++love
+ say
+ youll
+ be
++girls
++life
+ life
+ oh
+ hold
+@@ -74,7 +77,7 @@
+ own
+ money
+ any
+-man
++boys
+ room
+ hell
+ calling
+@@ -88,6 +91,8 @@
+ so
+ we
+ good
++talking
++love
+ an
+ energy
+ mystery
+@@ -95,10 +100,9 @@
+ true
+ part
+ of
++me
+ heart
+ best
+ thing
+ did
+-im
+ bout
+-love

@@ -1,0 +1,93 @@
+--- og569.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb9.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -11,10 +11,10 @@
+ and
+ drowned
+ whole
+-world
++world!
+ while
+ she
+-looks
++looked
+ so
+ sad
+ in
+@@ -44,7 +44,7 @@
+ promises
+ never
+ for
+-real
++real!
+ as
+ long
+ stands
+@@ -53,7 +53,7 @@
+ wearing
+ holes
+ soles
+-shoes
++shoes!
+ disappear
+ you
+ look
+@@ -70,25 +70,25 @@
+ falls
+ quite
+ same
+-way
++way-
+ seem
+ to
+ run
+ out
+ things
+ say
+-now
+ lovers
+ would
+ stay
+ just
+ put
+-every
+-all
+-day
++shit
++after
++day!
+ did
+ we
+ wind
++way
+ watching
+ our
+ mouths
+@@ -97,18 +97,23 @@
+ say
+ stand
+ here
+-or
+-choose
++souls
++choose!
+ get
+ today
+ were
+ walking
+-too
+ far
+ price
+-shoes
+-lonely
++say!
++looks
++her-
++girl;
+ pretty
+ face
+ hid
+ from
++lonely
++-
++girl!
++smiles

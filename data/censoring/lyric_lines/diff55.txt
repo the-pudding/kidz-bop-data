@@ -1,0 +1,54 @@
+--- og51.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb55.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -1,6 +1,6 @@
+ seems
+-like
+ just
++like
+ yesterday
+ you
+ were
+@@ -21,7 +21,6 @@
+ around
+ tight
+ everything
+-it
+ felt
+ right
+ unbreakable
+@@ -36,7 +35,7 @@
+ sleep
+ im
+ barely
+-hangin
++hanging
+ on
+ here
+ am
+@@ -66,9 +65,7 @@
+ hazel
+ eyes
+ told
+-everything
+ opened
+-up
+ and
+ let
+ in
+@@ -83,14 +80,15 @@
+ left
+ is
+ what
++sewn
+ together
+ cause
+ swallow
++me
+ then
+ spit
+ out
+ hating
+-you
+ blame
+ myself
+ seeing

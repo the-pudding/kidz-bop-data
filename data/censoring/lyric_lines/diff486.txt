@@ -1,0 +1,91 @@
+--- og464.txt	2020-02-06 19:31:21.000000000 -0800
++++ kb486.txt	2020-02-06 19:31:27.000000000 -0800
+@@ -1,6 +1,9 @@
++tell
++me
++something
++me
+ everybody
+ tells
+-me
+ that
+ its
+ so
+@@ -21,12 +24,12 @@
+ i
+ shouldnt
+ believe
++in
+ the
+ dreams
+ dreaming
+ hear
+-every
+-day
++everyday
+ all
+ time
+ never
+@@ -38,12 +41,11 @@
+ change
+ my
+ mind
+-tell
+-me
++oh
+ something
+ dont
+ know
+-like
++know
+ how
+ many
+ inches
+@@ -55,6 +57,7 @@
+ get
+ not
+ treat
++like
+ child
+ baby
+ doing
+@@ -62,32 +65,30 @@
+ life
+ pursuing
+ odds
+-id
++ill
+ be
+ losing
+ one
+ million
+ billion
+ zillion
+-selena
++she
+ hit
+ track
+-katrina
++surfer
+ making
+ waves
+ cold
+ medina
+-them
++em
+ say
+-"im
+-ready!"
+-are
+ ready
++are
+ for
+ it
+-yeah
+-it
++yes
+ really
++lets
+ on
+ there
+ someday

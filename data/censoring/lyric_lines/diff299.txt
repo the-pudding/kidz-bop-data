@@ -1,0 +1,68 @@
+--- og289.txt	2020-02-06 19:31:21.000000000 -0800
++++ kb299.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -52,9 +52,9 @@
+ im
+ gonna
+ love
+-you
+ lose
+ hold
++you
+ saying
+ goodbye
+ wherever
+@@ -71,8 +71,6 @@
+ run
+ out
+ time
+-lose
+-you
+ the
+ blink
+ an
+@@ -85,10 +83,10 @@
+ truth
+ is
+ ill
+-kiss
++stay
++here
+ longer
+-babe
+-hey
++baby
+ any
+ chance
+ get
+@@ -96,30 +94,15 @@
+ most
+ minutes
+ no
+-regret
++regrets
+ lets
+ our
+ to
+ say
+ what
+ want
+-say
+-want
+ use
+ got
+ before
+ its
+ gone
+-oh
+-no
+-no
+-standing
+-yeah
+-im
+-you
+-like
+-love
+-hey
+-oh
+-baby
+-oh

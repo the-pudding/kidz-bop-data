@@ -1,0 +1,47 @@
+--- og445.txt	2020-02-06 19:31:21.000000000 -0800
++++ kb468.txt	2020-02-06 19:31:27.000000000 -0800
+@@ -44,11 +44,11 @@
+ calling
+ you
+ my
+-lover
++other
+ move
+ on
+ watch
+-bleed
++run
+ until
+ cant
+ breathe
+@@ -75,13 +75,13 @@
+ drawn
+ flame
+ oh
+-lured
++pulled
+ in
+ couldnt
+ sense
+ the
+ pain
+-bitter
++beating
+ heart
+ cold
+ touch
+@@ -90,8 +90,8 @@
+ what
+ sow
+ seeing
+-red
+ own
++lover
+ needle
+ thread
+ gotta
+@@ -101,3 +101,4 @@
+ wind
+ up
+ dead
++bleed

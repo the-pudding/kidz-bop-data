@@ -1,0 +1,69 @@
+--- og355.txt	2020-02-06 19:31:21.000000000 -0800
++++ kb364.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -28,8 +28,8 @@
+ lot
+ of
+ love
+-spread
+-it
++hang
++around
+ me
+ never
+ pick
+@@ -54,6 +54,8 @@
+ youre
+ mine
+ we
++let
++it
+ be
+ now
+ gon
+@@ -61,13 +63,9 @@
+ never
+ hey
+ hey
+-hold
+-down
+-down
+-forever
+ said
+ keep
+-around
++forever
+ im
+ turnin
+ off
+@@ -75,7 +73,8 @@
+ callin
+ night
+ wishin
+-were
++spent
++day
+ in
+ different
+ town
+@@ -83,19 +82,10 @@
+ weve
+ all
+ could
+-spit
++spell
+ for
+ tryna
+ talk
+ wall
+ tear
+-yeah
+-take
+-no
+-more
+-make
+-your
+-mind
+-decide
+-something
+-let
++down

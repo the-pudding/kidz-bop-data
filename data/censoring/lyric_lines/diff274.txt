@@ -1,0 +1,57 @@
+--- og240.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb274.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -1,4 +1,3 @@
+-yeah
+ you
+ are
+ my
+@@ -28,14 +27,16 @@
+ me
+ why
+ aint
+-nothing
++nothin
+ a
+ heartache
+ mistake
+ never
++wanna
+ hear
+ am
+ fire
++desire
+ yes
+ know
+ its
+@@ -44,26 +45,22 @@
+ now
+ can
+ see
+-were
+-falling
++weve
++fallen
+ from
+ used
+ be
++yeah
+ no
+ matter
+ distance
++know
+ deep
+ down
+ inside
+ of
+-you
+ are
+-are
+-dont
+-wanna
+-nothin
+ dont
++i
+ say
+-oh
+-yeah
+ cause

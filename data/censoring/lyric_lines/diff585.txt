@@ -1,0 +1,101 @@
+--- og548.txt	2020-02-06 19:31:22.000000000 -0800
++++ kb585.txt	2020-02-06 19:31:27.000000000 -0800
+@@ -13,8 +13,6 @@
+ an
+ open
+ heart
+-im
+-awake
+ how
+ did
+ read
+@@ -23,7 +21,7 @@
+ wrong
+ and
+ now
+-it’s
++its
+ clear
+ to
+ me
+@@ -31,7 +29,7 @@
+ everything
+ you
+ see
+-ain’t
++aint
+ always
+ what
+ it
+@@ -43,29 +41,28 @@
+ knew
+ then
+ know
+-wouldn’t
++wouldnt
+ dive
+-in
+ bow
+ down
+ gravity
+ hurts
+ made
+ sweet
+-‘til
++till
+ woke
+ up
+ on
+-on
+ concrete
+ from
+ cloud
+-nine
++9
+ crashing
+ high
+ letting
+ go
+ tonight
++yeah
+ not
+ losing
+ any
+@@ -80,30 +77,22 @@
+ nothing
+ complete
+ myself
+-no
++nooohooo
+ am
+ born
+ again
+-out
+-of
++outta
+ lions
+ den
+ dont
+ have
+ pretend
+-and
+-its
+ too
+ late
+ storys
+ over
+ now
+ end
+-wouldnt
+-til
+-it
+-blue
+-im
+ yeah
+ go
+ thunder
+@@ -121,4 +110,3 @@
+ but
+ blind
+ anymore
+-know

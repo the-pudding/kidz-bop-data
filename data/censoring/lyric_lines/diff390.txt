@@ -1,0 +1,129 @@
+--- og655.txt	2020-02-06 19:31:21.000000000 -0800
++++ kb390.txt	2020-02-06 19:31:27.000000000 -0800
+@@ -15,7 +15,7 @@
+ enough
+ guess
+ considering
+-everythings
++everything’s
+ a
+ mess
+ theres
+@@ -34,6 +34,7 @@
+ ill
+ just
+ drive
++it’s
+ colder
+ than
+ it
+@@ -44,30 +45,38 @@
+ try
+ remember
+ gone
+-when
+-ya
++pinch
++me
++then
+ scream
+ only
+ comes
+ out
+ as
+ yawn
++im
++still
++asleep
++when
+ see
+ world
+ beyond
+ your
+ front
+ door
++please
++god
+ take
+-because
++time
++is
+ way
+-rhymes
++rhyme
+ gonna
+ make
+ smile
++tell
+ realize
+ that
+-with
+ guy
+ my
+ size
+@@ -77,7 +86,6 @@
+ what
+ all
+ this
+-is
+ for
+ day
+ throw
+@@ -89,6 +97,7 @@
+ and
+ run
+ through
++with
+ gym
+ shorts
+ drink
+@@ -97,7 +106,7 @@
+ change
+ into
+ some
+-drier
++dryer
+ clothes
+ climb
+ stairs
+@@ -107,24 +116,26 @@
+ afternoon
+ pinch
+ me
+-im
+-still
++cause
++i’m
+ asleep
+ please
+ god
+ tell
++me
+ an
+ evening
+ such
+ hard
+ if
+ exist
+-packed
++pack
+ car
+ leave
+ town
+-wholl
++who’ll
+ notice
++im
+ not
+ around
+ hide
+@@ -132,7 +143,8 @@
+ there
+ made
+ say
+-underwear
++"underwear"
+ stay
+ stuffs
+ anyway
++world

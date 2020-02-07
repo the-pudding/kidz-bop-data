@@ -1,0 +1,20 @@
+--- og641.txt	2020-02-06 19:31:21.000000000 -0800
++++ kb321.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -29,7 +29,6 @@
+ sea
+ keep
+ with
+-me
+ heart
+ make
+ it
+@@ -76,8 +75,8 @@
+ kiss
+ ill
+ wait
+-you
+ promise
++you
+ will
+ were
+ way

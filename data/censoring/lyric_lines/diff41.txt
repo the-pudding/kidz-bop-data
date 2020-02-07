@@ -1,0 +1,107 @@
+--- og576.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb41.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -6,16 +6,15 @@
+ in
+ michigan
+ and
+-he
+-tastes
+-like
+-jack
++it
++takes
++me
+ when
+-im
+-kissing
++i
++think
++of
+ him
+ so
+-i
+ told
+ that
+ never
+@@ -27,18 +26,17 @@
+ hes
+ gone
+ calling
+-me
+-bitch
++to
++talk
+ again
+ theres
+-guy
+ lives
+ the
+ garden
+ state
++he
+ wed
+ make
+-it
+ til
+ we
+ graduate
+@@ -48,7 +46,7 @@
+ worth
+ wait
+ but
+-wants
++says
+ kitchen
+ with
+ dinner
+@@ -57,12 +55,10 @@
+ believe
+ were
+ meant
+-to
+ jealousy
+ jealousy
+ get
+ best
+-of
+ look
+ dont
+ mean
+@@ -73,6 +69,7 @@
+ yeah
+ mistakes
+ cause
++im
+ bad
+ at
+ love
+@@ -90,7 +87,7 @@
+ one
+ could
+ finally
+-fix
++win
+ lookin
+ my
+ history
+@@ -106,10 +103,8 @@
+ mine
+ because
+ fell
+-little
+-thin
+-white
+-lines
++another
++guy
+ london
+ an
+ attitude
+@@ -122,7 +117,6 @@
+ better
+ things
+ do
+-think
+ about
+ riding
+ through

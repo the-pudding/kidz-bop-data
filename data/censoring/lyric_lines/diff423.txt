@@ -1,0 +1,96 @@
+--- og408.txt	2020-02-06 19:31:21.000000000 -0800
++++ kb423.txt	2020-02-06 19:31:27.000000000 -0800
+@@ -11,15 +11,14 @@
+ limits
+ craves
+ attention
+-praises
+-an
++she praises an
+ image
+-prays
++prays to
+ sculpted
+ by
+ the
+ sculptor
+-oh
++oh she
+ dont
+ see
+ light
+@@ -43,11 +42,11 @@
+ up
+ pain
+ and
+-cut
++hold
+ woes
+ away
+ cause
+-covergirls
++girls
+ cry
+ after
+ their
+@@ -78,49 +77,36 @@
+ beautiful
+ were
+ stars
+-oh
+ oh-oh
+-has
+-dreams
+-envy
+-shes
+-starving
+-know
+-eat
+-nothing
+-says
+-"beauty
+-beauty
+-everything"
+-"whats
+-little
+-bit
+-of
+-hunger"
+-"i
+-go
+-while
+-longer"
+-fades
++oh-oh
+ perfect
+ understand
++shes
+ worth
+ or
+ that
++beauty
+ surface
++oh
++oh
+ all
+-girls
+ hurting
+ let
+ me
+ mirror
+ help
++little
++bit
+ clearer
+ shines
+ within
+ better
++no
++are
+ life
+ living
++living
+ time
+ shine
+ star
++star

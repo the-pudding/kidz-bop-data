@@ -1,0 +1,45 @@
+--- og658.txt	2020-02-06 19:31:21.000000000 -0800
++++ kb408.txt	2020-02-06 19:31:27.000000000 -0800
+@@ -1,4 +1,4 @@
+-rockin
++rocking
+ around
+ the
+ christmas
+@@ -12,7 +12,7 @@
+ you
+ can
+ see
+-evry
++every
+ couple
+ tries
+ to
+@@ -38,23 +38,21 @@
+ hear
+ voices
+ singing
+-"lets
++lets
+ be
+ jolly
+--
+ deck
+ halls
+ with
+ boughs
+ of
+-holly!"
++holly
+ happy
+ holiday
+-everyones
++everyone
+ dancing
+ merrily
+ in
+ new
+-old
+-fashioned
++old-fashioned
+ way

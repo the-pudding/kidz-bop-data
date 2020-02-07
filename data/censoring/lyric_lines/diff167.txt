@@ -1,0 +1,169 @@
+--- og160.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb167.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -1,37 +1,23 @@
+-somebody
+-call
+-9-1-1
+-shawty
+ fire
+ burning
+-on
+-the
+-dance
+-floor
+-woh-oha
+-fire
++kidz
++bop
+ burning
+-what
+-a
+-guann
+-kingston
++bop
+ lets
+ go
+ hey
+ hey
+-hey
+-red
+-one
+-hey
+-hey
++shawty
+ got
+ that
+ super
+-thing
++dance
+ hotter
+ than
++the
+ sun
+-of
++in
+ south
+ spain
+ me
+@@ -41,22 +27,19 @@
+ walked
+ through
+ door
+-oha
+ my
+-pocket
++hips
+ started
+-tickle-ing
++wiggling
+ way
+ she
+-dropped
+-it
+-low
+-thang
++around
++girl
+ wanna
+-spend
+-money
+-her
++with
+ her
++all
++night
+ get
+ it
+ pop
+@@ -64,6 +47,7 @@
+ drop
+ birthday
+ cake
++a
+ candle
+ need
+ to
+@@ -75,29 +59,33 @@
+ take
+ red
+ black
+-cord
++card
+ and
+ jewelry
+ is
+ cool
+ like
+ fire
++somebody
++call
++911
++on
++floor
++whoa
+ gotta
++it
+ down
+-gon
+ bring
+ roof
+ ground
+-floor
+-woh-oha
+ shes
+-burning
++floor
+ little
+ shawtys
+-body
++move
+ masterpiece
+ order
+-in
++one
+ every
+ hundred
+ years
+@@ -106,13 +94,12 @@
+ no
+ doubt
+ im
+-taking
+-home
+-home
++dancing
++some
++more
+ afraid
+ well
+-them
+-legs
++chance
+ mama
+ game
+ about
+@@ -122,24 +109,3 @@
+ covers
+ over
+ world
+-world
+-make
+-fellas
+-run
+-around
+-exit
+-from
+-so
+-boys
+-want
+-more
+-around
+-day
+-outta
+-way
+-everybody
+-sing
+-more
+-whats
+-boy
+-go

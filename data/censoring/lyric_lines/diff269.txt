@@ -1,0 +1,167 @@
+--- og264.txt	2020-02-06 19:31:21.000000000 -0800
++++ kb269.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -1,6 +1,4 @@
+-oh
+-yeah
+-i
++ive
+ been
+ looking
+ under
+@@ -14,11 +12,12 @@
+ ya
+ like
+ a
+-maniac
++manic
+ insomniac
+ 5
+ steps
+ behind
++you
+ tell
+ them
+ other
+@@ -31,6 +30,7 @@
+ check
+ please
+ cause
++i
+ finally
+ found
+ girl
+@@ -44,58 +44,56 @@
+ award
+ thats
+ how
+-you
+ mean
+ to
+ me
++chorus
++could
+ be
+ it
+-girl
+ baby
+-shit
+-loving
+-could
+-crime
++youre
++hang
++with
++well
++fine
+ crazy
+ we
+ fit
+ this
+ is
+-it
+-give
+-25
++youre
++bringing
++so
+ life
+ wanna
+-rock
++dance
+ all
+ night
+ long
+ put
+ in
+ middle
++of
+ spotlight
+-youre
+ biggest
+-hit
+ let
+ play
+ loud
+-loud
++like
++oh
+ cant
+ help
+ but
+-turn
+-heads
+-knocking
+-em
++get
++ahead
++knockin
+ dead
+ dropping
+ flies
+ around
+ if
+-get
+-your
+-body
++ever
+ close
+ not
+ letting
+@@ -104,13 +102,13 @@
+ about
+ guys
+ lose
++your
+ number
+-done
++done!
+ dont
+ another
+ shot
+ love
+-drunk
+ tv
+ show
+ playing
+@@ -118,12 +116,7 @@
+ every
+ chance
+ get
+-ima
+-on
+-hey
+-hey
+-yeah
+-oh
++em
+ seem
+ stop
+ from
+@@ -144,25 +137,10 @@
+ got
+ that
+ something
+-with
++something
+ greatest
+ say
++girl
+ hey
+ baby
+ know
+-girl
+-ooh
+-woo
+-woo
+-give
+-life
+-baby
+-ima
+-like
+-baby
+-like
+-hear
+-sing
+-everybody
+-crowd
+-singing

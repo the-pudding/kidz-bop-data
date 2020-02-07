@@ -1,0 +1,36 @@
+--- og263.txt	2020-02-06 19:31:21.000000000 -0800
++++ kb268.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -1,7 +1,7 @@
+ your
+ subtleties
+ they
+-strangle
++bother
+ me
+ i
+ cant
+@@ -52,7 +52,6 @@
+ least
+ fall
+ what
+-can
+ youre
+ finding
+ things
+@@ -61,8 +60,9 @@
+ know
+ look
+ with
+-such
+-disdain
++so
++much
++pain
+ just
+ little
+ insight
+@@ -88,4 +88,3 @@
+ thoughts
+ locked
+ inside
+-first

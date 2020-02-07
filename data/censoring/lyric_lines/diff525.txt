@@ -1,0 +1,23 @@
+--- og697.txt	2020-02-06 19:31:22.000000000 -0800
++++ kb525.txt	2020-02-06 19:31:27.000000000 -0800
+@@ -3,7 +3,7 @@
+ think
+ that
+ im
+-stupid
++silly
+ a
+ fool
+ new
+@@ -77,11 +77,8 @@
+ my
+ innocence
+ soul
+-l
+ no
+ youll
+ see
+ no
+ cry
+-no
+-ahhh

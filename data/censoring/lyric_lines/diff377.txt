@@ -1,0 +1,65 @@
+--- og649.txt	2020-02-06 19:31:21.000000000 -0800
++++ kb377.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -1,5 +1,4 @@
+ yeah
+-yeah
+ i
+ think
+ did
+@@ -36,9 +35,8 @@
+ so
+ typically
+ me
+-ooh
+ baby
+-oops!
++oops!i
+ played
+ with
+ your
+@@ -48,7 +46,7 @@
+ in
+ the
+ game
+-oops
++oops!you
+ love
+ sent
+ from
+@@ -69,13 +67,11 @@
+ watching
+ days
+ cant
+-see
+ fool
+ many
+ ways
+-oh
+ "all
+-aboard!"
++aboard"
+ "britney
+ before
+ go
+@@ -85,7 +81,7 @@
+ have"
+ "oh
+ its
+-beautiful!
++beautiful
+ wait
+ minute
+ isnt
+@@ -106,10 +102,7 @@
+ down
+ and
+ for
+-ya"
+-"aw
++you"
+ shouldnt
+-this
++heart
+ game
+-oops
+-you

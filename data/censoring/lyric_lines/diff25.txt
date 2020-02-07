@@ -1,0 +1,102 @@
+--- og26.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb25.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -1,29 +1,27 @@
+-ooh
+-ooh
+ am
+ i
+ wrong
+ for
+-thinkin
++thinking
+ out
+ the
+ box
+ from
+ where
+ stay
+-sayin
++saying
+ that
+ choose
+ another
+ way
+ aint
+-tryin
++trying
+ to
+ do
+ what
+ everybody
+ else
+-doin
++doing
+ just
+ cause
+ they
+@@ -32,7 +30,6 @@
+ one
+ thing
+ know
+--
+ ill
+ fall
+ but
+@@ -47,6 +44,7 @@
+ call
+ home
+ so
++wrong
+ we
+ could
+ be
+@@ -60,25 +58,19 @@
+ thats
+ how
+ feel
+-ooh
+-ooh
+-trying
+-see
+-see
+ see
+-trippin
++crazy
+ having
+ a
+ vision
+ my
+-prediction
++prediction:
+ ima
+ on
+ top
+ world
+ walk
+ your
+-walk
+ and
+ dont
+ look
+@@ -90,8 +82,6 @@
+ them
+ control
+ life
+-feel
+-oh
+ fight
+ yours
+ go
+@@ -106,7 +96,6 @@
+ wrong
+ oh
+ yeah
+-oh
+ yeah
+ tell
+ me
+@@ -114,4 +103,3 @@
+ wanna
+ right
+ right
+-

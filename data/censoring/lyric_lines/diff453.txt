@@ -1,0 +1,65 @@
+--- og435.txt	2020-02-06 19:31:21.000000000 -0800
++++ kb453.txt	2020-02-06 19:31:27.000000000 -0800
+@@ -1,8 +1,6 @@
+-payback
+-is
+-a
+-bad
+-bitch
++paybacks
++gonna
++happen
+ and
+ baby
+ im
+@@ -19,7 +17,8 @@
+ like
+ revenge
+ feelin
+-ten
++a
++win
+ best
+ ive
+ ever
+@@ -29,6 +28,7 @@
+ i
+ know
+ how
++bad
+ it
+ must
+ hurt
+@@ -52,8 +52,10 @@
+ youll
+ never
+ get
++paybacks
++havin
+ you
+-fuckin
++dealin
+ with
+ savage
+ cant
+@@ -88,6 +90,7 @@
+ fire
+ burns
+ fineness
++is
+ way
+ kill
+ tell
+@@ -114,10 +117,11 @@
+ as
+ technicolor
+ can
++from
++heaven
+ talk
+ talk
+ baby
+ walk
+ walk
+ if
+-oh

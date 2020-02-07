@@ -1,0 +1,39 @@
+--- og718.txt	2020-02-06 19:31:22.000000000 -0800
++++ kb592.txt	2020-02-06 19:31:27.000000000 -0800
+@@ -18,7 +18,7 @@
+ time
+ partys
+ on
+-feelings
++feelins
+ that
+ only
+ comes
+@@ -29,14 +29,7 @@
+ children
+ sing
+ their
+-song
+-they
+-practised
+-all
+-long
+-ding
+-dong
+-dong
++songs
+ word
+ out
+ about
+@@ -47,4 +40,11 @@
+ dont
+ look
+ down
++they
+ practiced
++all
++long
++ding
++dong
++dong
++christmastime

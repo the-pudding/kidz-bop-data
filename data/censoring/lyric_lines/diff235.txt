@@ -1,0 +1,20 @@
+--- og227.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb235.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -45,11 +45,9 @@
+ know
+ what
+ ring
+-ring
+ telephone
+ lights
+ are
+-on
+ but
+ theres
+ one
+@@ -82,5 +80,3 @@
+ late
+ thing
+ call
+-so
+-slowly

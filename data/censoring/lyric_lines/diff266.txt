@@ -1,0 +1,71 @@
+--- og261.txt	2020-02-06 19:31:21.000000000 -0800
++++ kb266.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -6,25 +6,25 @@
+ i
+ get
+ real
+-down
+-high
++up
+ dont
+ come
++but
+ angry
+-baby
++yeah
+ believe
+ me
+ could
+-love
++work
++with
+ you
+ just
+ like
+ that
+ and
+-leave
++not
+ as
+ fast
+-but
+ judge
+ cause
+ if
+@@ -50,10 +50,11 @@
+ problems
+ we
+ kind
++brain
+ it
+ takes
+ solve
+-yeah
++issues
+ one
+ them
+ is
+@@ -61,12 +62,11 @@
+ bad
+ need
+ do
+-shit
++things
+ on
+ purpose
+ mad
+ break
+-things
+ feel
+ bad
+ try
+@@ -89,8 +89,7 @@
+ point
+ view
+ i
+-issues
+-too
+ got
+ you
++too
+ issues

@@ -1,0 +1,74 @@
+--- og96.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb104.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -25,14 +25,14 @@
+ right
+ before
+ we
+-crash
++fall
+ cause
+ both
+ know
+ how
+ this
+ ends
+-our
++a
+ clock
+ ticks
+ til
+@@ -40,8 +40,8 @@
+ your
+ glass
+ and
+-i
+-drown
++im
++lost
+ in
+ you
+ again
+@@ -49,6 +49,7 @@
+ piece
+ of
+ me
++i
+ wish
+ didnt
+ need
+@@ -57,6 +58,7 @@
+ dont
+ why
+ if
++our
+ love
+ is
+ tragedy
+@@ -65,11 +67,14 @@
+ loves
+ insanity
+ clarity
++hey-ay
++hey-ay-ay
++hey-ay
++hey
+ walk
+ on
+ through
+-a
+-red
++big
+ parade
+ refuse
+ make
+@@ -90,9 +95,7 @@
+ what
+ well
+ choose
+-pull
++push
+ then
+ ill
+-push
+ too
+-fall

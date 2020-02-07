@@ -1,0 +1,27 @@
+--- og518.txt	2020-02-06 19:31:22.000000000 -0800
++++ kb548.txt	2020-02-06 19:31:27.000000000 -0800
+@@ -55,9 +55,7 @@
+ finding
+ myself
+ didnt
+-know﻿
+ lost
+-﻿i
+ tried
+ carrying
+ weight
+@@ -82,11 +80,13 @@
+ afraid
+ close
+ lifes
+-game﻿
++game
+ made
+ for
+ everyone
+ love
+ is
+ prize
++didnt
++know
+ know

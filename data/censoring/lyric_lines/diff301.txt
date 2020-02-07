@@ -1,0 +1,98 @@
+--- og633.txt	2020-02-06 19:31:21.000000000 -0800
++++ kb301.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -1,32 +1,32 @@
+ honey
+ why
+ you
+-callin’
++calling
+ me
+ so
+ late
+-it’s
++its
+ kinda
+ hard
+ to
+ talk
+ right
+ now
+-cryin’
++crying
+ is
+-every-thing
++everything
+ okay
+ i
+ gotta
+ whisper
+ cause
+-can’t
++cant
+ be
+ too
+ loud
+ well
+ my
+-girl’s
++girls
+ in
+ the
+ next
+@@ -45,18 +45,18 @@
+ hear
+ your
+ voice
+-sayin’
++saying
+ name
+ it
+ sounds
+ sweet
+-comin’
++coming
+ from
+ lips
+ of
+ an
+ angel
+-hearin’
++hearing
+ those
+ words
+ makes
+@@ -68,28 +68,26 @@
+ but
+ girl
+ make
+-faithful
++grateful
+ with
+-it‘s
+ funny
+ that
+-you’re
++youre
+ tonight
+ yes
+-i’ve
++ive
+ dreamt
+ does
+ he
+ know
+-talkin’
++talking
++me
+ will
+ start
+ a
+ fight
+ no
+-don’t
++dont
+ think
+ has
+ clue
+-and
+-goodbye

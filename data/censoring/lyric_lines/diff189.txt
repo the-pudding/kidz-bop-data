@@ -1,0 +1,39 @@
+--- og183.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb189.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -24,7 +24,6 @@
+ came
+ came
+ came
+-came
+ cast
+ a
+ spell
+@@ -50,7 +49,6 @@
+ see
+ turn
+ lights
+-now
+ ill
+ take
+ by
+@@ -62,7 +60,6 @@
+ spend
+ little
+ time
+-time
+ slipping
+ away
+ from
+@@ -70,7 +67,8 @@
+ stay
+ with
+ make
+-
+-oh
+-oh
+-oh
++came
++no-one
++oh-oh-oh-oh
++oh-oh-oh-oh
++oh-oh-oh-oh

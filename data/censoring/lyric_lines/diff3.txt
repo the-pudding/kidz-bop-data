@@ -1,0 +1,73 @@
+--- og1.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb3.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -14,8 +14,8 @@
+ of
+ our
+ exes
+-uh-uh
+-uh-uh
++uh
++uh
+ for
+ breakfast
+ at
+@@ -44,8 +44,7 @@
+ forget
+ about
+ deadlines
+-time
+-oh-oh
++oh!
+ i
+ dont
+ know
+@@ -59,17 +58,16 @@
+ be
+ alright
+ if
+-you
+ keep
+ me
+ next
+-me
+ ill
+ bet
+ want
+ just
+ dancing
+ 22
++ooh-ooh
+ seems
+ one
+ those
+@@ -98,23 +96,20 @@
+ way
+ heartbreaks
+ hey!
+-ooh
+ alright
+ oh
+ oh
+-i
+-you
+ wont
+ look
+ bad
+ news
+ gotta
+ have
+-ooh
+-whoa
+-dancing
+-like
+-yeah
+-yeah
+-yeah
++ooh-ooh
++ye-e-e-e-eah
++hey
++i
++you
++you
++me
+ yeah

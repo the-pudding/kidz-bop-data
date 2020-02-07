@@ -1,0 +1,279 @@
+--- og599.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb150.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -7,9 +7,6 @@
+ first
+ string
+ a-team
+-whoa
+-whoa
+-whoa
+ game
+ big
+ reputation
+@@ -21,7 +18,7 @@
+ we
+ got
+ reputations
+-ah
++ahh
+ heard
+ about
+ ooh
+@@ -32,6 +29,7 @@
+ would
+ a
+ conversation
++ah
+ git
+ git
+ you
+@@ -40,159 +38,102 @@
+ bad
+ ones
+ too
+-so
+-dope
+-dont
+-overdose
+-i’m
+-stoked
+-need
+-toast
+-do
+-most
+-im
+-in
+-ghost
+-whippin’
+-boat
+-girl
+-that
+-precede
+-one
+-call
+-away
+-whenever
+-g5
+-yeah
+-come
+-to
+-a-side
+-boy
+-persona
+-thats
+-what
+-they
+-what
+-like
+-love
+-it
+-it
+-cause
+-my
+-type
+-you
+-type
+-hold
+-down
+-protect
+-with
+-life
+-touch
+-just
+-another
+-ex-love
+-don’t
+-see
+-miss
+-i
+-you
+-other
+-girls
+-hurt
+-drinking
+-on
+-beach
+-all
+-over
+-know
+-say
+-say
+-but
+-aint
+-tryna
+-play
+-end
+-game
+-first
+-string
+-a-team
+-knew
+-her
++now
++well
+ when
+ was
+ young
+-reconnected
++connected
+ were
+ little
+ bit
+ older
+ both
+-sprung
++done
+ issues
+ chips
++on
+ of
++my
+ shoulders
+ precedes
+-rumors
+-knee-deep
++rumours
++are
++knee
++deep
+ truth
+ is
+ its
+ easier
++to
+ ignore
++it
+ believe
+-even
+-we’d
+-argue
+-wed
+-not
+-for
+-long
+-understand
+-good
+-up
+-song
+-beautiful
+-traits
+-way
+-ease
+-flaws
+-paranoia
+-insecurities
+-ive
+ made
+ mistakes
+ choices
++thats
+ hard
+ deny
+ after
+ storm
+ something
+ born
+-4th
++fourth
+ july
++ive
+ passed
+ days
+ without
+ fun
+ this
+-is
++one
++with
+ four
+ words
+ tip
+ tongue
+-ill
+ never
+ say
++it
++dont
++lose
++just
++another
++ex-love
++see
++miss
++i
++you
++other
++girls
++do
++hurt
++walking
++beach
++right
++next
++know
++what
++they
++all
++say
+ yeah
++but
++aint
++tryna
++play
++end
++game
+ wanna
+-hey
++string
++a-team
+ hit
+ bang
+ tried
+ forget
+ couldnt
+-bury
++buried
+ hatchets
+ keep
+ maps
+@@ -200,19 +141,19 @@
+ put
+ em
+ told
++im
+ crazy
+ swear
++love
+ drama
+ loves
+ cant
+ let
+ go
+-hand
+-prints
++handprints
+ soul
+ eyes
+-are
+-liquor
++bigger
+ body
+ gold
+ youve
+@@ -221,13 +162,14 @@
+ bluff
+ usual
+ tricks
++so
+ heres
+ from
+-red
++own
+ lips
+ me
+ be
+ now
+-a-team
+ oh
+ do
++first

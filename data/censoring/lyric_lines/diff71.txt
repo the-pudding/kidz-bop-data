@@ -1,0 +1,70 @@
+--- og581.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb71.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -1,10 +1,12 @@
+ yo
+ listen
+-up
+-heres
+-a
++up!
++here
++is
++the
+ story
+ about
++a
+ little
+ guy
+ that
+@@ -19,7 +21,6 @@
+ everything
+ he
+ sees
+-is
+ just
+ like
+ him
+@@ -31,6 +32,7 @@
+ window
+ corvette
+ for
++him
+ himself
+ everybody
+ around
+@@ -43,15 +45,13 @@
+ listen
+ listen
+ im
+-–
+ da
+ ba
+ dee
+-dye
+-dye
++di
+ i
+ have
+-the
++house
+ color
+ of
+ wear
+@@ -63,11 +63,10 @@
+ she
+ so
+ people
+-here
+ walk
+ my
+-corvette
+ its
++sitting
+ words
+ say
+ what
+@@ -75,4 +74,3 @@
+ feelings
+ live
+ me
+-hisself

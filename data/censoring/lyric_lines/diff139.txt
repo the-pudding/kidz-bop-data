@@ -1,0 +1,63 @@
+--- og131.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb139.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -26,17 +26,16 @@
+ in
+ a
+ fight
+-cause
++cuz
+ do
+-nothing
++nothin
+ right
+ everyday
+-fight
+ war
+ against
+ mirror
+ person
+-staring
++starin
+ back
+ at
+ im
+@@ -80,7 +79,7 @@
+ of
+ being
+ compared
+-damn
++darn
+ britney
+ spears
+ shes
+@@ -89,27 +88,12 @@
+ just
+ aint
+ doctor
++doctor
+ wont
+ please
+ prescribe
+-something
++somethin
+ day
+ life
+ someone
+-no
+-dont
+-me
+-oh
+-myself
+-yourself
+-so
+-irritating
+-dont
+-dont
+-let
+-let
+-its
+-bad
+-bad
+-oh
+-ahh
++else

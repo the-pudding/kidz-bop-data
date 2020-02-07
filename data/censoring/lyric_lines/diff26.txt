@@ -1,0 +1,48 @@
+--- og11.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb26.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -28,8 +28,9 @@
+ im
+ crazy
+ when
++your
+ love
+-has
++is
+ come
+ here
+ and
+@@ -61,31 +62,25 @@
+ explain
+ well
+ may
+-be
+-dreamin
+-till
++dreaming
++til
+ awake
+ can
+ we
+ make
++the
+ dream
+ last
+ forever
+ ill
+ cherish
+-the
+ share
+ could
+ greatest
+ of
+-all
+ wanna
+ know
+ will
+ catch
+ fall
+-fall
+ let
+-moment
+-a
+-like

@@ -1,0 +1,228 @@
+--- og125.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb133.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -1,14 +1,19 @@
++uh
++check
++it
++it
+ i
+ love
+ you
+ and
+ need
+ nelly
++i
++you
+ do
+ no
+ matter
+ what
+-woo!
+ all
+ think
+ about
+@@ -20,6 +25,7 @@
+ my
+ boo
+ boy
++ya
+ know
+ crazy
+ over
+@@ -35,20 +41,21 @@
+ block
+ from
+ me
+-uh
+ got
+ hots
+ for
++me
+ finest
+ thing
+-hood
+-done
++ive
++ever
+ seen
+ but
+ oh
+ no
+-a
++gotta
+ man
++a
+ son
+ though
+ thats
+@@ -60,76 +67,77 @@
+ play
+ position
+ like
+-shortstop
++short
++stop
+ pick
+-erything
+-mami
++everything
++mommy
+ hittin
+ in
+ time
+-plan
+-to
++gonna
+ make
+-one
+-here
++friend
+ mine
+ sure
+ never
+ been
+ type
+-break
++to
++break-up
+ happy
+ home
+-uh
+-theres
+ somethin
+ bout
+ baby
+-girl
++gurl
+ cant
+ leave
+ alone
+ so
+ tell
+-me
+ ma
+ whats
+-it
+-gonna
+ be
+-said:
+-you
++sshe
++said
++"you
+ dont
+ mean
+-me
+-uh
+-huh
++me"
++boy
+ see
+ lot
+-look
++lookin
+ say
+ word
+ how
+ niggas
+-start
+-actin
++thought
+ trippin
+-out
+-they
++hurt
++on
++their
+ girls
+-way
++theres
++way-ay
+ nelly
+-gon
+-fight
++go
++i
++aint
++fightin
++ova
+ dame
++fight
++dame-ame
+ as
+ can
+-see
+ your
+-steez
++steeze
+ style
+ whole
+ demeanor
++way
+ come
+ through
+ holla
+@@ -141,52 +149,46 @@
+ special
+ ways
+ thank
+-ya
+ forget
+-aint
+ that
+ easy
+ pack
+ him
+-dirty
+ ties
+ different
+ reasons
+ respect
+-that
+ before
+-turn
++turned
+ said
+ sing
+-k!
++kelly
+ word
+-i…
+-you
+-do…
+-come
+-on
++do
+ girl
+ its
+ more
+ than
+ youll
+-ever
++sure
+ always
+ count
+-on
+ forever
+-more
+-yeah
+ yeah
+ east
+ coast
++sunny
+ shakin
+ down
+ south
++funny
+ bouncin
+ west
+ walkin
+-midwest
++mid
++west
+ swingin
+-right
+ still
++dirty
++coz
++yeah

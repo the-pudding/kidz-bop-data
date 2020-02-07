@@ -1,0 +1,38 @@
+--- og84.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb94.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -1,5 +1,4 @@
+ la
+-la
+ i
+ just
+ cant
+@@ -11,7 +10,7 @@
+ head
+ boy
+ your
+-lovin
++loving
+ is
+ all
+ think
+@@ -21,7 +20,6 @@
+ than
+ dare
+ to
+-loving
+ every
+ night
+ day
+@@ -32,7 +30,6 @@
+ wont
+ stay
+ lay
+-stay
+ forever
+ and
+ ever
+@@ -50,4 +47,3 @@
+ feel
+ the
+ need
+-free

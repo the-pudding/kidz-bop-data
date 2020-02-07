@@ -1,0 +1,52 @@
+--- og73.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb82.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -1,10 +1,13 @@
+-whoa
+-oh
++whoa-oh-oh-ohh
++whoa-oh-oh-ohh
+ now
+ listen
+ to
+ me
+ baby
++oh
++oh
++oh
+ before
+ i
+ love
+@@ -13,6 +16,7 @@
+ you
+ they
+ call
++me
+ heart
+ breaker
+ dont
+@@ -33,17 +37,18 @@
+ the
+ start
+ baby
+-start
+ only
+ gonna
+ break
++break
+ your
+ theres
+ no
+ point
+-trying
++tryna
+ hide
+ it
++trying
+ evade
+ know
+ got
+@@ -64,4 +69,3 @@
+ born
+ be
+ bone
+-me

@@ -1,0 +1,126 @@
+--- og456.txt	2020-02-06 19:31:21.000000000 -0800
++++ kb479.txt	2020-02-06 19:31:27.000000000 -0800
+@@ -5,7 +5,7 @@
+ of
+ my
+ life
+-im
++i’m
+ so
+ much
+ better
+@@ -17,7 +17,9 @@
+ without
+ you
+ but
++im
+ stronger
++i’d
+ broke
+ richer
+ sad
+@@ -27,21 +29,22 @@
+ wouldnt
+ grow
+ wiser
++though
+ helpless
+ smarter
+ stressed
+-chillin
++chillin’
+ sell
+ sold
+-9
++nine
+ million
+ a
+ survivor
+-what
+ not
+ gon
+ give
+ up
++gon’
+ stop
+ work
+ gonna
+@@ -52,8 +55,10 @@
+ keep
+ on
+ survivin
++gon
+ couldnt
+ breathe
++without
+ inhaling
+ see
+ perfect
+@@ -78,12 +83,25 @@
+ years
+ to
+ come
+-wishing
++yeah
++oh
++yeah
++surviving
++yea
++im
++not
++harder
++i
++wishin
++the
++best
+ the
+ best
+ pray
+ are
+ blessed
++whoo
++whoo
+ bring
+ success
+ no
+@@ -91,7 +109,6 @@
+ and
+ lots
+ happiness
+-im
+ than
+ that
+ blast
+@@ -111,24 +128,24 @@
+ mama
+ taught
+ me
++yea
++oh
++oh
++ohh
++ohh
+ after
+ all
+ darkness
+ sadness
+-soon
+ comes
+ if
+ surround
++myself
+ with
+ positive
+ things
+ ill
+ gain
+ prosperity
+-la
+-la
+-la
+-being
+-fine
+-sexy
+-bootylicious
++dont
++now

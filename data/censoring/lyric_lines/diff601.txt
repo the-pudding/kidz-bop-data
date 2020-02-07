@@ -1,0 +1,90 @@
+--- og720.txt	2020-02-06 19:31:22.000000000 -0800
++++ kb601.txt	2020-02-06 19:31:27.000000000 -0800
+@@ -1,5 +1,4 @@
+ la
+-na
+ girl
+ ive
+ been
+@@ -13,12 +12,13 @@
+ im
+ known
+ taking
+-what
+-i
+-think
+-deserve
++that
++on
++floor
+ and
+-youre
++now
++i
++am
+ overdue
+ if
+ listen
+@@ -28,10 +28,10 @@
+ through
+ radio
+ in
+-that
+ bright
+ white
+ noise
++what
+ missing
+ my
+ life
+@@ -46,12 +46,14 @@
+ get
+ up
+ there
+-baddest
+-baby
++best
++dancer
+ atmosphere
+-tell
++show
++how
++dance
+ we
+-do
++move
+ just
+ like
+ make
+@@ -63,13 +65,12 @@
+ to
+ understand
+ cause
+-guy
++boy
+ knows
+-need
+ well
+ then
+-your
+-man
++grab
++hand
+ ooh
+ know
+ flipping
+@@ -77,10 +78,13 @@
+ down
+ take
+ round
++sing
+ it
+ loud
+-cause
++feel
++oh
+ put
++your
+ hands
+ lights
+ drop

@@ -1,0 +1,202 @@
+--- og563.txt	2020-02-06 19:31:22.000000000 -0800
++++ kb598.txt	2020-02-06 19:31:27.000000000 -0800
+@@ -1,5 +1,4 @@
+ baby
+-baby
+ from
+ the
+ day
+@@ -7,7 +6,8 @@
+ saw
+ you
+ really
+-wanna
++wanted
++to
+ catch
+ your
+ eye
+@@ -15,8 +15,10 @@
+ something
+ special
+ bout
++you
+ must
+ like
++cause
+ not
+ a
+ lotta
+@@ -31,7 +33,6 @@
+ kind
+ of
+ crazy
+-cause
+ takin
+ over
+ mind
+@@ -43,9 +44,6 @@
+ know
+ name
+ swear
+-ooh
+-ooh
+-ooh
+ round
+ round
+ we
+@@ -54,6 +52,7 @@
+ ever
+ know
+ oh
++baby
+ see
+ us
+ on
+@@ -81,23 +80,18 @@
+ imaginations
+ runnin
+ wild
+-swear
+-it
+-"im
++im
+ sayin
+ he
+ even
+ what
+ hes
+-to
+ got
+ feelin
+ all
+ inside
+-im
+-feelin
+ like
+-"oww!
++ow
+ more
+ than
+ ive
+@@ -111,7 +105,6 @@
+ front
+ did
+ mention
+-oww!
+ miss
+ good
+ thing
+@@ -124,11 +117,11 @@
+ chance
+ experience
+ lovin
+-oww
+ it
+ no
+ no
+-gonna
++well
++ima
+ just
+ go
+ ahead
+@@ -138,17 +131,15 @@
+ hello
+ can
+ speak
+---
++to
+ michael
+-oh
+ hey
+ doin
+ uh
+ feel
+ kinda
+ silly
+-this
+-uhh
++uh
+ is
+ waitress
+ coffee
+@@ -160,7 +151,6 @@
+ with
+ braids
+ yeah
+-well
+ wednesdays
+ come
+ every
+@@ -170,14 +160,13 @@
+ think
+ always
+ order
+-special
+ hot
+ chocolate
+ manager
+ be
+-tripping
++trippin
+ stuff
+-talking
++talkin
+ gotta
+ use
+ water
+@@ -189,35 +178,34 @@
+ fly
+ blue
+ suit
+-n
+-cuff
+-links
+-shining
++an
++cufflinks
++shinin
+ bright
+ so
+ whatchu
+ do
++oh
+ word
+ thats
+-interesting
++interestin
+ look
+ man
+ mean
++wanna
+ waste
+-time
+-but
+ girls
+ usually
+ do
+ was
+-wondering
++wonderin
+ if
+ maybe
+ could
+ together
+ outside
+ restaurant
+-day
++ya
+ lot
+ different
+ work
+@@ -241,8 +229,7 @@
+ say
+ thursdays
+ perfect
+-man"
++man
+ name
+ mother
+ father
+-like

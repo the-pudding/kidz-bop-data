@@ -1,0 +1,116 @@
+--- og309.txt	2020-02-06 19:31:21.000000000 -0800
++++ kb323.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -1,29 +1,29 @@
+ wake
+ up
++with
+ blood-shot
+-eye
+-struggle
++eyes
++struggled
+ to
+ memorize
+-the
+ way
+ it
+ felt
+-between
+-your
+-thighs
+-pleasure
++hearing
++lies
++people
+ that
+ made
+ you
+ cry
+-feels
++feel
+ so
+ good
+ be
+ bad
+ not
+ worth
++the
+ aftermath
+ after
+ that
+@@ -34,7 +34,6 @@
+ still
+ dont
+ have
+-a
+ reason
+ and
+ time
+@@ -45,7 +44,8 @@
+ if
+ ever
+ gave
+-fuck
++a
++thought
+ about
+ give
+ something
+@@ -60,8 +60,8 @@
+ this
+ is
+ goodbye
+-god
+-damn
++cant
++stop
+ my
+ spinning
+ head
+@@ -71,7 +71,6 @@
+ must
+ lay
+ deal
+-with
+ things
+ ive
+ left
+@@ -86,26 +85,23 @@
+ through
+ behind
+ make
++your
+ move
+ truth
+ try
+ yeah
+ told
+ how
+-feeling
++feelin
+ but
+ its
+ true
+-oh
+-no
+-ho-oh-oh-oh
+ been
+ here
+ before
+ one
+ day
+-ill
+-up
++week
+ wont
+ hurt
+ caught
+@@ -113,7 +109,5 @@
+ no
+ alibi
+ words
+-say
++said
+ meaning
+-oh
+-no

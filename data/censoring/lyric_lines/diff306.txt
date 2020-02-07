@@ -1,0 +1,34 @@
+--- og636.txt	2020-02-06 19:31:21.000000000 -0800
++++ kb306.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -21,7 +21,8 @@
+ kicks
+ in
+ the
+-candlelight
++candle
++light
+ got
+ addiction
+ for
+@@ -70,8 +71,7 @@
+ she
+ will
+ wear
+-come
+-on!
++loca
+ woke
+ up
+ york
+@@ -99,11 +99,9 @@
+ had
+ taste
+ of
+-her
+ youll
+ be
+ same
+ yeah
+ insane
+ brain
+-livin

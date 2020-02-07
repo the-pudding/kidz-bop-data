@@ -1,0 +1,93 @@
+--- og674.txt	2020-02-06 19:31:21.000000000 -0800
++++ kb446.txt	2020-02-06 19:31:27.000000000 -0800
+@@ -16,7 +16,7 @@
+ from
+ nine
+ to
+-five
++five;
+ hey
+ hell
+ pay
+@@ -30,7 +30,7 @@
+ alone
+ in
+ my
+-home
++home;
+ but
+ why
+ do
+@@ -41,16 +41,16 @@
+ zone
+ and
+ somebodys
+-me
+-and
+ have
+ no
+ privacy
++woh
+ it
+ a
+ dream
+ when
+ come
++home
+ at
+ night
+ bolt
+@@ -63,6 +63,7 @@
+ phone
+ trying
+ avoid
++well
+ can
+ tv
+ see
+@@ -89,40 +90,31 @@
+ showers
+ remind
+ of
+-psycho
++"psycho"
+ too
+ much
+ thats
+ why
++
+ playing
+ tricks
+-whos
+-me
+ dont
+ know
+ anymore
+ are
+ neighbors
+-well
++its
+ mailman
+-tell
+-watching
++me:
+ safe
+-anymore
+ oh
+ what
+ mess
+ wonder
+ now
+-who!
+--
++who
+ irs
+-somebody’s
+ cant
+ enjoy
+ tea
+-privacy
+ stop
+-you
+-let
+-be

@@ -1,0 +1,104 @@
+--- og254.txt	2020-02-06 19:31:21.000000000 -0800
++++ kb247.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -36,10 +36,6 @@
+ is
+ longest
+ stride
+-what
+-if
+-what
+-if
+ if
+ today
+ was
+@@ -56,7 +52,6 @@
+ live
+ moment
+ like
+-last
+ old
+ pictures
+ in
+@@ -64,9 +59,10 @@
+ donate
+ every
+ dime
+-have
+-if
++had
+ day
++what
++if
+ against
+ grain
+ should
+@@ -76,7 +72,7 @@
+ life
+ whats
+ worth
+-prize
++price
+ always
+ fight
+ second
+@@ -84,15 +80,18 @@
+ cause
+ theres
+ so
+-youll
++youre
+ never
+-it
++living
+ twice
+ dont
+ free
+ ride
+ own
++last
++had
+ call
++those
+ friends
+ see
+ reminisce
+@@ -101,19 +100,17 @@
+ enemies
+ find
+ one
+-youre
+-dreamin
++dreaming
+ of
+ swear
+ up
+ down
+ god
+ above
++youd
+ finally
+ fall
+ love
+-that
+-love
+ make
+ mark
+ mending
+@@ -129,15 +126,14 @@
+ are
+ do
+ whatever
+-takes
++it
+ takes
+ cant
+ rewind
+ this
+ let
+-nothin
++nothing
+ stand
+-way
+ hands
+ time
+ on

@@ -1,0 +1,92 @@
+--- og74.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb79.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -27,10 +27,8 @@
+ happy
+ i
+ pray
+-i
+-pray
+-trying
+-hard
++try
++not
+ to
+ reach
+ but
+@@ -38,8 +36,7 @@
+ speak
+ felt
+ like
+-no
+-one
++no-one
+ hear
+ me
+ wanted
+@@ -48,7 +45,6 @@
+ something
+ so
+ wrong
+-prayed
+ break
+ away
+ ill
+@@ -60,7 +56,7 @@
+ do
+ it
+ takes
+-til
++till
+ touch
+ sky
+ make
+@@ -68,7 +64,6 @@
+ take
+ chance
+ change
+-breakaway
+ darkness
+ into
+ sun
+@@ -95,17 +90,15 @@
+ train
+ travel
+ on
+-jet
+-plane
+-far
+-will
++jetplane
++away
+ gotta
+-buildings
++ive
++building
+ with
+-hundred
++100
+ floors
+ swinging
+-around
+ revolving
+ doors
+ maybe
+@@ -113,17 +106,10 @@
+ know
+ where
+ theyll
+-me
+-gotta
+ keep
+ moving
+-on
+-away
+-learn
+-fly
+-though
++tho
+ its
+-not
+ easy
+ tell
+ you

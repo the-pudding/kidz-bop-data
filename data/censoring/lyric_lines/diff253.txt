@@ -1,0 +1,35 @@
+--- og237.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb253.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -16,7 +16,7 @@
+ crowd
+ screams
+ out
+-its
++theyre
+ screaming
+ your
+ name
+@@ -61,7 +61,6 @@
+ many
+ places
+ things
+-yeah
+ with
+ broken
+ bone
+@@ -78,11 +77,13 @@
+ raise
+ cup
+ oh
+-oh
+ wish
+ witness
+ joy
+ until
+ my
+ ill
+-whoa
++oh
++i
++lived
++ohhh

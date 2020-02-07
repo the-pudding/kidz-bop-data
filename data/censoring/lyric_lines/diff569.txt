@@ -1,0 +1,30 @@
+--- og712.txt	2020-02-06 19:31:22.000000000 -0800
++++ kb569.txt	2020-02-06 19:31:27.000000000 -0800
+@@ -31,7 +31,6 @@
+ you
+ and
+ feel
+-you
+ crawling
+ underneath
+ skin
+@@ -68,6 +67,7 @@
+ going
+ out
+ mind
++an
+ endless
+ circles
+ running
+@@ -98,10 +98,4 @@
+ once
+ again
+ thats
+-see
+-just
+-time
+-will
+-left
+-me
+-me
++yeah

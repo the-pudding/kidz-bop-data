@@ -1,0 +1,78 @@
+--- og112.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb121.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -16,7 +16,7 @@
+ even
+ your
+ emotions
+-had
++have
+ an
+ echo
+ in
+@@ -44,7 +44,7 @@
+ make
+ me
+ crazy
+-possibly
++probably
+ hope
+ you
+ are
+@@ -52,6 +52,7 @@
+ the
+ time
+ life
++well
+ think
+ twice
+ thats
+@@ -65,35 +66,34 @@
+ you
+ are
+ ha
++ha
+ bless
+ soul
+ really
+ control
+-well
+ crazy
++well
+ like
+ heroes
++had
+ heart
+ to
+ lose
+-their
+-lives
+-limb
++dont
++wanna
++live
+ all
+ is
+-thinkin
+-wanna
++thinking
+ be
+ them
+ ever
+ since
+ little
+-little
+-looked
++seemed
+ fun
+-its
+ no
+-coincidence
++consequence
+ ive
+ can
+ die
+@@ -101,4 +101,3 @@
+ done
+ maybe
+ were
+-probably

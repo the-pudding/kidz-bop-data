@@ -1,0 +1,60 @@
+--- og539.txt	2020-02-06 19:31:22.000000000 -0800
++++ kb574.txt	2020-02-06 19:31:27.000000000 -0800
+@@ -7,7 +7,6 @@
+ own
+ never
+ thought
+-id
+ need
+ you
+ there
+@@ -27,8 +26,7 @@
+ is
+ made
+ up
+-your
+-side
++all
+ walk
+ away
+ count
+@@ -68,17 +66,18 @@
+ this
+ way
+ before
++oh
++no
+ everything
+-do
+ reminds
+-clothes
++things
+ left
+ they
+ floor
+ smell
+ just
++you
+ love
+-things
+ we
+ were
+ for
+@@ -90,15 +89,14 @@
+ were
+ yeah
+ yeah
+-all
+ ever
+ wanted
+ was
++id
++do
+ give
+ soul
+ can
+ hardly
+ breathe
+ with
+-me
+-will

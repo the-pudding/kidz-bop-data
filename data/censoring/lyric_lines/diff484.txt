@@ -1,0 +1,75 @@
+--- og684.txt	2020-02-06 19:31:21.000000000 -0800
++++ kb484.txt	2020-02-06 19:31:27.000000000 -0800
+@@ -10,12 +10,12 @@
+ he
+ wont
+ see
+-that
++what
+ want
+ and
+-im
+-needing
++need
+ everything
++that
+ we
+ should
+ be
+@@ -34,14 +34,16 @@
+ laugh
+ cause
+ its
+-damn
++just
+ funny
++but
+ cant
+ even
+ anyone
+ when
+ hes
+ with
++me
+ says
+ in
+ love
+@@ -76,6 +78,7 @@
+ do
+ walks
+ by
++can
+ tell
+ breathe
+ there
+@@ -99,12 +102,13 @@
+ beautiful
+ eyes
+ lucky
++do
+ drive
+ home
+ alone
+ as
+ turn
+-off
++out
+ light
+ put
+ his
+@@ -116,14 +120,13 @@
+ sleep
+ tonight
+ one
+-who’s
++whos
+ enough
+ break
+ heart
+ time
+ taken
+ up
+-but
+ theres
+ never
+ need

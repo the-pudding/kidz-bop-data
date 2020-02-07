@@ -1,0 +1,73 @@
+--- og322.txt	2020-02-06 19:31:21.000000000 -0800
++++ kb333.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -34,11 +34,11 @@
+ nos
+ quiere
+ quiere
++y
+ me
+ mí
+ fuerte
+ bailando
+-y
+ baila
+ tamo
+ rompiendo
+@@ -49,8 +49,7 @@
+ comienza
+ cest
+ comme-ci
+-comme
+-ça
++comme-ça
+ ma
+ chèrie
+ la-la-la-la-la
+@@ -58,13 +57,14 @@
+ colombia
+ gusta
+ freeze
+-j
+-balvin
+-willy
+-william
+-le
++we
++movin
++to
++kidz
++bop
+ djs
+ mienten
++le
+ eso
+ fue
+ mundial
+@@ -89,7 +89,7 @@
+ un
+ dos
+ tres
+-¡leggo!
++leggo
+ ay
+ di
+ sí
+@@ -118,7 +118,8 @@
+ aquí
+ esta
+ fin
+-botellas
++las
++mano
+ para
+ arriba
+ sí
+@@ -126,5 +127,7 @@
+ yo
+ sigo
+ worldwide
+-man
++its
++boppin
++now
+ uh-huh

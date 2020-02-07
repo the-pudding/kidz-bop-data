@@ -1,0 +1,52 @@
+--- og153.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb160.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -1,7 +1,7 @@
+ cant
+ keep
+ my
+-hands
++thoughts
+ to
+ myself
+ think
+@@ -60,9 +60,6 @@
+ another
+ mouth
+ feed
+-im
+-kicks
+-now
+ leave
+ with
+ sitter
+@@ -84,27 +81,14 @@
+ war
+ peace
+ ooh
+-give
+-that
+-easy
+-living
+-goodbye
+-hopes
+-and
+-dreams
+-start
+-flipping
+-enemies
+-wait
+-until
+-walls
+-come
+-down
++now
+ time
++give
+ kids
+ middle
+ but
+ oh
++until
+ falls
+ wont
+ bother

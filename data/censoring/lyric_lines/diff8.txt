@@ -1,0 +1,87 @@
+--- og10.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb8.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -36,20 +36,17 @@
+ quicker
+ by
+ eleven
+-smoking
+-herb
++hanging
++out
+ and
+-drinking
+-burning
+-liquor
++thinking
++slicker
+ never
+ rich
+ so
+-out
+ that
+ steady
+ figure
+-11
+ daddy
+ get
+ wife
+@@ -76,7 +73,7 @@
+ will
+ ever
+ know
+-20
++twenty
+ old
+ story
+ got
+@@ -84,8 +81,6 @@
+ sun
+ when
+ life
+-lukas
+-graham!!!
+ see
+ goals
+ dont
+@@ -109,12 +104,11 @@
+ ill
+ you
+ later
+-bout
+ everything
+ saw
+ soon
+ well
+-30
++thirty
+ our
+ songs
+ have
+@@ -128,10 +122,9 @@
+ still
+ roaming
+ im
+-woman
+-brought
+ children
+ for
++me
+ sing
+ them
+ all
+@@ -144,8 +137,8 @@
+ behind
+ brother
+ sorry
+-60
+-61
++sixty
++sixty-one
+ remember
+ then
+ your
+@@ -167,4 +160,3 @@
+ lot
+ who
+ warm
+-hold

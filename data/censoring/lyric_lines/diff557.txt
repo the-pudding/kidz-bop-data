@@ -1,0 +1,45 @@
+--- og705.txt	2020-02-06 19:31:22.000000000 -0800
++++ kb557.txt	2020-02-06 19:31:27.000000000 -0800
+@@ -16,8 +16,8 @@
+ no
+ one
+ understands
+-you
+-wanna
++want
++to
+ run
+ away
+ lock
+@@ -36,7 +36,6 @@
+ that
+ hears
+ screaming
+-no
+ know
+ what
+ its
+@@ -44,7 +43,6 @@
+ nothing
+ feels
+ alright
+-to
+ be
+ me
+ hurt
+@@ -65,6 +63,7 @@
+ welcome
+ my
+ life
++wanna
+ somebody
+ else
+ are
+@@ -116,6 +115,6 @@
+ work
+ it
+ was
+-like
++well
+ what
+ like

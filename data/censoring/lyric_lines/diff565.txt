@@ -1,0 +1,49 @@
+--- og710.txt	2020-02-06 19:31:22.000000000 -0800
++++ kb565.txt	2020-02-06 19:31:27.000000000 -0800
+@@ -13,8 +13,7 @@
+ wanna
+ say
+ no
+-hey
+-yeah
++hey-ey
+ dont
+ want
+ me
+@@ -25,7 +24,8 @@
+ said
+ youre
+ running
+-outta
++out
++of
+ time
+ better
+ make
+@@ -70,6 +70,7 @@
+ know…
+ overprotective
+ leaving
++trying
+ compromise
+ can’t
+ win
+@@ -89,15 +90,13 @@
+ ooh
+ oh
+ baby
+-dont
+-be
+-selfish
++this
++is
++ours
+ baby
+ yeah
+-yes
+ youre
+ confusing
+-move
+ be
+ more
+ straight

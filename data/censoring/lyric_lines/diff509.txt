@@ -1,0 +1,85 @@
+--- og482.txt	2020-02-06 19:31:22.000000000 -0800
++++ kb509.txt	2020-02-06 19:31:27.000000000 -0800
+@@ -52,15 +52,15 @@
+ complication
+ miscommunications
+ lead
+-fallout
+-so
++fall-out
++too
+ many
+ things
+ that
+ wish
+ knew
++so
+ walls
+-up
+ cant
+ break
+ through
+@@ -80,7 +80,6 @@
+ me
+ yeah
+ say
+-since
+ twist
+ fate
+ when
+@@ -109,8 +108,8 @@
+ your
+ best
+ avoid
+-starting
+-ill
++started
++id
+ losing
+ mind
+ saw
+@@ -119,30 +118,26 @@
+ held
+ pride
+ shouldve
++oh
+ scared
+ ending
+ why
+ are
+ pretending
+ nothing
+-id
+ miss
+-you
+ ive
+ never
+ heard
+ silence
+ quite
+ loud
+-fate
+ looking
+ contest
+ who
+ can
+ act
+-they
+-care
+-less
++careless
+ liked
+ better
+ were
+@@ -157,10 +152,9 @@
+ love
+ than
+ fight
++wished
+ might
+ be
+ soon
+ now
+-me
+-yeah
+ going

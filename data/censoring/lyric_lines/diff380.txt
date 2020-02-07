@@ -1,0 +1,72 @@
+--- og372.txt	2020-02-06 19:31:21.000000000 -0800
++++ kb380.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -3,7 +3,7 @@
+ the
+ crowd
+ were
+-c-coming
++co-coming
+ out
+ got
+ my
+@@ -45,7 +45,6 @@
+ flashing
+ lights
+ cause
+-you
+ know
+ that
+ baby
+@@ -66,7 +65,6 @@
+ superstar
+ promise
+ kind
+-i
+ wont
+ stop
+ boy
+@@ -84,18 +82,18 @@
+ ropes
+ guitars
+ yeah
+-youre
+-rockstar
+-in
++starting
+ between
+ sets
+ eyeliner
+-cigarettes
++all
++rest
+ shadow
+ burnt
+ yellow
+ dance
+-turn
++in
++return
+ lashes
+ dry
+ purple
+@@ -106,13 +104,16 @@
+ pie
+ real
+ good
++dancin
+ studio
+-snap
+-to
+-shit
++stop
++stop
++song
+ on
+ radio
++dont
+ anyone
+ plastic
++well
+ still
+-fun!
++fun

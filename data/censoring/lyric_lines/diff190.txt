@@ -1,0 +1,206 @@
+--- og184.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb190.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -7,32 +7,27 @@
+ no
+ money
+ take
+-yo
++your
+ broke
+-ass
++self
+ home
+-say
+-it!
+-"if
+-home!"
+ g-l-a-m-o-r-o-u-s
+ yeah
+ g-l-a-m-o-r-o-u-s
+ we
+-flying
++flyin
+ first
+ class
+ up
+ in
+ the
+ sky
+-popping
+-champagne
+-living
+-my
++class
++livin
+ life
+ fast
+ lane
++and
+ i
+ wont
+ change
+@@ -42,11 +37,11 @@
+ flossy
+ flossy
+ glamorous
++ooh
+ wear
+ them
+ gold
+-and
+-diamond
++diamonds
+ rings
+ all
+ things
+@@ -54,9 +49,9 @@
+ mean
+ a
+ thing
+-chaperones
++chaperons
+ limousines
+-shopping
++shoppin
+ for
+ expensive
+ be
+@@ -64,7 +59,7 @@
+ movie
+ screens
+ magazines
+-bougie
++boogie
+ scenes
+ im
+ not
+@@ -77,101 +72,50 @@
+ to
+ taco
+ bell
+-drive-thru
++drive
++through
+ raw
+-as
+-hell
+ care
+ real
+ matter
+ how
+ many
+ records
++ill
+ sell
+ after
+ show
+-or
+ grammys
+ like
+ cool
+ out
+ with
+ family
+-sipping
++sippin
+ reminiscing
+ days
+ when
+ had
+ mustang
+ now
+-im
+-talking
+-wishes
+-caviar
+-dreams
+-deserve
+-nothing
+-but
+-finer
+-this
+-whole
+-world
+-has
+-clue
+-what
+-do
+-us
+-ive
+-enough
+-money
+-bank
+-two
+-of
+-plus
+-gotta
+-keep
+-lettuce
+-support
+-your
+-shoe
+-fetish
+-lifestyles
+-so
+-rich
+-famous
+-robin
+-leach
+-will
+-get
+-jealous
+-half
+-million
+-stones
+-taking
+-trips
+-from
+-here
+-rome
+-home
++my
+ problems
+ here
+ people
+ ear
+-telling
++tellin
+ me
+ these
+ crazy
+ that
+-wanna
++want
+ know
+-fuck
+-yall
++bank
+ id
+ really
+ thank
+ fans
+ thank
+-you
+ though
+ cause
+ remember
+@@ -181,8 +125,7 @@
+ rock
+ mtv
+ thatd
+-dope
+-damn
++yeah
+ its
+ been
+ long
+@@ -198,9 +141,3 @@
+ let
+ his
+ daughter
+-if
+-it!
+-"if
+-home!"
+-he
+-said

@@ -1,0 +1,158 @@
+--- og275.txt	2020-02-06 19:31:21.000000000 -0800
++++ kb281.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -1,31 +1,30 @@
+-i
+ know
+ that
+-am
+-runnin
++im
++running
+ out
+ of
+ time
++i
+ want
+ it
+ all
+ mmm
+ mmm
+ and
+-im
+-wishin
++wishing
+ theyd
+ stop
+-tryin
+-to
++tryna
+ turn
+ me
+ off
+-on
+-walkin
++walking
+ on
+ a
+ wire
++trying
++to
+ go
+ higher
+ feels
+@@ -36,24 +35,22 @@
+ liars
+ even
+ when
+-give
++i
++get
+ all
+-away
++the
++way
+ we
+-came
+-here
+-run
+-it
++can
++em
++running
+ just
+ fire
+-burnin
+-up
+-the
+-way
++burning
+ if
+-could
+ light
+ world
++up
+ for
+ one
+ day
+@@ -63,15 +60,13 @@
+ colorful
+ charade
+ no
+-can
+ be
+ any
+ magic
+-
+ ill
+-flyin
++flying
+ free
+-imma
++ima
+ disappear
+ they
+ come
+@@ -81,7 +76,6 @@
+ you
+ gonna
+ say
+-anyway
+ uh
+ people
+ laugh
+@@ -89,9 +83,11 @@
+ cause
+ are
+ same
++mmm
+ see
+ would
+ rather
++our
+ different
+ than
+ play
+@@ -106,32 +102,26 @@
+ dont
+ have
+ worry
+-bout
++about
+ thing
+ thing
++take
+ fire
++running
++running
+ so
+-look
+ nobodys
+ done
+-yall
+-think
+-but
+-been
+-here
+-impossible
+-please
+-watch
+-with
+-ease
+ gotta
+ believe
+-uh
++on
++with
+ oh
+-whats
+-girl
++whatcha
+ do
+ what
+ what
+-hey
+-mmmm
++run
++it
++run
++it

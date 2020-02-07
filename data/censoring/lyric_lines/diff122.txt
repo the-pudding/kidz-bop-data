@@ -1,0 +1,59 @@
+--- og113.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb122.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -27,16 +27,15 @@
+ look
+ at
+ her
+-as
+ looks
+ me
+ got
+-me
+-thinkin
++thinking
+ about
+ constantly
+ how
+ feel
++as
+ carries
+ on
+ without
+@@ -45,13 +44,13 @@
+ wonder
+ if
+ figured
++it
+ out
+ im
+ crazy
+ for
+ this
+ girl
+-yeah
+ was
+ one
+ to
+@@ -66,22 +65,13 @@
+ end
+ now
+ right
+-now
+-right
+-now
+-face
+-face
+ face
+ all
+ fears
+-all
+-fears
+ pushed
+ aside
+ ready
+ spend
+ rest
+ life
+-my
+-life
+ with

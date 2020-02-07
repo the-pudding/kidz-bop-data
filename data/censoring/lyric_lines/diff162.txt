@@ -1,0 +1,53 @@
+--- og157.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb162.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -7,13 +7,14 @@
+ be
+ alright
+ told
++me
+ "come
+ and
+ take
+ a
+ look
+ inside"
+-believe
++believed
+ in
+ every
+ single
+@@ -29,6 +30,7 @@
+ like
+ tonight
+ cant
++believe
+ im
+ broken
+ inside
+@@ -42,6 +44,8 @@
+ to
+ make
+ up
++you
++tonight
+ was
+ waiting
+ for
+@@ -74,8 +78,10 @@
+ here
+ seems
+ matter
++oh
+ these
+-ever-changing
++ever
++changing
+ days
+ youre
+ one
+@@ -84,5 +90,3 @@
+ could
+ stay
+ forever
+-feels
+-tonight

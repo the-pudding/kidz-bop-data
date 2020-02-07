@@ -1,0 +1,212 @@
+--- og82.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb92.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -1,12 +1,6 @@
+-greetings
+-loved
+-ones
+-lets
+-take
+-a
+-journey
+ i
+ know
++a
+ place
+ where
+ the
+@@ -24,8 +18,8 @@
+ something
+ in
+ water
+-sipping
+-gin
++sippin
++on
+ juice
+ laying
+ underneath
+@@ -36,12 +30,10 @@
+ break
+ their
+ necks
+-trying
+-to
+-creep
++tryna
++act
+ little
+-sneak
+-peek
++crazy
+ at
+ us
+ you
+@@ -52,6 +44,7 @@
+ nothing
+ comes
+ close
++to
+ golden
+ coast
+ once
+@@ -61,26 +54,13 @@
+ youll
+ falling
+ love
+-oh-oh-oh-oh-oh-oh-oh
++oh
++oh-oh
++oh-oh
+ california
+-girls
++gurls
+ were
+ unforgettable
+-daisy
+-dukes
+-bikinis
+-on
+-top
+-sun-kissed
+-skin
+-so
+-hot
+-well
+-melt
+-your
+-popsicle
+-oh-oh-oh-oh-oh
+-undeniable
+ fine
+ fresh
+ fierce
+@@ -88,118 +68,24 @@
+ got
+ it
+ lock
++sun-kissed
++beach
++so
++hot
++will
++melt
++your
++popsicle
++oh-oh
++oh
++undeniable
+ west
+ represent
+ now
+ put
+ hands
+ up
+-sex
+-sex
+-beach
+-dont
+-mind
+-sand
+-our
+-stilettos
+-freak
+-my
+-jeep
+-​*horn
+-honks*​
+-snoop
+-doggy
+-dogg
+-stereo
+-oh-oh
+ you
+ world
+ once
+ gurls
+-california
+-gurls
+-california
+-represent
+-west
+-coast
+-toned
+-tan
+-fit
+-ready
+-turn
+-cause
+-its
+-getting
+-heavy
+-wild
+-these
+-are
+-girls
+-most
+-mean
+-ones
+-like
+-shes
+-one
+-kiss
+-her
+-touch
+-squeeze
+-her
+-buns
+-uh!
+-girls
+-she
+-drive
+-live
+-im
+-okay
+-wont
+-play
+-bay
+-just
+-la
+-venice
+-springs
+-summertime
+-everything
+-homeboys
+-banging
+-out
+-all
+-that
+-ass
+-hanging
+-bikinis
+-zucchinis
+-martinis
+-no
+-weenies
+-king
+-queenie
+-katy
+-lady
+-yeah
+-lookie
+-here
+-baby
+-uh-huh
+-ya
+-cause
+-representing
+-oh-oh
+-yeah
+-come
+-on
+-come
+-on
+-coast
+-coast
+-aye
+-aye
+-california
+-gurls
+-man
+-hahahaha
+-california
+-wish

@@ -1,0 +1,382 @@
+--- og138.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb144.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -4,34 +4,32 @@
+ the
+ moped
+ store
+-said
+-"fuck
+-it"
+ and
+-salesmans
++said
++what
++if
++salesman
+ like
+-"what
+ up
+-whats
++what’s
+ your
+-budget"
+-im
+-"honestly
+-dont
++budget
++i’m
++honestly
++don’t
+ know
+ nothing
+ about
+-mopeds"
++mopeds
+ he
+-"i
+ got
+ one
+ for
+ you
+ follow
+-me"
+-ooh
+-its
++me
++whooo
++it’s
+ too
+ real
+ chromed
+@@ -46,26 +44,23 @@
+ on
+ two
+ wheels
+-eight
+-hundred
++800
+ cash
+-thats
+-hell
++steal
+ of
+ deal
++im
+ headed
+ downtown
+ cruising
+ through
+ alley
+ tip-toeing
+-in
+-street
+-ballet
++streets
++dally
+ pulled
+-valet
+-white
+-walls
++valley
++whitewalls
+ mayonnaise
+ dope
+ my
+@@ -76,120 +71,39 @@
+ we
+ good
+ gas
++in
+ tank
+-cash
+ bank
+-bad
++cute
+ little
+ mama
+ with
++smile
+ her
+-ass
+ face
+-ima
+-lick
++same
+ that
+-stick
++dance
+ break
++it
+ off
+ kit-kat
+-snuck
+-backstage
+-you
++pull
++inaudible
++dont
+ wristband
+-dope
+-killing
+-game
+-bout
+-catch
+-body
+-passed
+-harley
+-dukie
+-ducati
+-timbaland
+-khaled
+-scott
+-storch
+-birdman
+-goddamn
+-man
+-everybody
+-bugattis
+-but
+-keep
+-it
+-hella
+-1987
+-head
+-into
+-dealership
+-drop
+-stack
+-cop
+-kawasaki
+-stunting
+-everybody
+-raw
+-pass
+-wasabi
+-so
+-low
+-that
+-scrotums
+-almost
+-dragging
+-up
+-concrete
+-seat
+-leather
+-alright
+-lying
+-pleather
+-girl
+-could
+-still
+-ride
+-together
+-oh
+-an
+-uber
+-cab
+-fuck
+-bus
+-pass
+-moped
+-man
+-she
+-1988
+-mariah
+-carey
+-hair
+-very
+-rare
+-mom
+-jeans
+-derriere
+-throwing
+-west
+-side
+-as
+-tear
+-air
+-stop
+-by
+-pike
+-place
+-fish
+-player
++nope
+ downtown
+ downtown
++she
+ has
+ arms
+ around
+ waist
+ balance
+-will
++could
++keep
++us
+ safe
+ have
+ ever
+@@ -197,20 +111,15 @@
+ warm
+ embrace
+ leather
+-between
++under
+ legs
+-hey
+-hey-oh-ey-ey
+ want
+ no
+ beef
+ boy
+ run
+-streets
+ better
+-me
+ towards
+-what
+ see
+ get
+ girl
+@@ -221,48 +130,47 @@
+ until
+ youre
+ cut
+-bullshit
+-get
+-off
++business
+ mullet
+ stone
+ washed
+-bullet
+-oh
+-yee-ow
++so
++raw
++record
+ cant
+-me
+-po-po
++catch
++neighbor
+ reprimand
+ b-boy
+ stance
+ not
+ dancing
++friend
+ back
+-going
++doing
+ tandem
+-cause
+-damn
++because
+ quick
+ slick
+ whole
+ yelling
+-"who
+-is"
+-m
+-a-c
++who
++its
++me
+ k
+-sounding
+-french
+-pimp
+-from
+-day
++i-d
++z
++stunting
++fresh
++prince
++remember
+ take
+-pend
+-oreille
+-water
++pond
++alright
++watch
+ skate
+ mean
++water
+ ski
+ ollie
+ oxen
+@@ -273,39 +181,38 @@
+ they
+ watching
+ do
+-headstand
++handstand
++an
+ eagle
+ lands
+ well
+ hello
+-baby
+-kickstand
++how
+ now
+ or
+ wanna
+-me
++ride
++smart
++but
+ big
+ em
+ sassy
++going
+ backstreet
+ listening
+-blackstreet
+ running
+ town
+ neighbors
+ at
+-like
+-"you
+ slow
+-down"
+-"going
+ thirty-eight
+-dan
++man
+ chill
+ mow
++own
+ lawn
+ sit
+-if
++right
+ only
+ had
+ helmet
+@@ -314,17 +221,13 @@
+ broadway
+ wonderful
+ view
+-view
+ theres
+ layers
+ this
+-shit
+-player
+-tiramisu
+ tiramisu
+ let
+-coat-tail
++coat
++tail
+ drag
+ tearing
+ suit
+-suit

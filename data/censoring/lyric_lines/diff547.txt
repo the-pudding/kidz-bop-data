@@ -1,0 +1,42 @@
+--- og702.txt	2020-02-06 19:31:22.000000000 -0800
++++ kb547.txt	2020-02-06 19:31:27.000000000 -0800
+@@ -69,7 +69,6 @@
+ ribbons
+ their
+ door
+-but
+ you
+ trust
+ your
+@@ -78,7 +77,7 @@
+ get
+ is
+ got
+-because
++cause
+ own
+ information
+ oh
+@@ -91,12 +90,20 @@
+ care
+ know
+ fight
+-isnt
++aint
+ fair
+-still
++aha
++yeah
++alright
++woah
++alright
+ waiting
++oh
++yeah
++still
+ one
+ day
+ generation
++gonna
+ rule
+ population

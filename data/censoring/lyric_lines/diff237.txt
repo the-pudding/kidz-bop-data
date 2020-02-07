@@ -1,0 +1,172 @@
+--- og228.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb237.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -24,9 +24,8 @@
+ get
+ behind
+ wheel
+-but
+ only
+-one
++1
+ rida
+ eyes
+ shut
+@@ -38,7 +37,6 @@
+ diver
+ cant
+ let
+-go
+ fans
+ okinawa
+ my
+@@ -48,36 +46,36 @@
+ quake
+ losers
+ and
+-surviors
++survivors
+ norway
+ didnt
+ flowers
+ way
+-say
+-it
++sound
+ better
++but
+ killer
+ was
+ coward
+ face
+-showered
++showers
+ minute
+ hour
+ heard
+ about
+ news
+-whole
++all
+ day
+ went
+ sour
+ lil
+ mama
+ feeling
+-lemon-head
++limit
++here
+ put
+ box
+-as
+-poisonous
++presidents
+ cigarettes
+ give
+ em
+@@ -90,7 +88,6 @@
+ killers
+ young
+ restless
+-gettin
+ mad
+ cause
+ quarter
+@@ -101,25 +98,24 @@
+ said
+ driving
+ reckless
+-that
+ jealously
+-is
+ not
+-impressive
++oppressive
+ stop
+ destined
+-champagne
++ice
++cream
+ buckets
+ two
+ tears
+-tattoo
++it
++that
++picture
+ jimi
+ hendrix
+-pressed
+-leather
++depressed
++coz
+ outfit
+-all
+-cuz
+ press
+ tell
+ meal
+@@ -127,29 +123,28 @@
+ clean
+ next
+ call
++lil
+ visit
+ sacrifice
+ make
+ hit
+ vivid
+-reality
+-stressed
+-youre
+-blessed
++rihanna
++kiss
++ya
++neck
+ kill
+ critics
+ buggatti
+-meant
+ im
+ rich
+-god-fearing
++god
++fearing
+ look
+ at
+ steering
+ bossing
+ staring
+-good
+-feelin
+ mr
+ mike
+ caren
+@@ -169,7 +164,7 @@
+ momma
+ chandeliers
+ dammit
+-thirty
++many
+ years
+ had
+ thought
+@@ -184,6 +179,7 @@
+ cheers
+ wouldnt
+ panic
++go
+ need
+ healing
+ ceiling
+@@ -192,7 +188,6 @@
+ coming
+ down
+ its
+-better
+ now
+-down
+-its
++know
++i

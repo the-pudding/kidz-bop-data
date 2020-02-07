@@ -1,0 +1,38 @@
+--- og583.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb78.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -6,14 +6,14 @@
+ a
+ phrase
+ into
+-weapon
++put-down
+ or
+-drug
++hug
+ the
+ outcast
+ backlash
+ of
+-somebody’s
++somebodys
+ lack
+ love
+ start
+@@ -82,6 +82,7 @@
+ tongue
+ maybe
+ there’s
++this
+ cage
+ where
+ live
+@@ -112,3 +113,9 @@
+ tell
+ them
+ truth
++yeah
++oh
++yeah
++yeah
++ooh
++ooh

@@ -1,0 +1,83 @@
+--- og141.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb147.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -3,7 +3,6 @@
+ to
+ dance
+ dance
+-yeah
+ hit
+ the
+ floor
+@@ -13,7 +12,7 @@
+ plans
+ plans
+ im
+-wearing
++wearin
+ all
+ favorite
+ brands
+@@ -25,6 +24,7 @@
+ for
+ both
+ hands
++hands
+ yeah
+ yeah
+ it
+@@ -33,16 +33,15 @@
+ and
+ on
+ throw
+-hands
+ up
+ in
+ air
+ sometimes
+ sayin
+-"ayo
++ay-oh
+ gotta
+ let
+-go"
++go
+ wanna
+ celebrate
+ live
+@@ -54,7 +53,6 @@
+ rock
+ this
+ club
+-go
+ night
+ light
+ like
+@@ -73,14 +71,12 @@
+ of
+ crew
+ crew
+-i’m
+ so
+ gonna
+ do
+ do
+ just
+ what
+-fuck
+ here
+ take
+ all
+@@ -89,10 +85,11 @@
+ one
+ standing
+ higher
+-overall
++over
+ landing
+ i
+ believe
+ want
+ put
+-yo
++air
++your

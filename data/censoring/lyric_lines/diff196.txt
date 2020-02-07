@@ -1,0 +1,86 @@
+--- og609.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb196.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -20,8 +20,8 @@
+ wont
+ forget
+ and
+-reckless
+-nights
++crazy
++times
+ regret
+ someday
+ soon
+@@ -92,8 +92,7 @@
+ think
+ had
+ answers
+-drink
+-flask
++stuff
+ first
+ made
+ it
+@@ -107,7 +106,7 @@
+ out
+ shell
+ put
+-bottle
++things
+ back
+ on
+ shelf
+@@ -128,51 +127,17 @@
+ sneakin
+ out
+ fallin
+-futon
++day
+ wed
+ begun
+ grass
+ dreamin
+ figuring
+ who
+-never
+-old
+-maybe
+-were
+-always
+-better
+-than
+-are
+-moments
+-ive
+-been
+-missin
+-its
+-scared
+-future
+-past
+-while
+-weve
+-come
+-so
+-far
+-guess
+-proud
+-aint
+-worried
+-wrinkles
+-round
+-smile
+-scars
+-around
+-pain
+-seen
+-things
+-but
+-here
+ dont
+ know
+ youve
+ til
+ goes
++its
+ gone

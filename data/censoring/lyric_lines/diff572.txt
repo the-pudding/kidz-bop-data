@@ -1,0 +1,57 @@
+--- og538.txt	2020-02-06 19:31:22.000000000 -0800
++++ kb572.txt	2020-02-06 19:31:27.000000000 -0800
+@@ -16,20 +16,16 @@
+ i
+ cant
+ hide
+-but
+ somewhere
+ darkness
+ a
+ light
+ find
+-well
+ maybe
+ its
+ too
+ far
+ away
+-yeah
+-or
+ im
+ just
+ blind
+@@ -51,12 +47,13 @@
+ the
+ one
+ wanted
+-id
++ill
+ let
+ down
+ even
+ if
+ could
++id
+ give
+ up
+ only
+@@ -67,6 +64,7 @@
+ wont
+ always
+ there
++gone
+ education
+ x-ray
+ cannot
+@@ -81,7 +79,10 @@
+ roaming
+ through
+ alive
++but
+ alone
+ part
+ is
+ fighting
++scared
++whoa

@@ -1,0 +1,85 @@
+--- og57.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb62.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -1,5 +1,5 @@
+ you
+-prolly
++probably
+ think
+ that
+ are
+@@ -37,7 +37,8 @@
+ came
+ second
+ the
+-benzo
++trends
++oh
+ even
+ speakin
+ my
+@@ -48,7 +49,7 @@
+ and
+ aunts
+ though
+-twenty
++these
+ candles
+ blow
+ em
+@@ -77,20 +78,21 @@
+ socks
+ dont
+ like
+-rollin
+-rollin
++goin
++goin
++whoa
+ brothers
+ jonas
+ jonas
+-drinkin
+-henny
++thinkin
++heavy
+ tryna
+ forget
+ but
+ cant
+ get
+ this
+-shit
++stuff
+ outta
+ head
+ seen
+@@ -112,9 +114,10 @@
+ do
+ just
+ wonder
++it’s
+ gonna
+ take
+-whats
++wonder
+ take
+ another
+ foreign
+@@ -127,13 +130,16 @@
+ because
+ matter
+ how
+-life
+ has
+ changed
++no
++changed
+ on
+ looking
+ back
+ days
++looking
++days
+ promise
+ swear
+ you

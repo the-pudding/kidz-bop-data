@@ -1,0 +1,136 @@
+--- og50.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb53.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -1,16 +1,19 @@
+ yeah
+-young
+-money
+-nicki
+-minaj
+-justin
++cmon
++kids
++bop
++lets
++go
+ show
+ you
+ off
+ tonight
+ i
+ wanna
+-ayy-ayy-ayy
++off
++eh
++eh
++eh
+ what
+ got
+ a
+@@ -24,7 +27,6 @@
+ like
+ its
+ 3012
+-tonight
+ all
+ the
+ finer
+@@ -36,6 +38,8 @@
+ forget
+ about
+ world
++were
++young
+ im
+ coming
+ for
+@@ -52,7 +56,6 @@
+ make
+ my
+ complete
+-bout
+ when
+ music
+ makes
+@@ -60,11 +63,12 @@
+ baby
+ do
+ it
+-body
++really
+ rock
+ girl
+-feel
++see
+ your
++rock
+ take
+ bow
+ youre
+@@ -72,62 +76,15 @@
+ hottest
+ ticket
+ now
+-ooh
+-want
+-to
+-time
+-ink
+-lines
+-bitches
+-couldnt
+-get
+-incline
+-world
+-tours
+-mine
+-ten
+-little
+-letters
+-big
+-sign
+-bieber
+-know
+-ima
+-hit
+-em
+-with
+-ether
+-buns
+-out
+-weiner
+-but
+-gotta
+-keep
+-an
+-eye
+-out
+-selener
+-beauty
+-beast
+-from
+-east
+-beautiful
+-confessions
+-of
+-priest
+-beast
+-streets
+-will
+-deceased
+-every
+-time
++oh
+ yeah
+ yeah
+-lets
+ go
+-lets
+ go
++body
++feel
++cause
+ all
+ love
+-whoa-oh-oh
++allall
+ you

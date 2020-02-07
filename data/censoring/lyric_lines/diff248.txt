@@ -1,0 +1,172 @@
+--- og232.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb248.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -1,22 +1,21 @@
+ i
+-got
+-a
+-feelin
++gotta
++feeling
+ that
+ tonights
+ gonna
+ be
++a
+ good
+ night
+ good
+-wooh-ooh
+-fee-
+ the
+ night
+ lets
+ live
+ it
+ up
++got
+ my
+ money
+ spend
+@@ -25,45 +24,46 @@
+ and
+ smash
+ like
+-"oh
+-god!"
++oh
++gosh
+ jump
+-sofa
+-kick
+ off
++sofa
++get
++get
++rocked
+ know
+ well
+ have
+ ball
+ if
+ we
+-get
+ down
+-out
+ just
+ lose
+ all
+ feel
+ stressed
++out
+ wanna
+ let
+ way
+ spaced
+-losin
++losing
+ control
+ fill
+ cup
+ mazel
+-tov
++tov!
+ look
+ at
+ her
+ dancing
+-take
++dance
++along
+ paint
+ town
+ shut
+-down
+ burn
+ roof
+ then
+@@ -75,46 +75,58 @@
+ lets
+ up
+ money
+-my
+-pay
++im
++paying
+ smash
+ it
+ like
+-god!"
++gosh
+ sofa
+ come
+ on
+ cup
+ drank
+-lchaim
++tov
++la
++heim
+ dancing
+ move
+ move
+-it
+ town
+ paint
+ town
+ shut
+ down
++roof
+ here
+ come
+ go
+-gotta
++rock
++rock
++rock
+ rock
+ easy
+ now
+ on
+ top
++top
++top
++top
+ shot
+ body
+-rock
+-rock
+ dont
+ stop
++stop
++stop
++stop
+ round
+ round
++down
+ around
+ clock
++clock
++clock
++clock
+ monday
+ tuesday
+ wednesday
+@@ -125,16 +137,14 @@
+ saturday
+ to
+ sunday
+-weekend
+ with
+ us
+ you
+ what
+ say
++say
++say
+ party
+ every
+ day
+-p-p-p-party
+ day
+-im
+-woo-hoo

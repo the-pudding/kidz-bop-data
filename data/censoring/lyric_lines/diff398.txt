@@ -1,0 +1,221 @@
+--- og387.txt	2020-02-06 19:31:21.000000000 -0800
++++ kb398.txt	2020-02-06 19:31:27.000000000 -0800
+@@ -1,9 +1,9 @@
+ ha
+-ha
+ pump
+ it
+ and
+ louder
++4x
+ turn
+ up
+ the
+@@ -12,161 +12,55 @@
+ your
+ stereo
+ right
+-niggas
+-wanna
+-hate
+-on
+-us
+ who
+-be
+-envious
+-i
+-know
+-why
+-they
++where
+ why
+-cause
+-that
+-so
+-fabulous
+ what
+-im
+-gonna
+-real
+-come
+-on
+-nobody
+-got
+-nothing
+-no
+-girls
+-all
+-from
+-london
+-back
+-down
+-to
+-s-s
+-we
+-rockin
++cmon
+ contagious
+-monkey
+-business
+ outrageous
+-just
+-confess
+-girl
+-admits
+-shit
+-f-r-e-s-h
+-fresh
+-d-e-f
+-thats
+-def
+-rock
+-definite
+-b-e-p
+-reppin
++whooooo
++so
+ me
+-turn
+-up
+-come
+-on
+-baby
++3x
++6x
+ say
+ oh
+-oh
+-oh
+ yo
+ yo
+ now
+-ha
+ this
+ joint
+ is
+ fizzlin
+ its
+ sizzlin
+-can
+-you
+-check
+-out
+-here
+-dude
+-dude
+-need
+-ease
+-act
+-but
+-get
+-shut
+-like
+-flavor
+-shut
+-em
+-down
+-chicks
+-she
+-aint
+-chick
+-backstage
+-when
+-in
+-town
+-man
+-drunk
+-fool
+-hit
+-run
+-errr
++machizzlin
++la
++ha
+ yeah
+-speed
++thats
+ what
++we
+ do
+-who
+-b-l-a-c-k
+-e-y-e-d
+-p
+-e
+-then
+-a
+-s
+-play
+ shake
+-ass
+-shake
+-it
+ it
+-make
+-sure
+-dont
+-break
+-cause
+-gonna
++girl
++yeah
++turn
++up
++cmon
+ baby
+-damn
+-damn
+-apldeap
+-philippines
+-live
+-direct
+-scene
+-breakin
+-for
+-b-boys
+-b-girls
+-waitin
+-do
+-their
+-thing
+-louder
+-stop
+-keep
+-goin
+-lets
++just
++dance
++5x
++it
+ move
+-la-da-dee-da-da-dee-da
+-steree-aree-aree-aree-o
++it!
++la-da-di-dup-dup
++die
++dy
++on
+ let
+ those
+ speakers
+@@ -176,13 +70,14 @@
+ my
+ mind
+ baby
++to
+ go
+ go
+-here
+-here
+-radi-aree-aree-aree-o
+-systems
++cmon
++were
++there
++system
++gonna
+ feel
++so
+ fine
+-yeah
+-ha

@@ -1,0 +1,44 @@
+--- og624.txt	2020-02-06 19:31:21.000000000 -0800
++++ kb277.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -6,8 +6,8 @@
+ swing
+ and
+ ring
+-snowin
+-blowin
++snowing
++blowing
+ up
+ bushels
+ of
+@@ -20,8 +20,8 @@
+ chime
+ in
+ time
+-dancin
+-prancin
++dancing
++prancing
+ square
+ frosty
+ air
+@@ -37,7 +37,7 @@
+ is
+ swell
+ go
+-glidin
++gliding
+ one-horse
+ sleigh
+ giddy-up
+@@ -49,5 +49,9 @@
+ clock
+ mix
+ a-mingle
+-jinglin
++jingling
++beat
+ thats
++ho
++merry
++christmas

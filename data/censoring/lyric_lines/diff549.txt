@@ -1,0 +1,129 @@
+--- og521.txt	2020-02-06 19:31:22.000000000 -0800
++++ kb549.txt	2020-02-06 19:31:27.000000000 -0800
+@@ -1,3 +1,7 @@
++1
++2
++3
++4
+ youve
+ got
+ your
+@@ -12,7 +16,6 @@
+ what
+ to
+ say
+-what
+ say
+ think
+ im
+@@ -25,12 +28,13 @@
+ its
+ cupid
+ baby
+-lovin
++loving
+ has
+ made
+ me
+ this
+ way
++way
+ so
+ before
+ point
+@@ -55,7 +59,6 @@
+ i
+ can
+ take
+-oh
+ looking
+ for
+ attention
+@@ -73,13 +76,13 @@
+ answer
+ why
+ still
+-standin
++standing
+ here
+ hey
+-hey
+ just
+ walk
+ away
++away
+ waited
+ here
+ like
+@@ -89,11 +92,11 @@
+ after
+ school
+ tell
++me
+ how
+ come
+ never
+ showed
+-never
+ showed
+ gave
+ everything
+@@ -101,14 +104,11 @@
+ anything
+ look
+ at
+-me
+ all
+ alone
+ alone
+-so
+ start
+ defending
+-baby
+ stop
+ pretending
+ whats
+@@ -120,37 +120,30 @@
+ on
+ road
+ today
+-hey!
+-wanna
++hey
++attention
++want
+ love
+ fire
+ feel
+ burn
+ desires
+-want
+-man
++boy
+ by
+ side
+-boy
+ who
+ runs
+ hides
+ are
+ gonna
+ fight
+-me
+ die
+ live
+ breathe
++me
+ do
+ care
+ cause
+-dont
+ then
+-boy
++leave!
+ leave
+-walk
+-away
+-walk
+-just
+-yeah

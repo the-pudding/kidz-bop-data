@@ -1,0 +1,48 @@
+--- og440.txt	2020-02-06 19:31:21.000000000 -0800
++++ kb461.txt	2020-02-06 19:31:27.000000000 -0800
+@@ -14,7 +14,7 @@
+ your
+ mind
+ i
+-could
++can
+ give
+ a
+ thousand
+@@ -35,7 +35,7 @@
+ have
+ grow
+ up
+-can
++could
+ stay
+ forever
+ young
+@@ -43,10 +43,9 @@
+ my
+ sofa
+ drinking
+-rum
+-cola
++coca-cola
+ underneath
+-rising
++midday
+ sun
+ youre
+ going
+@@ -77,11 +76,11 @@
+ go
+ wanna
+ spend
+-night
++day
+ alone
+ guess
+ need
+ million
+-im
+-stay
++uh
++huh
+ yeah

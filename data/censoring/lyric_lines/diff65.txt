@@ -1,0 +1,90 @@
+--- og59.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb65.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -1,17 +1,15 @@
+-la
+-da
+-da
+ the
+ smell
+ of
+-your
+-skin
++air
+ lingers
+-on
++with
+ me
+ now
+ youre
+ probably
++on
++your
+ flight
+ back
+ to
+@@ -25,7 +23,6 @@
+ protection
+ baby
+ be
+-with
+ myself
+ and
+ center
+@@ -43,7 +40,7 @@
+ do
+ its
+ personal
+-we
++weve
+ got
+ straightening
+ out
+@@ -79,7 +76,8 @@
+ full
+ grown
+ grown
+-fairytales
++fairy
++tales
+ always
+ have
+ happy
+@@ -93,8 +91,7 @@
+ little
+ schoolmate
+ in
+-school
+-yard
++schoolyard
+ well
+ play
+ jacks
+@@ -104,8 +101,9 @@
+ best
+ friend
+ youll
++mine
+ valentine
+-yes
++guess
+ can
+ hold
+ hand
+@@ -115,15 +113,8 @@
+ yours
+ too
+ playmates
+-lovers
++friends
+ share
+ our
+ secret
+-worlds
+-for
+-home
+-getting
+-late
+-outside
+-serenity
+-yeah
++world

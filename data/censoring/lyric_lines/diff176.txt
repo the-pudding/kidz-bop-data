@@ -1,0 +1,195 @@
+--- og169.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb176.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -2,7 +2,7 @@
+ see
+ you
+ driving
+-around
++round
+ town
+ with
+ the
+@@ -11,11 +11,10 @@
+ and
+ im
+ like
+-"forget
+-you"
+-ooh
+-ooh
+-ooh
++forget
++oo
++oo
++oooo
+ guess
+ change
+ in
+@@ -23,10 +22,8 @@
+ pocket
+ wasnt
+ enough
+-like:
+-forget
+ her
+-too"
++too!
+ said
+ if
+ was
+@@ -34,14 +31,10 @@
+ id
+ still
+ be
+-ya
+-hah
+-now
+-aint
++haaint
+ that
+ some
+-shh
+-aint
++shhaint
+ shh
+ although
+ theres
+@@ -50,8 +43,7 @@
+ wish
+ best
+ a
+-oh
+-oooh
++oooo
+ yeah
+ sorry
+ cant
+@@ -63,39 +55,48 @@
+ get
+ there
+ hes
+-an
+ xbox
+ more
++of
++an
+ atari
+ way
+ play
+ your
+ game
++aint
+ fair
+ pity
+-fool
++foooool
+ falls
+-oh
+-shh
++
+ shes
+ gold
+ digger
+-well
+ just
+ thought
+ should
+ know
+-ooh
++fool
+ ive
+ got
+ news
+ for
+-"yeah
+ go
+ run
+ tell
+ little
+-boyfriend"
++boyfriend!
++ooh
++ooooh
++richer
++ya
++ha
++now
++shh
++aint
++though
++you!
+ know
+ had
+ to
+@@ -104,26 +105,26 @@
+ steal
+ lie
+ cheat
+-trying
++tryin
+ keep
+ ya
++trying
+ please
+ cause
+ being
+-your
+ cheap
+-fool
+-well
+-"ooh
++shes
++know
++sugar
++ooh!
+ really
+ hate
+-yo
+ right
+-now"
++round
++something
++best
+ baby
+-why
+-dyou
+-wanna
++whyd
+ wanna
+ hurt
+ me
+@@ -133,10 +134,9 @@
+ bad
+ bad
+ tried
+-momma
++mamma
+ she
+ told
+-me:
+ "this
+ is
+ one
+@@ -144,14 +144,12 @@
+ your
+ dad
+ dad
+-yes
+-did
+-like
+ uh!
+-why
+-lady!
+-oh
+-you
+-ooh
+-you"
+-too
++whyyy
++whyyy
++lady
++oh!
++you!!
++oooh!
++love
++ooo

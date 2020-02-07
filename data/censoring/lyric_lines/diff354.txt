@@ -1,0 +1,72 @@
+--- og348.txt	2020-02-06 19:31:21.000000000 -0800
++++ kb354.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -1,5 +1,4 @@
+-one
+-one
++oneoneoneone
+ talkin
+ in
+ my
+@@ -57,7 +56,7 @@
+ only
+ callin
+ cause
+-drunk
++sad
+ alone
+ two:
+ let
+@@ -65,7 +64,6 @@
+ youll
+ have
+ to
+-kick
+ again
+ three:
+ be
+@@ -73,11 +71,13 @@
+ friend
+ youre
+ gonna
+-wake
+-bed
++meet
++with
++your
++friends
+ morning
+ if
+-under
++there
+ him
+ aint
+ gettin
+@@ -115,28 +115,6 @@
+ learn
+ do
+ do
+-practice
+-perfect
+-still
+-tryna
+-learn
+-by
+-heart
+-em
+-eat
+-sleep
+-breathe
+-rehearse
+-repeat
+-new
+-yeah
+-alone
+-uh-ooh
+-again
+ whoa-ooh
+-whoa-ooh
+-whoa
+-baby
+ in
+-dont
+ friend

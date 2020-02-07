@@ -1,0 +1,37 @@
+--- og251.txt	2020-02-06 19:31:21.000000000 -0800
++++ kb244.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -23,6 +23,7 @@
+ been
+ there
+ before
++but
+ lifes
+ a
+ bore
+@@ -33,7 +34,6 @@
+ want
+ it
+ all
+-but
+ i
+ dont
+ nothing
+@@ -62,7 +62,7 @@
+ prove
+ you
+ love
+-them
++him
+ hand
+ me
+ world
+@@ -81,9 +81,6 @@
+ truly
+ cares
+ me
+-baby
+-oh
+-ooh
+ said
+ in
+ this

@@ -1,0 +1,82 @@
+--- og162.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb169.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -16,7 +16,8 @@
+ again
+ feel
+ so
+-paper-thin
++paper
++thin
+ house
+ of
+ cards
+@@ -43,10 +44,8 @@
+ still
+ chance
+ for
+-you
+ cause
+ spark
+-in
+ just
+ gotta
+ ignite
+@@ -67,26 +66,23 @@
+ show
+ em
+ what
++your
+ worth
+ make
+ go
+-"aah
+-aah
+-aah"
++"oh
++oh
++oh!"
+ as
+ shoot
+ across
+-sky
+-on
+-your
++sky-y-y
+ colors
+ burst
+ gonna
+ leave
+-them
+-all
+-awe
+-awe
++falling
++down
+ dont
+ have
+ waste
+@@ -107,6 +103,7 @@
+ maybe
+ reason
+ why
++all
+ doors
+ are
+ closed
+@@ -124,6 +121,8 @@
+ its
+ time
+ youll
++cause
++awe-awe-awe
+ boom
+ boom
+ even
+@@ -134,6 +133,6 @@
+ always
+ been
+ inside
+-you
+ now
+ time
++awe

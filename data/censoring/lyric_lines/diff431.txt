@@ -1,0 +1,80 @@
+--- og666.txt	2020-02-06 19:31:21.000000000 -0800
++++ kb431.txt	2020-02-06 19:31:27.000000000 -0800
+@@ -15,8 +15,8 @@
+ dark
+ over
+ until
+-kissed
+-lips
++hold
++hands
+ saved
+ me
+ hands
+@@ -41,7 +41,6 @@
+ that
+ never
+ knew
+-knew
+ all
+ the
+ things
+@@ -60,10 +59,11 @@
+ rain
+ watched
+ pour
++i
+ touched
+ face
+ well
+-burned
++burn
+ while
+ cried
+ cause
+@@ -71,8 +71,9 @@
+ screaming
+ out
+ name
++name
+ when
+-lay
++sit
+ with
+ could
+ stay
+@@ -90,20 +91,25 @@
+ us
+ into
+ flames
++felt
+ something
+ died
++knew
+ last
+ time
++time
+ sometimes
++id
+ wake
+ up
+ by
+ door
+-caught
++hurt
+ must
+ be
+ waiting
+ for
++ya
+ even
+ now
+ were
+@@ -114,6 +120,5 @@
+ from
+ looking
+ oh
+-no
+-burn
+ oh
++ooh

@@ -1,0 +1,111 @@
+--- og299.txt	2020-02-06 19:31:21.000000000 -0800
++++ kb313.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -9,8 +9,7 @@
+ mmm
+ i
+ need
+-a
+-lover
++another
+ trust
+ tell
+ me
+@@ -27,12 +26,12 @@
+ easy
+ someone
+ eye
++eye
+ but
+ ive
+ been
+ waitin
+ whole
+-damn
+ life
+ lifetime
+ dont
+@@ -48,6 +47,7 @@
+ yeah
+ so
+ independent
++so
+ independent
+ open
+ up
+@@ -56,13 +56,13 @@
+ ill
+ youve
+ got
+-some
+-shit
++something
+ say
+ and
+ im
+ here
+ listen
++so
+ baby
+ where
+ your
+@@ -70,11 +70,10 @@
+ lies
+ waste
+ day
+-spend
++until
+ night
+ underneath
+ sunrise
+-show
+ into
+ mystery
+ is
+@@ -84,42 +83,27 @@
+ history
+ me
+ when
+-feels
++seems
+ good
+ bad
+ cant
+-want
+ cause
+ know
+ do
+-come
+-over
++call
++up
++cell
+ company
+ cravin
+ that
+ synergy
+-yeah
+-down
+-hide
+-feelin
+-me
+-gotta
+-deny
+-baby
+-gon
+-make
+-overnight
+-down
+-yeah
+ tell
+-me
+ lies
+ waste
+-day
++til
+ night
+ underneath
+ sunrise
+-show
+ yeah
+ yeah
+ ooh

@@ -1,0 +1,115 @@
+--- og512.txt	2020-02-06 19:31:22.000000000 -0800
++++ kb539.txt	2020-02-06 19:31:27.000000000 -0800
+@@ -1,6 +1,6 @@
+ theres
+ times
+-when
++where
+ i
+ want
+ something
+@@ -8,6 +8,7 @@
+ someone
+ like
+ me
++when
+ this
+ dress
+ rehearsal
+@@ -28,15 +29,18 @@
+ dark
+ glasses
+ youre
++youre
++do
+ really
+-lovely
+-underneath
++love
+ it
++underneath
+ all
+ to
+-love
+ im
+ lucky
++all
++lovely
+ know
+ some
+ real
+@@ -60,6 +64,7 @@
+ ever
+ had
+ its
++bad
+ guess
+ not
+ so
+@@ -77,39 +82,34 @@
+ better
+ better
+ for
+-real!
+ cause
+-underneat
+ all
+ are
+ my
+ prince
+-charmin
++charming
+ heat
+ from
+ fire
+ were
+ always
+-burnin
++burning
+ anytime
+-you’re
+ around
+ body
+ keeps
+-callin
++calling
+ touch
+ kisses
+ sweet
+ romancin
+-there’s
+-another
++anotha
+ side
+-of
+-you
+-weh
+ a
++weh
++dis
++here
+ woman
+-yah
+ adore
+ aside
+ temper
+@@ -118,8 +118,8 @@
+ good
+ me
+ baby
++oh
+ that
+-i’m
+ sure
+ over
+ again
+@@ -131,6 +131,8 @@
+ is
+ somehow
+ full
++of
+ forgiveness
++guess
+ meant
+-be…
++be

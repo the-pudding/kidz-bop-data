@@ -1,0 +1,234 @@
+--- og549.txt	2020-02-06 19:31:22.000000000 -0800
++++ kb587.txt	2020-02-06 19:31:27.000000000 -0800
+@@ -2,7 +2,7 @@
+ i
+ heard
+ you
+-are
++were
+ a
+ wild
+ one
+@@ -12,13 +12,14 @@
+ home
+ itd
+ be
+-home
+ run
+ show
+ me
+ how
++youll
+ do
+-wanna
++want
++to
+ shut
+ down
+ the
+@@ -26,9 +27,6 @@
+ with
+ like
+ ones
+-wild
+-ones
+-ones
+ crazy
+ foolish
+ stupid
+@@ -41,15 +39,14 @@
+ might
+ lose
+ it
+-glass
+-to
++blast
+ roof
+ thats
+ we
+-does
++doz
+ dont
+ care
+-tonight
++night
+ she
+ almost
+ dared
+@@ -57,63 +54,59 @@
+ five
+ ready
+ get
+-live
++popping
+ aint
+ no
+ surprise
+ take
+ so
+ high
+-jump
+-and
+-nose
+-dive
++jumping
++doubts
+ surfing
+ crowd
+-oooh-ooohh
+ said
+ gotta
+ man
+-im
+-head
+-of
++when
++they
++heading
+ my
+-band
+-mic
++van
+ check
+-two-oooh
+-em
++too
++them
+ in
+ while
+ playboy
+-they
+-all
+-loose
+-loose
++does
++and
++yall
+ after
+ bottle
+-bent
+-then
++all
++bit
+ again
+ tomorrow
+ break
++loose
+ cause
+ motto
+-down:
+-hundred
++shuts
++down
++youre
+ super
+ models
+ rocker
+-fa
+-sho
++foot
+ stopper
+ more
+-chambull
+-number
++shampoo
++never
++one
+ popper
+ got
+ hangover
+-too
+ much
+ vodka
+ cant
+@@ -124,52 +117,51 @@
+ doubt
+ by
+ end
++of
+ night
+ clothes
+ coming
+ off
++til
+ make
+ that
+ move
+ somehow
+-some
+-way
++someway
+ raise
+ roof
+ black
+ shades
+-when
+ sun
+ come
+ through
+-uh-oh
++oh
+ its
+ on
+ everything
+ goes
+-out
++round
++up
+ baby
+-til
+-freak
+-shows
++freaky
+ what
+ happens
+ body
+ private
+ stays
+ here
+-pri-private
++em
+ untamed
+ tell
+ pain
+-tolerance
++this
+ bottoms
+-up
+ champagne
+ life
+-call
+-hanna
+-explain
++harder
++than
++hit
++play
+ busy
+ bail
+ insane
+@@ -181,20 +173,17 @@
+ now
+ running
+ wolves
++im
+ prowl
+ another
+ side
+ would
+-never
+ thought
+-tear
+ body
+-dominate
+-youve
+-had
++sure
++have
+ enough
+ lie
+ wilds
+-one;
+ lets
+-wolves
++prowl

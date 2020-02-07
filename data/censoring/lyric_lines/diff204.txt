@@ -1,0 +1,95 @@
+--- og611.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb204.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -1,16 +1,14 @@
+-woo!
+-haha
+-right
++{right
+ back
+ at
+-yall
++ya
+ its
+ the
+ worlds
+ most
+ talented
+ record
+-label:
++label
+ murder
+ inc
+ and
+@@ -29,12 +27,13 @@
+ of
+ hip
+ hop
+-r&b
++r
++b
+ yo
+ miss
+-ashanti
++ashanti}
+ boy
+-fill
++feel
+ me
+ with
+ so
+@@ -61,10 +60,10 @@
+ wouldnt
+ be
+ without
+-you
+ babe
+ couldnt
+ see
++out
+ baby
+ all
+ life
+@@ -73,12 +72,18 @@
+ searching
+ for
+ everyday
++glad
++i
+ found
+-boy
++been
+ feeling
+ im
+ happy
++baby
++yea
++you
+ got
++feelin
+ take
+ pain
+ away
+@@ -86,22 +91,10 @@
+ around
+ know
+ happy
+-fell
+-love
+ thank
+ god
+ he
+ sent
+-up
+-above
+-sent
+ above
+ someone
+-ive
+-been
+-searching
+-so
+-glad
+-that
+-i
+-feeling
++bad

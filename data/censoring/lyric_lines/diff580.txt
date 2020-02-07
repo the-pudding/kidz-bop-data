@@ -1,0 +1,73 @@
+--- og545.txt	2020-02-06 19:31:22.000000000 -0800
++++ kb580.txt	2020-02-06 19:31:27.000000000 -0800
+@@ -9,7 +9,8 @@
+ youd
+ be
+ around
+-uh-huh
++uh
++huh
+ thats
+ right
+ i
+@@ -21,7 +22,7 @@
+ everything
+ said
+ to
+-yeah-huh
++yeah
+ if
+ someone
+ three
+@@ -33,9 +34,9 @@
+ id
+ stand
+ up
+-punch
++call
+ them
+-out
++loud
+ cause
+ theyre
+ all
+@@ -65,20 +66,18 @@
+ touch
+ again
+ still
+-call
+ friend
+ give
+ anything
+ count
+ blessings
+-fore
++for
+ guess
+ didnt
+ was
+ they
+ knew
+ yeah
+-yeah
+ ill
+ keep
+ locked
+@@ -88,9 +87,10 @@
+ we
+ wont
+ forget
++you
+ what
+ happened
+-that
++the
+ last
+ kiss
+ cherish
+@@ -103,4 +103,5 @@
+ visit
+ sleep
+ darling
++darling
+ miss

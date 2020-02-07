@@ -1,0 +1,196 @@
+--- og511.txt	2020-02-06 19:31:22.000000000 -0800
++++ kb538.txt	2020-02-06 19:31:27.000000000 -0800
+@@ -1,149 +1,100 @@
+-uh-huh
+-uh-huh
+-yeah
+-rihanna
+-good
+-girl
+-gone
+-bad
+-take
+-three
+-action
+-hov
+-no
+-clouds
+-in
+-my
+-stones
+-let
+-it
+-rain
+-i
+-hydroplane
+-the
+-bank
+-coming
+-down
+-with
+-dow
+-jones
+-when
++oh
+ come
+-we
+-gone
+-roc-a-fella
+-fly
+-higher
+-than
+-weather
+-g5s
+-or
+-better
++on
+ you
+-know
+-me
+-you
+-me
+-anticipation
+-for
+-precipitation
+-stack
+-chips
+-rainy
+-day
+-jay—rain
+-man
+-is
+-back
+-little
+-miss
+-sunshine
+-rihanna
+-where
+-at
+-have
++had
++my
+ heart
+ and
+ well
+ never
+ be
+-worlds
++world
+ apart
+ maybe
++in
+ magazines
+ but
+ youll
+ still
+ star
+ baby
+-‘cause
++cause
++the
+ dark
+ cant
+ see
+ shiny
+ cars
+ thats
++when
+ need
++me
+ there
+-you
++with
+ ill
+ always
+ share
+ because
+ sun
+-shine
++shines
+ shine
+ together
+ told
+ here
+ forever
+ said
++that
+ your
+ friend
+ took
+ an
+ oath
++an
+ ima
+ stick
++it
+ out
+-to
++till
+ end
+ now
+-that
+ its
+ raining
+ more
++than
+ ever
++know
++have
+ each
+ other
+ can
+ stand
+ under
+ umbrella
+-umbrella
+ ella
+ eh
+ eh
+-eh-eh
+ these
+-fancy
++funky
+ things
+ will
+-come
+ between
+ youre
+ part
+ of
+ entity
++for
+ infinity
+ war
+ has
++us
++part
++done
+ its
+-world
+-dealt
+ cards
+ if
+ hand
++is
+ hard
+ mend
+ run
+@@ -153,15 +104,12 @@
+ dont
+ alarmed
+ theres
++no
+ distance
+ our
+ love
+-so
+-gon
++gonna
++let
+ rain
+ pour
+ all
+-rainin
+-rainin
+-ooh
+-pourin

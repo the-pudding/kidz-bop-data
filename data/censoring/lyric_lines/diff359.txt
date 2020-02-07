@@ -1,0 +1,87 @@
+--- og351.txt	2020-02-06 19:31:21.000000000 -0800
++++ kb359.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -3,12 +3,15 @@
+ want
+ you
+ close
++so
++close
+ where
+ can
+ stay
+ forever
+ be
+ sure
++sure
+ that
+ it
+ will
+@@ -17,17 +20,19 @@
+ better
+ and
+ me
++me
+ together
+ through
+ the
+ days
++days
+ nights
+ dont
+ worry
+ cause
+-everythings
+-going
+-to
++every
++things
++gonna
+ alright
+ people
+ keep
+@@ -40,7 +45,6 @@
+ all
+ know
+ is
+-gonna
+ no
+ one
+ one
+@@ -48,7 +52,7 @@
+ way
+ of
+ im
+-feelin
++feeling
+ feel
+ for
+ you
+@@ -61,11 +65,13 @@
+ hurting
+ always
+ around
++youll
+ this
+ certain
+ some
+ search
+ world
++to
+ find
+ something
+ we
+@@ -73,13 +79,9 @@
+ try
+ try
+ divide
+-so
+ real
+ till
+ end
+ time
+ telling
+-there
+-aint
+-oh
+-oh
++theres

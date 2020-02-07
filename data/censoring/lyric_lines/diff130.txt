@@ -1,0 +1,20 @@
+--- og594.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb130.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -29,7 +29,7 @@
+ happened
+ before
+ fallout
+-resistance
++resistence
+ tension
+ is
+ between
+@@ -41,8 +41,6 @@
+ how
+ it
+ should
+-be
+-yeah
+ maybe
+ redemption
+ has

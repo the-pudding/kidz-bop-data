@@ -1,0 +1,211 @@
+--- og108.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb116.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -1,7 +1,5 @@
+-mm-mmm
+-yeah
+-yeah
+-hey
++yah
++yah
+ my
+ momma
+ called
+@@ -11,7 +9,7 @@
+ tv
+ son
+ said
+-shit
++things
+ done
+ changed
+ ever
+@@ -32,8 +30,6 @@
+ say
+ "congratulations"
+ uh
+-uh
+-uh
+ worked
+ so
+ hard
+@@ -53,7 +49,9 @@
+ and
+ look
+ made
++yeah
+ friendly
++yeah
+ im
+ jumping
+ out
+@@ -69,122 +67,66 @@
+ a
+ savage
+ itching
+-like
+-addict
++gotta
+ surrounded
+-twenty
+-bad
+-bitches
++by
++friends
+ didnt
+ me
+ last
+ year
+-everyone
+-wanna
+-act
+-important
+-yeah-yeah-yeah
+-yeah-yeah-yeah
+-that
+-mean
+-when
+-saw
+-dough
+-yuh
+-countin
+-me
+-drop
+-ball
+-everything
+-custom
+-at
+-border
+ if
+-fuck
++go
+ with
+ winning
+ put
+ your
+-lighters
++hands
++up
++in
+ sky
+ could
+ make
+ cents
++when
+ got
+ millions
+ mind
+ coming
+-bullshit
++those
++questions
+ just
+ side
+ balling
+ baby
+ see
+-in
+ eyes
+ congratulations
+ ooh
++uh
+ ayy
+ look
+-yeah
++yah
+ patient
+-yeah
+-oh
++yah
++uh
+ ayy
+-ooh
++oh
+ can
+ scream
++that
+ we
+-it!
+-everywhere
++it
++everyone
+ everywhere
+ go
+ gratulation
+-nigga
++kids
+ graduation
+-yeah
+-pick
+-up
+-rock
+-baby
+-ball
+-looking
+-someone
+-call
+-brr
+-right
+-now
+-situation
+-ayy
+-old
+-ben-ben
+-franklins
+-cash
+-big
+-rings
+-ooh
+-champagne
+-champagne
+-life
+-is
+-ball
+-game
+-ball
+-game
+-instead
+-trap
+-though
+-trap
+-though
+-pot
+-big
+-call
+-super
+-bowl
+ super
+ bowl
+-bowl
+-hoes
++call
++friends
+ brr
+ get
+ rolls
+@@ -192,17 +134,17 @@
+ top-floor
+ lifestyle
+ top
+-huncho
+-post
+-malone
++living
++them
++yah
++kidz
++bop
+ ayy
+-gotta
+ play
+ phone
+-what
+-houdini
+-gone
+-uh-huh
+-
++where
++from
++is
++getting
+ hey
+ hey

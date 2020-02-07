@@ -1,0 +1,212 @@
+--- og719.txt	2020-02-06 19:31:22.000000000 -0800
++++ kb596.txt	2020-02-06 19:31:27.000000000 -0800
+@@ -20,18 +20,18 @@
+ will
+ never
+ change
+-i’m
++am
+ on
+ my
+ way
+ lets
+-go!
++go
+ yeah
+-you’re
++youre
+ listening
+ now
+ they
+-say
++said
+ aint
+ heard
+ nothing
+@@ -41,7 +41,7 @@
+ thats
+ why
+ play
+-song
++songs
+ so
+ many
+ different
+@@ -49,25 +49,20 @@
+ cause
+ got
+ more
+-fuckin
+ hits
+-than
+-disciplined
+-child
++style
+ when
+ see
+ me
+ everybody
+-brrrap
+-brrraps
+-man
++baraap
++standing
+ young
+ gun
+ fully
+-black
+-barack
+-cried
+-tear
++backed
++trapped
++criteria
+ drops
+ over
+ massive
+@@ -82,10 +77,10 @@
+ at
+ jacket
+ hat
+-damn
+ berserk
+ down
+ earth
++im
+ bringing
+ gravity
+ back
+@@ -102,40 +97,35 @@
+ their
+ salary
+ taxed
+-look
+-im
+ writer
+ from
+ ghetto
+-malorie
+-blackman
+-where
+-hells
++mallory
++black-man
++wheres
++worlds
+ sanity
+ at
++man
+ used
+ be
+ kid
+ that
+ no
+-one
+ cared
+ about
+ you
+ have
+ keep
+ screaming
+-til
++till
+ hear
+ out
+ oh
+-
+ needed
+-change
+ we
+ ate
+-tipped
+-because
++took
+ break
+ for
+ sec
+@@ -143,17 +133,18 @@
+ gave
+ up
+ believing
+-praying
++same
+ done
+-illegal
++legal
+ stuff
+ was
+ leaded
+ astray
++say
+ money
+ is
+ root
+-evilist
++evilest
+ ways
+ ever
+ been
+@@ -161,9 +152,8 @@
+ it
+ keeps
+ awake
+-mate
++may
+ hunger
+-would
+ leave
+ them
+ amazed
+@@ -172,24 +162,27 @@
+ long
+ time
+ coming
+-fam
++found
+ since
+ day
+ thought
+ of
+ cunning
+ plan
++one
+ had
+ dream
+ tried
+ chase
+-wasn’t
+-going
++wasnt
++goin
+ nowhere
+ running
++round
+ knew
+ maybe
+ someday
++would
+ understand
+ tryna
+ tenner
+@@ -198,8 +191,17 @@
+ everyones
+ cares
+ gotta
+-until
+-ishi
+-eric
+-turner
++screamin
++kidz
++bop
++lets
+ go
++so
++far
++away
++come
++go
++wont
++change
++im
++way

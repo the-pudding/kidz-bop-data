@@ -1,0 +1,49 @@
+--- og243.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb255.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -25,9 +25,9 @@
+ disappointment
+ haunted
+ all
++of
+ my
+ dreams
+-and
+ then
+ saw
+ her
+@@ -37,7 +37,6 @@
+ a
+ believer
+ trace
+-of
+ doubt
+ mind
+ couldnt
+@@ -47,7 +46,7 @@
+ more
+ or
+ less
+-given
++giving
+ thing
+ gave
+ got
+@@ -55,14 +54,14 @@
+ yeah
+ whats
+ use
+-trying
++tryin
+ you
+ is
+ pain
+ when
+-wanted
++needed
+ sunshine
+ got
+ rain
+-sunshine
+-yeah
++trying
++wanted

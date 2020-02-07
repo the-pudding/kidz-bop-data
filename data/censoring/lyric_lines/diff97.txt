@@ -1,0 +1,94 @@
+--- og588.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb97.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -55,7 +55,7 @@
+ on
+ way
+ driving
+-at
++like
+ 90
+ those
+ country
+@@ -75,65 +75,44 @@
+ over
+ castle
+ hill
+-fifteen
+-smoking
+-hand-rolled
+-cigarettes
+-law
+-backfields
+-getting
+-drunk
++once
++got
++older
++hoping
++fun
++never
++ends
++road
++hanging
++out
+ with
+ had
+ first
+-kiss
++job
+ a
+ friday
+ night
+ dont
+ reckon
+-that
+ did
+ right
+ weekend
+ jobs
+-got
+ paid
+ wed
+ buy
+ cheap
+-spirits
+-drink
+-straight
++toys
++then
++theyd
++break
+ have
+-thrown
+-up
++hung
+ oh
+ how
+ weve
+-one
+-friend
+-left
+-sell
+-clothes
+-works
+-by
+-coast
+-two
+-kids
+-lives
+-alone
+-ones
+-overdosed
+-already
+-second
+-wife
+-just
+-barely
+-these
+-people
+-raised
+ way
+ still
+ remember
++these
+ answers

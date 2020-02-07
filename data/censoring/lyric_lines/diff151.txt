@@ -1,0 +1,134 @@
+--- og145.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb151.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -1,4 +1,3 @@
+-oh
+ turn
+ up
+ the
+@@ -21,14 +20,13 @@
+ more
+ watch
+ getting
+-physical
++crazy
++here
+ of
+ control
+-ah-ah
+ theres
+ people
+ watching
+-ah-ah
+ never
+ miss
+ a
+@@ -38,7 +36,6 @@
+ kill
+ lights
+ feel
+-it
+ under
+ your
+ skin
+@@ -53,92 +50,46 @@
+ you
+ in
+ wrap
+-up
+ cant
+ stop
+ feels
+-an
+-overdose
++really
++close
+ feels
+-overdose
+-overdose
++close
+ oh
+ evacuate
+-dance
++dancefloor
+ im
+ infected
+ by
+ sound
+ stop
+ this
+-killing
++moving
+ hey
+ dr
+ dj
+ let
+-music
+ take
+ underground
+ everybody
+-club
+-burn
+-place
+-right
+-down
+-ground
++club!
+ my
+ bodys
+ aching
+ system
+ overload
+-overload
+ temperatures
+ rising
+ about
+ explode
+-me
+-intoxicated
++infatuated
++taking
+ show
+ got
+ hypnotized
+ everybody
+ step
+ aside
+-evacuate
+-club
+-heating
+-accelerate
+-push
+-top
+-dont
+-have
+-be
+-afraid
+-now
+-guess
+-whos
+-back
+-brand
+-new
+-track
+-that
+-goin
+-mad
+-so
+-off
+-wall
+-just
+-shake
+-thang
+-go
+-crazy
+-yo
+-lady
+-baby
+-see
+-wreck
+-drop
+-low
+-low
+-floor
+-yo
++cos

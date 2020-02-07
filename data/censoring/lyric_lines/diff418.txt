@@ -1,0 +1,31 @@
+--- og404.txt	2020-02-06 19:31:21.000000000 -0800
++++ kb418.txt	2020-02-06 19:31:27.000000000 -0800
+@@ -52,14 +52,11 @@
+ wrong
+ from
+ right
+-and
+ ill
+ can
+-be
+ say
+ it
+ me
+-to
+ leave
+ this
+ life
+@@ -71,7 +68,6 @@
+ with
+ broken
+ wings
+-fallin
+ see
+ city
+ aint
+@@ -81,5 +77,3 @@
+ ledge
+ eighteenth
+ story
+-hurry
+-saving

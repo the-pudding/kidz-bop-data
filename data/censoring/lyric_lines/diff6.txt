@@ -1,0 +1,183 @@
+--- og8.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb6.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -2,40 +2,39 @@
+ breakfast
+ at
+ tiffanys
+-and
+-bottles
+-of
+-bubbles
++it
++wont
++burst
++my
++bubble
+ girls
+ with
+-tattoos
++a
++dream
+ who
+ like
+ getting
+ in
+ trouble
+ lashes
++and
+ diamonds
+ atm
+ machines
+ buy
+ myself
+ all
+-my
++of
+ favorite
+ things
+ yeah
+ been
+ through
+-some
+-bad
+-shit
+-i
++the
++baddest
+ should
+ be
+-a
+-sad
+-bitch
++saddest
+ woulda
+ thought
+ itd
+@@ -46,21 +45,21 @@
+ rather
+ tied
+ up
+-calls
++bows
+ not
+ strings
+ write
+ own
+ checks
++i
+ what
+ sing
+-yeah
+ wrist
+ stop
+ watchin
+ neck
+ is
+-flossy
++flossin
+ make
+ big
+ deposits
+@@ -72,11 +71,11 @@
+ thanks
+ just
+ bought
+-it
+ see
+ it
+ want
+ got
++yeah
+ yep
+ wearing
+ ring
+@@ -87,9 +86,10 @@
+ "mrs"
+ matching
+ diamonds
+-for
+-six
+-bitches
++so
++they
++know
++this
+ id
+ spoil
+ friends
+@@ -98,7 +98,7 @@
+ retail
+ therapy
+ new
+-addiction
++addition
+ whoever
+ said
+ money
+@@ -111,14 +111,12 @@
+ had
+ enough
+ em
+-they
+ say
+ "which
+ one"
+ "nah
+ em"
+ happiness
+-the
+ same
+ price
+ as
+@@ -132,22 +130,23 @@
+ gleamin
+ way
+ shine
+-know
+ youve
+ seen
+ youve
+ it
+ crib
++for
+ just
+ for
+ closet
+ closet
+ both
+-his
+-hers
+-baby
++mine
++yours
+ oh
+ yeah
++oh
++baby
+ receipts
+ lookin
+ phone
+@@ -172,7 +171,8 @@
+ them
+ racks
+ stacked
+-ass
++real
++fast
+ shoot
+ go
+ from
+@@ -185,7 +185,7 @@
+ loot
+ never
+ mind
+-juice
++use
+ nothing
+ net
+ we
+@@ -203,4 +203,3 @@
+ get
+ i
+ see
+-yep

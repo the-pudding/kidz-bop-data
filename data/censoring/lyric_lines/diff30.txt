@@ -1,0 +1,44 @@
+--- og30.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb30.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -38,7 +38,6 @@
+ sleep
+ tonight
+ oh
+-oh
+ want
+ some
+ what
+@@ -56,7 +55,7 @@
+ feel
+ the
+ chemicals
+-kickin
++kicking
+ in
+ its
+ getting
+@@ -66,14 +65,15 @@
+ do
+ every
+ time
+-killin
++losing
++me
+ now
+ denied
+ by
++you
+ animal
+ inside
+ hush
+-hush
+ world
+ is
+ quiet
+@@ -88,3 +88,6 @@
+ why
+ understand
+ whoa
++again
++waiting
++oh

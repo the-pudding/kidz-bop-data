@@ -1,0 +1,105 @@
+--- og244.txt	2020-02-06 19:31:21.000000000 -0800
++++ kb256.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -1,7 +1,5 @@
+-ahh
+ lets
+ go
+-mmm
+ dont
+ wantcha
+ for
+@@ -19,30 +17,23 @@
+ you
+ life
+ yeah
+-yeah
+-uhh
+ know
+ sound
+ serious
+ and
+ baby
+ am
+-i
+-am
+ youre
+ fine
+ piece
+ of
+ real
+ estate
+-and
+ gonna
+ get
+ me
+ some
+ land
+-some
+-land
+ oh
+ so
+ try
+@@ -60,8 +51,6 @@
+ find
+ that
+ someone
+-im
+-getcha
+ getcha
+ while
+ gotcha
+@@ -70,8 +59,6 @@
+ it
+ takes
+ all
+-yeah
+-betcha
+ betcha
+ by
+ time
+@@ -84,40 +71,33 @@
+ its
+ matter
+ fact
++dontcha
+ worry
+ bout
+ bet
+ your
+ bottom
+ dollar
+-time
+ mine
+ just
+ like
+ should
+ ill
+-good!
+-yeah
+-ahh
+-hoo
++good
+ ive
+ already
+ planned
+ heres
+ how
+-heres
+-be
+-ah
+-you
+ fall
+ with
+-uh-uh-uh
+-oh
++so
++good
++yeah
+ baby
+ knock
+ on
+ wood
+ somehow
+ make
+-good
+ betcha

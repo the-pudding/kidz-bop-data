@@ -1,0 +1,33 @@
+--- og681.txt	2020-02-06 19:31:21.000000000 -0800
++++ kb469.txt	2020-02-06 19:31:27.000000000 -0800
+@@ -42,7 +42,7 @@
+ and
+ every
+ glance
+-killing
++hurting
+ me
+ one
+ last
+@@ -54,7 +54,8 @@
+ stare
+ moving
+ go
+-nowhere
++no
++where
+ yeah
+ know
+ that
+@@ -102,10 +103,9 @@
+ feet
+ dont
+ fail
+-now
+ gonna
+ run
+-til
++till
+ walk
+ something
+ pulls

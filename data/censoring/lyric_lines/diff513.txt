@@ -1,0 +1,27 @@
+--- og694.txt	2020-02-06 19:31:22.000000000 -0800
++++ kb513.txt	2020-02-06 19:31:27.000000000 -0800
+@@ -35,9 +35,9 @@
+ trick
+ or
+ treat
+-until
++till
+ neighbors
+-going
++gonna
+ die
+ fright
+ its
+@@ -89,6 +89,7 @@
+ pounce
+ how
+ youll
++n
+ black
+ slimy
+ green
+@@ -164,3 +165,4 @@
+ king
+ la
+ la
++whoo

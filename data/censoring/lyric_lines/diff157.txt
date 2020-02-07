@@ -1,0 +1,117 @@
+--- og150.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb157.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -13,19 +13,16 @@
+ got
+ ya
+ open
+-now
+-floatin
++now ya floatin
+ so
+ you
+-gots
+-to
++gots to
+ dance
+ for
+ me
+ dont
+ need
+-no
+-hateration
++no hateration
+ holleration
+ percolatin
+ while
+@@ -37,6 +34,8 @@
+ everybody
+ cause
+ know
++gots
++to
+ mary
+ j
+ is
+@@ -48,17 +47,19 @@
+ make
+ feel
+ alright
+-make
+-alright
+ baby
+ party
+ with
++dance
++dance
++dance
+ let
+ loose
+ set
+ your
+ body
+ free
++lets
+ leave
+ situations
+ at
+@@ -68,13 +69,10 @@
+ inside
+ jump
+ floor
+-lets
+-upon
+-gots
+-me
+-holler
+-holler
+-holler
++now
++floatin
++no
++hateration
+ ooh
+ its
+ only
+@@ -116,10 +114,11 @@
+ door"
+ grab
+ somebody
+-ass
++yourself
+ in
+ dancery
+ and
++me
+ haters
+ yall
+ no
+@@ -177,6 +176,7 @@
+ matter
+ marys
+ crunked
++upon
+ so
+ gotta
+ dance
+@@ -184,20 +184,17 @@
+ it
+ do
+ is
+-dance
+-dance
+ cmon
+ cmon
+ yeah
+ you
+ just
+-
+ me
+ cmon
+ yall
+-dance
+ hands
+ we
+ holler
++holler
+ hear
+ percolated

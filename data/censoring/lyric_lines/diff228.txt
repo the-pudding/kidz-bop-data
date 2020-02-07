@@ -1,0 +1,131 @@
+--- og224.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb228.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -7,22 +7,23 @@
+ my
+ to
+ yeah
++my
+ cell
+ phone
+-late
+-night
+-when
++any
++time
+ need
+-love
++talk
+ and
+ i
+ know
++when
+ that
+ hotline
+ bling
+ can
+ only
+-mean
++say
+ one
+ thing
+ ever
+@@ -32,7 +33,7 @@
+ city
+ got
+ a
+-reputation
++situation
+ for
+ yourself
+ now
+@@ -43,15 +44,16 @@
+ girl
+ down
+ stressed
+-‘cause
++cause
+ started
+-wearing
++caring
+ less
+-goin
++going
+ more
+-glasses
+-of
+-champagne
++dancing
++your
++heart
++there
+ dance
+ floor
+ hangin
+@@ -63,7 +65,6 @@
+ seen
+ before
+ you
+-me
+ we
+ just
+ dont
+@@ -73,7 +74,6 @@
+ like
+ did
+ wrong
+-going
+ places
+ where
+ belong
+@@ -81,48 +81,9 @@
+ what
+ asked
+ running
++of
+ pages
+ in
+-your
+ passport
+-these
+-days
+-all
+-do
+-is
+-wonder
+-if
+-youre
+-bendin
+-over
+-backwards
+-someone
+-else
+-rolling
+-up
+-backwoods
+-doing
+-things
+-taught
+-gettin
+-nasty
+-no
+-nobody
+-else
+-why
+-alone
+-always
+-touching
+-road
+-stay
+-at
+-home
+-be
+-good
+-was
+-zone
+-yeah
+-should
+-right
+-now
+-city…
++hanging
++city

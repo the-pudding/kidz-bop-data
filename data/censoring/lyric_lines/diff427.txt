@@ -1,0 +1,96 @@
+--- og412.txt	2020-02-06 19:31:21.000000000 -0800
++++ kb427.txt	2020-02-06 19:31:27.000000000 -0800
+@@ -7,7 +7,7 @@
+ you
+ my
+ friend
+-and
++oh
+ ill
+ tell
+ you
+@@ -25,7 +25,6 @@
+ where
+ we
+ began
+-oh
+ damn
+ who
+ knew
+@@ -50,6 +49,7 @@
+ loved
+ hit
+ road
++and
+ laugh
+ but
+ something
+@@ -76,8 +76,6 @@
+ in
+ better
+ place
+-see
+-place
+ uh
+ how
+ can
+@@ -88,7 +86,6 @@
+ got
+ everything
+ went
+-through
+ there
+ by
+ side
+@@ -96,14 +93,6 @@
+ with
+ for
+ ride
+-ill
+-again
+-yeah
+-came
+-way
+-you
+-started
+-you
+ aah
+ oh
+ wooooh-oh-oh-oh-oh-oh
+@@ -129,8 +118,6 @@
+ love
+ get
+ lost
+-the
+-lost
+ brotherhood
+ then
+ line
+@@ -146,27 +133,10 @@
+ remember
+ im
+ gone
+-remember
+-gone
+ let
+ light
+ guide
+ way
+ hold
+-every
+-memory
+-as
+-take
+-always
+-lead
+ home
+ home
+-uh
+-yeah
+-yo
+-yo
+-uh
+-yo
+-oh-oh
+-uh-huh
+-yup

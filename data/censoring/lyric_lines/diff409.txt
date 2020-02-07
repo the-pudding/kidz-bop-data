@@ -1,0 +1,109 @@
+--- og398.txt	2020-02-06 19:31:21.000000000 -0800
++++ kb409.txt	2020-02-06 19:31:27.000000000 -0800
+@@ -25,13 +25,11 @@
+ go
+ ahead
+ sell
+-out
+-then
+ ill
+ lay
+-your
+-shit
+-bare
++it
++up
++there
+ how
+ leave
+ with
+@@ -45,37 +43,24 @@
+ will
+ do
+ scars
++your
+ love
+ remind
+ us
+ they
+ keep
+-thinkin
++thinking
+ we
+ almost
+ had
+-it
+ all
+-love
+ breathless
+ cant
+ help
+-feeling
+ could
+ have
+-youre
+-gonna
+-wish
+-–
+-never
+-met
+-me
+ rolling
+ deep
+-tears
+-are
+-fall
+-deep
+ inside
+ hand
+ played
+@@ -87,12 +72,10 @@
+ be
+ told
+ but
+-ive
+ heard
+ one
+-on
+-now
+ im
++gonna
+ make
+ head
+ burn
+@@ -101,8 +84,7 @@
+ despair
+ home
+ down
+-there
+-as
++cause
+ mine
+ sure
+ wont
+@@ -113,25 +95,20 @@
+ through
+ open
+ door
+-oh-oh
+ count
+ blessings
+ find
+ what
+ look
+ for
+-whoa-oh
+ turn
+ sorrow
+ into
+ treasured
+ gold
+-youll
+ pay
+ back
+ kind
+ reap
+ just
+ sow
+-all
+-it

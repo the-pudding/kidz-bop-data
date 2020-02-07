@@ -1,0 +1,186 @@
+--- og215.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb220.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -1,8 +1,8 @@
+-1
+-2
+-3
+-uh!
+-my
++one
++two
++three
++oh
++come
+ baby
+ dont
+ mess
+@@ -18,23 +18,21 @@
+ know
+ for
+ sure
+-uh
+ but
+ does
+ really
+-wanna
++want
++to
+ cant
+ stand
+-to
+ see
+ walk
+ out
+ the
+ door
+-ah
+ try
+ fight
+-feeling
++feelin
+ cause
+ thought
+ alone
+@@ -50,9 +48,9 @@
+ together
+ we
+ how
+-cmon
+ hey
+-ya!
++ya
++ya
+ you
+ think
+ youve
+@@ -60,11 +58,8 @@
+ it
+ oh
+ it
+-“got
+-it”
+ just
+ get
+-til
+ theres
+ nothing
+ at
+@@ -80,16 +75,13 @@
+ what
+ they
+ say
+-“nothing
+-forever”
++"nothing
++forever"
+ then
+ makes
+-makes
+ love
+ exception
+-so
+ why
+-oh
+ are
+ in
+ denial
+@@ -98,40 +90,39 @@
+ happy
+ here
+ yall
+-want
+-hear
+-me
++wanna
+ dance
+-uh-oh
+ meet
+ your
+ daddy
++hoooooooooooooooo
++my
+ caddy
+-mama
+-uh-oh
+-make
+-cumma
+-im
+-im
+-being
+-honest
+-hey
+-alright
++momma
++"alright
+ now
+-fellas
+-yeah
++alright
++fellows"
++"yeah"
++"now
+ whats
+ cooler
++colder
+ than
+-cool
+-ice
+-cold!
+-ya
++bein
++cool"
++"ice
++cold"
++"i
++hear
++ya"
++say
+ whats
++cooler
+ alright
+-okay
+-ladies
+-gon
++ladies"
++"we
++gonna
+ break
+ thing
+ down
+@@ -139,6 +130,7 @@
+ few
+ seconds
+ have
++nothin
+ on
+ baddest
+ behavior
+@@ -146,26 +138,9 @@
+ some
+ sugar
+ am
+-neighbor
+-ah
+-here
+-go!
++neighbor"
++shake
+ shake
+-sh-shake
+ like
+ polaroid
+ picture
+-okay
+-sugar
+-picture
+-beyoncés
+-lucy
+-lius
+-dolls
+-floor
+-do
+-do
+-uh-oh
+-ya!
+-oh
+-uh-oh

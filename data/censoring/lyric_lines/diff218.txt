@@ -1,0 +1,98 @@
+--- og213.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb218.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -1,6 +1,5 @@
+-heyy
+-heeey
+-heey
++hey
++hey
+ your
+ lipstick
+ stains
+@@ -10,7 +9,8 @@
+ lobe
+ of
+ my
+-left-side
++left
++side
+ brains
+ i
+ knew
+@@ -21,10 +21,12 @@
+ so
+ went
+ let
++you
+ blow
+ mind
+ sweet
+-moonbeam
++moon
++beam
+ smell
+ in
+ every
+@@ -39,7 +41,6 @@
+ decided
+ whos
+ kind
+-hey
+ soul
+ sister
+ aint
+@@ -51,20 +52,20 @@
+ way
+ move
+ fair
+-know
++know!
+ dont
+ want
+ to
+ miss
+ a
+ thing
+-do
+-tonight
++dotonight
++heyhey
+ just
+ time
+ im
+ glad
+-track
++one-track
+ like
+ me
+ gave
+@@ -86,7 +87,6 @@
+ untrimmed
+ chest
+ believe
+-you
+ virgin
+ madonna
+ always
+@@ -100,10 +100,9 @@
+ only
+ drug
+ need
+-gangster
++gangsta
+ thug
+ dreaming
+-of
+ see
+ be
+ myself
+@@ -113,6 +112,7 @@
+ theres
+ nothing
+ world
+-be
++see
+ with
+-heey
++do
++tonight

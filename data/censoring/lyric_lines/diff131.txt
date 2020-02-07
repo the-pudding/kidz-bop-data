@@ -1,0 +1,190 @@
+--- og122.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb131.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -1,21 +1,7 @@
+-yeah
+-yall
+-know
+-what
+-it
+-is
+-katy
+-perry
+-juicy
+-j
+-uh-huh
+-lets
+-rage!
+ i
+ knew
+ you
+ were
+-were
+ gonna
+ come
+ to
+@@ -33,18 +19,14 @@
+ capable
+ of
+ anything
+-anything
+ everything
+ make
+ your
+-aphrodite
+ one
+ only
+ dont
+ enemy
+ enemy
+-your
+-enemy
+ so
+ wanna
+ play
+@@ -52,20 +34,22 @@
+ magic
+ boy
+ should
++know
++what
+ youre
+-fallin
++falling
+ for
+ baby
+ do
+ dare
+ this
++cause
+ coming
+ at
+ like
+ a
+ dark
+ horse
+-are
+ ready
+ for
+ perfect
+@@ -86,16 +70,13 @@
+ will
+ levitate
+ bird
+-bird
+ without
+ cage
+-were
+ down
+ earth
+ if
+ walk
+ away
+-walk
+ away
+ its
+ in
+@@ -103,7 +84,6 @@
+ palm
+ hand
+ now
+-baby
+ yes
+ or
+ no
+@@ -113,91 +93,16 @@
+ sure
+ before
+ give
+-all
+-me
+-shes
+-beast
+-call
+-her
+-karma
+-come
+-back
+-she
+-eat
+ heart
+-out
+-jeffrey
+-dahmer
+-woo!
+-careful
+-try
+-not
+-lead
+-on
+-shawtys
+-steroids
+-strong
+-may
+-fall
+-when
+-meet
+-meet
+-her
+-get
+-chance
+-keep
+-keep
+-sweet
+-as
+-pie
+-break
+-turn
+-cold
+-freezer
+-freezer
+-that
+-fairy
+-tale
+-ending
+-knight
+-shining
+-armor
+-can
+-sleeping
+-beauty
+-gon
+-put
+-coma
+-damn
+-think
+-her
+-bad
+-sprung
+-care
+-ride
+-roller
+-coaster
+-bedroom
+-into
+-fair
+-a
+-fair
+-drug
+-was
+-tryna
+-hit
+-quit
+-lil
+-mama
+-dope
+-messed
+-around
+-got
+-addicted
++me
++love
++trippin
+ you
+ know
+ like
+ horse
+ ready
+ for
++a
+ storm
++mine

@@ -1,0 +1,79 @@
+--- og33.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb34.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -1,9 +1,9 @@
+-let
++lets
+ go
+-so
+-1
+-2
+-3
++go
++one
++two
++three
+ take
+ my
+ hand
+@@ -14,25 +14,24 @@
+ because
+ you
+ look
++so
+ fine
+ i
+ really
+ wanna
+ make
+ mine
+-say
+-that
+-oh
+-4
+-5
+-6
+-on
++four
++five
++six
++cmon
+ get
+ your
+ kicks
+ now
+ dont
+ need
++the
+ money
+ when
+ like
+@@ -57,7 +56,7 @@
+ but
+ were
+ another
+-man
++boy
+ yeah
+ know
+ we
+@@ -65,7 +64,9 @@
+ got
+ much
+ to
++say
+ before
++let
+ away
+ said
+ are
+@@ -74,6 +75,8 @@
+ girl
+ a
+ face
+-yeah
+-uh
++ya
++see
++cmon
++girl
+ girl

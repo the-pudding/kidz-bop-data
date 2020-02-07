@@ -1,0 +1,67 @@
+--- og613.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb222.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -8,24 +8,20 @@
+ on
+ the
+ floor
+-floor
+-experienced
+-in
++experience
+ moves
+ you
+ cant
+ ignore
+-nore
+ but
+ something
+ bout
+ this
+ beat
+-thats
++just
+ got
+ me
+ hooked
+-hooked
+ come
+ over
+ here
+@@ -34,7 +30,6 @@
+ a
+ closer
+ look
+-look
+ cause
+ enough
+ enough
+@@ -48,28 +43,22 @@
+ higher
+ off
+ do
+-just
+ for
+ kicks
+ thrill
+-thrill
+ high
+ without
+-takin
+-pill
+ pill
+ groove
+ has
+ way
+ sun
+-sun
+ im
+-dancin
++dancing
+ like
+ am
+ only
+ one
+-one
+ musics
+ going
+ feel

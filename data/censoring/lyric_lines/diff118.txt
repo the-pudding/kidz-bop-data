@@ -1,0 +1,108 @@
+--- og111.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb118.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -42,11 +42,11 @@
+ face
+ and
+ wear
+-em
++them
+ around
+ never
+ say
+-hey
++"hey"
+ or
+ remember
+ name
+@@ -59,7 +59,6 @@
+ feet
+ it
+ aint
+-shit
+ dont
+ know
+ the
+@@ -70,71 +69,30 @@
+ much
+ noise
+ shh
+-see
+ figured
+ out
+ need
+-everyones
++every
++ones
+ eyes
+ feel
+ seen
+-girl
+-so
+-vain
+-is
+-about
+-you
+-you
+-but
+-switchin
+-walk
++behind
++nobody
++knows
++who
+ even
++are
++do
++are
++switch
++walk
+ pass
+ by
+-now
+-dare
+-act
+-dont
+-know
+-whats
+-know
+-up
+-nose
+-im
+-approachin
+-up
+-pshht
+-yup
+-can
+-give
+-winter
+-summer
+-winter
+-miami
+-december
+-tryna
+-bored
+-them
+-diordior
+-she
+-was
+-actin
+-shallow
+-til
+-found
+-how
+-deep
+-pockets
+-mrs
+-primadonna
+-reminder
+-fine
+-finer
+-sean
+ sure
+ seems
+ no
+-doubts
++doubt
+ we
+ see
+ head

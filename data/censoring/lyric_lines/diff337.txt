@@ -1,0 +1,44 @@
+--- og642.txt	2020-02-06 19:31:21.000000000 -0800
++++ kb337.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -28,7 +28,6 @@
+ he
+ did
+ mash
+-mash
+ it
+ a
+ graveyard
+@@ -64,7 +63,8 @@
+ begun
+ guests
+ included
+-wolfman
++wolf
++man
+ dracula
+ son
+ scene
+@@ -123,18 +123,14 @@
+ door
+ tell
+ them
+-boris
++model
+ sent
+ then
+ can
+ do
+ youll
+ catch
+-igor:
+-good!
+-mad
+-scientist:
+-easy
+-igor
+-impetuous---
+-grrr!
++yes
++yes
++got
++it

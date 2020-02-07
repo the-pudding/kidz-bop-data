@@ -1,0 +1,34 @@
+--- og515.txt	2020-02-06 19:31:22.000000000 -0800
++++ kb543.txt	2020-02-06 19:31:27.000000000 -0800
+@@ -1,9 +1,9 @@
+ ive
+ been
+-roamin
++roaming
+ around
+ always
+-lookin
++looking
+ down
+ at
+ all
+@@ -43,7 +43,7 @@
+ im
+ to
+ sleep
+-wagin
++waging
+ wars
+ shape
+ poet
+@@ -54,5 +54,8 @@
+ make
+ notice
+ me
+-ready
+-now
++me
++oh
++let
++out
++you

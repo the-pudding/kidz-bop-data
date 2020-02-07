@@ -1,0 +1,87 @@
+--- og146.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb152.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -12,8 +12,7 @@
+ new
+ addiction
+ what
+-got
+-to
++gotta
+ say
+ all
+ youre
+@@ -24,13 +23,13 @@
+ im
+ a
+ sorry
+-sucker
++someone
+ and
+ this
+ happens
+ the
+ time
+-find
++found
+ out
+ that
+ everybody
+@@ -47,46 +46,46 @@
+ then
+ she
+ made
+-lips
++heart
+ hurt
++could
+ hear
+ chit
+ chat
+ take
++to
+ love
+ shack
+ mamas
+ always
+-backtrack
+ back
++track
+ honey
+-could
+-drug
+ prescription
+ too
+ much
++send
+ an
+-overdose
++overboard
+ trash
+ talk
+ make
+ itching
+ oh
+-my
+-shit
++sugar
+ never
+ thought
+ id
+ live
+ see
+ day
++oh
++waha
+ everybodys
+ words
++got
+ in
+-sugar
++way
++oh!
+ show
+ friction
+-gotta
+-say
+-everybody
+-talks

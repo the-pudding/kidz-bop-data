@@ -1,0 +1,38 @@
+--- og284.txt	2020-02-06 19:31:21.000000000 -0800
++++ kb294.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -21,9 +21,9 @@
+ paper
+ picture
+ perfect
+-chased
+-the
+-high
++chase
++it
++all
+ too
+ far
+ fast
+@@ -32,7 +32,6 @@
+ fence
+ but
+ paint
+-it
+ black
+ ooh
+ wished
+@@ -54,13 +53,13 @@
+ somebody
+ loves
+ in
++the
+ ways
+ couldnt
+ somebodys
+ taking
+ care
+ of
+-all
+ mess
+ someone
+ dont

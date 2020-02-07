@@ -1,0 +1,90 @@
+--- og53.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb57.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -20,7 +20,6 @@
+ been
+ oh-ooh
+ second
+-thing
+ dont
+ you
+ tell
+@@ -36,13 +35,13 @@
+ master
+ sea
+ was
+-broken
++learning
+ from
+ a
+ young
+ age
+ taking
+-sulkin
++sulking
+ to
+ masses
+ writing
+@@ -53,7 +52,7 @@
+ me
+ took
+ shook
+-feelin
++feeling
+ singing
+ heartache
+ pain
+@@ -75,10 +74,10 @@
+ down
+ build
+ up
+-oh
+ let
+-bullets
++feelings
+ fly
++oh
+ them
+ rain
+ life
+@@ -92,7 +91,6 @@
+ prayer
+ ones
+ above
+-hate
+ youve
+ heard
+ has
+@@ -101,7 +99,8 @@
+ spirit
+ dove
+ above
+-chokin
++lost
++there
+ in
+ crowd
+ building
+@@ -120,11 +119,11 @@
+ did
+ ever
+ lived
+-ebbin
+-flowin
++ebbing
++flowing
+ inhibited
+ limited
+-til
++till
+ broke
+ open
+ rained
+@@ -134,7 +133,7 @@
+ by
+ grace
+ fire
+-flames
++flame
+ youre
+ face
+ future

@@ -1,0 +1,164 @@
+--- og580.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb69.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -18,23 +18,24 @@
+ there
+ and
+ thought
+-"oh
++oh
+ my
+-god
++gosh
+ look
+ at
+ that
+ face
+ like
+ next
+-mistake
++first
++date
+ loves
+ a
+ game
+-wanna
+-play"
+-ayy
+-new
++we
++play
++hey
++no
+ money
+ suit
+ tie
+@@ -56,7 +57,7 @@
+ be
+ friends
+ im
+-dyin
++dying
+ see
+ how
+ this
+@@ -64,12 +65,12 @@
+ ends
+ grab
+ your
+-passport
++backpack
+ hand
+ make
+ the
+ bad
+-guys
++days
+ good
+ for
+ weekend
+@@ -84,9 +85,8 @@
+ tell
+ when
+ over
+-mm
+ if
+-high
++all
+ was
+ worth
+ pain
+@@ -94,25 +94,25 @@
+ long
+ list
+ of
+-ex-lovers
++some
++others
+ theyll
+-insane
++blame
+ cause
+ love
+-players
++haters
+ game
+ were
+ young
+ reckless
+ well
+-take
++run
+ way
+ too
+ far
+ itll
+ leave
+ breathless
+-hmm
+ with
+ nasty
+ scar
+@@ -131,7 +131,7 @@
+ stolen
+ kisses
+ pretty
+-lies
++eyes
+ youre
+ king
+ baby
+@@ -140,20 +140,16 @@
+ out
+ what
+ want
+-girl
+ month
+ wait
+ worst
+ is
+ yet
+ come
+-oh
+-no
+-screaming
++now
+ crying
+ perfect
+ storms
+-all
+ tables
+ turn
+ rose
+@@ -162,14 +158,16 @@
+ thorns
+ keep
+ second
+-guessin
++guessing
++"oh
+ who
+ she"
+ get
+-drunk
++lost
+ on
+ jealousy
+ youll
++come
+ back
+ each
+ time
+@@ -178,12 +176,4 @@
+ nightmare
+ dressed
+ daydream
+-boys
+-only
+-torture
+-dont
+-say
+-didnt
+-didnt
+-warn
+-ya
++take

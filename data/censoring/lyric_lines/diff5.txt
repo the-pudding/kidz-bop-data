@@ -1,0 +1,157 @@
+--- og7.txt	2020-02-06 19:31:20.000000000 -0800
++++ kb5.txt	2020-02-06 19:31:26.000000000 -0800
+@@ -6,24 +6,11 @@
+ i
+ got
+ is
+-four
++4
+ minutes
+-fikki
+-fikki
+-minutes
+-aye!
+-four
+-four
+-ow
+-cmon
+-ah
+-yeah
+-ha
+-breakdown
+ hey
+-uh
+-cmon
+-madonna
++come
++on
+ boy
+ ive
+ been
+@@ -35,6 +22,7 @@
+ up
+ my
+ stroll
++stroll
+ well
+ dont
+ waste
+@@ -46,9 +34,9 @@
+ tell
+ how
+ you
+-wanna
+-roll
+ want
++roll
++roll
+ speed
+ it
+ then
+@@ -59,6 +47,7 @@
+ enough
+ room
+ both
++girl
+ can
+ handle
+ that
+@@ -66,15 +55,14 @@
+ gotta
+ show
+ where
+-this
++its
+ at
+ are
+ ready
+ go
+ if
+ it
+-come
+-get
++already
+ thought
+ better
+ be
+@@ -85,56 +73,46 @@
+ say
+ the
+ word
+-imma
++will
++waiting
+ we
+ only
++minutes
+ save
+-world!
++world
+ no
+ hesitating
+ grab
+-then
+-girl!
+-heh
+-a-four
+-minutes
+-so
++girl
+ keep
+ up
+-pri
+-hey!
+-ma
+-donna
+-uh
+-em
+-on
++kidz
++bop
++get
++in
++line
+ hop
+ tick
+ tock
+-tick
+ tock
+-thats
+-right
+ sometimes
+ think
+ need
+-"you"
+ intervention
+ yeah
+ know
++that
+ like
+-its
++thats
+ good
+ by
+ way
+ move
+-oh
+-hey
++ooh
+ road
+-hell
++heaven
+ paved
+ with
+-good
+ intentions
+ but
+ die
+@@ -143,9 +121,5 @@
+ did
+ wanted
+ do
+-me
+ bout
+ you
+-already
+-tock
+-world

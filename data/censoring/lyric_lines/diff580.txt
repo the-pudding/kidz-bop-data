@@ -1,10 +1,10 @@
---- og545.txt	2020-02-06 19:31:22.000000000 -0800
-+++ kb580.txt	2020-02-06 19:31:27.000000000 -0800
+--- og545.txt	2020-02-06 20:51:24.000000000 -0800
++++ kb580.txt	2020-02-06 20:51:29.000000000 -0800
 @@ -9,7 +9,8 @@
  youd
  be
  around
--uh-huh
+-uhhuh
 +uh
 +huh
  thats
@@ -14,7 +14,7 @@
  everything
  said
  to
--yeah-huh
+-yeahhuh
 +yeah
  if
  someone

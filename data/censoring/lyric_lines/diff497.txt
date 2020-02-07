@@ -1,5 +1,5 @@
---- og471.txt	2020-02-06 19:31:21.000000000 -0800
-+++ kb497.txt	2020-02-06 19:31:27.000000000 -0800
+--- og471.txt	2020-02-06 20:51:24.000000000 -0800
++++ kb497.txt	2020-02-06 20:51:29.000000000 -0800
 @@ -14,18 +14,17 @@
  loved
  ones
@@ -28,14 +28,14 @@
  into
  it
 +uh
- woo-hoo-hoo
+ woohoohoo
  take
  left
 @@ -54,21 +54,23 @@
  put
  hips
  in
-+woo-hoo-hoo
++woohoohoo
  lets
  have
  some
@@ -83,7 +83,7 @@
  here
  get
  down
--woo-hoo-hoo
+-woohoohoo
  that
  was
  not

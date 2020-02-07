@@ -45,7 +45,7 @@ time
 try
 talk
 get
-tongue-tied
+tonguetied
 turns
 out
 that

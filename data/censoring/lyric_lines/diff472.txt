@@ -1,5 +1,5 @@
---- og447.txt	2020-02-06 19:31:21.000000000 -0800
-+++ kb472.txt	2020-02-06 19:31:27.000000000 -0800
+--- og447.txt	2020-02-06 20:51:24.000000000 -0800
++++ kb472.txt	2020-02-06 20:51:29.000000000 -0800
 @@ -1,23 +1,22 @@
  you
  know
@@ -104,8 +104,7 @@
  thing
  started
  not
--broken-hearted
-+brokenhearted
+ brokenhearted
  finally
 -thinkin
 +thinking

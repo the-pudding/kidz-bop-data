@@ -20,7 +20,7 @@ not
 proud
 of
 address
-torn-up
+tornup
 town
 no
 postcode

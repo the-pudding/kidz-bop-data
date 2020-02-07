@@ -1,10 +1,10 @@
---- og309.txt	2020-02-06 19:31:21.000000000 -0800
-+++ kb323.txt	2020-02-06 19:31:26.000000000 -0800
+--- og309.txt	2020-02-06 20:51:23.000000000 -0800
++++ kb323.txt	2020-02-06 20:51:29.000000000 -0800
 @@ -1,29 +1,29 @@
  wake
  up
 +with
- blood-shot
+ bloodshot
 -eye
 -struggle
 +eyes
@@ -93,7 +93,7 @@
  true
 -oh
 -no
--ho-oh-oh-oh
+-hoohohoh
  been
  here
  before

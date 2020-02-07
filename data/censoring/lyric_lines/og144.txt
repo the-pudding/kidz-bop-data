@@ -23,7 +23,7 @@ for
 and
 now
 im
-see-through
+seethrough
 give
 me
 a

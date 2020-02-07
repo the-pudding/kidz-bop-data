@@ -1,8 +1,8 @@
---- og652.txt	2020-02-06 19:31:21.000000000 -0800
-+++ kb384.txt	2020-02-06 19:31:26.000000000 -0800
-@@ -1,116 +1,61 @@
--y-y-yeaaaaaaah!
--t-t-t-totally
+--- og652.txt	2020-02-06 20:51:23.000000000 -0800
++++ kb384.txt	2020-02-06 20:51:29.000000000 -0800
+@@ -1,110 +1,55 @@
+-yyyeaaaaaaah!
+-ttttotally
 -duuuude!
 +yeah
 +yeah
@@ -12,7 +12,7 @@
  like
  a
  rock
---
+-
 -star
  rockstar
 -im
@@ -135,13 +135,6 @@
  make
  rain
  from
- center
- of
--gui-tar
-+guitar
- as
- soon
- came
 @@ -124,33 +69,19 @@
  golf
  course

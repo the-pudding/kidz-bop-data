@@ -47,9 +47,9 @@ here
 when
 the
 most
-d-dont
+ddont
 down
-r-r-running
+rrrunning
 of
 time
 really
@@ -64,4 +64,4 @@ ooh
 yeah
 oh
 no
-no-o
+noo

@@ -1,5 +1,5 @@
---- og217.txt	2020-02-06 19:31:20.000000000 -0800
-+++ kb223.txt	2020-02-06 19:31:26.000000000 -0800
+--- og217.txt	2020-02-06 20:51:23.000000000 -0800
++++ kb223.txt	2020-02-06 20:51:29.000000000 -0800
 @@ -11,10 +11,12 @@
  the
  stars
@@ -61,12 +61,12 @@
  seen
  best
  of
--me-eh-eh-eh
+-meeheheh
 +me
-+eh-eh-eh
++eheheh
  so
  got
  run
  sight
--see-eh-eh-eh
+-seeeheheh
 +see

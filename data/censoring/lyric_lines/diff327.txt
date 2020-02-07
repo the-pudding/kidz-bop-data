@@ -1,5 +1,5 @@
---- og317.txt	2020-02-06 19:31:21.000000000 -0800
-+++ kb327.txt	2020-02-06 19:31:26.000000000 -0800
+--- og317.txt	2020-02-06 20:51:23.000000000 -0800
++++ kb327.txt	2020-02-06 20:51:29.000000000 -0800
 @@ -1,4 +1,3 @@
 -i
  promise
@@ -50,8 +50,8 @@
  comes
  to
 -lover
- me-e-e
- ooh-ooh-ooh-ooh
+ meee
+ oohoohoohooh
  only
 @@ -106,6 +103,10 @@
  let
@@ -74,9 +74,9 @@
  im
  me
 @@ -132,4 +133,5 @@
- ooh-ooh-ooh-ooh
- oh-oh
- eeh-eeh-eeh
--ooh-ooh-ooh-ooh
+ oohoohoohooh
+ ohoh
+ eeheeheeh
+-oohoohoohooh
 +yeah
 +yeah

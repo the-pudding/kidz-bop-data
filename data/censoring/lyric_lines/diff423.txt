@@ -1,5 +1,5 @@
---- og408.txt	2020-02-06 19:31:21.000000000 -0800
-+++ kb423.txt	2020-02-06 19:31:27.000000000 -0800
+--- og408.txt	2020-02-06 20:51:24.000000000 -0800
++++ kb423.txt	2020-02-06 20:51:29.000000000 -0800
 @@ -11,15 +11,14 @@
  limits
  craves
@@ -38,7 +38,7 @@
  were
  stars
 -oh
- oh-oh
+ ohoh
 -has
 -dreams
 -envy
@@ -61,7 +61,7 @@
 -while
 -longer"
 -fades
-+oh-oh
++ohoh
  perfect
  understand
 +shes

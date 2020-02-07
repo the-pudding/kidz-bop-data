@@ -1,5 +1,5 @@
---- og155.txt	2020-02-06 19:31:20.000000000 -0800
-+++ kb164.txt	2020-02-06 19:31:26.000000000 -0800
+--- og155.txt	2020-02-06 20:51:23.000000000 -0800
++++ kb164.txt	2020-02-06 20:51:29.000000000 -0800
 @@ -24,14 +24,14 @@
  life
  one
@@ -23,7 +23,7 @@
  feel
  this
  moment
--whoa-oh
+-whoaoh
 +ohhh
  mr
  worldwide
@@ -56,7 +56,7 @@
  hard
 -bills
 -os
--oh-yays
+-ohyays
 +filled
 +with
 +"so"s
@@ -77,7 +77,7 @@
  about
  red
  rooms
--tie-ups
+-tieups
 -yeah
 +tie
 +ups

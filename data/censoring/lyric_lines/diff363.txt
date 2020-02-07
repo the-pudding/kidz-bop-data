@@ -1,5 +1,5 @@
---- og646.txt	2020-02-06 19:31:21.000000000 -0800
-+++ kb363.txt	2020-02-06 19:31:26.000000000 -0800
+--- og646.txt	2020-02-06 20:51:23.000000000 -0800
++++ kb363.txt	2020-02-06 20:51:29.000000000 -0800
 @@ -21,19 +21,20 @@
  baby
  might
@@ -20,9 +20,9 @@
 -na—na—na—nothin
 -baby
 -na—nothin
-+nuh-nuh-nuh-nothin
++nuhnuhnuhnothin
 +babe
-+nuh-nothin
++nuhnothin
 +you
  know
  feel
@@ -138,7 +138,7 @@
  well
  know
 -know
--ha-ha
+-haha
 -everywhere
 -hearin
 -name

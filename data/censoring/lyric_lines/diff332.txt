@@ -1,5 +1,5 @@
---- og314.txt	2020-02-06 19:31:21.000000000 -0800
-+++ kb332.txt	2020-02-06 19:31:26.000000000 -0800
+--- og314.txt	2020-02-06 20:51:23.000000000 -0800
++++ kb332.txt	2020-02-06 20:51:29.000000000 -0800
 @@ -1,8 +1,8 @@
 -ow!
 +ow
@@ -29,14 +29,14 @@
  me
  some
 -respect
--oh-ah
+-ohah
 +respect oh
 +ah
  thank
  god
  every
  day
--uh-huh
+-uhhuh
 +uh
 +huh
  woke
@@ -46,7 +46,7 @@
  need
  nobody
  else
--nuh-uh
+-nuhuh
 +nuh
 +uh
  if

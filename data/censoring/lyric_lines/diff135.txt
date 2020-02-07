@@ -1,5 +1,5 @@
---- og595.txt	2020-02-06 19:31:20.000000000 -0800
-+++ kb135.txt	2020-02-06 19:31:26.000000000 -0800
+--- og595.txt	2020-02-06 20:51:23.000000000 -0800
++++ kb135.txt	2020-02-06 20:51:29.000000000 -0800
 @@ -1,5 +1,5 @@
 -usher
 -usher
@@ -23,7 +23,7 @@
  side
  to
  side
--side-side
+-sideside
 -uh
  thank
  god
@@ -32,7 +32,7 @@
  zombie
  gone
  life
--back-back
+-backback
 +back
  life
  hands
@@ -49,7 +49,7 @@
  those
  eyes
  eyes
--eye-eyes
+-eyeeyes
  cause
  baby
  tonight
@@ -59,8 +59,8 @@
  again
 -love
 -again
--l-love
--again-gain
+-llove
+-againgain
 +yeah
  dance
  dance
@@ -109,10 +109,10 @@
  swear
 -ive
  before
--again-gain
+-againgain
 -oh
 -yeah
--again-gainohh
+-againgainohh
 -dont
 -lie!
 -haha
@@ -141,7 +141,7 @@
 -but
 -her
 -headlock
--yabba-dabba-doo
+-yabbadabbadoo
 -make
 -bed
 -rock
@@ -173,7 +173,7 @@
 -yeah
 -man
  love
--o-oh
+-ooh
 -dale
 -let
 -go

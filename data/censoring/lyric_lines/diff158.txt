@@ -1,5 +1,5 @@
---- og151.txt	2020-02-06 19:31:20.000000000 -0800
-+++ kb158.txt	2020-02-06 19:31:26.000000000 -0800
+--- og151.txt	2020-02-06 20:51:23.000000000 -0800
++++ kb158.txt	2020-02-06 20:51:29.000000000 -0800
 @@ -1,90 +1,11 @@
 -first
 -things
@@ -106,7 +106,7 @@
 +my
  name
 -bout
--blow-oh-oh-oh
+-blowohohoh
 +‘bout
 +blow
 +i
@@ -177,8 +177,8 @@
  over
  all
  be
--i-g-g-y
-+k-i-d-z
+-iggy
++kidz
  name
  bold
  been
@@ -250,7 +250,7 @@
  gold
 -trigger
 -gun
--i-g-g-y
--blow-oh-oh-oh
-+k-i-d-z
+-iggy
+-blowohohoh
++kidz
 +blow…

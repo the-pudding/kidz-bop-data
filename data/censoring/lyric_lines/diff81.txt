@@ -1,5 +1,5 @@
---- og71.txt	2020-02-06 19:31:20.000000000 -0800
-+++ kb81.txt	2020-02-06 19:31:26.000000000 -0800
+--- og71.txt	2020-02-06 20:51:22.000000000 -0800
++++ kb81.txt	2020-02-06 20:51:28.000000000 -0800
 @@ -5,7 +5,8 @@
  take
  it
@@ -56,7 +56,7 @@
 +our
 +love
  baby
--ooh-ooh-ooh
+-oohoohooh
 +oooh
  thought
 +your
@@ -70,7 +70,7 @@
 -every
 -time
 -ooh
--ooh-ooh-ooh-ooh
+-oohoohoohooh
 -this
 -is
 +and

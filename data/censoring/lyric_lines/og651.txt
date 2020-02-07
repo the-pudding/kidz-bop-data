@@ -59,7 +59,7 @@ man
 turned
 on
 radio
-jay-z
+jayz
 song
 was
 put
@@ -140,7 +140,7 @@ every
 time
 plays
 alright
-n-n-n-noddin
+nnnnoddin
 head
 ooh
 yeah
@@ -153,4 +153,4 @@ noddin
 movin
 im
 yeah
-ha-ha-ha-ha
+hahahaha

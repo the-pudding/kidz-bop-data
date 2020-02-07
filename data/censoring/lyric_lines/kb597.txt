@@ -44,7 +44,7 @@ wears
 short
 skirts
 wear
-t-shirts
+tshirts
 cheer
 captain
 and

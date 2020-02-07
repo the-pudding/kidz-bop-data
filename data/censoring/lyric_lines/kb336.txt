@@ -1,6 +1,6 @@
 miss
 independent
-self-sufficient
+selfsufficient
 keep
 your
 distance
@@ -42,7 +42,7 @@ she
 fell
 in
 love
-----
+
 what
 is
 this

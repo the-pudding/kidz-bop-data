@@ -37,7 +37,7 @@ the
 city
 in
 a
-broke-down
+brokedown
 car
 four
 years
@@ -49,7 +49,7 @@ lookin
 pretty
 hotel
 bar
-i-i-i
+iii
 cant
 stop
 no
@@ -93,7 +93,7 @@ you
 insane
 stay
 play
-blink-182
+blink182
 song
 beat
 death

@@ -43,7 +43,7 @@ rocks
 all
 in
 watch
-cha-ching
+chaching
 texts
 from
 exes
@@ -142,7 +142,7 @@ yeah
 bags
 it
 need
-cha-ching
+chaching
 beat
 up
 piñatas
@@ -304,7 +304,7 @@ tenis
 balenciaga
 reciben
 entrada
-pa-pa-paparazzi
+papapaparazzi
 lady
 gaga
 hagas

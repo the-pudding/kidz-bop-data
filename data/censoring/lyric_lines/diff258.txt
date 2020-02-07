@@ -1,5 +1,5 @@
---- og245.txt	2020-02-06 19:31:21.000000000 -0800
-+++ kb258.txt	2020-02-06 19:31:26.000000000 -0800
+--- og245.txt	2020-02-06 20:51:23.000000000 -0800
++++ kb258.txt	2020-02-06 20:51:29.000000000 -0800
 @@ -1,205 +1,92 @@
 -murder
 -inc
@@ -7,7 +7,7 @@
 -my
 -motherfuckin
 -name!
--r-u-l-e
+-rule
 -blowin
 -back
 +called
@@ -205,7 +205,7 @@
 -time
 -even
 -if
--part-time
+-parttime
 -they
 -lookin
 -at

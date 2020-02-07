@@ -1,8 +1,8 @@
---- og188.txt	2020-02-06 19:31:20.000000000 -0800
-+++ kb197.txt	2020-02-06 19:31:26.000000000 -0800
+--- og188.txt	2020-02-06 20:51:23.000000000 -0800
++++ kb197.txt	2020-02-06 20:51:29.000000000 -0800
 @@ -1,5 +1,5 @@
--hmm-mmm-mmm
--whoa-oh-oh-oh
+-hmmmmmmmm
+-whoaohohoh
 +whoa
 +oh
  its
@@ -19,7 +19,7 @@
  to
  get
  tonight
--hmm-mmm-mmm
+-hmmmmmmmm
  cause
  slept
  in
@@ -37,12 +37,12 @@
  have
  try
 -woo!
--whoa-oh-oh-oh
--whoa-oh-oh
+-whoaohohoh
+-whoaohoh
 -good
 -time
 -time
--whoa-oh-oh-oh
+-whoaohohoh
 +oh
 +try
  freaked

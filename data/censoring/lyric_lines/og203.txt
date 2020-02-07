@@ -94,9 +94,9 @@ hi
 konnichiwa
 are
 believer
--liever
--liever
--liever-liever-liever-liever-liever-liever-liever-liever
+liever
+liever
+lieverlieverlieverlieverlieverlieverlieverliever
 hard
 soft
 rough
@@ -169,5 +169,5 @@ ill
 be
 singing
 song
-oh-oh
+ohoh
 right

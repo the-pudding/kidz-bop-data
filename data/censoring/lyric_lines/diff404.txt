@@ -1,11 +1,11 @@
---- og392.txt	2020-02-06 19:31:21.000000000 -0800
-+++ kb404.txt	2020-02-06 19:31:27.000000000 -0800
+--- og392.txt	2020-02-06 20:51:24.000000000 -0800
++++ kb404.txt	2020-02-06 20:51:29.000000000 -0800
 @@ -12,18 +12,16 @@
  out
  got
  me
 -singin
--na-na-na-na
+-nananana
 +singing
 +na
  everyday
@@ -15,10 +15,10 @@
  stuck
  on
  replay
--replay-ay-ay-ay
+-replayayayay
 -ayy!
  replay
--j-j-j-jr
+-jjjjr
 +ipods
  remember
  the
@@ -123,9 +123,9 @@
 -ayy
 -girl
  na
--na-na
--na-na
--na-naa
+-nana
+-nana
+-nanaa
  shawty
 +singin
  now

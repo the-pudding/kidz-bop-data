@@ -1,5 +1,5 @@
---- og715.txt	2020-02-06 19:31:22.000000000 -0800
-+++ kb581.txt	2020-02-06 19:31:27.000000000 -0800
+--- og715.txt	2020-02-06 20:51:24.000000000 -0800
++++ kb581.txt	2020-02-06 20:51:29.000000000 -0800
 @@ -1,29 +1,20 @@
 -for
 -one
@@ -32,7 +32,7 @@
 -pumpin
 +bumping
  hey
--yippie-yi-yo
+-yippieyiyo
 +yippie
 +yi
 +yo
@@ -53,7 +53,7 @@
 +"start
  name
 -callin
--yippie-yi-yo
+-yippieyiyo
 +callin"
 +yippie
  girls
@@ -90,7 +90,7 @@
 +beast
 +me
  you
--flea-infested
+-fleainfested
 -mongrel!
 +flea
 +infested
@@ -211,4 +211,4 @@
 -when
 -say
 -woo!
-+doah-ooohowl
++doahooohowl

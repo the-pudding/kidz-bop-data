@@ -150,7 +150,7 @@ noticin
 starin
 hotter
 than
-a-list
+alist
 one
 hit
 list

@@ -1,5 +1,5 @@
---- og226.txt	2020-02-06 19:31:20.000000000 -0800
-+++ kb233.txt	2020-02-06 19:31:26.000000000 -0800
+--- og226.txt	2020-02-06 20:51:23.000000000 -0800
++++ kb233.txt	2020-02-06 20:51:29.000000000 -0800
 @@ -1,4 +1,3 @@
 -alright
  ooh
@@ -44,10 +44,10 @@
  lately
 -baby"
 +baby
- ooo-oh
+ ooooh
  yeah
 -encore
- oooh-ooh-oh
+ ooohoohoh
  its
  fault
 @@ -93,7 +90,7 @@
@@ -60,18 +60,18 @@
  oh
  said
 @@ -106,15 +103,4 @@
- ooo-oh
+ ooooh
  go
  now
 -apologies
  you
--ooo-oh
+-ooooh
 -yeah
 -ooh
 -encore
--oooh-ooh-oh
+-ooohoohoh
 -oh
--ooo-oh
+-ooooh
 -you
 -now
 -baby

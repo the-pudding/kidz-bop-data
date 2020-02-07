@@ -1,5 +1,5 @@
---- og488.txt	2020-02-06 19:31:22.000000000 -0800
-+++ kb514.txt	2020-02-06 19:31:27.000000000 -0800
+--- og488.txt	2020-02-06 20:51:24.000000000 -0800
++++ kb514.txt	2020-02-06 20:51:29.000000000 -0800
 @@ -6,7 +6,8 @@
  to
  the
@@ -23,10 +23,10 @@
  make
  no
  apologies
--oh-oh-oh-oh
-+whoa-oh-oh-oh
-+whoa-oh-oh-oh
- oh-oh-oh
+-ohohohoh
++whoaohohoh
++whoaohohoh
+ ohohoh
  oh
  oh
  another
@@ -47,11 +47,11 @@
  become
  yeah
  become
--oh-oh-oh-oh
+-ohohohoh
 -deserve
 -nothing
 -worthy
--oh-oh-oh
+-ohohoh
 -oh
 +hey
 +hey
@@ -62,10 +62,10 @@
  on
 -marching
  on
-+whoa-oh-oh-oh
- oh-oh-oh-oh
- oh-oh-oh-oh
--oh-oh-oh-oh
++whoaohohoh
+ ohohohoh
+ ohohohoh
+-ohohohoh
 +flood
-+oh-oh-oh
++ohohoh
 +oh

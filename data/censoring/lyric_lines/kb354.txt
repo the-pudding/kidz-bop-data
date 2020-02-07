@@ -115,6 +115,6 @@ learn
 learn
 do
 do
-whoa-ooh
+whoaooh
 in
 friend

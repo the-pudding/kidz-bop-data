@@ -25,7 +25,10 @@ helper_writeOG <- function(x){
     tryThis = gsub("\\?", "", tryThis)
     tryThis = gsub(",", "", tryThis)
     tryThis = gsub("'", "", tryThis)
-
+    # trim ws
+    tryThis = trimws(tryThis, which = "both")
+    # get rid of hyphens
+    tryThis = gsub("-", "", tryThis)
     
     
     fileConn<-file(paste0("og",x,".txt"))
@@ -56,6 +59,10 @@ helper_writeKB <- function(x){
     tryThis = gsub("\\?", "", tryThis)
     tryThis = gsub(",", "", tryThis)
     tryThis = gsub("'", "", tryThis)
+    # trim ws
+    tryThis = trimws(tryThis, which = "both")
+    # get rid of hyphens
+    tryThis = gsub("-", "", tryThis)
     
     
     fileConn<-file(paste0("kb",x,".txt"))

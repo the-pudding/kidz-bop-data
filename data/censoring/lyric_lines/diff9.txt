@@ -1,5 +1,5 @@
---- og569.txt	2020-02-06 19:31:20.000000000 -0800
-+++ kb9.txt	2020-02-06 19:31:26.000000000 -0800
+--- og569.txt	2020-02-06 20:51:22.000000000 -0800
++++ kb9.txt	2020-02-06 20:51:28.000000000 -0800
 @@ -11,10 +11,10 @@
  and
  drowned
@@ -31,15 +31,7 @@
  disappear
  you
  look
-@@ -70,25 +70,25 @@
- falls
- quite
- same
--way
-+way-
- seem
- to
- run
+@@ -77,18 +77,18 @@
  out
  things
  say
@@ -81,13 +73,13 @@
 -lonely
 +say!
 +looks
-+her-
++her
 +girl;
  pretty
  face
  hid
  from
 +lonely
-+-
++
 +girl!
 +smiles

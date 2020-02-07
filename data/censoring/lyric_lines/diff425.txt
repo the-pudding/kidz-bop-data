@@ -1,5 +1,5 @@
---- og409.txt	2020-02-06 19:31:21.000000000 -0800
-+++ kb425.txt	2020-02-06 19:31:27.000000000 -0800
+--- og409.txt	2020-02-06 20:51:24.000000000 -0800
++++ kb425.txt	2020-02-06 20:51:29.000000000 -0800
 @@ -1,110 +1,18 @@
 -bring
 -the
@@ -42,7 +42,7 @@
 -oh
 -oh"
 -are
--now-now
+-nownow
 -rockin
 -with
 -william
@@ -85,7 +85,7 @@
 -burn
 -down
 -house
--hou-house
+-houhouse
 -gon
 -here
 -go
@@ -112,7 +112,7 @@
 -im
 -better
 -maybe
--ever-ever-ever-ever-ever
+-evereverevereverever
 +!
 +say
 +oooooooooo

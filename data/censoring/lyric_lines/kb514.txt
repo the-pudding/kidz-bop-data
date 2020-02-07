@@ -80,9 +80,9 @@ seen
 make
 no
 apologies
-whoa-oh-oh-oh
-whoa-oh-oh-oh
-oh-oh-oh
+whoaohohoh
+whoaohohoh
+ohohoh
 oh
 oh
 another
@@ -120,9 +120,9 @@ come
 marching
 on
 on
-whoa-oh-oh-oh
-oh-oh-oh-oh
-oh-oh-oh-oh
+whoaohohoh
+ohohohoh
+ohohohoh
 flood
-oh-oh-oh
+ohohoh
 oh

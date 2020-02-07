@@ -82,9 +82,9 @@ in
 mirror
 singing
 shower
-la-da-dee
-la-da-da
-la-da-da
+ladadee
+ladada
+ladada
 want
 need
 lovin

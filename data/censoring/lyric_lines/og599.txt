@@ -6,7 +6,7 @@ end
 game
 first
 string
-a-team
+ateam
 whoa
 whoa
 whoa
@@ -66,7 +66,7 @@ g5
 yeah
 come
 to
-a-side
+aside
 boy
 persona
 thats
@@ -90,7 +90,7 @@ life
 touch
 just
 another
-ex-love
+exlove
 don’t
 see
 miss
@@ -115,7 +115,7 @@ end
 game
 first
 string
-a-team
+ateam
 knew
 her
 when
@@ -134,7 +134,7 @@ of
 shoulders
 precedes
 rumors
-knee-deep
+kneedeep
 truth
 is
 its
@@ -228,6 +228,6 @@ lips
 me
 be
 now
-a-team
+ateam
 oh
 do

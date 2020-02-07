@@ -1,5 +1,5 @@
---- og387.txt	2020-02-06 19:31:21.000000000 -0800
-+++ kb398.txt	2020-02-06 19:31:27.000000000 -0800
+--- og387.txt	2020-02-06 20:51:24.000000000 -0800
++++ kb398.txt	2020-02-06 20:51:29.000000000 -0800
 @@ -1,9 +1,9 @@
  ha
 -ha
@@ -50,7 +50,7 @@
 -back
 -down
 -to
--s-s
+-ss
 -we
 -rockin
 +cmon
@@ -63,14 +63,14 @@
 -girl
 -admits
 -shit
--f-r-e-s-h
 -fresh
--d-e-f
+-fresh
+-def
 -thats
 -def
 -rock
 -definite
--b-e-p
+-bep
 -reppin
 +whooooo
 +so
@@ -138,8 +138,8 @@
 +we
  do
 -who
--b-l-a-c-k
--e-y-e-d
+-black
+-eyed
 -p
 -e
 -then
@@ -172,8 +172,8 @@
 -scene
 -breakin
 -for
--b-boys
--b-girls
+-bboys
+-bgirls
 -waitin
 -do
 -their
@@ -188,10 +188,10 @@
 +5x
 +it
  move
--la-da-dee-da-da-dee-da
--steree-aree-aree-aree-o
+-ladadeedadadeeda
+-stereeareeareeareeo
 +it!
-+la-da-di-dup-dup
++ladadidupdup
 +die
 +dy
 +on
@@ -207,7 +207,7 @@
  go
 -here
 -here
--radi-aree-aree-aree-o
+-radiareeareeareeo
 -systems
 +cmon
 +were

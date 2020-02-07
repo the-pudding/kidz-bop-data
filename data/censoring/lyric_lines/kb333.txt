@@ -48,11 +48,11 @@ para
 apenas
 comienza
 cest
-comme-ci
-comme-ça
+commeci
+commeça
 ma
 chèrie
-la-la-la-la-la
+lalalalala
 francia
 colombia
 gusta
@@ -130,4 +130,4 @@ worldwide
 its
 boppin
 now
-uh-huh
+uhhuh

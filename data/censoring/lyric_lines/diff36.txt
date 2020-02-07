@@ -1,5 +1,5 @@
---- og34.txt	2020-02-06 19:31:20.000000000 -0800
-+++ kb36.txt	2020-02-06 19:31:26.000000000 -0800
+--- og34.txt	2020-02-06 20:51:22.000000000 -0800
++++ kb36.txt	2020-02-06 20:51:28.000000000 -0800
 @@ -12,7 +12,8 @@
  in
  the
@@ -34,7 +34,7 @@
  platinum
  silver
  gold
-+lo-lo-lo-lo-lo-lo-lo-lo-lo-lo-lo-lo-lo-lo-lo-love
++lolololololololololololololololove
 +love
  me
  soldier
@@ -59,7 +59,7 @@
  hand
 -
 +yo
-+b-i-g
++big
  if
  this
  makes
@@ -149,7 +149,7 @@
 +platinum
 +ill
 +gold
-+lo-lo-lo-lo-lo-lo-lo-lo-lo-lo-love
++lololololololololololove
 +love
 +thats
  all

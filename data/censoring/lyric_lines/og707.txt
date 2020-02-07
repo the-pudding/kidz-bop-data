@@ -31,7 +31,7 @@ dish
 beef
 chow
 mein
-aa-hooo!
+aahooo!
 werewolves
 london!
 if
@@ -57,7 +57,7 @@ night
 london
 again
 hes
-hairy-handed
+hairyhanded
 gent
 who
 ran

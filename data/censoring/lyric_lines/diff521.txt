@@ -1,5 +1,5 @@
---- og494.txt	2020-02-06 19:31:22.000000000 -0800
-+++ kb521.txt	2020-02-06 19:31:27.000000000 -0800
+--- og494.txt	2020-02-06 20:51:24.000000000 -0800
++++ kb521.txt	2020-02-06 20:51:29.000000000 -0800
 @@ -1,123 +1,51 @@
 -aiii
 -chimpanzees
@@ -174,7 +174,7 @@
 +waiting
  for
 -whoa
-+woah-oh
++woahoh
  oh
  watch
  move
@@ -200,7 +200,7 @@
 +groovin
  hotter
 -than
- a-list
+ alist
  one
 -hit
 +my

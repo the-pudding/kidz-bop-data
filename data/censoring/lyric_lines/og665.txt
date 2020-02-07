@@ -37,13 +37,13 @@ from
 grape
 street
 watts
-c-p-t
+cpt
 all
 across
 land
 thats
 down
-e-a-z-y-e
+eazye
 now
 early
 mornin
@@ -65,7 +65,7 @@ name
 peep
 game
 at
-point-blank
+pointblank
 range
 fuck
 em!
@@ -180,7 +180,7 @@ mind
 is
 murder
 plan
-drive-through
+drivethrough
 kinda
 slow
 hot
@@ -224,7 +224,7 @@ five
 blocks
 before
 stopped
-punk-ass
+punkass
 cop
 shit
 em!

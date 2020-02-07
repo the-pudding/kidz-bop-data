@@ -1,5 +1,5 @@
---- og215.txt	2020-02-06 19:31:20.000000000 -0800
-+++ kb220.txt	2020-02-06 19:31:26.000000000 -0800
+--- og215.txt	2020-02-06 20:51:23.000000000 -0800
++++ kb220.txt	2020-02-06 20:51:29.000000000 -0800
 @@ -1,8 +1,8 @@
 -1
 -2
@@ -93,7 +93,7 @@
 -me
 +wanna
  dance
--uh-oh
+-uhoh
  meet
  your
  daddy
@@ -101,7 +101,7 @@
 +my
  caddy
 -mama
--uh-oh
+-uhoh
 -make
 -cumma
 -im
@@ -166,7 +166,7 @@
 +neighbor"
 +shake
  shake
--sh-shake
+-shshake
  like
  polaroid
  picture
@@ -180,7 +180,7 @@
 -floor
 -do
 -do
--uh-oh
+-uhoh
 -ya!
 -oh
--uh-oh
+-uhoh

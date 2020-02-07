@@ -15,9 +15,9 @@ say
 it!
 "if
 home!"
-g-l-a-m-o-r-o-u-s
+glamorous
 yeah
-g-l-a-m-o-r-o-u-s
+glamorous
 we
 flying
 first
@@ -77,7 +77,7 @@ go
 to
 taco
 bell
-drive-thru
+drivethru
 raw
 as
 hell

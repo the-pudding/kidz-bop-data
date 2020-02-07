@@ -1,6 +1,6 @@
 verse
 1:
-howdy--
+howdy
 dont
 glorify
 this
@@ -209,7 +209,7 @@ faster
 30
 metaphors
 minute
-on--all--fours
+onallfours
 encore
 ceased
 laughter

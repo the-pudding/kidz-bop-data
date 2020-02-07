@@ -1,5 +1,5 @@
---- og410.txt	2020-02-06 19:31:21.000000000 -0800
-+++ kb430.txt	2020-02-06 19:31:27.000000000 -0800
+--- og410.txt	2020-02-06 20:51:24.000000000 -0800
++++ kb430.txt	2020-02-06 20:51:29.000000000 -0800
 @@ -1,216 +1,87 @@
 -ladies
 -and
@@ -51,10 +51,10 @@
 +every
 +day
 +is
-+ooh-la-la-la
++oohlalala
 +its
 +true
-+la-la-la
++lalala
 +ooh
 +should
 +be
@@ -91,7 +91,7 @@
 +name
 +felt
 +like
-+ooh-la-la-la
++oohlalala
 +yeah
 +no
 +sapphire

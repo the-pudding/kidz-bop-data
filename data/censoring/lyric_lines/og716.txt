@@ -46,7 +46,7 @@ time
 try
 talk
 get
-tongue-tied
+tonguetied
 turns
 out
 everything
@@ -97,7 +97,7 @@ any
 man
 can
 a
-love-sick
+lovesick
 puppy
 chasing
 around

@@ -1,5 +1,5 @@
---- og453.txt	2020-02-06 19:31:21.000000000 -0800
-+++ kb476.txt	2020-02-06 19:31:27.000000000 -0800
+--- og453.txt	2020-02-06 20:51:24.000000000 -0800
++++ kb476.txt	2020-02-06 20:51:29.000000000 -0800
 @@ -1,48 +1,32 @@
 -kiss
 -me
@@ -98,10 +98,10 @@
 +ive
  that
  summertime
--su-su-summertime
--oh-oh-oh-oh
-+s-s-summertime
-+oh-ooooh
+-sususummertime
+-ohohohoh
++sssummertime
++ohooooh
  electric
 -cruisin
 +cruising

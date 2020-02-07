@@ -12,7 +12,7 @@ check
 things
 are
 all
-bad-bad
+badbad
 nevertheless
 yeah
 callin

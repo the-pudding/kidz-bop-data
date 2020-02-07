@@ -13,7 +13,7 @@ check
 she
 was
 a
-bad-bad
+badbad
 nevertheless
 yeah
 callin
@@ -54,7 +54,7 @@ sideways
 party
 on
 tilt
-ooh-ooh
+oohooh
 some
 things
 just

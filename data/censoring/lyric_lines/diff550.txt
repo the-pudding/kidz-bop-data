@@ -1,5 +1,5 @@
---- og524.txt	2020-02-06 19:31:22.000000000 -0800
-+++ kb550.txt	2020-02-06 19:31:27.000000000 -0800
+--- og524.txt	2020-02-06 20:51:24.000000000 -0800
++++ kb550.txt	2020-02-06 20:51:29.000000000 -0800
 @@ -1,8 +1,7 @@
 -uh!
 +unh!
@@ -28,7 +28,7 @@
 -way
 -way
 -uh!
-+away-way-way
++awaywayway
  now
 -see
 -youve
@@ -42,7 +42,7 @@
  of
 -clowns
 -clowns
-+clowns-clowns-clowns
++clownsclownsclowns
  remember
  all
  the
@@ -96,7 +96,7 @@
  ugly
 -jeans
 -jeans
-+jeans-jeans-jeans
++jeansjeansjeans
  clearly
  didnt
  think
@@ -113,9 +113,9 @@
 -true
  youll
  crawling
- boo-hoo-hoo
+ boohoohoo
 -what!
--ooh-ooh-ooh
+-oohoohooh
 +oooh
 +thought
  still
@@ -123,8 +123,8 @@
  when
  kissed
  goodbye
- uh-oh
--uh-oh
+ uhoh
+-uhoh
  might
  but
 -first
@@ -134,7 +134,7 @@
 -oh!
 -no
 -you
--oh-oh-oh-oh
+-ohohohoh
 -i
 -back
 -uh!

@@ -1,12 +1,12 @@
---- og501.txt	2020-02-06 19:31:22.000000000 -0800
-+++ kb528.txt	2020-02-06 19:31:27.000000000 -0800
+--- og501.txt	2020-02-06 20:51:24.000000000 -0800
++++ kb528.txt	2020-02-06 20:51:29.000000000 -0800
 @@ -1,42 +1,53 @@
 -baby
 -squirrel
 -yous
 -a
 -sexy
--mother-fucker
+-motherfucker
  gimme
  your
 -your
@@ -55,7 +55,7 @@
  else
 +else
 +else
-+wo-oa-oah
++wooaoah
  know
  that
  dont

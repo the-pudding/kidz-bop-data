@@ -1,5 +1,5 @@
---- og640.txt	2020-02-06 19:31:21.000000000 -0800
-+++ kb315.txt	2020-02-06 19:31:26.000000000 -0800
+--- og640.txt	2020-02-06 20:51:23.000000000 -0800
++++ kb315.txt	2020-02-06 20:51:29.000000000 -0800
 @@ -3,15 +3,15 @@
  got
  me
@@ -44,11 +44,11 @@
 -against
 -wall
 -baby
--i-i-i-i-i-i-i-i-i-hiii
+-iiiiiiiiihiii
 +ah
 +ha
  woo
--i-i-i-i-i-i-i-i-i-hiii
+-iiiiiiiiihiii
  dont
  stop
  loving
@@ -62,7 +62,7 @@
 +and
  babe
 -i’m
--fist-fighting
+-fistfighting
 +im
 +fighting
  with
@@ -129,7 +129,7 @@
  need
 -is
 -me
--ah-ha-ha-owww
+-ahhahaowww
 -tired
 -of
 -being

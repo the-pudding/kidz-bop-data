@@ -1,5 +1,5 @@
---- og644.txt	2020-02-06 19:31:21.000000000 -0800
-+++ kb357.txt	2020-02-06 19:31:26.000000000 -0800
+--- og644.txt	2020-02-06 20:51:23.000000000 -0800
++++ kb357.txt	2020-02-06 20:51:29.000000000 -0800
 @@ -1,15 +1,16 @@
 -we
 -the
@@ -39,8 +39,8 @@
  life
 -off
 -top
-+pop-top
- drop-top
++poptop
+ droptop
 -baby
  put
  em
@@ -49,20 +49,20 @@
  with
  me
 -yeah
--yeah-eah
- yeah-eah-eah
+-yeaheah
+ yeaheaheah
 +yeah
  in
  middle
 -woah
--woah-woah-oah
+-woahwoahoah
 -oh
--oh-oh
+-ohoh
 +whoa
-+whoa-oh-oh
++whoaohoh
  ooh
  high
--yeah-eah-eah
+-yeaheaheah
 +put
 +high
  both
@@ -84,7 +84,7 @@
  explain
  skrrt
  skrrt
--skrrt-skrrt
+-skrrtskrrt
 +skrrt
 +skrrt
  what
@@ -169,7 +169,7 @@
 -all
 -wanna
 -test
--ch-ch-ch-ch-choosin
+-chchchchchoosin
 -squad
 -tryna
 -between
@@ -191,7 +191,7 @@
  give
  somebody
  designed
--drop-dead
+-dropdead
 +sound
 +so
  gorgeous
@@ -212,9 +212,9 @@
  breakin
 +all
  rules
--oh-oh
+-ohoh
 -so
-+oh-whoa
++ohwhoa
  above
  law
  so
@@ -227,7 +227,7 @@
  uh
  won’t
  wrong
--no-brainer
+-nobrainer
 -rise
 -oh
  no

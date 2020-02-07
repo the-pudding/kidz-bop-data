@@ -45,7 +45,7 @@ wears
 short
 skirts
 wear
-t-shirts
+tshirts
 cheer
 captain
 bleachers
@@ -80,7 +80,7 @@ me
 me
 walking
 streets
-worn-out
+wornout
 jeans
 help
 thinking

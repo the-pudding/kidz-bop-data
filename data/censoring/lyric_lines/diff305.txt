@@ -1,10 +1,10 @@
---- og291.txt	2020-02-06 19:31:21.000000000 -0800
-+++ kb305.txt	2020-02-06 19:31:26.000000000 -0800
+--- og291.txt	2020-02-06 20:51:23.000000000 -0800
++++ kb305.txt	2020-02-06 20:51:29.000000000 -0800
 @@ -2,55 +2,14 @@
  hee
  ho
  hu
--ha-ha
+-haha
 -ay
 -this
 -a
@@ -64,7 +64,7 @@
  just
  who
 -ya
--are-are
+-areare
 +you
 +are
  so
@@ -204,7 +204,7 @@
 -case
 -watch
 -future
--car-ars
+-carars
 -opposite
 -moderate
 -immaculately

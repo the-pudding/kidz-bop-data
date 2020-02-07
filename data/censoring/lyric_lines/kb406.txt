@@ -92,5 +92,5 @@ zero
 own
 hero
 roar
-ro-oar
-ro-oar
+rooar
+rooar

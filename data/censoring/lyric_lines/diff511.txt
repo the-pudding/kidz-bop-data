@@ -1,5 +1,5 @@
---- og484.txt	2020-02-06 19:31:22.000000000 -0800
-+++ kb511.txt	2020-02-06 19:31:27.000000000 -0800
+--- og484.txt	2020-02-06 20:51:24.000000000 -0800
++++ kb511.txt	2020-02-06 20:51:29.000000000 -0800
 @@ -1,171 +1,81 @@
 -this
 -is
@@ -30,13 +30,13 @@
 -you
 +whoa
  oh
--you-you
--you-you-you-you-you-you-you-you
+-youyou
 -youyouyouyouyouyouyouyou
--y-y-y-y-y-y-y-y-y-y-y
+-youyouyouyouyouyouyouyou
+-yyyyyyyyyyy
 -dirty
 -bit!
--i-i
+-ii
 -came
 -up
 -in
@@ -95,7 +95,7 @@
 -these
 -ladies
 -gettin
--freaky-urrrr
+-freakyurrrr
 -freaky
 -baby
 -was
@@ -140,7 +140,7 @@
 -time
 -im
 -tellin
--all-all
+-allall
 -girls
 -they
 +slept
@@ -198,7 +198,7 @@
 -application
 +anywhere
  im
--i-i-i-i-i
+-iiiii
 -welcome
 -beginning
 -for

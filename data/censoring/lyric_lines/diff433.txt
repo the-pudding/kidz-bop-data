@@ -1,5 +1,5 @@
---- og416.txt	2020-02-06 19:31:21.000000000 -0800
-+++ kb433.txt	2020-02-06 19:31:27.000000000 -0800
+--- og416.txt	2020-02-06 20:51:24.000000000 -0800
++++ kb433.txt	2020-02-06 20:51:29.000000000 -0800
 @@ -2,14 +2,14 @@
  me
  somethin
@@ -65,13 +65,13 @@
 @@ -75,10 +79,9 @@
  shallow
  now
- sha-ha
--sha-hallow
- sha-la-la-la-low
+ shaha
+-shahallow
+ shalalalalow
  oh
  ha
  ah
 -ha
--oh-ah
+-ohah
 +ah
 +oh

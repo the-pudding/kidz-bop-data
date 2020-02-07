@@ -68,7 +68,7 @@ drum
 hits
 hands
 hips
-one-footed
+onefooted
 180
 twist
 then

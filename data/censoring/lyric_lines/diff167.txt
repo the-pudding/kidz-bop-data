@@ -1,9 +1,9 @@
---- og160.txt	2020-02-06 19:31:20.000000000 -0800
-+++ kb167.txt	2020-02-06 19:31:26.000000000 -0800
+--- og160.txt	2020-02-06 20:51:23.000000000 -0800
++++ kb167.txt	2020-02-06 20:51:29.000000000 -0800
 @@ -1,37 +1,23 @@
 -somebody
 -call
--9-1-1
+-911
 -shawty
  fire
  burning
@@ -11,7 +11,7 @@
 -the
 -dance
 -floor
--woh-oha
+-wohoha
 -fire
 +kidz
 +bop
@@ -54,7 +54,7 @@
 -pocket
 +hips
  started
--tickle-ing
+-tickleing
 +wiggling
  way
  she
@@ -109,7 +109,7 @@
  roof
  ground
 -floor
--woh-oha
+-wohoha
  shes
 -burning
 +floor

@@ -38,9 +38,9 @@ is
 swell
 go
 glidin
-one-horse
+onehorse
 sleigh
-giddy-up
+giddyup
 horse
 pick
 your
@@ -48,6 +48,6 @@ feet
 around
 clock
 mix
-a-mingle
+amingle
 jinglin
 thats

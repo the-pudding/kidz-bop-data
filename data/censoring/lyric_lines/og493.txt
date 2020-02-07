@@ -39,15 +39,15 @@ lightning
 before
 thunder
 thunder
-thun-
-th-th-thunder
+thun
+thththunder
 feel
 thunder
-thun-
+thun
 thunder
-thun-
-th-th-thunder
-thun-
+thun
+thththunder
+thun
 kids
 were
 laughing
@@ -91,4 +91,4 @@ up
 on
 your
 dreams
-woah-oh-ohh
+woahohohh

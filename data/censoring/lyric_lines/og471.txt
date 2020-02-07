@@ -29,7 +29,7 @@ me
 gon
 do
 the
-two-step
+twostep
 then
 cowboy
 boogie
@@ -41,7 +41,7 @@ em
 hoedown
 into
 it
-woo-hoo-hoo
+woohoohoo
 take
 left
 dip
@@ -117,7 +117,7 @@ like
 here
 get
 down
-woo-hoo-hoo
+woohoohoo
 that
 was
 not

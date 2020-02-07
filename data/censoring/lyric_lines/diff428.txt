@@ -1,5 +1,5 @@
---- og665.txt	2020-02-06 19:31:21.000000000 -0800
-+++ kb428.txt	2020-02-06 19:31:27.000000000 -0800
+--- og665.txt	2020-02-06 20:51:24.000000000 -0800
++++ kb428.txt	2020-02-06 20:51:29.000000000 -0800
 @@ -1,239 +1,108 @@
 -straight
 -off
@@ -40,13 +40,13 @@
 -grape
 -street
 -watts
--c-p-t
+-cpt
 -all
 -across
 -land
 -thats
 -down
--e-a-z-y-e
+-eazye
 -now
 -early
 -mornin
@@ -90,7 +90,7 @@
 -peep
 -game
 -at
--point-blank
+-pointblank
 -range
 -fuck
 -em!
@@ -212,7 +212,7 @@
 +kept
 +looking
 +down
-+stu-stu-stuttered
++stustustuttered
 +asked
 +me
 +what
@@ -274,7 +274,7 @@
 -is
 -murder
 -plan
--drive-through
+-drivethrough
 -kinda
 -slow
 -hot
@@ -318,7 +318,7 @@
 -blocks
 -before
 -stopped
--punk-ass
+-punkass
 -cop
 -shit
 -em!

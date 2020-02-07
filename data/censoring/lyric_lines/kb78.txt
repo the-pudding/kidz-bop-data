@@ -6,7 +6,7 @@ turn
 a
 phrase
 into
-put-down
+putdown
 or
 hug
 the

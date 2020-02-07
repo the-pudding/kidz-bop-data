@@ -1,5 +1,5 @@
---- og70.txt	2020-02-06 19:31:20.000000000 -0800
-+++ kb77.txt	2020-02-06 19:31:26.000000000 -0800
+--- og70.txt	2020-02-06 20:51:22.000000000 -0800
++++ kb77.txt	2020-02-06 20:51:28.000000000 -0800
 @@ -3,7 +3,7 @@
  was
  your
@@ -90,10 +90,10 @@
  snow
  burr
 -girlfriend
-+girlfriend-girlfriend
++girlfriendgirlfriend
  girlfriend
  until
--the-the-the
+-thethethe
 +the
  world
  ends
@@ -137,16 +137,16 @@
 -boyfriend
 -if
 +gentleman
-+oh-oh
++ohoh
  boyfriend
 -uh
 -na
 -na
 -yeah
 +go
-+na-na-na
++nanana
  yeah
 -hey
-+na-na-na-eh
-+na-na-na-eh
++nananaeh
++nananaeh
 +boyfriend

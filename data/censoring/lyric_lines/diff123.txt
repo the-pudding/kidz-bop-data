@@ -1,5 +1,5 @@
---- og592.txt	2020-02-06 19:31:20.000000000 -0800
-+++ kb123.txt	2020-02-06 19:31:26.000000000 -0800
+--- og592.txt	2020-02-06 20:51:22.000000000 -0800
++++ kb123.txt	2020-02-06 20:51:28.000000000 -0800
 @@ -1,37 +1,36 @@
 -yes!
 +yes
@@ -35,7 +35,7 @@
  part
 -two!
 -now
-+two--its
++twoits
  i
  look
  and
@@ -113,8 +113,8 @@
  yall
  flow
  loco
- r-o-c
--uh-oh
+ roc
+-uhoh
  oh
 -og
 +ol
@@ -132,7 +132,7 @@
  like
 -tony
 -soprano
-+tony--soprano
++tonysoprano
 +oh
 +no
  roc
@@ -169,7 +169,7 @@
 -ya
  whole
  set
--jay-z
+-jayz
 +jay
 +z
  range

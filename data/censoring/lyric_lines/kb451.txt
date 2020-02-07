@@ -55,9 +55,9 @@ kiss
 want
 like
 this
-doo-doo-doo
-doo-doo-doo
-doo-doo
+doodoodoo
+doodoodoo
+doodoo
 oh
 testaments
 they

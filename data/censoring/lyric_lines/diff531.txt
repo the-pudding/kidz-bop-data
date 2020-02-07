@@ -1,5 +1,5 @@
---- og504.txt	2020-02-06 19:31:22.000000000 -0800
-+++ kb531.txt	2020-02-06 19:31:27.000000000 -0800
+--- og504.txt	2020-02-06 20:51:24.000000000 -0800
++++ kb531.txt	2020-02-06 20:51:29.000000000 -0800
 @@ -1,8 +1,7 @@
  why
 -men
@@ -45,7 +45,7 @@
 -bitch
 +good
 +friend
- non-committal
+ noncommittal
  help
  with
 @@ -62,8 +57,6 @@
@@ -181,7 +181,7 @@
  keep
  pushing
 -like
- ay-ay-ay
+ ayayay
 +they
  yee
  eh

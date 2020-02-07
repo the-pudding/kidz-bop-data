@@ -108,9 +108,9 @@ three
 make
 three
 me
-w-why
+wwhy
 me
-b-baby
+bbaby
 why
 baby
 whyd

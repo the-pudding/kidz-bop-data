@@ -1,5 +1,5 @@
---- og64.txt	2020-02-06 19:31:20.000000000 -0800
-+++ kb72.txt	2020-02-06 19:31:26.000000000 -0800
+--- og64.txt	2020-02-06 20:51:22.000000000 -0800
++++ kb72.txt	2020-02-06 20:51:28.000000000 -0800
 @@ -1,63 +1,25 @@
 -welcome
 -to
@@ -47,11 +47,11 @@
  get
 -that
 -that
--that-that
+-thatthat
 -boom
 +get
-+get-get
-+g-g-get
++getget
++ggget
  boom
  boom
  yo
@@ -132,14 +132,14 @@
  super
  8
 -shit
--lo-fi
+-lofi
 +bit
-+low-fi
++lowfi
  stupid
--8-bit
+-8bit
  hd
  flat
--boom-boom-bap
+-boomboombap
 -a
 -beast
 -turn
@@ -186,7 +186,7 @@
 +be
  rockin
 -beats!
--y-yup
+-yyup
 -ha
 -ha
 +beats

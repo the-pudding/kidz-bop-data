@@ -1,7 +1,7 @@
---- og451.txt	2020-02-06 19:31:21.000000000 -0800
-+++ kb474.txt	2020-02-06 19:31:27.000000000 -0800
+--- og451.txt	2020-02-06 20:51:24.000000000 -0800
++++ kb474.txt	2020-02-06 20:51:29.000000000 -0800
 @@ -1,93 +1,29 @@
--ooh-oh
+-oohoh
 -i
 -be
 -on
@@ -34,7 +34,7 @@
 -get
 -the
 -floor
--good-lookin
+-goodlookin
 -going
 -hot
 -so
@@ -199,7 +199,7 @@
 +its
  about
  im
--rest-
+-rest
 -…aurant
 -with
 +restaurant

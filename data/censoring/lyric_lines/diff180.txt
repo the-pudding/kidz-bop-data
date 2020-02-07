@@ -1,5 +1,5 @@
---- og173.txt	2020-02-06 19:31:20.000000000 -0800
-+++ kb180.txt	2020-02-06 19:31:26.000000000 -0800
+--- og173.txt	2020-02-06 20:51:23.000000000 -0800
++++ kb180.txt	2020-02-06 20:51:29.000000000 -0800
 @@ -7,142 +7,78 @@
  to
  see
@@ -61,10 +61,10 @@
  sky
 -spendin
 -this
--as-salamu
+-assalamu
 -alaykum
 -peace
--m-o-n-e-y
+-money
 -love
 -my
 -beaches
@@ -91,7 +91,7 @@
  real
  cold
  bruh
- auto-biography
+ autobiography
 -rover
 +roaver
  got
@@ -145,7 +145,7 @@
 -on
 -slam
 -make
--cough-cough
+-coughcough
 -thats
 -bronchitis
 -put

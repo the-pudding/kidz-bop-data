@@ -1,5 +1,5 @@
---- og228.txt	2020-02-06 19:31:20.000000000 -0800
-+++ kb237.txt	2020-02-06 19:31:26.000000000 -0800
+--- og228.txt	2020-02-06 20:51:23.000000000 -0800
++++ kb237.txt	2020-02-06 20:51:29.000000000 -0800
 @@ -24,9 +24,8 @@
  get
  behind
@@ -53,7 +53,7 @@
  lil
  mama
  feeling
--lemon-head
+-lemonhead
 +limit
 +here
  put
@@ -130,7 +130,7 @@
 -meant
  im
  rich
--god-fearing
+-godfearing
 +god
 +fearing
  look

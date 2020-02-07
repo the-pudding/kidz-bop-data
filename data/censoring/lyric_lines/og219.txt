@@ -11,10 +11,10 @@ me
 here
 we
 go
-whoa-oh-oh;
+whoaohoh;
 thats
 right!
-whoa-oh-oh
+whoaohoh
 1
 2
 3!
@@ -36,7 +36,7 @@ feet
 i’ll
 give
 the
-bar-b-’cues’
+barb’cues’
 show
 and
 how
@@ -58,7 +58,7 @@ polka
 dot
 countrify
 then
-hip-hop
+hiphop
 put
 hawk
 in
@@ -80,7 +80,7 @@ hits
 hands
 on
 hips
-one-footed
+onefooted
 180
 twist
 zag
@@ -119,5 +119,5 @@ dclap
 go!
 dclap
 dap
-b-boom
+bboom
 together

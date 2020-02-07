@@ -1,5 +1,5 @@
---- og550.txt	2020-02-06 19:31:22.000000000 -0800
-+++ kb586.txt	2020-02-06 19:31:27.000000000 -0800
+--- og550.txt	2020-02-06 20:51:24.000000000 -0800
++++ kb586.txt	2020-02-06 20:51:29.000000000 -0800
 @@ -1,24 +1,24 @@
  he
  said
@@ -50,14 +50,14 @@
  your
  wildest
  dreams
--ah-aah
+-ahaah
 -haa
 -"no
 -has
 -to
 -know
 +oh
-+-
++
 +ah
 +no
  what
@@ -88,8 +88,8 @@
  last
  kiss
  request
--ah-aah
--ah-aah
+-ahaah
+-ahaah
 -haa
 +dress
 +e
@@ -131,7 +131,7 @@
  pretend
  pretend
 -ha
--ah-aah-aah-aah-aah-ha
+-ahaahaahaahaahha
 +ah
 +oh
 +oh

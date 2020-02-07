@@ -54,7 +54,7 @@ since
 hip
 hop
 marmalade
-spick-and-span
+spickandspan
 all
 began
 youre
@@ -140,7 +140,7 @@ so
 play
 hookie
 always
-b-boy
+bboy
 style
 known
 act
@@ -242,5 +242,5 @@ sure
 go
 some
 worthwhile
-s-
+s
 honey

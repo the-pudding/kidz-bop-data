@@ -1,5 +1,5 @@
---- og389.txt	2020-02-06 19:31:21.000000000 -0800
-+++ kb400.txt	2020-02-06 19:31:27.000000000 -0800
+--- og389.txt	2020-02-06 20:51:24.000000000 -0800
++++ kb400.txt	2020-02-06 20:51:29.000000000 -0800
 @@ -6,7 +6,7 @@
  comfort
  we
@@ -50,7 +50,7 @@
  shame
  when
  you
--n-n-n-no
+-nnnno
  no
 -ooooh
  staked
@@ -70,7 +70,7 @@
  hoooooooooo
  be
 +be
- yeah-e-yeah-e-yeah-e-yeah-e-yeah
+ yeaheyeaheyeaheyeaheyeah
  yeah
  yeah
 -there’s

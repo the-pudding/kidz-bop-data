@@ -1,9 +1,9 @@
---- og599.txt	2020-02-06 19:31:20.000000000 -0800
-+++ kb150.txt	2020-02-06 19:31:26.000000000 -0800
+--- og599.txt	2020-02-06 20:51:23.000000000 -0800
++++ kb150.txt	2020-02-06 20:51:29.000000000 -0800
 @@ -7,9 +7,6 @@
  first
  string
- a-team
+ ateam
 -whoa
 -whoa
 -whoa
@@ -57,7 +57,7 @@
 -yeah
 -come
 -to
--a-side
+-aside
 -boy
 -persona
 -thats
@@ -81,7 +81,7 @@
 -touch
 -just
 -another
--ex-love
+-exlove
 -don’t
 -see
 -miss
@@ -106,7 +106,7 @@
 -game
 -first
 -string
--a-team
+-ateam
 -knew
 -her
 +now
@@ -131,7 +131,7 @@
  shoulders
  precedes
 -rumors
--knee-deep
+-kneedeep
 +rumours
 +are
 +knee
@@ -197,7 +197,7 @@
 +lose
 +just
 +another
-+ex-love
++exlove
 +see
 +miss
 +i
@@ -225,7 +225,7 @@
  wanna
 -hey
 +string
-+a-team
++ateam
  hit
  bang
  tried
@@ -273,7 +273,7 @@
  me
  be
  now
--a-team
+-ateam
  oh
  do
 +first

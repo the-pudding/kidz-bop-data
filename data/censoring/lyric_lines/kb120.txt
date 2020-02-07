@@ -87,7 +87,7 @@ river
 every
 turn
 hope
-four-letter
+fourletter
 word
 make
 money

@@ -1,11 +1,9 @@
---- og436.txt	2020-02-06 19:31:21.000000000 -0800
-+++ kb454.txt	2020-02-06 19:31:27.000000000 -0800
+--- og436.txt	2020-02-06 20:51:24.000000000 -0800
++++ kb454.txt	2020-02-06 20:51:29.000000000 -0800
 @@ -1,109 +1,104 @@
--la-la-la
--la-la-la-la-la
+ lalala
+ lalalalala
 -oh
-+lalala
-+lalalalala
 +ohhh
 +ohh
 +ohh
@@ -85,7 +83,7 @@
  out
  for
  help
- s-o-s
+ sos
  please
  someone
 -its
@@ -93,7 +91,7 @@
  healthy
  to
  feel
- y-o-u
+ you
  are
 -makin
 +making
@@ -152,7 +150,7 @@
  seem
  find
  lock
--uh-huh
+-uhhuh
  inside
 -on
 -could
@@ -175,7 +173,7 @@
 -hangin
 +hanging
  way
--y-o-u
+-you
 -are
 -cause
 -mind

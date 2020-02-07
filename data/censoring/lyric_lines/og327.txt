@@ -1,6 +1,6 @@
 miss
 independent
-self-sufficient
+selfsufficient
 keep
 your
 distance

@@ -1,5 +1,5 @@
---- og82.txt	2020-02-06 19:31:20.000000000 -0800
-+++ kb92.txt	2020-02-06 19:31:26.000000000 -0800
+--- og82.txt	2020-02-06 20:51:22.000000000 -0800
++++ kb92.txt	2020-02-06 20:51:28.000000000 -0800
 @@ -1,12 +1,6 @@
 -greetings
 -loved
@@ -53,10 +53,10 @@
  youll
  falling
  love
--oh-oh-oh-oh-oh-oh-oh
+-ohohohohohohoh
 +oh
-+oh-oh
-+oh-oh
++ohoh
++ohoh
  california
 -girls
 +gurls
@@ -67,7 +67,7 @@
 -bikinis
 -on
 -top
--sun-kissed
+-sunkissed
 -skin
 -so
 -hot
@@ -75,7 +75,7 @@
 -melt
 -your
 -popsicle
--oh-oh-oh-oh-oh
+-ohohohohoh
 -undeniable
  fine
  fresh
@@ -84,7 +84,7 @@
  got
  it
  lock
-+sun-kissed
++sunkissed
 +beach
 +so
 +hot
@@ -92,7 +92,7 @@
 +melt
 +your
 +popsicle
-+oh-oh
++ohoh
 +oh
 +undeniable
  west
@@ -118,7 +118,7 @@
 -doggy
 -dogg
 -stereo
--oh-oh
+-ohoh
  you
  world
  once
@@ -190,11 +190,11 @@
 -lookie
 -here
 -baby
--uh-huh
+-uhhuh
 -ya
 -cause
 -representing
--oh-oh
+-ohoh
 -yeah
 -come
 -on

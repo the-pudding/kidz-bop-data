@@ -130,7 +130,7 @@ system;
 catastrophe
 yet
 masterpiece
-half-diseased
+halfdiseased
 am
 deceased
 least

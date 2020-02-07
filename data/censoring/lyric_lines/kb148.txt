@@ -142,7 +142,7 @@ for
 taking
 more
 seriously
-dead-end
+deadend
 jobs
 bills
 pay

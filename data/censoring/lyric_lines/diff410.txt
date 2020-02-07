@@ -1,12 +1,12 @@
---- og399.txt	2020-02-06 19:31:21.000000000 -0800
-+++ kb410.txt	2020-02-06 19:31:27.000000000 -0800
+--- og399.txt	2020-02-06 20:51:24.000000000 -0800
++++ kb410.txt	2020-02-06 20:51:29.000000000 -0800
 @@ -20,8 +20,7 @@
  proud
  of
  address
 -torn
 -up
-+torn-up
++tornup
  town
  no
  postcode
@@ -76,7 +76,7 @@
 +ooh
 +ooh
  oh
--oh-oh
+-ohoh
  bigger
  than
  ever

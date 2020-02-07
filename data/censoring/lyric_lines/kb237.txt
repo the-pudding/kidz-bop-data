@@ -154,7 +154,7 @@ jeans
 another
 planet
 thank
-e-class
+eclass
 big
 chuck
 lee

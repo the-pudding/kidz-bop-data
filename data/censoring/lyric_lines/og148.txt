@@ -140,7 +140,7 @@ like
 "peace"
 start
 fresh
-born-again
+bornagain
 jesus
 wept
 ha
@@ -167,7 +167,7 @@ against
 him
 two
 ten
-mm-mm
+mmmm
 callin
 bluff
 call
@@ -280,6 +280,6 @@ excess
 ima
 stupid
 club
-self-destructive
+selfdestructive
 bail
 towards

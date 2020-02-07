@@ -38,9 +38,9 @@ is
 swell
 go
 gliding
-one-horse
+onehorse
 sleigh
-giddy-up
+giddyup
 horse
 pick
 your
@@ -48,7 +48,7 @@ feet
 around
 clock
 mix
-a-mingle
+amingle
 jingling
 beat
 thats

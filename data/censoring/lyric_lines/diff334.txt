@@ -1,5 +1,5 @@
---- og324.txt	2020-02-06 19:31:21.000000000 -0800
-+++ kb334.txt	2020-02-06 19:31:26.000000000 -0800
+--- og324.txt	2020-02-06 20:51:23.000000000 -0800
++++ kb334.txt	2020-02-06 20:51:29.000000000 -0800
 @@ -1,75 +1,104 @@
 -felt
 -like
@@ -41,7 +41,7 @@
 -told
 -nothing
 -without
--wait-n-see
+-waitnsee
 -now
 +so
 +much
@@ -86,7 +86,7 @@
 +up
 +in
 +those
-+eye-eye-eye-eye-eyes
++eyeeyeeyeeyeeyes
  had
 -tied
 -true

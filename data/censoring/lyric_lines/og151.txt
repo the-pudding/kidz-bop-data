@@ -96,7 +96,7 @@ gold
 remember
 name
 bout
-blow-oh-oh-oh
+blowohohoh
 said
 baby
 do
@@ -149,7 +149,7 @@ paper
 over
 all
 be
-i-g-g-y
+iggy
 name
 bold
 been
@@ -219,5 +219,5 @@ hoes
 gold
 trigger
 gun
-i-g-g-y
-blow-oh-oh-oh
+iggy
+blowohohoh

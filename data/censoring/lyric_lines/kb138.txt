@@ -47,10 +47,10 @@ here
 when
 the
 most
-d-dont
+ddont
 down
 don’t
-r-r-running
+rrrunning
 of
 time
 really

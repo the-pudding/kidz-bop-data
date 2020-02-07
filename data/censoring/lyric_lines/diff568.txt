@@ -1,5 +1,5 @@
---- og534.txt	2020-02-06 19:31:22.000000000 -0800
-+++ kb568.txt	2020-02-06 19:31:27.000000000 -0800
+--- og534.txt	2020-02-06 20:51:24.000000000 -0800
++++ kb568.txt	2020-02-06 20:51:29.000000000 -0800
 @@ -1,100 +1,92 @@
 -youre
 -insecure
@@ -120,7 +120,7 @@
 -believe
 -thats
 -makes
--c-come
+-ccome
 +fine
 +moving
 +forward
@@ -153,14 +153,14 @@
 -else
 -oh
 -na
--oh-oh
+-ohoh
 -ground
 -ground
 -beautiful
 -desperately
--oh-oh-oh
+-ohohoh
 -beautiful
--oh-oh
+-ohoh
 +lets
 +try
 +am

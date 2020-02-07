@@ -1,5 +1,5 @@
---- og66.txt	2020-02-06 19:31:20.000000000 -0800
-+++ kb74.txt	2020-02-06 19:31:26.000000000 -0800
+--- og66.txt	2020-02-06 20:51:22.000000000 -0800
++++ kb74.txt	2020-02-06 20:51:28.000000000 -0800
 @@ -1,27 +1,3 @@
 -it
 -doesnt
@@ -10,7 +10,7 @@
 -him
 -or
 -capital
--"h-i-m"
+-"him"
 -m
 -m
 -m
@@ -99,7 +99,7 @@
 -dont
 -be
 -be
-+born-
++born
  give
  prudence
  friends
@@ -120,7 +120,7 @@
  sin
  believe
 +capital
- h-i-m
+ him
  hey
  hey
 +hey

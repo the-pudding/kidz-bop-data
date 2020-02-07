@@ -46,7 +46,7 @@ loadin
 merch
 in
 that
-12-passenger
+12passenger
 van
 a
 small

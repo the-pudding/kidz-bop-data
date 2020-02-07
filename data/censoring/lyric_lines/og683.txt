@@ -50,7 +50,7 @@ put
 on
 quite
 show
-uh-oh
+uhoh
 really
 had
 going
@@ -94,12 +94,12 @@ one"
 this
 looks
 like
-re-run
+rerun
 what
 else
 is
 on
-oh-oh
+ohoh
 award
 for
 best

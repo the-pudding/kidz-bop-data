@@ -1,5 +1,5 @@
---- og101.txt	2020-02-06 19:31:20.000000000 -0800
-+++ kb109.txt	2020-02-06 19:31:26.000000000 -0800
+--- og101.txt	2020-02-06 20:51:22.000000000 -0800
++++ kb109.txt	2020-02-06 20:51:28.000000000 -0800
 @@ -42,9 +42,10 @@
  space
  here
@@ -86,7 +86,7 @@
 -some
 -thinking
 -im
--four-letter
+-fourletter
 -word
 -but
 -sleep
@@ -104,11 +104,11 @@
 -heart
 -used
 -be
--gold-dig
+-golddig
 -day
 -switched
--four-door
--two-door
+-fourdoor
+-twodoor
 -cause
 -let
 -driver

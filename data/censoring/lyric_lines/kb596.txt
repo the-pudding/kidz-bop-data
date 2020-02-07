@@ -101,7 +101,7 @@ writer
 from
 ghetto
 mallory
-black-man
+blackman
 wheres
 worlds
 sanity

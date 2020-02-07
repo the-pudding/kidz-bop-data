@@ -1,5 +1,5 @@
---- og81.txt	2020-02-06 19:31:20.000000000 -0800
-+++ kb91.txt	2020-02-06 19:31:26.000000000 -0800
+--- og81.txt	2020-02-06 20:51:22.000000000 -0800
++++ kb91.txt	2020-02-06 20:51:28.000000000 -0800
 @@ -1,9 +1,3 @@
 -nah
 -nah
@@ -43,7 +43,7 @@
  me
 -ahh
 -youre
--real-life
+-reallife
 -fantasy
 -fantasy
 +life
@@ -73,7 +73,7 @@
  this
  sweet
  craving
- whoa-oh
+ whoaoh
 +lets
  lose
  our

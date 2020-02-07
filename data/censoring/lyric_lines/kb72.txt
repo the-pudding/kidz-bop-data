@@ -1,8 +1,8 @@
 gotta
 get
 get
-get-get
-g-g-get
+getget
+ggget
 boom
 boom
 yo
@@ -70,7 +70,7 @@ stuck
 super
 8
 bit
-low-fi
+lowfi
 stupid
 hd
 flat

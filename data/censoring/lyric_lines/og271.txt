@@ -122,7 +122,7 @@ what
 expect
 do
 see
-300-s
+300s
 them
 blacked
 out

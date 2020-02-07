@@ -1,5 +1,5 @@
---- og85.txt	2020-02-06 19:31:20.000000000 -0800
-+++ kb95.txt	2020-02-06 19:31:26.000000000 -0800
+--- og85.txt	2020-02-06 20:51:22.000000000 -0800
++++ kb95.txt	2020-02-06 20:51:28.000000000 -0800
 @@ -1,26 +1,22 @@
 -hey
 -hey
@@ -17,7 +17,7 @@
  go
 -yeah!
 -go!
--ha-ha-ha-ha
+-hahahaha
 +yeah
  alright
  alright
@@ -56,7 +56,7 @@
 -me
 -thrift
 -shop
--pimp-strut
+-pimpstrut
 -walkin
 +fresh
 +out
@@ -95,7 +95,7 @@
  town
  trust
  me
- i-n-d-e-p-e-n-d-e-n-t
+ independent
 -shit
 -hustlin
 +s***
@@ -106,7 +106,7 @@
  was
  fourteen
  with
--four-track
+-fourtrack
 -bussin
 +four
 +track
@@ -164,7 +164,7 @@
 +thats
 +you
  when
--wu-tang
+-wutang
 +wu
 +tang
  raised
@@ -237,7 +237,7 @@
 +oh
 +go!
  na
--huh-uh
+-huhuh
 -and
 +aha
 +hey
@@ -258,12 +258,12 @@
 +its
 +alright
  oh
--ha-ha
+-haha
 -go
--mack-le-e-e-e-e-more!
+-mackleeeeemore!
 -ooh
 +oh
-+ma-ckle-more
++macklemore
 +night
 +come
 +before

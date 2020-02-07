@@ -60,7 +60,7 @@ four
 speed
 stick
 shes
-candy-apple
+candyapple
 ski
 for
 wheel

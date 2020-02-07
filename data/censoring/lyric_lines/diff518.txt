@@ -1,5 +1,5 @@
---- og492.txt	2020-02-06 19:31:22.000000000 -0800
-+++ kb518.txt	2020-02-06 19:31:27.000000000 -0800
+--- og492.txt	2020-02-06 20:51:24.000000000 -0800
++++ kb518.txt	2020-02-06 20:51:29.000000000 -0800
 @@ -1,38 +1,27 @@
 -"hey
 -macklemore
@@ -175,8 +175,8 @@
 +"can
  have
  his
--hand-me-downs
-+hand-me-downs"
+-handmedowns
++handmedowns"
  thank
  you!
  velour
@@ -264,7 +264,7 @@
 -donatin
 +donating
  plaid
- button-
+ button
  shirt
  cause
  now
@@ -299,7 +299,7 @@
 -that
 -motherfucker
 +its
- built-in
+ builtin
  onesie
  with
  socks
@@ -313,11 +313,11 @@
 -tight"
 -"yo
 -50
--t-shirt"
+-tshirt"
 +tight”
 +“yo
 +fifty
-+t-shirt”
++tshirt”
  limited
  edition
 -lets
@@ -325,13 +325,13 @@
  do
  simple
  addition
- t-shirt
+ tshirt
 -ignorant
 +just
 +silly
 +overpriced
  call
--getting-swindled-and-pimped
+-gettingswindledandpimped
  getting
 +swindled
 +tricked
@@ -369,7 +369,7 @@
  granddads
  clothes
  incredible
--big-ass
+-bigass
 +big
  coat
  down
@@ -380,7 +380,7 @@
 -on
 -man
 -i’m
--big-ass
+-bigass
 +granmas
  coat
 -lets

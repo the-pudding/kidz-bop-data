@@ -1,5 +1,5 @@
---- og213.txt	2020-02-06 19:31:20.000000000 -0800
-+++ kb218.txt	2020-02-06 19:31:26.000000000 -0800
+--- og213.txt	2020-02-06 20:51:23.000000000 -0800
++++ kb218.txt	2020-02-06 20:51:29.000000000 -0800
 @@ -1,6 +1,5 @@
 -heyy
 -heeey
@@ -13,7 +13,7 @@
  lobe
  of
  my
--left-side
+-leftside
 +left
 +side
  brains
@@ -62,7 +62,7 @@
  im
  glad
 -track
-+one-track
++onetrack
  like
  me
  gave

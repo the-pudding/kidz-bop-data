@@ -118,6 +118,6 @@ a
 private
 show
 oh
-mama-say
-mama-sa
-ma-ma-ko-ssa
+mamasay
+mamasa
+mamakossa

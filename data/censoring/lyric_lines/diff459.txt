@@ -1,5 +1,5 @@
---- og438.txt	2020-02-06 19:31:21.000000000 -0800
-+++ kb459.txt	2020-02-06 19:31:27.000000000 -0800
+--- og438.txt	2020-02-06 20:51:24.000000000 -0800
++++ kb459.txt	2020-02-06 20:51:29.000000000 -0800
 @@ -1,5 +1,3 @@
 -redone
 -uh
@@ -70,7 +70,7 @@
  give
  two
 -shits
--oh-oh
+-ohoh
 +tips
  floor
  floor
@@ -120,7 +120,7 @@
 -than
 -motherfucka
 -jump
--hoopty-hoopty-hoop
+-hooptyhooptyhoop
 -own
 -that
 -aint
@@ -155,7 +155,7 @@
 -payday
 -youre
 -g
--g-g-g
+-ggg
 -name
 -onika
 -can

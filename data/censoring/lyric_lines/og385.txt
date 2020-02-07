@@ -82,10 +82,10 @@ tag
 aint
 the
 uh
-cha-ching
-cha-ching
-ba-bling
-ba-bling
+chaching
+chaching
+babling
+babling
 take
 it
 back
@@ -162,7 +162,7 @@ see
 sign
 of
 defeat
-uh-uh
+uhuh
 everyone
 moving
 feet
@@ -170,4 +170,4 @@ bring
 beat
 then
 sing
-ooh-ooh
+oohooh

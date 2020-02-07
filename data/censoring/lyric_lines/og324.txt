@@ -34,7 +34,7 @@ man
 told
 nothing
 without
-wait-n-see
+waitnsee
 now
 im
 leavin

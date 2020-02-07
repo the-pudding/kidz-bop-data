@@ -78,7 +78,7 @@ hair
 slicked
 back
 white
-t-shirt
+tshirt
 good
 girl
 faith
@@ -139,8 +139,8 @@ go
 go
 take
 yeah
-oh-oh
-whoa-oh
+ohoh
+whoaoh
 out
 style
 oh

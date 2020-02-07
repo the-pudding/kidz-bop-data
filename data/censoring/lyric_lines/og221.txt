@@ -57,9 +57,9 @@ lost
 can
 always
 found
-ooo-oo-oo-oo-oo-oo-oo
-oo-oo-oo-oo
-ooo-oo-oo-oo-oo-oo-oo
-aaa-aa-aa-aa-aa-aa-aa
-aa-aa-aa-aaaaaa
-aaa-aa-aa-aa-aa-aa-aa
+ooooooooooooooo
+oooooooo
+ooooooooooooooo
+aaaaaaaaaaaaaaa
+aaaaaaaaaaaa
+aaaaaaaaaaaaaaa

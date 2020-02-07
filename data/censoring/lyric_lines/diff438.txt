@@ -1,5 +1,5 @@
---- og418.txt	2020-02-06 19:31:21.000000000 -0800
-+++ kb438.txt	2020-02-06 19:31:27.000000000 -0800
+--- og418.txt	2020-02-06 20:51:24.000000000 -0800
++++ kb438.txt	2020-02-06 20:51:29.000000000 -0800
 @@ -6,10 +6,9 @@
  something
  about
@@ -56,18 +56,16 @@
  always
  seem
  smile
-@@ -82,9 +80,8 @@
+@@ -82,8 +80,7 @@
  mirror
  singing
  shower
--la-da-dee
--la-da-da
--la-da-da
+-ladadee
+-ladada
 +ladade
-+ladada
+ ladada
  want
  need
- lovin
 @@ -95,26 +92,24 @@
  since
  came

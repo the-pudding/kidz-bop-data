@@ -1,5 +1,5 @@
---- og125.txt	2020-02-06 19:31:20.000000000 -0800
-+++ kb133.txt	2020-02-06 19:31:26.000000000 -0800
+--- og125.txt	2020-02-06 20:51:23.000000000 -0800
++++ kb133.txt	2020-02-06 20:51:29.000000000 -0800
 @@ -1,14 +1,19 @@
 +uh
 +check
@@ -84,7 +84,7 @@
  type
 -break
 +to
-+break-up
++breakup
  happy
  home
 -uh
@@ -137,7 +137,7 @@
  girls
 -way
 +theres
-+way-ay
++wayay
  nelly
 -gon
 -fight
@@ -148,7 +148,7 @@
 +ova
  dame
 +fight
-+dame-ame
++dameame
  as
  can
 -see

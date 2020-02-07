@@ -1,12 +1,12 @@
---- og54.txt	2020-02-06 19:31:20.000000000 -0800
-+++ kb58.txt	2020-02-06 19:31:26.000000000 -0800
+--- og54.txt	2020-02-06 20:51:22.000000000 -0800
++++ kb58.txt	2020-02-06 20:51:28.000000000 -0800
 @@ -11,8 +11,7 @@
  touched
  the
  clouds
--wo-o-o-o-o-o-oh
--wo-o-o-o-o-o-oh
-+wo-o-o-o-o-oh
+-woooooooh
+-woooooooh
++wooooooh
  stretched
  my
  hands
@@ -26,7 +26,7 @@
  wake
  me
  now
-+oo-o-o-o-oo
++ooooooo
  this
  is
  be
@@ -34,9 +34,9 @@
  day
  of
 -life
--li-i-i-i-i-i-ife
-+li-ife
-+li-i-i-i-i-ife
+-liiiiiiife
++liife
++liiiiiife
  howled
  at
  moon
@@ -54,8 +54,8 @@
  lose
  control
  control
--wo-o-o-o-o-o-oh
-+oo-o-o-o-o
+-woooooooh
++oooooo
  be
 +life
  everything

@@ -1,13 +1,13 @@
---- og106.txt	2020-02-06 19:31:20.000000000 -0800
-+++ kb114.txt	2020-02-06 19:31:26.000000000 -0800
+--- og106.txt	2020-02-06 20:51:22.000000000 -0800
++++ kb114.txt	2020-02-06 20:51:28.000000000 -0800
 @@ -1,8 +1,8 @@
--uh-huh
+-uhhuh
 +uh
 +huh
  lifes
  like
  this
--uh-huh
+-uhhuh
  thats
  the
  way
@@ -92,6 +92,6 @@
  no
  no
 -yellin
--ay-yeah
+-ayyeah
 +yeah
 +yeah

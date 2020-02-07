@@ -1,5 +1,5 @@
---- og308.txt	2020-02-06 19:31:21.000000000 -0800
-+++ kb324.txt	2020-02-06 19:31:26.000000000 -0800
+--- og308.txt	2020-02-06 20:51:23.000000000 -0800
++++ kb324.txt	2020-02-06 20:51:29.000000000 -0800
 @@ -1,212 +1,111 @@
 -yeah
 -get
@@ -26,9 +26,9 @@
 -the
 -mic
 -its
--anti-depressor
--ad-rock--no
--pressure--yes
+-antidepressor
+-adrockno
+-pressureyes
 -need
 -this
 -best
@@ -212,7 +212,7 @@
 -must
 -have
 -drank
--fizzy-lifting
+-fizzylifting
 -drink
 -lifted
 -sifted
@@ -242,9 +242,9 @@
 -well
 -thats
 -wrong
--a--
+-a
 -break
--crazy-crazy
+-crazycrazy
 -pass
 -scalpel
 -ill
@@ -286,7 +286,7 @@
 -heres
 -chance
 -romance
--b-boy
+-bboy
 -stance
 -parlay
 -romancing

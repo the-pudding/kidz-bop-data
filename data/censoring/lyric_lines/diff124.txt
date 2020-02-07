@@ -1,7 +1,7 @@
---- og114.txt	2020-02-06 19:31:20.000000000 -0800
-+++ kb124.txt	2020-02-06 19:31:26.000000000 -0800
+--- og114.txt	2020-02-06 20:51:22.000000000 -0800
++++ kb124.txt	2020-02-06 20:51:28.000000000 -0800
 @@ -1,7 +1,9 @@
-+all-
++all
  baby
 -you
 +youre
@@ -31,7 +31,7 @@
 +your
 +up
 +boy
-+solo-
++solo
  yeah
  when
 -i
@@ -62,7 +62,7 @@
 +duet
 +bot
 +harmony
-+melody-
++melody
  "oh
  good
  lord
@@ -124,7 +124,7 @@
 +on!
 +boy
 +mel
-+har-ya
++harya
  was
 -sipping
 +talkin
@@ -144,7 +144,7 @@
 -summer
 +summer 
 +girl
-+har-
++har
  hopped
  into
 -cab
@@ -168,14 +168,14 @@
 +song
 +hey
 +go!
-+x2-
++x2
 +signs
 +3
 +part
 +harmony
 +group
-+one-
-+two-
++one
++two
  sun
 -fell
 -to

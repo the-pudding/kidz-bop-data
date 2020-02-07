@@ -1,5 +1,5 @@
---- og93.txt	2020-02-06 19:31:20.000000000 -0800
-+++ kb102.txt	2020-02-06 19:31:26.000000000 -0800
+--- og93.txt	2020-02-06 20:51:22.000000000 -0800
++++ kb102.txt	2020-02-06 20:51:28.000000000 -0800
 @@ -1,209 +1,64 @@
 -i
 +and
@@ -29,9 +29,9 @@
 -one
 -gang
 -of
--you-know-what
--geum-nam
--chung-jang
+-youknowwhat
+-geumnam
+-chungjang
 -street
 -that’s
 -my
@@ -54,7 +54,7 @@
 -grew
 -up
 -pulling
--all-nighters
+-allnighters
 -case
 -height
 -is

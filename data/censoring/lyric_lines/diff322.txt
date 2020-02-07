@@ -1,5 +1,5 @@
---- og307.txt	2020-02-06 19:31:21.000000000 -0800
-+++ kb322.txt	2020-02-06 19:31:26.000000000 -0800
+--- og307.txt	2020-02-06 20:51:23.000000000 -0800
++++ kb322.txt	2020-02-06 20:51:29.000000000 -0800
 @@ -15,9 +15,10 @@
  gold
  everybody
@@ -53,7 +53,7 @@
 -bobby
  have
 -travellin
-+time-travellin
++timetravellin
  babblin
  people
  tryin
@@ -108,8 +108,8 @@
  see
 -flow
  beat
--pitta-da-da
-+pidda-dow-dow
+-pittadada
++piddadowdow
  deceive
 -ya
  intergalactic
@@ -140,7 +140,7 @@
  pocus
  is
 -steelo
-+styl-o
++stylo
 +yes
 +hey
 +yeah

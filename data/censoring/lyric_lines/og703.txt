@@ -29,7 +29,7 @@ the
 stanky
 leg
 stank
-stank-stank
+stankstank
 break
 your
 legs

@@ -1,8 +1,8 @@
---- og511.txt	2020-02-06 19:31:22.000000000 -0800
-+++ kb538.txt	2020-02-06 19:31:27.000000000 -0800
+--- og511.txt	2020-02-06 20:51:24.000000000 -0800
++++ kb538.txt	2020-02-06 20:51:29.000000000 -0800
 @@ -1,149 +1,100 @@
--uh-huh
--uh-huh
+-uhhuh
+-uhhuh
 -yeah
 -rihanna
 -good
@@ -35,7 +35,7 @@
  come
 -we
 -gone
--roc-a-fella
+-rocafella
 -fly
 -higher
 -than
@@ -146,7 +146,7 @@
  ella
  eh
  eh
--eh-eh
+-eheh
  these
 -fancy
 +funky

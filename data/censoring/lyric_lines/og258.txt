@@ -4,7 +4,7 @@ a
 simple
 girl
 in
-high-tech
+hightech
 digital
 world
 i
@@ -33,7 +33,7 @@ cant
 find
 job
 of
-post-modern
+postmodern
 fad
 what
 was

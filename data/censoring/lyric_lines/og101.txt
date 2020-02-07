@@ -36,7 +36,7 @@ out
 cant
 take
 the
-in-between
+inbetween
 asking
 for
 space
@@ -131,7 +131,7 @@ need
 some
 thinking
 im
-four-letter
+fourletter
 word
 but
 sleep
@@ -149,11 +149,11 @@ where
 heart
 used
 be
-gold-dig
+golddig
 day
 switched
-four-door
-two-door
+fourdoor
+twodoor
 cause
 let
 driver

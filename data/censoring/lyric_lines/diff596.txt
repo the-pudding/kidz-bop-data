@@ -1,5 +1,5 @@
---- og719.txt	2020-02-06 19:31:22.000000000 -0800
-+++ kb596.txt	2020-02-06 19:31:27.000000000 -0800
+--- og719.txt	2020-02-06 20:51:24.000000000 -0800
++++ kb596.txt	2020-02-06 20:51:30.000000000 -0800
 @@ -20,18 +20,18 @@
  will
  never
@@ -86,11 +86,10 @@
  from
  ghetto
 -malorie
--blackman
++mallory
+ blackman
 -where
 -hells
-+mallory
-+black-man
 +wheres
 +worlds
  sanity

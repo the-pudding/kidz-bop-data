@@ -1,5 +1,5 @@
---- og32.txt	2020-02-06 19:31:20.000000000 -0800
-+++ kb32.txt	2020-02-06 19:31:26.000000000 -0800
+--- og32.txt	2020-02-06 20:51:22.000000000 -0800
++++ kb32.txt	2020-02-06 20:51:28.000000000 -0800
 @@ -11,18 +11,18 @@
  crash
  critic
@@ -37,8 +37,8 @@
  live
  applause
 -applause
--applause-plause
- applause-plause
+-applauseplause
+ applauseplause
 -way
 -that
  cheer
@@ -66,8 +66,8 @@
  real
  loud
 +love
-+a-p-p-l-a-u-s-e
- a-p-p-l-a-u-s-e
++applause
+ applause
 -touch
  ive
 -overheard
@@ -102,10 +102,10 @@
 -culture
 -woo
 -now
--woo-oh-oh-oh
+-wooohohoh
 +arts
 +in
 +touchtouch
-+ooo-oo-oo
-+ooo-oooo
- a-r-t-p-o-p
++ooooooo
++ooooooo
+ artpop

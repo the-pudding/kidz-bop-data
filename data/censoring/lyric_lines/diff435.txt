@@ -1,5 +1,5 @@
---- og668.txt	2020-02-06 19:31:21.000000000 -0800
-+++ kb435.txt	2020-02-06 19:31:27.000000000 -0800
+--- og668.txt	2020-02-06 20:51:24.000000000 -0800
++++ kb435.txt	2020-02-06 20:51:29.000000000 -0800
 @@ -2,7 +2,7 @@
  blood
  flesh
@@ -29,7 +29,7 @@
  of
  arc
  aphrodite
--da-da-da-da
+-dadadada
  me
  first
  class
@@ -49,7 +49,7 @@
 -why
  even
  bother
- a-ah
+ aah
 +cause
  comes
  to

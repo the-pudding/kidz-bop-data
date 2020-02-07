@@ -1,5 +1,5 @@
---- og249.txt	2020-02-06 19:31:21.000000000 -0800
-+++ kb236.txt	2020-02-06 19:31:26.000000000 -0800
+--- og249.txt	2020-02-06 20:51:23.000000000 -0800
++++ kb236.txt	2020-02-06 20:51:29.000000000 -0800
 @@ -1,31 +1,28 @@
  fussin
 -and
@@ -134,12 +134,12 @@
  promise
  do
 -same
--yeah-yeah
+-yeahyeah
 -fighting
 -baby
 -oh
--no-no-no
--no-no-no
+-nonono
+-nonono
 -box
  stuck
 -off
@@ -155,7 +155,7 @@
 -cause
 -be
 -ooh
--ooh-ooh
+-oohooh
 -keep
 -me
 -girl

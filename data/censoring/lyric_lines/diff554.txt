@@ -1,5 +1,5 @@
---- og527.txt	2020-02-06 19:31:22.000000000 -0800
-+++ kb554.txt	2020-02-06 19:31:27.000000000 -0800
+--- og527.txt	2020-02-06 20:51:24.000000000 -0800
++++ kb554.txt	2020-02-06 20:51:29.000000000 -0800
 @@ -8,15 +8,15 @@
  first
  time
@@ -58,7 +58,7 @@
 -me
  love
 -you"
--ooh-ooh-ooh-ooh-ooh
+-oohoohoohoohooh
 +oooh
  called
  it
@@ -108,7 +108,7 @@
 -talk
 -me
 -yeah
--oh-oh-oh
+-ohohoh
  used
  think
 +we
@@ -124,8 +124,7 @@
  hes
 +like
  still
--just-
-+just
+ just
  mean
  exhausting
  know
@@ -133,8 +132,8 @@
  together
 -ever"
 -ooh
--ooh-ooh-ooh-ooh-ooh
--ooh-ooh-ooh
+-oohoohoohoohooh
+-oohoohooh
 -no
 +not
  oh

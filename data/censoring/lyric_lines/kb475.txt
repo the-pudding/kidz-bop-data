@@ -52,7 +52,7 @@ shes
 been
 gone
 since
-hip-hop
+hiphop
 mama
 spic
 n
@@ -142,7 +142,7 @@ play
 hookie
 always
 hip
-be	-ball
+be	ball
 style
 known
 act
@@ -210,7 +210,7 @@ pogo
 sticks
 mind
 takes
-oh-so
+ohso
 quick
 let
 hook
@@ -222,7 +222,7 @@ color
 purple
 macaroni
 cheese
-ruby-red
+rubyred
 slippers
 trees
 up
@@ -240,4 +240,4 @@ sure
 go
 some
 worthwhile
-so-so
+soso

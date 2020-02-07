@@ -1,7 +1,7 @@
---- og473.txt	2020-02-06 19:31:21.000000000 -0800
-+++ kb499.txt	2020-02-06 19:31:27.000000000 -0800
+--- og473.txt	2020-02-06 20:51:24.000000000 -0800
++++ kb499.txt	2020-02-06 20:51:29.000000000 -0800
 @@ -1,5 +1,5 @@
- uh-oh
+ uhoh
 -runnin
 +running
  out
@@ -49,7 +49,7 @@
  ive
  just
  enough
--oh-oh
+-ohoh
 -ayy
 -am
 -truth
@@ -68,7 +68,7 @@
 -transform
 -with
 -pressure
--hands-on
+-handson
 -effort
 -fell
 -twice

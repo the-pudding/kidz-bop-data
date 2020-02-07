@@ -44,7 +44,7 @@ shits
 broken
 broken
 lie
-l-lie
+llie
 tried
 hide
 know
@@ -78,7 +78,7 @@ lie
 lie
 lie
 try
-l-lie
+llie
 hide
 time
 hey!

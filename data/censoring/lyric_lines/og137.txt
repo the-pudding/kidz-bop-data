@@ -27,7 +27,7 @@ some
 more
 are
 down
-d-d-down
+dddown
 down
 everywhere
 i
@@ -54,11 +54,11 @@ any
 other
 plans
 you
-d-down
-d-d-down
-d-d-d-d-down
+ddown
+dddown
+dddddown
 you
-d-d-d-down
+ddddown
 could
 put
 all

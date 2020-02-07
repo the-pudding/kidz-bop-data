@@ -141,7 +141,7 @@ ask
 grandpa
 have
 his
-hand-me-downs
+handmedowns
 thank
 you!
 velour
@@ -213,7 +213,7 @@ thank
 granddad
 donatin
 plaid
-button-
+button
 shirt
 cause
 now
@@ -241,7 +241,7 @@ hand
 rock
 that
 motherfucker
-built-in
+builtin
 onesie
 with
 socks
@@ -253,17 +253,17 @@ gucci
 tight"
 "yo
 50
-t-shirt"
+tshirt"
 limited
 edition
 lets
 do
 simple
 addition
-t-shirt
+tshirt
 ignorant
 call
-getting-swindled-and-pimped
+gettingswindledandpimped
 getting
 tricked
 by
@@ -290,7 +290,7 @@ wear
 granddads
 clothes
 incredible
-big-ass
+bigass
 coat
 down
 road
@@ -300,7 +300,7 @@ now
 on
 man
 i’m
-big-ass
+bigass
 coat
 lets
 go

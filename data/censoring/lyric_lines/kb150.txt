@@ -6,7 +6,7 @@ end
 game
 first
 string
-a-team
+ateam
 game
 big
 reputation
@@ -100,7 +100,7 @@ dont
 lose
 just
 another
-ex-love
+exlove
 see
 miss
 i
@@ -127,7 +127,7 @@ end
 game
 wanna
 string
-a-team
+ateam
 hit
 bang
 tried

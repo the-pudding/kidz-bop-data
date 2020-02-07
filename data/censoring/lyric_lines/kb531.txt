@@ -38,7 +38,7 @@ coulda
 had
 good
 friend
-non-committal
+noncommittal
 help
 with
 your
@@ -174,7 +174,7 @@ goodbyes
 woo
 keep
 pushing
-ay-ay-ay
+ayayay
 they
 yee
 eh

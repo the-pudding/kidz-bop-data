@@ -1,5 +1,5 @@
---- og219.txt	2020-02-06 19:31:20.000000000 -0800
-+++ kb224.txt	2020-02-06 19:31:26.000000000 -0800
+--- og219.txt	2020-02-06 20:51:23.000000000 -0800
++++ kb224.txt	2020-02-06 20:51:29.000000000 -0800
 @@ -1,25 +1,13 @@
  boom
  clap
@@ -16,10 +16,10 @@
  here
  we
  go
--whoa-oh-oh;
+-whoaohoh;
 -thats
 -right!
--whoa-oh-oh
+-whoaohoh
 -1
 -2
 -3!
@@ -42,7 +42,7 @@
 +ill
  give
  the
--bar-b-’cues’
+-barb’cues’
 +barbecue
  show
  and
@@ -60,7 +60,7 @@
  dot
 -countrify
 -then
--hip-hop
+-hiphop
 +country
 +fivin
 +hip
@@ -89,7 +89,7 @@
  hands
 -on
  hips
- one-footed
+ onefooted
  180
  twist
 -zag
@@ -136,7 +136,7 @@
 -go!
 -dclap
  dap
--b-boom
+-bboom
 -together
 +roll
 +yeah

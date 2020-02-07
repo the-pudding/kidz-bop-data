@@ -1,5 +1,5 @@
---- og442.txt	2020-02-06 19:31:21.000000000 -0800
-+++ kb464.txt	2020-02-06 19:31:27.000000000 -0800
+--- og442.txt	2020-02-06 20:51:24.000000000 -0800
++++ kb464.txt	2020-02-06 20:51:29.000000000 -0800
 @@ -13,39 +13,25 @@
  thoughts
  in
@@ -58,7 +58,7 @@
  could
  manage
  that
--yikky-yeah
+-yikkyyeah
 +read
 +well
  check
@@ -91,19 +91,19 @@
 -yeah
 -come
 -on
--uh-uh
+-uhuh
 -up
 -oh
  oh
--oh-oh
--oh-oh
+-ohoh
+-ohoh
 -to
 -stereo
 -lets
 -go!
  an
--old-school
--fifty-pound
+-oldschool
+-fiftypound
 +old
 +school
 +fifty
@@ -170,7 +170,7 @@
  youre
  changing
  mind
--ah-huh
+-ahhuh
 -haha
 -ye—eh—eh
 -lets

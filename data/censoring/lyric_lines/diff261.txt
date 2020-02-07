@@ -1,5 +1,5 @@
---- og248.txt	2020-02-06 19:31:21.000000000 -0800
-+++ kb261.txt	2020-02-06 19:31:26.000000000 -0800
+--- og248.txt	2020-02-06 20:51:23.000000000 -0800
++++ kb261.txt	2020-02-06 20:51:29.000000000 -0800
 @@ -2,6 +2,7 @@
  you
  done
@@ -46,8 +46,8 @@
  big
  family
  our
--god-forsaken
-+god-intended
+-godforsaken
++godintended
  loved
  loved
  sure
@@ -55,9 +55,9 @@
  short
  this
  fate
--a-do
+-ado
 -you
-+d-d-do
++dddo
  do
 -do
 -want
@@ -75,14 +75,14 @@
 +whisper
 +in
  ear
--a-soo
+-asoo
 -da
 -ba
 -bum
 -whoa
 -oh
 -whoa
--uh-huh
+-uhhuh
  ive
  been
  spending
@@ -146,9 +146,9 @@
 -ch
 -doo
 -doo
--oh-oh
--oh-oh-oh-oh
--whoa-oh-oh-oh
+-ohoh
+-ohohohoh
+-whoaohohoh
 -baby
 -believe
 -yours

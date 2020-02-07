@@ -36,8 +36,8 @@ in
 live
 applause
 applause
-applause-plause
-applause-plause
+applauseplause
+applauseplause
 way
 that
 cheer
@@ -60,7 +60,7 @@ touch
 make
 real
 loud
-a-p-p-l-a-u-s-e
+applause
 touch
 ive
 overheard
@@ -94,5 +94,5 @@ art’s
 culture
 woo
 now
-woo-oh-oh-oh
-a-r-t-p-o-p
+wooohohoh
+artpop

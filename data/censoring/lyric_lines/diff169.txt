@@ -1,10 +1,10 @@
---- og162.txt	2020-02-06 19:31:20.000000000 -0800
-+++ kb169.txt	2020-02-06 19:31:26.000000000 -0800
+--- og162.txt	2020-02-06 20:51:23.000000000 -0800
++++ kb169.txt	2020-02-06 20:51:29.000000000 -0800
 @@ -16,7 +16,8 @@
  again
  feel
  so
--paper-thin
+-paperthin
 +paper
 +thin
  house
@@ -41,7 +41,7 @@
 -sky
 -on
 -your
-+sky-y-y
++skyyy
  colors
  burst
  gonna
@@ -68,7 +68,7 @@
  time
  youll
 +cause
-+awe-awe-awe
++aweaweawe
  boom
  boom
  even

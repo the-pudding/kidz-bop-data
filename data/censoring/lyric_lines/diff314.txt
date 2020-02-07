@@ -1,5 +1,5 @@
---- og639.txt	2020-02-06 19:31:21.000000000 -0800
-+++ kb314.txt	2020-02-06 19:31:26.000000000 -0800
+--- og639.txt	2020-02-06 20:51:23.000000000 -0800
++++ kb314.txt	2020-02-06 20:51:29.000000000 -0800
 @@ -20,7 +20,7 @@
  invade
  your
@@ -29,9 +29,9 @@
  love
  harder
  really
--lo-love
+-lolove
 -harder
--ooh-ooh-ooh-ooh
+-oohoohoohooh
 -me
 +ooh
 +oooh

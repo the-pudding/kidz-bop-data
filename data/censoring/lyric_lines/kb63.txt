@@ -90,8 +90,8 @@ into
 belong
 no
 dont
-no-class
-beat-down
+noclass
+beatdown
 fool
 will
 always

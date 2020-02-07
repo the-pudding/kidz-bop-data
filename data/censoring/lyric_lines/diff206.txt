@@ -1,10 +1,10 @@
---- og196.txt	2020-02-06 19:31:20.000000000 -0800
-+++ kb206.txt	2020-02-06 19:31:26.000000000 -0800
+--- og196.txt	2020-02-06 20:51:23.000000000 -0800
++++ kb206.txt	2020-02-06 20:51:29.000000000 -0800
 @@ -28,8 +28,8 @@
  bout
  his
  manners
--uh-huh
+-uhhuh
  uh
 +huh
  didnt
@@ -47,8 +47,8 @@
  feelin
  like
 -ooh
--ooh-ooh-ooh-ooh-ooh-ooh-ooh
-+oooh-oooh-ooh
+-oohoohoohoohoohoohooh
++ooohooohooh
  it
  met
 -ayy
@@ -61,12 +61,12 @@
 -him
  go
  oh
- na-na-na-na-na
+ nanananana
  woo
 -hey
 -ayy
--uh-huh
--na-na-na
+-uhhuh
+-nanana
 -huh
 -jeffery
 -just
@@ -135,13 +135,13 @@
 -baby
 -oh
 -no
--na-na
+-nana
  ooh
--ooh-ooh-ooh-ooh-ooh-ooh
-+na-na-na
+-oohoohoohoohoohooh
++nanana
 +all
-+ooh-na-na
-+oh-na-na
++oohnana
++ohnana
  take
  back
 -yeah

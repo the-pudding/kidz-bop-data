@@ -1,5 +1,5 @@
---- og60.txt	2020-02-06 19:31:20.000000000 -0800
-+++ kb66.txt	2020-02-06 19:31:26.000000000 -0800
+--- og60.txt	2020-02-06 20:51:22.000000000 -0800
++++ kb66.txt	2020-02-06 20:51:28.000000000 -0800
 @@ -4,7 +4,7 @@
  a
  billionaire
@@ -88,7 +88,7 @@
 -me
 -claus
 -minus
--ho-ho
+-hoho
 -aha
 -get
 -it
@@ -120,13 +120,13 @@
 -what
 -brah
 -lights
--uh-ha
--uh-ha
+-uhha
+-uhha
 -else
 -for
 -what
--oh-oh
--oh-oh
+-ohoh
+-ohoh
 -lets
 -go
 +ill
@@ -200,7 +200,7 @@
 +oooh
  buy
  everything
--ha-ha
+-haha
 +what
  up
 -oprah

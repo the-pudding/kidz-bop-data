@@ -1,5 +1,5 @@
---- og622.txt	2020-02-06 19:31:21.000000000 -0800
-+++ kb260.txt	2020-02-06 19:31:26.000000000 -0800
+--- og622.txt	2020-02-06 20:51:23.000000000 -0800
++++ kb260.txt	2020-02-06 20:51:29.000000000 -0800
 @@ -1,11 +1,8 @@
 -we
 +im
@@ -37,8 +37,8 @@
  lets
  ride
 @@ -53,197 +48,91 @@
- oh-eh-oh-oh-oh
- eh-oh
+ ohehohohoh
+ ehoh
  yeah!
 -quavo!
 -that
@@ -57,7 +57,7 @@
 -go
 -back
 -remember
--criss-cross
+-crisscross
 -hopscotch
 -hopscotch
 -hold
@@ -79,7 +79,7 @@
 -looks
 -just
 -without
--make-up
+-makeup
 -had
 -to
 -pull
@@ -119,7 +119,7 @@
 -named
 -us
 -why
--up—brt-brt!—all
+-up—brtbrt!—all
 -angles
 -okay
 -though

@@ -129,7 +129,7 @@ grandpa
 "can
 have
 his
-hand-me-downs"
+handmedowns"
 thank
 you!
 velour
@@ -200,7 +200,7 @@ thank
 granddad
 donating
 plaid
-button-
+button
 shirt
 cause
 now
@@ -228,7 +228,7 @@ jammies
 second
 hand
 its
-built-in
+builtin
 onesie
 with
 socks
@@ -240,14 +240,14 @@ gucci
 tight”
 “yo
 fifty
-t-shirt”
+tshirt”
 limited
 edition
 let’s
 do
 simple
 addition
-t-shirt
+tshirt
 just
 silly
 overpriced

@@ -1,5 +1,5 @@
---- og398.txt	2020-02-06 19:31:21.000000000 -0800
-+++ kb409.txt	2020-02-06 19:31:27.000000000 -0800
+--- og398.txt	2020-02-06 20:51:24.000000000 -0800
++++ kb409.txt	2020-02-06 20:51:29.000000000 -0800
 @@ -25,13 +25,11 @@
  go
  ahead
@@ -85,14 +85,14 @@
  through
  open
  door
--oh-oh
+-ohoh
  count
  blessings
  find
  what
  look
  for
--whoa-oh
+-whoaoh
  turn
  sorrow
  into

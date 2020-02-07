@@ -1,5 +1,5 @@
---- og287.txt	2020-02-06 19:31:21.000000000 -0800
-+++ kb296.txt	2020-02-06 19:31:26.000000000 -0800
+--- og287.txt	2020-02-06 20:51:23.000000000 -0800
++++ kb296.txt	2020-02-06 20:51:29.000000000 -0800
 @@ -10,7 +10,6 @@
  keeps
  runnin
@@ -125,16 +125,16 @@
 -movin
 -cmon
 -yall
--coo-koo
+-cookoo
 -uh
 -huh
--coo-koo
+-cookoo
 -wild
 -ohh
 -ohh
--ya-ya-ya-ya-ya-ya-ya
--ya-ya-ya-ya
--ya-ya-ya-ya-ya!
+-yayayayayayaya
+-yayayaya
+-yayayayaya!
 +cuckoo
 +cuckoo
 +why

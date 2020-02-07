@@ -4,8 +4,8 @@ on
 let
 me
 love
-me-on-ly
-s-you
+meonly
+syou
 know
 me
 gold

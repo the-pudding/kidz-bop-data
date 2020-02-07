@@ -1,5 +1,5 @@
---- og2.txt	2020-02-06 19:31:20.000000000 -0800
-+++ kb1.txt	2020-02-06 19:31:26.000000000 -0800
+--- og2.txt	2020-02-06 20:51:22.000000000 -0800
++++ kb1.txt	2020-02-06 20:51:28.000000000 -0800
 @@ -37,11 +37,11 @@
  actress
  star
@@ -23,8 +23,8 @@
 -alright
 -since
 -bruce
-+nothin-has
-+been-alright
++nothinhas
++beenalright
  springsteen
  madonna
  way
@@ -72,7 +72,7 @@
  member
  duran
 -where’s
--mini-skirt
+-miniskirt
 +wheres
 +mini
 +skirt
@@ -90,14 +90,14 @@
  did
 -reality
 -become
-+reality-become
++realitybecome
  tv
  whatever
 -sitcoms
 -game
 -shows
-+sitcoms!-game
-+shows!-
++sitcoms!game
++shows!
 +all
  radio
 +highschool

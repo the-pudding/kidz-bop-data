@@ -1,5 +1,5 @@
---- og690.txt	2020-02-06 19:31:21.000000000 -0800
-+++ kb496.txt	2020-02-06 19:31:27.000000000 -0800
+--- og690.txt	2020-02-06 20:51:24.000000000 -0800
++++ kb496.txt	2020-02-06 20:51:29.000000000 -0800
 @@ -1,30 +1,29 @@
  dog
  goes
@@ -45,49 +45,49 @@
  does
  fox
  say
--"ring-ding-ding-ding-dingeringeding!
-+ring-ding-ding-ding-dingeringeding!
- gering-ding-ding-ding-dingeringeding!
--gering-ding-ding-ding-dingeringeding!"
--"wa-pa-pa-pa-pa-pa-pow!
+-"ringdingdingdingdingeringeding!
++ringdingdingdingdingeringeding!
+ geringdingdingdingdingeringeding!
+-geringdingdingdingdingeringeding!"
+-"wapapapapapapow!
 +whats
- wa-pa-pa-pa-pa-pa-pow!
--wa-pa-pa-pa-pa-pa-pow!"
--"hatee-hatee-hatee-ho!
- hatee-hatee-hatee-ho!
--hatee-hatee-hatee-ho!"
--"joff-tchoff-tchoffo-tchoffo-tchoff!
-+joff-tchoff-tchoffo-tchoffo-tchoff!
- tchoff-tchoff-tchoffo-tchoffo-tchoff!
--joff-tchoff-tchoffo-tchoffo-tchoff!"
+ wapapapapapapow!
+-wapapapapapapow!"
+-"hateehateehateeho!
+ hateehateehateeho!
+-hateehateehateeho!"
+-"jofftchofftchoffotchoffotchoff!
++jofftchofftchoffotchoffotchoff!
+ tchofftchofftchoffotchoffotchoff!
+-jofftchofftchoffotchoffotchoff!"
  big
  blue
  eyes
 @@ -86,24 +80,21 @@
  communicate
  by
- mo-o-o-o-orse
-+mo-o-o-o-orse
+ mooooorse
++mooooorse
  how
  speak
  to
- ho-o-o-o-orse
--"jacha-chacha-chacha-chow!
-+ho-o-o-o-orse
-+jacha-chacha-chacha-chow!
- chacha-chacha-chacha-chow!
--chacha-chacha-chacha-chow!"
--"fraka-kaka-kaka-kaka-kow!
- fraka-kaka-kaka-kaka-kow!
--fraka-kaka-kaka-kaka-kow!"
--"a-hee-ahee
--ha-hee!
- a-hee-ahee
--ha-hee!"
--"a-oo-oo-oo-ooo!
--woo-oo-oo-ooo!"
-+ha-hee!
-+a-oo-oo-oo-ooo!
+ hooooorse
+-"jachachachachachachow!
++hooooorse
++jachachachachachachow!
+ chachachachachachachow!
+-chachachachachachachow!"
+-"frakakakakakakakakow!
+ frakakakakakakakakow!
+-frakakakakakakakakow!"
+-"aheeahee
+-hahee!
+ aheeahee
+-hahee!"
+-"aooooooooo!
+-wooooooooo!"
++hahee!
++aooooooooo!
  secret
  of
 +fox
@@ -98,16 +98,16 @@
  do
  my
  guardian
--wa-wa-way-do
--wub-wid-bid-dum-way-do
--wa-wa-way-do
--bay-budabud-dum-bam
+-wawawaydo
+-wubwidbiddumwaydo
+-wawawaydo
+-baybudabuddumbam
 +angel
 +woods
  want
--mama-dum-day-do
+-mamadumdaydo
 -know!
--abay-ba-da
--bum-bum
--bay-do
+-abaybada
+-bumbum
+-baydo
 -la

@@ -1,7 +1,7 @@
---- og108.txt	2020-02-06 19:31:20.000000000 -0800
-+++ kb116.txt	2020-02-06 19:31:26.000000000 -0800
+--- og108.txt	2020-02-06 20:51:22.000000000 -0800
++++ kb116.txt	2020-02-06 20:51:28.000000000 -0800
 @@ -1,7 +1,5 @@
--mm-mmm
+-mmmmm
 -yeah
 -yeah
 -hey
@@ -59,8 +59,8 @@
 -wanna
 -act
 -important
--yeah-yeah-yeah
--yeah-yeah-yeah
+-yeahyeahyeah
+-yeahyeahyeah
 -that
 -mean
 -when
@@ -149,7 +149,7 @@
 -situation
 -ayy
 -old
--ben-ben
+-benben
 -franklins
 -cash
 -big
@@ -183,7 +183,7 @@
  get
  rolls
 @@ -192,17 +134,17 @@
- top-floor
+ topfloor
  lifestyle
  top
 -huncho
@@ -201,7 +201,7 @@
 -what
 -houdini
 -gone
--uh-huh
+-uhhuh
 -
 +where
 +from

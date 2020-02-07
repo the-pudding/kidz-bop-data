@@ -18,6 +18,8 @@ phrase_helper <- function(seqINFO, lyricBlock){
   
   toReturn =  lapply(mapply(function(x,y){lyricBlock[x:y]},start, end, SIMPLIFY = F), function(x){paste(as.character(x),collapse = " ")}) %>% unlist()
   
+  toReturn = gsub("-","",toReturn)
+  
   return(toReturn)
   
 }

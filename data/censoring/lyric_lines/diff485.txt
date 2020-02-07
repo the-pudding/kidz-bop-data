@@ -1,5 +1,5 @@
---- og463.txt	2020-02-06 19:31:21.000000000 -0800
-+++ kb485.txt	2020-02-06 19:31:27.000000000 -0800
+--- og463.txt	2020-02-06 20:51:24.000000000 -0800
++++ kb485.txt	2020-02-06 20:51:29.000000000 -0800
 @@ -1,5 +1,4 @@
  hello
 -hello
@@ -12,7 +12,7 @@
  club
 -say
 -say
--wha-wha-what
+-whawhawhat
 +see
 +what
  did
@@ -34,7 +34,7 @@
 +kid
  of
  busy
--k-kind
+-kkind
 -busy
 +kind
  just
@@ -59,7 +59,7 @@
 +when
 +going
 +to
-+dance-eh
++danceeh
 +should
  made
  some
@@ -142,8 +142,8 @@
  am
  sick
 -tired
--r-ringing
-+ri-ringing
+-rringing
++riringing
  sometimes
  feel
  live
@@ -164,7 +164,7 @@
 +talk
 +
  telephone
--m-m-my
+-mmmy
 -were
 -sorry
 -number

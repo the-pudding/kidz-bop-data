@@ -1,9 +1,9 @@
---- og126.txt	2020-02-06 19:31:20.000000000 -0800
-+++ kb134.txt	2020-02-06 19:31:26.000000000 -0800
+--- og126.txt	2020-02-06 20:51:23.000000000 -0800
++++ kb134.txt	2020-02-06 20:51:29.000000000 -0800
 @@ -1,20 +1,3 @@
 -bum
--be-dum
--be-dum
+-bedum
+-bedum
 -whats
 -wrong
 -with
@@ -123,7 +123,7 @@
 -what
 -like
 -disturbia
--oh-oh
+-ohoh
  release
  from
  curse
@@ -134,9 +134,9 @@
 -strugglin
 -cant
 -go
--oh-oh-oh-oh-oh
+-ohohohohoh
 +struggling
  gonna
--ah-ah-ah-ah-ah
+-ahahahahah
 -better
 -so

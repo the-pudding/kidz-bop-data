@@ -1,5 +1,5 @@
---- og360.txt	2020-02-06 19:31:21.000000000 -0800
-+++ kb375.txt	2020-02-06 19:31:26.000000000 -0800
+--- og360.txt	2020-02-06 20:51:23.000000000 -0800
++++ kb375.txt	2020-02-06 20:51:29.000000000 -0800
 @@ -1,27 +1,10 @@
 -jlo!
 -ya
@@ -62,7 +62,7 @@
 -snooze
 -snooze
 -games
--d-d-dont-dont-dont
+-dddontdontdont
 -it
 -confused
 -cause
@@ -71,7 +71,7 @@
 -yeah
 -now
 -now
--pu-pu-pu-pu-pump
+-pupupupupump
 -up
 -back
 -up
@@ -147,7 +147,7 @@
 -mismo
 -gusta
 -gusta
--la-la-la-la-la-la-la-la-la-la-la-la-la-la
+-lalalalalalalalalalalalalala
 -tonight
 +lalalalalalalalalalalalalalaa
  gon
@@ -191,7 +191,7 @@
 -old
 -school
 -chevy
--seven-trey
+-seventrey
 -donkey
 -donk
 -all

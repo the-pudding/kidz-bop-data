@@ -45,7 +45,7 @@ aphrodite
 me
 first
 class
-fancy-free
+fancyfree
 society
 got
 the
@@ -65,7 +65,7 @@ can
 be
 even
 bother
-a-ah
+aah
 cause
 comes
 to

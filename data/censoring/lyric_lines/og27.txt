@@ -77,7 +77,7 @@ nice
 meet
 ya"
 met
-5-foot-7
+5foot7
 guy
 whos
 type
@@ -227,7 +227,7 @@ lyrics
 feel
 spirit
 still
-ca-a-ash
+caaash
 cause
 lot
 wags

@@ -40,7 +40,7 @@ happily
 numb
 put
 your
-rose-colored
+rosecolored
 glasses
 on
 and

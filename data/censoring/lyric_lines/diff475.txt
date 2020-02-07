@@ -1,5 +1,5 @@
---- og452.txt	2020-02-06 19:31:21.000000000 -0800
-+++ kb475.txt	2020-02-06 19:31:27.000000000 -0800
+--- og452.txt	2020-02-06 20:51:24.000000000 -0800
++++ kb475.txt	2020-02-06 20:51:29.000000000 -0800
 @@ -15,7 +15,7 @@
  remember
  we
@@ -28,8 +28,8 @@
 -hip
 -hop
 -marmalade
--spick-and-span
-+hip-hop
+-spickandspan
++hiphop
 +mama
 +spic
 +n
@@ -113,9 +113,9 @@
  play
  hookie
  always
--b-boy
+-bboy
 +hip
-+be	-ball
++be	ball
  style
  known
  act
@@ -180,7 +180,7 @@
  mind
  takes
 -oh
-+oh-so
++ohso
  quick
  let
  hook
@@ -196,7 +196,7 @@
  cheese
 -ruby
 -red
-+ruby-red
++rubyred
  slippers
  trees
  up
@@ -204,6 +204,6 @@
  go
  some
  worthwhile
--s-
+-s
 -honey
-+so-so
++soso

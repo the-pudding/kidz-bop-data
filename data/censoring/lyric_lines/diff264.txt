@@ -1,5 +1,5 @@
---- og256.txt	2020-02-06 19:31:21.000000000 -0800
-+++ kb264.txt	2020-02-06 19:31:26.000000000 -0800
+--- og256.txt	2020-02-06 20:51:23.000000000 -0800
++++ kb264.txt	2020-02-06 20:51:29.000000000 -0800
 @@ -1,12 +1,15 @@
 -trap
 -trapmoneybenny
@@ -107,17 +107,17 @@
 +hangin
 +in
  wraith
--kissin-kissin
-+hangin-hangin
+-kissinkissin
++hanginhangin
  wraith
--kiss-kissin
+-kisskissin
  black
  card
  code
 @@ -119,71 +114,25 @@
  safe
- code-code
- safe-safe
+ codecode
+ safesafe
 -show
 -him
 -how
@@ -126,18 +126,18 @@
 -fuck
 -netflix
 -chill—whats
--net-net-net
+-netnetnet
 -worth
 -yeah
 +bad
  guess
  whos
  back
- d-down
+ ddown
  al–
 -biggy
 -blake
- d-d-down
+ dddown
 -a
 +got
  boy
@@ -164,7 +164,7 @@
 -ass
 -ass
 -back!
--b-bring
+-bbring
 -shawty
 -she
 -cant
@@ -175,9 +175,9 @@
 -clap
 -youre
 -only
--clap-clap
+-clapclap
 -ass!
--clap-clap-clap
+-clapclapclap
 -lets
 -go
 -go!

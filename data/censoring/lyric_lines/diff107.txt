@@ -1,5 +1,5 @@
---- og99.txt	2020-02-06 19:31:20.000000000 -0800
-+++ kb107.txt	2020-02-06 19:31:26.000000000 -0800
+--- og99.txt	2020-02-06 20:51:22.000000000 -0800
++++ kb107.txt	2020-02-06 20:51:28.000000000 -0800
 @@ -20,23 +20,8 @@
  right
  now
@@ -8,9 +8,9 @@
  go
  all
 -eh
--yea-ei-yeaaah
+-yeaeiyeaaah
 -eh
--yea-yeaaaah
+-yeayeaaaah
 -haha!
 -nothin
 -now!
@@ -79,7 +79,7 @@
  im
  in
  building
---
+-
  hey!
 -watchin
  rockin
@@ -103,8 +103,7 @@
  can
 +get
  a
--ko
-+k-o
+ ko
  paparazzi
 -tryna
 +trying

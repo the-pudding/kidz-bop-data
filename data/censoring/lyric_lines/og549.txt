@@ -70,7 +70,7 @@ nose
 dive
 surfing
 crowd
-oooh-ooohh
+ooohooohh
 said
 gotta
 man
@@ -81,7 +81,7 @@ my
 band
 mic
 check
-two-oooh
+twooooh
 em
 in
 while
@@ -142,7 +142,7 @@ when
 sun
 come
 through
-uh-oh
+uhoh
 its
 on
 everything
@@ -158,7 +158,7 @@ body
 private
 stays
 here
-pri-private
+priprivate
 untamed
 tell
 pain

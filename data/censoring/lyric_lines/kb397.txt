@@ -125,7 +125,7 @@ go
 finally
 learned
 lesson
-half-steppin
+halfsteppin
 either
 just
 playin

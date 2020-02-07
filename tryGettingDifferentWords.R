@@ -22,7 +22,15 @@ helper_diff = function(kb, og){
   ogWords = gsub("\\)", "", ogWords)
 
   ## take out punctuation
+  kbWords = gsub("\\.", "", kbWords)
+  kbWords = gsub("\\?", "", kbWords)
+  kbWords = gsub(",", "", kbWords)
+  kbWords = gsub("'", "", kbWords)
   
+  ogWords = gsub("\\.", "", ogWords)
+  ogWords = gsub("\\?", "", ogWords)
+  ogWords = gsub(",", "", ogWords)
+  ogWords = gsub("'", "", ogWords)
   
   censored = setdiff(ogWords, kbWords) ## in original but not in kidz bop
   replacements = setdiff(kbWords, ogWords) ## in kidzbop but not in original

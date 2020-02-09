@@ -35,6 +35,8 @@ censoredPhrasesPlus2 = merge(censoredPhrasesPlus, toM, by.x="og_idx", by.y="og_i
 censoredPhrasesPlus3 = merge(censoredPhrasesPlus2, toM2, by.x="kbID", by.y="kb_idx",all.x=T)
 
 censoredPhrasesPlus3$og_artist = as.character(censoredPhrasesPlus3$og_artist)
+
+names(censoredPhrasesPlus3)[which(names(censoredPhrasesPlus3)=="song")]="censored_phrase"
 write.csv(censoredPhrasesPlus3, "data/censoring/setdiffPhrasesPlus.csv",row.names=F)
 
 

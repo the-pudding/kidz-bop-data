@@ -95,3 +95,44 @@ toSave = test[,c("kbID","og_idx","kb_song_name","og_artist","og_release","releas
 names(toSave)[6]="kb_release_year"
 
 write.csv(toSave,"data/2020-02-02/almostthere.csv",row.names = F)
+
+
+is.na(toSave$og_release) %>% sum()
+
+
+toSave[is.na(toSave$og_release),] %>% group_by(kb_song_name, og_artist) %>% summarise(count =n()) %>% write.csv(.,"data/2020-02-02/fillinOGdates.csv",row.names = F)#%>% View()
+
+
+ogDates = read.csv("data/2020-02-02/fillinOGdates-fillinOGdates.csv", stringsAsFactors = F)
+
+toSave2 = merge(toSave, ogDates, by.x=c("kb_song_name","og_artist"), by.y = c("kb_song_name","og_artist"),all.x=T)
+
+which(is.na(toSave2$og_release) & is.na(toSave2$year)) ## woo
+
+toSave2$og_year = toSave2$og_release
+toSave2$og_year[is.na(toSave2$og_year)] = toSave2$year[is.na(toSave2$og_year)]
+
+sum(is.na(toSave2$og_year))
+
+toSave2$og_year = substr(toSave2$og_year,1,4)
+
+summary(as.numeric(toSave2$og_year))
+
+names(toSave2)
+
+toSave3 = toSave2[,c("kbID","og_idx","kb_song_name","og_artist","og_year","kb_release_year","censored_phrase")]
+
+names(toSave3)[5]="og_release_year"
+
+head(toSave3)
+
+
+sum(is.na(toSave3$kbID))
+sum(is.na(toSave3$og_idx))
+sum(is.na(toSave3$kb_song_name))
+sum(is.na(toSave3$og_artist))
+sum(is.na(toSave3$censored_phrase)) ## drop these
+
+toSaveForReal = toSave3[-which(is.na(toSave3$censored_phrase)),]
+
+write.csv(toSaveForReal,"data/censoring/fullDataSet.csv",row.names=F)

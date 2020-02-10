@@ -31,7 +31,7 @@ safe_meta <- safely(get_song_meta) ## make sure if we can't find a song, it does
 ogDetails<- map(ogSongID, ~ safe_meta(.x))
 save(ogDetails, file="data/2020-02-02/ogDetailsRaw.RData")
 kbDetails<- map(kbSongID, ~ safe_meta(.x))
-save(kbDetails, file="data/2020-02-02/ogDetailsRaw.RData")
+save(kbDetails, file="data/2020-02-02/kbDetailsRaw.RData")
 
 og_release = unlist(lapply(ogDetails, function(x){x$result$release_date}))
 kb_release = unlist(lapply(kbDetails, function(x){x$result$release_date})) ## some of these are missing

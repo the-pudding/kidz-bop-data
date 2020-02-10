@@ -23,6 +23,7 @@ censoredPhrasesPlus = merge(censoredPhrases, toM, by.x="og_idx", by.y= "og_idx",
 load("data/2020-02-02/kbLyrics.RData")
 
 test=get_song_meta(kbLyrics[[1]]$song_id[1])
+test=get_artist_meta(kbLyrics[[1]]$artist_id[1]) ## no genre, sad
 
 kbSongID = unlist(lapply(kbLyrics, function(x){x$song_id[1]}))
 ogSongID = unlist(lapply(ogLyricsFull, function(x){x$song_id[1]}))

@@ -25,21 +25,28 @@ load("data/2020-02-02/kbLyrics.RData")
 test=get_song_meta(kbLyrics[[1]]$song_id[1])
 test=get_artist_meta(kbLyrics[[1]]$artist_id[1]) ## no genre, sad
 
-kbSongID = unlist(lapply(kbLyrics, function(x){x$song_id[1]}))
-ogSongID = unlist(lapply(ogLyricsFull, function(x){x$song_id[1]}))
+kbSongID = unlist(lapply(kbLyrics, function(x){x$song_id[1]})) ## unlist is the same
+ogSongID = lapply(ogLyricsFull, function(x){x$song_id[1]})
+ogSongID = unlist(lapply(ogSongID, function(x){ifelse(is.null(x),NA,x)}))
 
 safe_meta <- safely(get_song_meta) ## make sure if we can't find a song, it doesn't crash
 ogDetails<- map(ogSongID, ~ safe_meta(.x))
 save(ogDetails, file="data/2020-02-02/ogDetailsRaw.RData")
 kbDetails<- map(kbSongID, ~ safe_meta(.x))
 save(kbDetails, file="data/2020-02-02/kbDetailsRaw.RData")
+load( file="data/2020-02-02/kbDetailsRaw.RData")
 
-og_release = unlist(lapply(ogDetails, function(x){x$result$release_date}))
+og_release = lapply(ogDetails, function(x){x$result$release_date})
+
+og_release = unlist(lapply(og_release, function(x){ifelse(is.null(x),NA,x)}))
+
+
 kb_release = unlist(lapply(kbDetails, function(x){x$result$release_date})) ## some of these are missing
 ## checked these for weird null thing, they are fine
 
 toM = cbind.data.frame(og_release = og_release, og_idx = 1:length(og_release))
 toM2 = cbind.data.frame(kb_release = kb_release, kb_idx = 1:length(kb_release))
+
 
 censoredPhrasesPlus2 = merge(censoredPhrasesPlus, toM, by.x="og_idx", by.y="og_idx",all.x=T)
 

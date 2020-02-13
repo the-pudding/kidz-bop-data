@@ -43,6 +43,7 @@ tryThis[which(is.na(tryThis$track.album.release_date) & is.na(tryThis$kb_release
 
 tryThis %>% group_by(kb_song_name, og_artist) %>% summarise(count=n()) %>% View()
 
+## kbIDs were unchanged so this is fine
 toRemove = c(which(tryThis$kbID==211 & tryThis$og_artist !="Martin Solveig"),
 which(tryThis$kbID==77 & tryThis$og_idx==70),
 
@@ -59,6 +60,7 @@ toM = tryThis[-toRemove,]
 
 #remove cool for now will need to replace later
 
+## this stuff didn't change
 extraDates = read.csv("data/2020-02-02/fillinKBdates-fillinKBdates.csv",stringsAsFactors = F)
 
 test = merge(toM, extraDates[,c("kbID","release_date")], by.x="kbID", by.y="kbID",all.x=T)
@@ -103,7 +105,10 @@ is.na(toSave$og_release) %>% sum()
 toSave[is.na(toSave$og_release),] %>% group_by(kb_song_name, og_artist) %>% summarise(count =n()) %>% write.csv(.,"data/2020-02-02/fillinOGdates.csv",row.names = F)#%>% View()
 
 
-ogDates = read.csv("data/2020-02-02/fillinOGdates-fillinOGdates.csv", stringsAsFactors = F)
+### 	Doyle Bramhall II
+### 482	459	take you there	Tyler Major
+
+ogDates = read.csv("data/2020-02-02/fillinOGdates.csv", stringsAsFactors = F) ## fill in manually
 
 toSave2 = merge(toSave, ogDates, by.x=c("kb_song_name","og_artist"), by.y = c("kb_song_name","og_artist"),all.x=T)
 
@@ -134,5 +139,14 @@ sum(is.na(toSave3$og_artist))
 sum(is.na(toSave3$censored_phrase)) ## drop these
 
 toSaveForReal = toSave3[-which(is.na(toSave3$censored_phrase)),]
+
+## found these need to drop
+### 	Doyle Bramhall II
+### 482	459	take you there	Tyler Major
+
+toRemove = which(toSaveForReal$og_artist=="Doyle Bramhall II")
+toRemove2 = which(toSaveForReal$og_artist=="Tyler Major")
+
+toSaveForReal = toSaveForReal[-c(toRemove, toRemove2),]
 
 write.csv(toSaveForReal,"data/censoring/fullDataSet.csv",row.names=F)

@@ -75,7 +75,7 @@ names(eachSong)=badWords$bad_word
 
 helper_diffInCensor <- function(x){
   #browser()
-  setdiff(byWord[[x]]$kb_song_name, eachSong[x]$kb_song_name)
+  setdiff(byWord[[x]]$kb_song_name, eachSong[[x]]$kb_song_name)
 }
 
 not_censored = lapply(names(byWord), helper_diffInCensor )
@@ -83,6 +83,11 @@ not_censored = lapply(names(byWord), helper_diffInCensor )
 yes_censored = eachSong
 
 length(not_censored) ## some are missing, which means always censored or never occur
+## want this in the master list
+
+toMergeExtra = cbind.data.frame(word = names(byWord), numInButNotCensored = unlist(lapply(not_censored, length)))
+toMergeExtra$word = as.character(toMergeExtra$word)
+
 length(censored)
 
 ## need first appear date, see if = to first censored
@@ -103,4 +108,11 @@ which(test$firstTimeCensored>test$firstAppeared) ## plenty
 
 test$firstTimeCensored[which(test$firstTimeCensored == Inf)]=NA
 
+test2=merge(test, toMergeExtra, by.x="bad_word",by.y="word", all.x=T)
+
 write.csv(test, file="data/censoring/censoringTimes.csv",row.names=F)
+
+
+## still some weird stuff
+## thrift shop (clearly has "bitch" in it, kb doesn't, yet the phrase doesn't turn up in censored phrases list)
+## similarly there is no way a kidz bop song has "fuck" in it, but it says we do

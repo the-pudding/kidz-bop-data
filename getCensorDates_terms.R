@@ -33,9 +33,9 @@ og_songIDs = unique(censored$og_idx)
 
 
 helper_findWordsOG <- function(ogIdx, badword_vctr){
-  
+  #browser()
   tryThis = ogLyricsFull[[ogIdx]]$line
-  trythis = tolower(tryThis)
+  tryThis = tolower(tryThis)
   
   tryThis = gsub("\\(", "", tryThis)
   tryThis = gsub("\\)", "", tryThis)
@@ -80,8 +80,27 @@ helper_diffInCensor <- function(x){
 
 not_censored = lapply(names(byWord), helper_diffInCensor )
 
-censored = eachSong
+yes_censored = eachSong
 
-length(not_censored)
+length(not_censored) ## some are missing, which means always censored or never occur
 length(censored)
 
+## need first appear date, see if = to first censored
+
+
+toM = censored %>% group_by(og_idx, kb_release_year) %>% summarise()
+
+match3=merge(match2 , toM, by.x="og_song" , by.y="og_idx", all.x = T, all.y=F)
+
+
+firstAppear = match3 %>% group_by(badword) %>% summarise(firstAppeared = min(kb_release_year))
+
+test=merge(badWords, firstAppear, by.x="bad_word", by.y="badword", all.x=T)
+
+which(test$firstTimeCensored< test$firstAppeared)
+
+which(test$firstTimeCensored>test$firstAppeared) ## plenty
+
+test$firstTimeCensored[which(test$firstTimeCensored == Inf)]=NA
+
+write.csv(test, file="data/censoring/censoringTimes.csv",row.names=F)

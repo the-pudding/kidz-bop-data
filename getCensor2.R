@@ -108,6 +108,9 @@ tryThis2$isStillPresent[is.na(tryThis2$isStillPresent)]= F
 
 tryThis2$isCensored = tryThis2$isPresent & !tryThis2$isStillPresent
 
+tryThis2= merge(tryThis2,badWords[,1:2],by.x="bad_word", by.y="bad_word" )
+
+
 write.csv(tryThis2, file="data/censoring/fullDataSet.csv",row.names=F)
 
 firstPresent = tryThis2 %>% filter(isPresent) %>% group_by(bad_word) %>% summarise(firstAppear = min(kb_release_year), numPresent = n()) 

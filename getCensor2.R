@@ -5,7 +5,7 @@ badWords = read.csv("data/censoring/badWord_categories.csv", stringsAsFactors = 
 
 badWords = badWords[, c("bad_word", "category")] ## don't need preliminary counts
 badWords = badWords[-1,] ## remove NA
-
+badWords = badWords[-11,] ## remove double "drink"
 badWords$anchored = paste0("^",badWords$bad_word, "$")
 
 load(file="data/2020-02-02/ogLyricsFullPlain.RData") ## ogLyricsFull
@@ -90,7 +90,7 @@ censoredW = mapply(function(x,y){setdiff(y,x)}, kbC2, ogC2, SIMPLIFY = F)
 notCensoredW = mapply(function(x,y){intersect(y,x)}, kbC2, ogC2, SIMPLIFY = F)
 
 
-rep(badWords$bad_word, nrow(pairs)) %>% length()
+#rep(badWords$bad_word, nrow(pairs)) %>% length()
 
 test = do.call("rbind", replicate(nrow(badWords),pairs, simplify = FALSE))
 

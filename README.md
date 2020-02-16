@@ -7,15 +7,15 @@
 - ~~Kidz Bop release date (Genius/Spotify, might just be a year?)~~ accessed and saved 2020-01-25
 - ~~Original lyrics (Genius)~~
 - ~~Original artist (Genius/Spotify)~~
-- Original genre (Spotify)
+- Original genre (Spotify) [paused]
 - ~~Original release date (Genius/Spotify, might just be a year?)~~
 
 # Second phase
 - ~~Lyric differences~~
-- Recheck all songs for lyrics that were censored in one song, but not others + find first time a word/phrase was censored in a song
+- ~~Recheck all songs for lyrics that were censored in one song, but not others + find first time a word/phrase was censored in a song~~
 Second phrase
-- Original artists' gender
-- Tag for type of censorship (alcohol, drugs, sex, violence, etc.)
+- Original artists' gender [paused, do subset of KB40]
+- ~~Tag for type of censorship (alcohol, drugs, sex, violence, etc.)~~
 
 # Third phase 
 

@@ -110,9 +110,16 @@ test$firstTimeCensored[which(test$firstTimeCensored == Inf)]=NA
 
 test2=merge(test, toMergeExtra, by.x="bad_word",by.y="word", all.x=T)
 
-write.csv(test, file="data/censoring/censoringTimes.csv",row.names=F)
+write.csv(test2, file="data/censoring/censoringTimes.csv",row.names=F)
 
 
 ## still some weird stuff
 ## thrift shop (clearly has "bitch" in it, kb doesn't, yet the phrase doesn't turn up in censored phrases list)
 ## similarly there is no way a kidz bop song has "fuck" in it, but it says we do
+
+
+## just do regular grep for it
+
+
+## https://stackoverflow.com/questions/27713310/easy-way-to-export-multiple-data-frame-to-multiple-excel-worksheets
+## https://ryouready.wordpress.com/2009/01/23/r-combining-vectors-or-data-frames-of-unequal-length-into-one-data-frame/

@@ -1,78 +1,64 @@
-"bad_word","category","numSongsCensored","firstTimeCensored","firstAppeared","numInButNotCensored"
-"alcohol","alcohol & drugs",0,NA,NA,NA
-"ass","profanity",37,2001,2001,53
-"bang","sexual",6,2004,2004,6
-"beer","alcohol & drugs",1,2009,2009,0
-"bitch","profanity",29,2002,2002,1
-"blood","violence",7,2002,2001,11
-"blow","alcohol & drugs",15,2002,2002,18
-"booty","sexual",5,2002,2002,1
-"bottle","alcohol & drugs",4,2014,2011,4
-"breast","sexual",0,NA,2003,1
-"bullet","violence",5,2010,2001,3
-"butt","sexual",3,2001,2001,12
-"champagne","alcohol & drugs",8,2007,2001,3
-"chest","sexual",5,2008,2008,5
-"christ","religious",2,2010,2002,9
-"cigarette","alcohol & drugs",5,2009,2009,1
-"cocaine","alcohol & drugs",0,NA,NA,NA
-"cock","sexual",1,2013,2001,2
-"coke","alcohol & drugs",2,2004,2001,1
-"crazy","mental health",13,2002,2001,56
-"dammit","profanity",1,2009,2009,1
-"damn","profanity",33,2003,2003,5
-"devil","religious",2,2008,2001,5
-"dope","alcohol & drugs",4,2007,2002,1
-"drink","alcohol & drugs",25,2004,2001,9
-"drink","alcohol & drugs",25,2004,2001,9
-"drug","alcohol & drugs",4,2013,2010,1
-"drunk","alcohol & drugs",15,2006,2006,0
-"fuck","profanity",34,2002,2001,3
-"gang","violence",5,2007,2003,2
-"gay","gender & sexuality",1,2011,2011,0
-"god","religious",29,2002,2001,15
-"grind","sexual",1,2018,2005,3
-"gun","violence",9,2001,2001,6
-"hell","profanity",27,2002,2001,25
-"heroine","alcohol & drugs",0,NA,NA,NA
-"high","alcohol & drugs",29,2001,2001,46
-"insane","mental health",1,2015,2001,9
-"intoxicate","alcohol & drugs",2,2004,2004,0
-"jesus","religious",1,2016,2016,0
-"juice","alcohol & drugs",3,2004,2004,1
-"kill","violence",17,2002,2001,13
-"kiss","sexual",24,2002,2001,39
-"knife","violence",2,2014,2014,2
-"lesbian","gender & sexuality",1,2011,2011,0
-"lips","sexual",9,2005,2001,22
-"liquor","alcohol & drugs",5,2012,2012,0
-"man","gender & sexuality",65,2001,2001,78
-"masturbate","sexual",1,2017,2017,0
-"mdma","alcohol & drugs",0,NA,NA,NA
-"men","gender & sexuality",20,2001,2001,57
-"meth","alcohol & drugs",29,2001,2001,96
-"molly","alcohol & drugs",2,2013,2013,0
-"murder","violence",2,2002,2002,1
-"nigga","slur",11,2002,2002,2
-"overdose","alcohol & drugs",5,2010,2010,0
-"pill","alcohol & drugs",9,2002,2001,5
-"pimp","sexual",4,2010,2010,1
-"pussy","sexual",1,2002,2002,0
-"retard","slur",1,2015,2015,0
-"sex","sexual",17,2001,2001,5
-"shit","profanity",49,2002,2002,1
-"skin","sexual",11,2002,2001,26
-"smoke","alcohol & drugs",4,2005,2004,3
-"smoking","alcohol & drugs",3,2009,2001,1
-"stab","violence",1,2015,2005,2
-"suicide","mental health",0,NA,NA,NA
-"tattoo","other",6,2010,2008,4
-"tequila","alcohol & drugs",0,NA,NA,NA
-"tit","sexual",5,2002,2001,10
-"touch","sexual",24,2002,2001,33
-"transgender","gender & sexuality",1,2011,2011,0
-"trigger","violence",1,2015,2007,1
-"vodka","alcohol & drugs",2,2011,2011,1
-"wine","alcohol & drugs",3,2015,2009,2
-"woman","gender & sexuality",9,2002,2002,5
-"women","gender & sexuality",4,2003,2003,0
+"bad_word","category","firstAppear","firstCensored","numPresent","numCensored"
+"ass","profanity",2002,2002,15,15
+"bang","sexual",2004,2004,8,4
+"beer","alcohol & drugs",2009,2009,1,1
+"bitch","profanity",2002,2002,19,19
+"blood","violence",2001,2001,15,5
+"blow","alcohol & drugs",2002,2002,21,6
+"booty","sexual",2012,2015,5,4
+"bottle","alcohol & drugs",2012,2018,3,1
+"bullet","violence",2001,2010,5,4
+"champagne","alcohol & drugs",2001,2007,11,9
+"chest","sexual",2008,2012,10,4
+"cigarette","alcohol & drugs",2009,2009,3,3
+"coke","alcohol & drugs",2001,2004,3,2
+"crazy","mental health",2001,2003,66,7
+"dammit","profanity",2009,2009,2,1
+"damn","profanity",2003,2003,37,32
+"devil","religious",2001,2008,4,1
+"dope","alcohol & drugs",2002,2007,5,3
+"drink","alcohol & drugs",2001,2009,44,30
+"drink","alcohol & drugs",2001,2009,44,30
+"drug","alcohol & drugs",2010,2013,5,4
+"drunk","alcohol & drugs",2006,2006,15,15
+"fuck","profanity",2002,2002,20,20
+"gang","violence",2004,2007,4,3
+"gay","gender & sexuality",2011,2011,1,1
+"god","religious",2001,2002,36,19
+"grind","sexual",2005,2018,4,1
+"gun","violence",2010,2010,7,6
+"hell","profanity",2004,2004,31,16
+"high","alcohol & drugs",2001,2002,53,15
+"insane","mental health",2001,2015,9,1
+"intoxicate","alcohol & drugs",2004,2004,1,1
+"jesus","religious",2016,2016,1,1
+"juice","alcohol & drugs",2004,2004,4,3
+"kill","violence",2007,2008,10,5
+"kiss","sexual",2001,2008,48,18
+"knife","violence",2014,2014,4,2
+"lesbian","gender & sexuality",2011,2011,1,1
+"lips","sexual",2001,2010,25,6
+"liquor","alcohol & drugs",2012,2012,5,5
+"man","gender & sexuality",2001,2001,84,29
+"masturbate","sexual",2017,2017,1,1
+"men","gender & sexuality",2001,2002,8,5
+"molly","alcohol & drugs",2013,2013,2,2
+"murder","violence",2002,2002,3,2
+"nigga","slur",2002,2002,8,6
+"overdose","alcohol & drugs",2010,2010,3,3
+"pill","alcohol & drugs",2001,2014,5,2
+"pimp","sexual",2010,2010,3,3
+"pussy","sexual",2002,2002,1,1
+"sex","sexual",2010,2010,6,5
+"shit","profanity",2002,2002,46,46
+"skin","sexual",2002,2002,26,8
+"smoke","alcohol & drugs",2005,2005,6,4
+"smoking","alcohol & drugs",2001,2009,4,3
+"tattoo","other",2008,2010,8,4
+"touch","sexual",2001,2002,47,19
+"transgender","gender & sexuality",2011,2011,1,1
+"trigger","violence",2007,2015,2,1
+"vodka","alcohol & drugs",2011,2011,3,2
+"wine","alcohol & drugs",2015,2015,3,3
+"woman","gender & sexuality",2002,2007,14,8
+"women","gender & sexuality",2003,2003,4,4

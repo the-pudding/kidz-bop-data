@@ -172,15 +172,17 @@ Intro with “women” not present in “Jenny From the Block.” Kidz Bop does
 keep “god” in though FYI.
 
 In Akon’s song: “Women steady comin’ after me,” “Men steady comin’ after
-you.” Kidz Bop changes this to “girls” and
-“boys”
+you.” Kidz Bop changes this to “girls” and “boys”
+
+So it looks like we have some false negatives, not sure what to do about
+that.
 
 ## Censoring over time
 
 ``` r
 overTime = fullData %>% group_by(kb_release_year) %>% summarise(countCensored=sum(isCensored), count = sum(isPresent)) %>% mutate(prop = countCensored/count)
 
-ggplot(overTime, aes(kb_release_year,count))+geom_point()+geom_line()
+ggplot(overTime, aes(kb_release_year,count))+geom_point()+geom_line()+ylab("existence of words")
 ```
 
 ![](exploreCensoring_files/figure-gfm/unnamed-chunk-6-1.png)<!-- -->
@@ -188,7 +190,7 @@ ggplot(overTime, aes(kb_release_year,count))+geom_point()+geom_line()
 ``` r
 # picking songs that don't need as much censoring?
 
-ggplot(overTime, aes(kb_release_year,prop))+geom_point()+geom_line()
+ggplot(overTime, aes(kb_release_year,prop))+geom_point()+geom_line()+ylab("censored / present")
 ```
 
 ![](exploreCensoring_files/figure-gfm/unnamed-chunk-6-2.png)<!-- -->
@@ -199,6 +201,30 @@ ggplot(overTime, aes(kb_release_year,prop))+geom_point()+geom_line()
 
 Well that is
 striking.
+
+## Time Trends Per Category
+
+``` r
+overTime = fullData %>% group_by(kb_release_year,category) %>% summarise(countCensored=sum(isCensored), count = sum(isPresent)) %>% mutate(prop = countCensored/count)
+
+
+ggplot(overTime, aes(kb_release_year,count))+geom_point()+geom_line()+facet_wrap(~category)+ylab("existence of words")
+```
+
+![](exploreCensoring_files/figure-gfm/unnamed-chunk-7-1.png)<!-- -->
+
+``` r
+ggplot(overTime, aes(kb_release_year,prop))+geom_point()+geom_line()+facet_wrap(~category)+ylab("censored / present")
+```
+
+    ## Warning: Removed 30 rows containing missing values (geom_point).
+
+![](exploreCensoring_files/figure-gfm/unnamed-chunk-7-2.png)<!-- -->
+
+Slight increase in existence of alcohol & drugs and profanity over time.
+
+Censorship of alcohol and drugs, sexual groups increasing over
+time.
 
 ## Kidz Bop 40 Gender
 
@@ -227,6 +253,6 @@ ggplot(toP, aes(gender, prop))+geom_bar(stat = "identity") +facet_wrap(~category
 
     ## Warning: Removed 15 rows containing missing values (position_stack).
 
-![](exploreCensoring_files/figure-gfm/unnamed-chunk-7-1.png)<!-- -->
+![](exploreCensoring_files/figure-gfm/unnamed-chunk-8-1.png)<!-- -->
 
 A little too sparse to see anything.

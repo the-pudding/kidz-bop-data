@@ -21,3 +21,24 @@ full %>% group_by(song_name, kbID) %>% summarise() %>% nrow() ## 678
 write.csv(full,"data/missing/fullCensor.csv",row.names = F)
 
 extra3 %>% group_by(song_name, kbID)  %>% summarise() %>% nrow() ## 585
+
+
+full %>% group_by(kbID) %>% summarise(count = n()) %>% arrange(count)
+
+duplicated(full) %>% table()
+
+full2 = full[-which(duplicated(full)),]
+
+full2 %>% group_by(kbID) %>% summarise(count = n()) %>% arrange(count)
+
+dim(badWords)
+
+test = full2 %>% group_by(song_name,kbID, bad_word_idx) %>% summarise(count = n()) %>% arrange(desc(count)) #%>% View() 
+
+#kbId not unique, but unique with song name
+#rbind is fine, merged by id seperately
+
+write.csv(full2,"data/missing/fullCensor.csv",row.names = F)
+
+full2 %>% group_by(song_name,kbID) %>% summarise() %>% nrow() ## 678
+     

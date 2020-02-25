@@ -27,15 +27,15 @@ fullData %>% group_by(category) %>% summarise(countCensored=sum(isCensored), cou
     ## # A tibble: 9 x 4
     ##   category           countCensored count  prop
     ##   <chr>                      <int> <int> <dbl>
-    ## 1 profanity                    204   228 0.895
-    ## 2 slur                          16    23 0.696
-    ## 3 alcohol & drugs              240   416 0.577
-    ## 4 gender & sexuality            57   130 0.438
-    ## 5 sexual                       241   572 0.421
-    ## 6 violence                     148   353 0.419
-    ## 7 other                         38    94 0.404
-    ## 8 religious                     56   141 0.397
-    ## 9 mental health                 18    98 0.184
+    ## 1 profanity                    196   219 0.895
+    ## 2 slur                          15    21 0.714
+    ## 3 alcohol & drugs              199   347 0.573
+    ## 4 gender & sexuality            53   120 0.442
+    ## 5 sexual                       209   514 0.407
+    ## 6 other                         28    69 0.406
+    ## 7 violence                     120   299 0.401
+    ## 8 religious                     50   130 0.385
+    ## 9 mental health                 15    92 0.163
 
 ## Censoring over time
 

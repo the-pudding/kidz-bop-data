@@ -232,6 +232,25 @@ haveExtra <- read.csv("data/missing/newHaveLyricsAlready.csv", stringsAsFactors 
 
 pairs = haveExtra %>% group_by(kb_id, og_id, song_name, og_artist, ogRelease, kbRelease) %>% summarise() 
 
+lapply(pairs$kb_id, function(x){kbLyrics[[x]]$song_name[1]}) %>% unlist() ## Only first two are right
+lapply(pairs$og_id, function(x){ogLyricsFull[[x]]$song_name[1]}) %>% unlist() ## these are right
+
+
+kbN=lapply(1:length(kbLyrics), function(x){kbLyrics[[x]]$song_name[1]}) %>% unlist()
+
+grep("Congratulations", kbN) ## 116
+grep("Don't Stop the Party", kbN) ## no
+grep("Eastside", kbN) ## 148
+grep("Hanging On", kbN) ## 201
+
+pairs$kb_id[3]=116
+pairs$kb_id[5]=148
+pairs$kb_id[6]=201
+
+
+
+
+
 load(file="data/2020-02-02/ogLyricsFullPlain.RData") ## ogLyricsFull
 load(file="data/2020-02-02/kbLyrics.RData") ## kbLyrics
 

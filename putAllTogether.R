@@ -1,5 +1,5 @@
 extra1 <- read.csv("data/missing/extraC.csv", stringsAsFactors = F)
-extra2 <- read.csv("data/missing/extraC2.csv", stringsAsFactors = F)
+extra2 <- read.csv("data/missing/extraC2.csv", stringsAsFactors = F) ## fixed
 extra3 <- read.csv("data/missing/fullDataSet.csv", stringsAsFactors = F)
 
 names(extra1)

@@ -7,7 +7,7 @@ ui <- fluidPage(
       3,
       wellPanel(
         hr("Pick a song"),
-        selectInput("songChoice", "Original Song", c(crosswalk$kb_song_name,  song_name_extra),
+        selectInput("songChoice", "Original Song", sort(c(crosswalk$kb_song_name,  song_name_extra)),
                      multiple = FALSE,
                     selectize = TRUE, width = NULL, size = NULL
         )

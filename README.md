@@ -1,5 +1,9 @@
 # kidz-bop-data
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/the-pudding/kidz-bop-data/master?urlpath=shiny/shiny/)
+
+
+
 # First phase
 
 - ~~Kidz Bop discography song list (Spotify)~~ accessed and saved 2020-01-25

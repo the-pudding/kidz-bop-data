@@ -24,7 +24,7 @@ helper <- function(x){
 extraLineDiff = lapply(1:length(kbLyricsExtra), helper) %>% unlist() #%>% length()
 
 helper <- function(x){
-  # print(x)
+ #browser()
   if(is.null(ogLyricsFull[[crosswalk$og_idx[x]]]$line) | is.null(kbLyrics[[crosswalk$kb_idx[x]]]$line[1])){
     return(0)
   }else{
@@ -40,7 +40,7 @@ lineDiff = lapply(1:nrow(crosswalk),helper) %>% unlist() #%>% length()
 
 song_name = c(crosswalk$kb_song_name, song_name_extra = unlist(lapply(lapply(kbLyricsExtra, function(x){x$result$song_name[1]}), function(x){ifelse(is.null(x),NA, x)}) )) %>% unname()
 
-propSameWordsLineOne = c(extraLineDiff, lineDiff)
+propSameWordsLineOne = c( lineDiff, extraLineDiff)
 
 
 write.csv(cbind.data.frame(song_name, propSameWordsLineOne), "data/censoring/firstLineComparison.csv", row.names=F)
@@ -53,3 +53,5 @@ ldN = read.csv("data/censoring/lineDifferencesNotes2.csv")
 all = merge(ld, ldN, by.x="song_name", by.y="song_name", all.x=T, all.y=T)
 
 write.csv(all, "data/censoring/lineDifferencesFirstLine.csv",row.names=F)
+
+#test = read.csv("data/censoring/lineDifferencesFirstLine.csv", stringsAsFactors = F)

@@ -8,9 +8,16 @@ crosswalk = read.csv("data/2020-02-02/crosswalk.csv", stringsAsFactors = F)
 
 library(dplyr)
 
-(kbLyricsExtra[[1]]$result$line == ogLyricsExtra[[1]]$result$line ) %>% sum()
+(kbLyricsExtra[[1]]$result$line == ogLyricsExtra[[1]]$result$lined ) %>% sum()
 
 extraLineDiff = lapply(1:length(kbLyricsExtra), function(x){sum(kbLyricsExtra[[x]]$result$line == ogLyricsExtra[[x]]$result$line )}) %>% unlist() #%>% length()
+
+kbe=lapply(lapply(kbLyricsExtra, function(x){x$result$song_name[1]}) , function(x){ifelse(is.null(x),NA, x)}) %>% unlist()
+
+oge=lapply(lapply(ogLyricsFull, function(x){x$song_name[1]}) , function(x){ifelse(is.null(x),NA, x)}) %>% unlist()
+
+which(kbe == "A Hard Day's Night")
+which(oge == "A Hard Day's Night")
 
 
 lineDiff = lapply(1:nrow(crosswalk),function(x){sum(ogLyricsFull[[crosswalk$og_idx[x]]]$line == kbLyrics[[crosswalk$kb_idx[x]]]$line)}) %>% unlist() #%>% length()

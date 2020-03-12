@@ -91,10 +91,80 @@ length(unlist(ogC)) == length(rep(crosswalk$og_idx,nrow(badWords)))
 ogCensored = cbind.data.frame(og_idx = rep(crosswalk$og_idx,nrow(badWords)), badword = rep(badWords$bad_word, each = nrow(crosswalk)), numOccurOG = unlist(ogC))
 ogCensored$id =  rep(1:nrow(crosswalk), nrow(badWords))
 
+## need song title and artist
+
+song_name = lapply(rep(crosswalk$kb_idx,nrow(badWords)), function(x){kbLyrics[[x]]$song_name[1]})
+og_artist = lapply(rep(crosswalk$og_idx,nrow(badWords)), function(x){ogLyricsFull[[x]]$artist_name[1]})
+
+length(unlist(song_name)) == length(rep(crosswalk$kb_idx,nrow(badWords)))
+length(unlist(og_artist)) == length(rep(crosswalk$og_idx,nrow(badWords)))
+
+length(unlist(lapply(song_name, function(x){ifelse(is.null(x),NA, x)})))== length(rep(crosswalk$kb_idx,nrow(badWords)))
+
+length(unlist(lapply(og_artist, function(x){ifelse(is.null(x),NA, x)})))== length(rep(crosswalk$kb_idx,nrow(badWords)))
+
+song_name = unlist(lapply(song_name, function(x){ifelse(is.null(x),NA, x)}))
+og_artist = unlist(lapply(og_artist, function(x){ifelse(is.null(x),NA, x)}))
+
+kbCensored$song_name=song_name
+kbCensored$og_artist = og_artist
+
 all = merge(kbCensored, ogCensored, by.x=c("id", "badword"), by.y = c("id", "badword"))
 
+
+#### extra ####
 load(file="data/missing/ogLyricsExtra.RData")
 load(file="data/missing/kbLyricsExtraMatch.RData")
+
+helper_kb <- function(id, badword){
+  tryThis = kbLyricsExtra[[id]]$result$line
+  tryThis = tolower(tryThis)
+  
+  tryThis = gsub("\\(", "", tryThis)
+  tryThis = gsub("\\)", "", tryThis)
+  ## take out punctuation
+  tryThis = gsub("\\.", "", tryThis)
+  tryThis = gsub("\\?", "", tryThis)
+  tryThis = gsub("\\!", "", tryThis)
+  tryThis = gsub(",", "", tryThis)
+  tryThis = gsub("'", "", tryThis)
+  tryThis = gsub("’", "", tryThis)
+  # get rid of hyphens
+  tryThis = gsub("-", "", tryThis)
+  
+  tryThis = unlist(strsplit(tryThis, " "))
+  
+  #browser()
+  
+  record = length(grep(badword,tryThis))
+  
+  return(record)
+}
+helper_og <- function(id, badword){
+  tryThis = ogLyricsExtra[[id]]$result$line
+  tryThis = tolower(tryThis)
+  
+  tryThis = gsub("\\(", "", tryThis)
+  tryThis = gsub("\\)", "", tryThis)
+  ## take out punctuation
+  tryThis = gsub("\\.", "", tryThis)
+  tryThis = gsub("\\?", "", tryThis)
+  tryThis = gsub("\\!", "", tryThis)
+  
+  tryThis = gsub(",", "", tryThis)
+  tryThis = gsub("'", "", tryThis)
+  tryThis = gsub("’", "", tryThis)
+  # get rid of hyphens
+  tryThis = gsub("-", "", tryThis)
+  
+  tryThis = unlist(strsplit(tryThis, " "))
+  
+  
+  record = length(grep(badword,tryThis))
+  
+  return(record)
+  
+}
 
 kbC2 = mapply(helper_kb, rep(1:length(kbLyricsExtra),nrow(badWords)),rep(badWords$anchored, each = length(kbLyricsExtra)))
 
@@ -109,6 +179,24 @@ length(unlist(ogC2)) == length(rep(1:length(ogLyricsExtra),nrow(badWords)))
 
 ogCensored2 = cbind.data.frame(og_idx = rep(1:length(ogLyricsExtra),nrow(badWords)), badword = rep(badWords$bad_word, each = length(ogLyricsExtra)), numOccurOG = unlist(ogC2))
 ogCensored2$id =  rep(1:length(ogLyricsExtra), nrow(badWords))
+
+## need song title and artist
+
+song_name = lapply(rep(length(kbLyricsExtra),nrow(badWords)), function(x){kbLyricsExtra[[x]]$result$song_name[1]})
+og_artist = lapply(rep(length(ogLyricsExtra),nrow(badWords)), function(x){ogLyricsExtra[[x]]$result$artist_name[1]})
+
+length(unlist(song_name)) == length(rep(crosswalk$kb_idx,nrow(badWords)))
+length(unlist(og_artist)) == length(rep(crosswalk$og_idx,nrow(badWords)))
+
+length(unlist(lapply(song_name, function(x){ifelse(is.null(x),NA, x)})))== length(rep(length(kbLyricsExtra),nrow(badWords)))
+
+length(unlist(lapply(og_artist, function(x){ifelse(is.null(x),NA, x)})))== length(rep(length(ogLyricsExtra),nrow(badWords)))
+
+song_name = unlist(lapply(song_name, function(x){ifelse(is.null(x),NA, x)}))
+og_artist = unlist(lapply(og_artist, function(x){ifelse(is.null(x),NA, x)}))
+
+kbCensored2$song_name=song_name
+kbCensored2$og_artist = og_artist
 
 all2 = merge(kbCensored2, ogCensored2, by.x=c("id", "badword"), by.y = c("id", "badword"))
 

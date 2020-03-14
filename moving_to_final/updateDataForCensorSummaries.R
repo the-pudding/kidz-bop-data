@@ -220,6 +220,9 @@ all2 = merge(kbCensored2, ogCensored2, by.x=c("id", "badword"), by.y = c("id", "
 
 all2 %>% group_by(id) %>% summarise(count=n())
 
+all$data = rep("first",nrow(all))
+all2$data = rep("second",nrow(all2))
+
 allF = rbind.data.frame(all, all2)
 
 write.csv(allF[,-1],"moving_to_final/data/allCensor.csv",row.names=F)

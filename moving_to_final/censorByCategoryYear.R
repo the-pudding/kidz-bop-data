@@ -26,7 +26,7 @@ which(badWords$bad_word=="vodka") ## 230
 
 badWords = badWords[-c(98, 115, 119, 152, 11, 154, 174, 230),]
 
-allC=merge(allC, badWords[,1:2], by.x=c("badword"), by.y="bad_word", all.x=T)
+allC=merge(allC, badWords[,1:3], by.x=c("badword"), by.y="bad_word", all.x=T)
 allC$song_name = tolower(allC$song_name)
 
 datesI=read.csv("data/censoring/fullDataSet.csv",stringsAsFactors = F)
@@ -63,7 +63,7 @@ eachSong = allC %>% group_by(song_name, og_artist) %>% summarise(year = year[1])
 
 eachSong[which(is.na(eachSong$year)),]
 
-write.csv(eachSong[which(is.na(eachSong$year)),],"moving_to_final/missingYears.csv", row.names=F)
+#write.csv(eachSong[which(is.na(eachSong$year)),],"moving_to_final/missingYears.csv", row.names=F)
 
 my = read.csv("moving_to_final/missingYears.csv", stringsAsFactors = F)
 
@@ -72,14 +72,14 @@ test$year = my$year
 
 allC2 = merge(allC, test, by.x=c("song_name","og_artist"), by.y=c("song_name","og_artist"),all.x=T)
 
-View(allC2)
+#View(allC2)
 
 allC2$year = ifelse(is.na(allC2$year.x), allC2$year.y, allC2$year.x)
 
 idx = grep("/",allC2$year) 
 allC2$year[idx]=paste0("20",unlist(lapply(strsplit(grep("/",allC2$year, value = T), "/" ), function(x){x[3]}))) #%>% unlist() %>% length()
 
-write.csv(allC2, "moving_to_final/data/proportions-kb-prep.csv", row.names=F)
+#write.csv(allC2, "moving_to_final/data/proportions-kb-prep.csv", row.names=F)
 
 
 ###
@@ -113,7 +113,7 @@ sum(test2$tryThis)
 
 require(tidyr)
 
-spread(test[,c("year","category","tryThis")], category, tryThis) %>% View()
+#spread(test[,c("year","category","tryThis")], category, tryThis) %>% View()
 apply(spread(test[,c("year","category","tryThis")], category, tryThis)[,-1] , 1, sum)
 
 propCensoredByYear$propCensored

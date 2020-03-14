@@ -93,6 +93,11 @@ all$isPresent = ifelse(all$numOccurOG>0, 1, 0)
 require(ggplot2)
 all %>% group_by(year) %>% summarise(prop=sum(isCensored)/n()) %>% ggplot(., aes(year, prop))+geom_point()
 
+all$category = ifelse(all$category %in% c("profanity","slur"), "profanity", all$category)
+all$category = ifelse(all$category %in% c("gender & sexuality"), "identity", all$category)
+all$category = ifelse(all$category %in% c("gender & sexuality"), "identity", all$category)
+all$category = ifelse(all$category %in% c("religious","mental health","other"), "other", all$category)
+
 
 byYearGroup= all %>% group_by(year,category) %>% summarise(totalCensoredG= sum(isCensored), totalExistG = sum(isPresent)) 
 
@@ -114,8 +119,16 @@ apply(spread(test[,c("year","category","tryThis")], category, tryThis)[,-1] , 1,
 propCensoredByYear$propCensored
 
 tidyV = spread(test[,c("year","category","tryThis")], category, tryThis)
+tidyV = tidyV[,c("year","alcohol & drugs","sexual","profanity","violence","identity","other")]
+names(tidyV)[2]="alcohol"
 
-write.csv(tidyV, "moving_to_final/data/proportions-kb-almost.csv", row.names=F)
+tidyV$alcohol = tidyV$alcohol *100
+tidyV$sexual = tidyV$sexual *100
+tidyV$profanity = tidyV$profanity *100
+tidyV$identity = tidyV$identity *100
+tidyV$other = tidyV$other *100
+
+write.csv(tidyV, "moving_to_final/data/proportions-kb.csv", row.names=F)
 
 
 ggplot(test, aes(year, total))+geom_point()

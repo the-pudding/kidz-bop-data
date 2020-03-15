@@ -2,7 +2,8 @@ library(dplyr)
 setwd("~/Desktop/kidz-bop-data/")
 
 
-allC = read.csv("moving_to_final/data/allCensor.csv",stringsAsFactors = F)
+#allC = read.csv("moving_to_final/data/allCensor.csv",stringsAsFactors = F)
+allC = read.csv("moving_to_final/data/allCensorF.csv",row.names=F)
 
 ## need category and year
 
@@ -79,7 +80,7 @@ allC2$year = ifelse(is.na(allC2$year.x), allC2$year.y, allC2$year.x)
 idx = grep("/",allC2$year) 
 allC2$year[idx]=paste0("20",unlist(lapply(strsplit(grep("/",allC2$year, value = T), "/" ), function(x){x[3]}))) #%>% unlist() %>% length()
 
-#write.csv(allC2, "moving_to_final/data/proportions-kb-prep.csv", row.names=F)
+write.csv(allC2, "moving_to_final/data/proportions-kb-prep.csv", row.names=F)
 
 
 ###

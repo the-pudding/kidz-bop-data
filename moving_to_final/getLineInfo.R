@@ -1,5 +1,5 @@
 setwd("~/Desktop/kidz-bop-data/")
-
+library(dplyr)
 censorD= read.csv( "moving_to_final/data/proportions-kb-prep.csv", stringsAsFactors = F)
 censorD = censorD[,-which(names(censorD)%in% c("year.x", "year.y"))]
 
@@ -45,7 +45,7 @@ getLine<- function(bad_word, og_idx, kb_idx, dataset){
     ogCase = ogLyricsExtra[[og_idx]]$result$line[ogCaseID]     
     kbReplace = kbL[ogCase]
   }
-  return(list(ogCase = ogCase, kbReplace = kbReplace))
+  return(list(ogCase = ogCase, kbReplace = kbReplace, ogLines = length(ogL), kbLines = length(kbL)))
 }
 
 load(file = "data/2020-02-02/kbLyrics.RData")
@@ -68,12 +68,21 @@ kbReplace = lapply(lineData, function(x){x$kbReplace})
 
 summary(unlist(lapply(kbReplace, length)))
 
+ogLines = lapply(lineData, function(x){x$ogLines}) %>% unlist()
+kbLines = lapply(lineData, function(x){x$kbLines}) %>% unlist()
 
+summary(ogLines- kbLines)
+which(abs(ogLines - kbLines)<5) 
+which(abs(ogLines - kbLines)==0 ) %>% length() 
+
+
+
+#length(unlist(ogLines) ) == nrow(censorInfo)
+#length(unlist(kbLines) ) == nrow(censorInfo)
 
 
 ogCase1 = lapply(ogCase, function(x){x[1]}) %>% unlist()
 kbReplace1 = lapply(lapply(kbReplace, function(x){x[1]}), function(x){ifelse(is.null(x),NA, x)}) %>% unlist()
-
 
 
 censorInfo$ogCase1 = ogCase1
@@ -81,5 +90,13 @@ censorInfo$kbReplace1=kbReplace1
 
 df <- apply(censorInfo,2,as.character)
 
+df[which(abs(ogLines - kbLines)==0 ),] %>% View() ## Not even these match
 
-write.csv(df, file="moving_to_final/data/censorline-prelim.csv",row.names=F)        
+
+write.csv(df, file="moving_to_final/data/censorline-prelim.csv",row.names=F) 
+
+
+
+## same number of lines?
+
+

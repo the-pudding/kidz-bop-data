@@ -100,3 +100,24 @@ write.csv(df, file="moving_to_final/data/censorline-prelim.csv",row.names=F)
 ## same number of lines?
 
 
+## additional occurrences
+
+helper_extra <- function(ogCase, kbReplace,id){
+  if(length(ogCase)>1){
+    ogR=ogCase[2:length(ogCase)]
+    kbR = kbReplace[2:length(kbReplace)]
+    kbR = c(kbR, rep(NA, length(ogR)-length(kbR)))
+    return(cbind.data.frame(censorInfo[id,1:13],ogCase1=ogR, kbReplace1=kbR))
+  }else{
+   return(NULL) 
+  }
+}
+
+testthis=mapply(helper_extra, ogCase, kbReplace, 1:length(ogCase), SIMPLIFY = F)
+
+test=do.call("rbind",testthis)
+
+
+full = rbind.data.frame(censorInfo,test)
+
+write.csv(full, file="moving_to_final/data/censorline-prelim-all.csv",row.names=F) 

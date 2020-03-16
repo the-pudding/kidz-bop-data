@@ -27,9 +27,20 @@ helper <- function(idx){
 }
 
 getLine<- function(bad_word, og_idx, kb_idx, dataset){
-  #browser()
+ # browser()
   if(dataset=="first"){
     ogL = tolower(ogLyricsFull[[og_idx]]$line)
+    ogL = gsub("\\(", "", ogL)
+    ogL = gsub("\\)", "", ogL)
+    ## take out punctuation
+    ogL = gsub("\\.", "", ogL)
+    ogL = gsub("\\?", "", ogL)
+    ogL = gsub("\\!", "", ogL)
+    ogL = gsub(",", "", ogL)
+    ogL = gsub("'", "", ogL)
+    ogL = gsub("’", "", ogL)
+    # get rid of hyphens
+    ogL = gsub("-", "", ogL)
     kbL = kbLyrics[[kb_idx]]$line
 
   test =  lapply(lapply(strsplit(ogL, " "), function(x){grep(bad_word,x)}), function(x){ifelse(length(x)==0,NA, x)}) %>% unlist()
@@ -39,6 +50,17 @@ getLine<- function(bad_word, og_idx, kb_idx, dataset){
    kbReplace = kbL[ogCaseID]
   }else{
     ogL = tolower(ogLyricsExtra[[og_idx]]$result$line)
+    ogL = gsub("\\(", "", ogL)
+    ogL = gsub("\\)", "", ogL)
+    ## take out punctuation
+    ogL = gsub("\\.", "", ogL)
+    ogL = gsub("\\?", "", ogL)
+    ogL = gsub("\\!", "", ogL)
+    ogL = gsub(",", "", ogL)
+    ogL = gsub("'", "", ogL)
+    ogL = gsub("’", "", v)
+    # get rid of hyphens
+    ogL = gsub("-", "", ogL)
     kbL = kbLyricsExtra[[kb_idx]]$result$line
     test =  lapply(lapply(strsplit(ogL, " "), function(x){grep(bad_word,x)}), function(x){ifelse(length(x)==0,NA, x)}) %>% unlist()
     ogCaseID = which(!is.na(test))
@@ -54,6 +76,7 @@ load(file="data/missing/ogLyricsExtra.RData")
 load(file="data/missing/kbLyricsExtraMatch.RData")
 crosswalk = read.csv("data/2020-02-02/crosswalk.csv", stringsAsFactors = F)
 
+helper(24)
 
 lineData = lapply(1:nrow(censorInfo), helper)
 

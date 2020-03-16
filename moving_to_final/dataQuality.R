@@ -27,7 +27,9 @@ allData = read.csv("moving_to_final/data/allCensor.csv", stringsAsFactors = F)
 
 allData2 = allData[-which(tolower(allData$song_name) %in% data[which(data$final_notes %in% c("MISSING KB LYRICS", "KB LYRICS INCOMPLETE" , "MISSING OG LYRICS", "NO OG LYRICS",'DUPLICATE', "(but \"crush (david archuletta)\" is right)","ERROR")  ),"song_name"]),]
 
-toFix = allData[which(tolower(allData$song_name) %in% c(data[which(data$final_notes == "ERROR"), "song_name"], "shine on (feat. mathias anderie)")),]
+allData3 = allData2[-which(tolower(allData2$song_name) %in% data[which(data$mismatch==1),"song_name"]),]
+
+toFix = allData3[which(tolower(allData3$song_name) %in% c(data[which(data$final_notes == "ERROR"), "song_name"], "shine on (feat. mathias anderie)")),]
 
 load(file = "data/2020-02-02/kbLyrics.RData")
 load(file = "data/2020-02-02/ogLyricsFullPlain.RData")
@@ -168,6 +170,6 @@ toRemove  = c(
 
 toFix2 = toFix[-toRemove,]
 
-fixed = rbind.data.frame(allData2, toFix2)
+fixed = rbind.data.frame(allData3, toFix2)
 
 write.csv(fixed, "moving_to_final/data/allCensorF.csv",row.names=F)

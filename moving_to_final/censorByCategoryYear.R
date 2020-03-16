@@ -64,10 +64,10 @@ eachSong = allC %>% group_by(song_name, og_artist) %>% summarise(year = year[1])
 
 eachSong[which(is.na(eachSong$year)),]
 
-#write.csv(eachSong[which(is.na(eachSong$year)),],"moving_to_final/missingYearsF.csv", row.names=F)
+#write.csv(eachSong[which(is.na(eachSong$year)),],"moving_to_final/missingYearsF2.csv", row.names=F)
 
 #my = read.csv("moving_to_final/missingYears.csv", stringsAsFactors = F)
-my = read.csv("moving_to_final/missingYearsF.csv", stringsAsFactors = F)
+my = read.csv("moving_to_final/missingYearsF2.csv", stringsAsFactors = F)
 
 test = eachSong[which(is.na(eachSong$year)),]
 test$year = my$year

@@ -1,6 +1,6 @@
 setwd("~/Desktop/kidz-bop-data/")
 library(dplyr)
-censorD= read.csv( "moving_to_final/data/proportions-kb-prep.csv", stringsAsFactors = F)
+censorD= read.csv( "moving_to_final/data/proportions-kb-prep2.csv", stringsAsFactors = F)
 censorD = censorD[,-which(names(censorD)%in% c("year.x", "year.y"))]
 
 censorD$isCensored = ifelse(censorD$numOccurKB < censorD$numOccurOG, 1, 0)
@@ -58,7 +58,7 @@ getLine<- function(bad_word, og_idx, kb_idx, dataset){
     ogL = gsub("\\!", "", ogL)
     ogL = gsub(",", "", ogL)
     ogL = gsub("'", "", ogL)
-    ogL = gsub("’", "", v)
+    ogL = gsub("’", "", ogL)
     # get rid of hyphens
     ogL = gsub("-", "", ogL)
     kbL = kbLyricsExtra[[kb_idx]]$result$line
@@ -143,4 +143,4 @@ test=do.call("rbind",testthis)
 
 full = rbind.data.frame(censorInfo,test)
 
-write.csv(full, file="moving_to_final/data/censorline-prelim-all.csv",row.names=F) 
+write.csv(full, file="moving_to_final/data/censorline-prelim-all2.csv",row.names=F) 

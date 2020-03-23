@@ -191,16 +191,16 @@ ogCensored2$id =  rep(1:length(ogLyricsExtra), nrow(badWords))
 
 ## need song title and artist
 
-song_name = lapply(rep(length(kbLyricsExtra),nrow(badWords)), function(x){kbLyricsExtra[[x]]$result$song_name[1]})
-song_name2 = lapply(rep(length(kbLyricsExtra),nrow(badWords)), function(x){ogLyricsExtra[[x]]$result$song_name[1]})
-og_artist = lapply(rep(length(ogLyricsExtra),nrow(badWords)), function(x){ogLyricsExtra[[x]]$result$artist_name[1]})
+song_name = lapply(rep(1:length(kbLyricsExtra),nrow(badWords)), function(x){kbLyricsExtra[[x]]$result$song_name[1]})
+song_name2 = lapply(rep(1:length(kbLyricsExtra),nrow(badWords)), function(x){ogLyricsExtra[[x]]$result$song_name[1]})
+og_artist = lapply(rep(1:length(ogLyricsExtra),nrow(badWords)), function(x){ogLyricsExtra[[x]]$result$artist_name[1]})
 
-length(unlist(song_name)) == length(rep(crosswalk$kb_idx,nrow(badWords)))
-length(unlist(og_artist)) == length(rep(crosswalk$og_idx,nrow(badWords)))
+#length(unlist(song_name)) == length(rep(1:length(kbLyricsExtra),nrow(badWords)))
+#length(unlist(og_artist)) == length(rep(crosswalk$og_idx,nrow(badWords)))
 
-length(unlist(lapply(song_name, function(x){ifelse(is.null(x),NA, x)})))== length(rep(length(kbLyricsExtra),nrow(badWords)))
+length(unlist(lapply(song_name, function(x){ifelse(is.null(x),NA, x)})))== length(rep(1:length(kbLyricsExtra),nrow(badWords)))
 
-length(unlist(lapply(og_artist, function(x){ifelse(is.null(x),NA, x)})))== length(rep(length(ogLyricsExtra),nrow(badWords)))
+length(unlist(lapply(og_artist, function(x){ifelse(is.null(x),NA, x)})))== length(rep(1:length(ogLyricsExtra),nrow(badWords)))
 
 song_name = unlist(lapply(song_name, function(x){ifelse(is.null(x),NA, x)}))
 song_name2 = unlist(lapply(song_name2, function(x){ifelse(is.null(x),NA, x)}))
@@ -225,5 +225,5 @@ all2$data = rep("second",nrow(all2))
 
 allF = rbind.data.frame(all, all2)
 
-write.csv(allF[,-1],"moving_to_final/data/allCensor.csv",row.names=F)
+write.csv(allF[,-1],"moving_to_final/data/allCensor2.csv",row.names=F)
 

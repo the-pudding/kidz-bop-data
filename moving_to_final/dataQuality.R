@@ -23,7 +23,7 @@ data[grep('DUPLICATE', data$final_notes),] # delete these
 data[grep("crush \\(david", data$final_notes),] ## delete
 
 
-allData = read.csv("moving_to_final/data/allCensor.csv", stringsAsFactors = F)
+allData = read.csv("moving_to_final/data/allCensor2.csv", stringsAsFactors = F)
 
 allData2 = allData[-which(tolower(allData$song_name) %in% data[which(data$final_notes %in% c("MISSING KB LYRICS", "KB LYRICS INCOMPLETE" , "MISSING OG LYRICS", "NO OG LYRICS",'DUPLICATE', "(but \"crush (david archuletta)\" is right)","ERROR")  ),"song_name"]),]
 
@@ -172,4 +172,4 @@ toFix2 = toFix[-toRemove,]
 
 fixed = rbind.data.frame(allData3, toFix2)
 
-write.csv(fixed, "moving_to_final/data/allCensorF.csv",row.names=F)
+write.csv(fixed, "moving_to_final/data/allCensorF2.csv",row.names=F)

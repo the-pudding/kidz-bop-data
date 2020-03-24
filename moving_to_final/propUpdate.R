@@ -1,4 +1,4 @@
-all = read.csv("moving_to_final/data/proportions-kb-prep3.csv", stringsAsFactors = F)
+all = read.csv("moving_to_final/data/proportions-kb-prepF.csv", stringsAsFactors = F)
 
 
 all$isCensored = ifelse(all$numOccurKB < all$numOccurOG, 1, 0)
@@ -52,7 +52,7 @@ tidyV$profanity = tidyV$profanity *100
 tidyV$identity = tidyV$identity *100
 tidyV$other = tidyV$other *100
 
-write.csv(tidyV, "moving_to_final/data/proportions-kb3.csv", row.names=F)
+write.csv(tidyV, "moving_to_final/data/proportions-kbF.csv", row.names=F)
 
 
-ggplot(test, aes(year, total))+geom_point()
+ggplot(propCensoredByYear, aes(year, propCensored))+geom_point()

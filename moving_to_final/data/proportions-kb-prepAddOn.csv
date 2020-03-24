@@ -1,0 +1,1357 @@
+"badword","id","kb_idx","numOccurKB","song_name","og_artist","og_idx","numOccurOG","category","anchored","year"
+"addict",1,42,0,"bad blood","Taylor Swift",1,0,"alcohol & drugs","^addict",2015
+"addict",6,521,0,"till the world ends","Britney Spears",6,0,"alcohol & drugs","^addict",2011
+"addict",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"alcohol & drugs","^addict",2004
+"addict",3,348,0,"my love is your love","Whitney Houston",3,0,"alcohol & drugs","^addict",2001
+"addict",4,366,0,"old town road","Lil Nas X",4,0,"alcohol & drugs","^addict",2019
+"addict",2,186,0,"girl on fire","Alicia Keys",2,0,"alcohol & drugs","^addict",2013
+"alcohol",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"alcohol & drugs","^alcohol",2004
+"alcohol",1,42,0,"bad blood","Taylor Swift",1,0,"alcohol & drugs","^alcohol",2015
+"alcohol",4,366,0,"old town road","Lil Nas X",4,0,"alcohol & drugs","^alcohol",2019
+"alcohol",3,348,0,"my love is your love","Whitney Houston",3,0,"alcohol & drugs","^alcohol",2001
+"alcohol",6,521,0,"till the world ends","Britney Spears",6,0,"alcohol & drugs","^alcohol",2011
+"alcohol",2,186,0,"girl on fire","Alicia Keys",2,0,"alcohol & drugs","^alcohol",2013
+"amen",1,42,0,"bad blood","Taylor Swift",1,0,"religious","^amen",2015
+"amen",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"religious","^amen",2004
+"amen",3,348,0,"my love is your love","Whitney Houston",3,0,"religious","^amen",2001
+"amen",6,521,0,"till the world ends","Britney Spears",6,0,"religious","^amen",2011
+"amen",4,366,0,"old town road","Lil Nas X",4,0,"religious","^amen",2019
+"amen",2,186,0,"girl on fire","Alicia Keys",2,0,"religious","^amen",2013
+"amnesia",1,42,0,"bad blood","Taylor Swift",1,0,"mental health","^amnesia",2015
+"amnesia",3,348,0,"my love is your love","Whitney Houston",3,0,"mental health","^amnesia",2001
+"amnesia",2,186,0,"girl on fire","Alicia Keys",2,0,"mental health","^amnesia",2013
+"amnesia",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"mental health","^amnesia",2004
+"amnesia",4,366,0,"old town road","Lil Nas X",4,0,"mental health","^amnesia",2019
+"amnesia",6,521,0,"till the world ends","Britney Spears",6,0,"mental health","^amnesia",2011
+"antidepressor",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"mental health","^antideppressor",2004
+"antidepressor",3,348,0,"my love is your love","Whitney Houston",3,0,"mental health","^antideppressor",2001
+"antidepressor",4,366,0,"old town road","Lil Nas X",4,0,"mental health","^antideppressor",2019
+"antidepressor",1,42,0,"bad blood","Taylor Swift",1,0,"mental health","^antideppressor",2015
+"antidepressor",6,521,0,"till the world ends","Britney Spears",6,0,"mental health","^antideppressor",2011
+"antidepressor",2,186,0,"girl on fire","Alicia Keys",2,0,"mental health","^antideppressor",2013
+"apeshit",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"profanity","^apeshit",2004
+"apeshit",4,366,0,"old town road","Lil Nas X",4,0,"profanity","^apeshit",2019
+"apeshit",3,348,0,"my love is your love","Whitney Houston",3,0,"profanity","^apeshit",2001
+"apeshit",1,42,0,"bad blood","Taylor Swift",1,0,"profanity","^apeshit",2015
+"apeshit",6,521,0,"till the world ends","Britney Spears",6,0,"profanity","^apeshit",2011
+"apeshit",2,186,0,"girl on fire","Alicia Keys",2,0,"profanity","^apeshit",2013
+"ass",1,42,0,"bad blood","Taylor Swift",1,0,"profanity","^ass$",2015
+"ass",3,348,0,"my love is your love","Whitney Houston",3,0,"profanity","^ass$",2001
+"ass",2,186,0,"girl on fire","Alicia Keys",2,0,"profanity","^ass$",2013
+"ass",6,521,0,"till the world ends","Britney Spears",6,0,"profanity","^ass$",2011
+"ass",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"profanity","^ass$",2004
+"ass",4,366,0,"old town road","Lil Nas X",4,0,"profanity","^ass$",2019
+"ball",1,42,0,"bad blood","Taylor Swift",1,0,"other","^ball",2015
+"ball",6,521,0,"till the world ends","Britney Spears",6,0,"other","^ball",2011
+"ball",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"other","^ball",2004
+"ball",4,366,0,"old town road","Lil Nas X",4,0,"other","^ball",2019
+"ball",2,186,0,"girl on fire","Alicia Keys",2,0,"other","^ball",2013
+"ball",3,348,0,"my love is your love","Whitney Houston",3,0,"other","^ball",2001
+"baller",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"other","^baller",2004
+"baller",4,366,0,"old town road","Lil Nas X",4,0,"other","^baller",2019
+"baller",2,186,0,"girl on fire","Alicia Keys",2,0,"other","^baller",2013
+"baller",1,42,0,"bad blood","Taylor Swift",1,0,"other","^baller",2015
+"baller",6,521,0,"till the world ends","Britney Spears",6,0,"other","^baller",2011
+"baller",3,348,0,"my love is your love","Whitney Houston",3,0,"other","^baller",2001
+"ballin",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"other","^ballin",2004
+"ballin",1,42,0,"bad blood","Taylor Swift",1,0,"other","^ballin",2015
+"ballin",3,348,0,"my love is your love","Whitney Houston",3,0,"other","^ballin",2001
+"ballin",6,521,0,"till the world ends","Britney Spears",6,0,"other","^ballin",2011
+"ballin",2,186,0,"girl on fire","Alicia Keys",2,0,"other","^ballin",2013
+"ballin",4,366,0,"old town road","Lil Nas X",4,0,"other","^ballin",2019
+"bang",1,42,0,"bad blood","Taylor Swift",1,0,"sexual","^bang$",2015
+"bang",3,348,0,"my love is your love","Whitney Houston",3,0,"sexual","^bang$",2001
+"bang",6,521,0,"till the world ends","Britney Spears",6,0,"sexual","^bang$",2011
+"bang",2,186,0,"girl on fire","Alicia Keys",2,0,"sexual","^bang$",2013
+"bang",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"sexual","^bang$",2004
+"bang",4,366,0,"old town road","Lil Nas X",4,0,"sexual","^bang$",2019
+"bar",1,42,0,"bad blood","Taylor Swift",1,0,"alcohol & drugs","^bar$",2015
+"bar",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"alcohol & drugs","^bar$",2004
+"bar",2,186,0,"girl on fire","Alicia Keys",2,0,"alcohol & drugs","^bar$",2013
+"bar",3,348,0,"my love is your love","Whitney Houston",3,0,"alcohol & drugs","^bar$",2001
+"bar",4,366,0,"old town road","Lil Nas X",4,0,"alcohol & drugs","^bar$",2019
+"bar",6,521,0,"till the world ends","Britney Spears",6,0,"alcohol & drugs","^bar$",2011
+"bars",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"alcohol & drugs","^bars$",2004
+"bars",3,348,0,"my love is your love","Whitney Houston",3,0,"alcohol & drugs","^bars$",2001
+"bars",1,42,0,"bad blood","Taylor Swift",1,0,"alcohol & drugs","^bars$",2015
+"bars",4,366,0,"old town road","Lil Nas X",4,0,"alcohol & drugs","^bars$",2019
+"bars",2,186,0,"girl on fire","Alicia Keys",2,0,"alcohol & drugs","^bars$",2013
+"bars",6,521,0,"till the world ends","Britney Spears",6,0,"alcohol & drugs","^bars$",2011
+"bed",3,348,0,"my love is your love","Whitney Houston",3,0,"sexual","^bed$",2001
+"bed",1,42,0,"bad blood","Taylor Swift",1,0,"sexual","^bed$",2015
+"bed",2,186,0,"girl on fire","Alicia Keys",2,0,"sexual","^bed$",2013
+"bed",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"sexual","^bed$",2004
+"bed",6,521,0,"till the world ends","Britney Spears",6,0,"sexual","^bed$",2011
+"bed",4,366,0,"old town road","Lil Nas X",4,0,"sexual","^bed$",2019
+"bedroom",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"sexual","^bedroom",2004
+"bedroom",1,42,0,"bad blood","Taylor Swift",1,0,"sexual","^bedroom",2015
+"bedroom",4,366,0,"old town road","Lil Nas X",4,0,"sexual","^bedroom",2019
+"bedroom",3,348,0,"my love is your love","Whitney Houston",3,0,"sexual","^bedroom",2001
+"bedroom",2,186,0,"girl on fire","Alicia Keys",2,0,"sexual","^bedroom",2013
+"bedroom",6,521,0,"till the world ends","Britney Spears",6,0,"sexual","^bedroom",2011
+"beds",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"sexual","^beds$",2004
+"beds",2,186,0,"girl on fire","Alicia Keys",2,0,"sexual","^beds$",2013
+"beds",4,366,0,"old town road","Lil Nas X",4,0,"sexual","^beds$",2019
+"beds",6,521,0,"till the world ends","Britney Spears",6,0,"sexual","^beds$",2011
+"beds",1,42,0,"bad blood","Taylor Swift",1,0,"sexual","^beds$",2015
+"beds",3,348,0,"my love is your love","Whitney Houston",3,0,"sexual","^beds$",2001
+"beer",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"alcohol & drugs","^beer",2004
+"beer",1,42,0,"bad blood","Taylor Swift",1,0,"alcohol & drugs","^beer",2015
+"beer",3,348,0,"my love is your love","Whitney Houston",3,0,"alcohol & drugs","^beer",2001
+"beer",4,366,0,"old town road","Lil Nas X",4,0,"alcohol & drugs","^beer",2019
+"beer",2,186,0,"girl on fire","Alicia Keys",2,0,"alcohol & drugs","^beer",2013
+"beer",6,521,0,"till the world ends","Britney Spears",6,0,"alcohol & drugs","^beer",2011
+"bikini",1,42,0,"bad blood","Taylor Swift",1,0,"sexual","^bikini",2015
+"bikini",6,521,0,"till the world ends","Britney Spears",6,0,"sexual","^bikini",2011
+"bikini",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"sexual","^bikini",2004
+"bikini",2,186,0,"girl on fire","Alicia Keys",2,0,"sexual","^bikini",2013
+"bikini",3,348,0,"my love is your love","Whitney Houston",3,0,"sexual","^bikini",2001
+"bikini",4,366,0,"old town road","Lil Nas X",4,0,"sexual","^bikini",2019
+"bipolar",1,42,0,"bad blood","Taylor Swift",1,0,"mental health","^bipolar",2015
+"bipolar",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"mental health","^bipolar",2004
+"bipolar",4,366,0,"old town road","Lil Nas X",4,0,"mental health","^bipolar",2019
+"bipolar",6,521,0,"till the world ends","Britney Spears",6,0,"mental health","^bipolar",2011
+"bipolar",3,348,0,"my love is your love","Whitney Houston",3,0,"mental health","^bipolar",2001
+"bipolar",2,186,0,"girl on fire","Alicia Keys",2,0,"mental health","^bipolar",2013
+"bitch",3,348,0,"my love is your love","Whitney Houston",3,0,"profanity","^bitch",2001
+"bitch",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"profanity","^bitch",2004
+"bitch",6,521,0,"till the world ends","Britney Spears",6,0,"profanity","^bitch",2011
+"bitch",1,42,0,"bad blood","Taylor Swift",1,0,"profanity","^bitch",2015
+"bitch",2,186,0,"girl on fire","Alicia Keys",2,0,"profanity","^bitch",2013
+"bitch",4,366,0,"old town road","Lil Nas X",4,0,"profanity","^bitch",2019
+"bleed",1,42,0,"bad blood","Taylor Swift",1,0,"violence","^bleed",2015
+"bleed",3,348,0,"my love is your love","Whitney Houston",3,0,"violence","^bleed",2001
+"bleed",2,186,0,"girl on fire","Alicia Keys",2,0,"violence","^bleed",2013
+"bleed",6,521,0,"till the world ends","Britney Spears",6,0,"violence","^bleed",2011
+"bleed",4,366,0,"old town road","Lil Nas X",4,0,"violence","^bleed",2019
+"bleed",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"violence","^bleed",2004
+"bless",6,521,0,"till the world ends","Britney Spears",6,0,"religious","^bless",2011
+"bless",1,42,0,"bad blood","Taylor Swift",1,0,"religious","^bless",2015
+"bless",2,186,0,"girl on fire","Alicia Keys",2,0,"religious","^bless",2013
+"bless",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"religious","^bless",2004
+"bless",4,366,0,"old town road","Lil Nas X",4,0,"religious","^bless",2019
+"bless",3,348,0,"my love is your love","Whitney Houston",3,0,"religious","^bless",2001
+"blew",1,42,0,"bad blood","Taylor Swift",1,0,"sexual","^blew$",2015
+"blew",3,348,0,"my love is your love","Whitney Houston",3,0,"sexual","^blew$",2001
+"blew",4,366,0,"old town road","Lil Nas X",4,0,"sexual","^blew$",2019
+"blew",6,521,0,"till the world ends","Britney Spears",6,0,"sexual","^blew$",2011
+"blew",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"sexual","^blew$",2004
+"blew",2,186,0,"girl on fire","Alicia Keys",2,0,"sexual","^blew$",2013
+"blood",3,348,0,"my love is your love","Whitney Houston",3,0,"violence","^blood",2001
+"blood",6,521,0,"till the world ends","Britney Spears",6,0,"violence","^blood",2011
+"blood",1,42,12,"bad blood","Taylor Swift",1,16,"violence","^blood",2015
+"blood",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"violence","^blood",2004
+"blood",2,186,0,"girl on fire","Alicia Keys",2,0,"violence","^blood",2013
+"blood",4,366,0,"old town road","Lil Nas X",4,0,"violence","^blood",2019
+"bloodstain",6,521,0,"till the world ends","Britney Spears",6,0,"violence","^bloodstain",2011
+"bloodstain",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"violence","^bloodstain",2004
+"bloodstain",2,186,0,"girl on fire","Alicia Keys",2,0,"violence","^bloodstain",2013
+"bloodstain",4,366,0,"old town road","Lil Nas X",4,0,"violence","^bloodstain",2019
+"bloodstain",3,348,0,"my love is your love","Whitney Houston",3,0,"violence","^bloodstain",2001
+"bloodstain",1,42,0,"bad blood","Taylor Swift",1,0,"violence","^bloodstain",2015
+"blow",6,521,0,"till the world ends","Britney Spears",6,2,"alcohol & drugs","^blow",2011
+"blow",1,42,0,"bad blood","Taylor Swift",1,0,"alcohol & drugs","^blow",2015
+"blow",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"alcohol & drugs","^blow",2004
+"blow",2,186,0,"girl on fire","Alicia Keys",2,0,"alcohol & drugs","^blow",2013
+"blow",3,348,0,"my love is your love","Whitney Houston",3,0,"alcohol & drugs","^blow",2001
+"blow",4,366,0,"old town road","Lil Nas X",4,0,"alcohol & drugs","^blow",2019
+"blunt",3,348,0,"my love is your love","Whitney Houston",3,0,"alcohol & drugs","^blut",2001
+"blunt",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"alcohol & drugs","^blut",2004
+"blunt",6,521,0,"till the world ends","Britney Spears",6,0,"alcohol & drugs","^blut",2011
+"blunt",1,42,0,"bad blood","Taylor Swift",1,0,"alcohol & drugs","^blut",2015
+"blunt",4,366,0,"old town road","Lil Nas X",4,0,"alcohol & drugs","^blut",2019
+"blunt",2,186,0,"girl on fire","Alicia Keys",2,0,"alcohol & drugs","^blut",2013
+"bodies",1,42,0,"bad blood","Taylor Swift",1,0,"sexual","^bodies$",2015
+"bodies",3,348,0,"my love is your love","Whitney Houston",3,0,"sexual","^bodies$",2001
+"bodies",2,186,0,"girl on fire","Alicia Keys",2,0,"sexual","^bodies$",2013
+"bodies",6,521,0,"till the world ends","Britney Spears",6,0,"sexual","^bodies$",2011
+"bodies",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"sexual","^bodies$",2004
+"bodies",4,366,0,"old town road","Lil Nas X",4,0,"sexual","^bodies$",2019
+"body",3,348,0,"my love is your love","Whitney Houston",3,0,"sexual","^body$",2001
+"body",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"sexual","^body$",2004
+"body",1,42,0,"bad blood","Taylor Swift",1,0,"sexual","^body$",2015
+"body",6,521,0,"till the world ends","Britney Spears",6,0,"sexual","^body$",2011
+"body",4,366,0,"old town road","Lil Nas X",4,0,"sexual","^body$",2019
+"body",2,186,0,"girl on fire","Alicia Keys",2,0,"sexual","^body$",2013
+"bomb",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"violence","^bomb",2004
+"bomb",6,521,0,"till the world ends","Britney Spears",6,0,"violence","^bomb",2011
+"bomb",3,348,0,"my love is your love","Whitney Houston",3,0,"violence","^bomb",2001
+"bomb",1,42,0,"bad blood","Taylor Swift",1,0,"violence","^bomb",2015
+"bomb",2,186,0,"girl on fire","Alicia Keys",2,0,"violence","^bomb",2013
+"bomb",4,366,0,"old town road","Lil Nas X",4,0,"violence","^bomb",2019
+"boob",1,42,0,"bad blood","Taylor Swift",1,0,"sexual","^boob",2015
+"boob",2,186,0,"girl on fire","Alicia Keys",2,0,"sexual","^boob",2013
+"boob",6,521,0,"till the world ends","Britney Spears",6,0,"sexual","^boob",2011
+"boob",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"sexual","^boob",2004
+"boob",4,366,0,"old town road","Lil Nas X",4,1,"sexual","^boob",2019
+"boob",3,348,0,"my love is your love","Whitney Houston",3,0,"sexual","^boob",2001
+"booty",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"sexual","^booty",2004
+"booty",1,42,0,"bad blood","Taylor Swift",1,0,"sexual","^booty",2015
+"booty",6,521,0,"till the world ends","Britney Spears",6,0,"sexual","^booty",2011
+"booty",4,366,0,"old town road","Lil Nas X",4,1,"sexual","^booty",2019
+"booty",3,348,0,"my love is your love","Whitney Houston",3,0,"sexual","^booty",2001
+"booty",2,186,0,"girl on fire","Alicia Keys",2,0,"sexual","^booty",2013
+"bottle",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"alcohol & drugs","^bottle",2004
+"bottle",1,42,0,"bad blood","Taylor Swift",1,0,"alcohol & drugs","^bottle",2015
+"bottle",3,348,0,"my love is your love","Whitney Houston",3,0,"alcohol & drugs","^bottle",2001
+"bottle",4,366,0,"old town road","Lil Nas X",4,0,"alcohol & drugs","^bottle",2019
+"bottle",2,186,0,"girl on fire","Alicia Keys",2,0,"alcohol & drugs","^bottle",2013
+"bottle",6,521,0,"till the world ends","Britney Spears",6,0,"alcohol & drugs","^bottle",2011
+"bra",1,42,0,"bad blood","Taylor Swift",1,0,"sexual","^bra$",2015
+"bra",3,348,0,"my love is your love","Whitney Houston",3,0,"sexual","^bra$",2001
+"bra",6,521,0,"till the world ends","Britney Spears",6,0,"sexual","^bra$",2011
+"bra",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"sexual","^bra$",2004
+"bra",4,366,0,"old town road","Lil Nas X",4,0,"sexual","^bra$",2019
+"bra",2,186,0,"girl on fire","Alicia Keys",2,0,"sexual","^bra$",2013
+"bras",6,521,0,"till the world ends","Britney Spears",6,0,"sexual","^bras$",2011
+"bras",3,348,0,"my love is your love","Whitney Houston",3,0,"sexual","^bras$",2001
+"bras",1,42,0,"bad blood","Taylor Swift",1,0,"sexual","^bras$",2015
+"bras",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"sexual","^bras$",2004
+"bras",2,186,0,"girl on fire","Alicia Keys",2,0,"sexual","^bras$",2013
+"bras",4,366,0,"old town road","Lil Nas X",4,0,"sexual","^bras$",2019
+"breast",6,521,0,"till the world ends","Britney Spears",6,0,"sexual","^breast",2011
+"breast",3,348,0,"my love is your love","Whitney Houston",3,0,"sexual","^breast",2001
+"breast",1,42,0,"bad blood","Taylor Swift",1,0,"sexual","^breast",2015
+"breast",4,366,0,"old town road","Lil Nas X",4,0,"sexual","^breast",2019
+"breast",2,186,0,"girl on fire","Alicia Keys",2,0,"sexual","^breast",2013
+"breast",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"sexual","^breast",2004
+"bubbles",6,521,0,"till the world ends","Britney Spears",6,0,"alcohol & drugs","^bubbles$",2011
+"bubbles",1,42,0,"bad blood","Taylor Swift",1,0,"alcohol & drugs","^bubbles$",2015
+"bubbles",3,348,0,"my love is your love","Whitney Houston",3,0,"alcohol & drugs","^bubbles$",2001
+"bubbles",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"alcohol & drugs","^bubbles$",2004
+"bubbles",4,366,0,"old town road","Lil Nas X",4,0,"alcohol & drugs","^bubbles$",2019
+"bubbles",2,186,0,"girl on fire","Alicia Keys",2,0,"alcohol & drugs","^bubbles$",2013
+"bullet",3,348,0,"my love is your love","Whitney Houston",3,0,"violence","^bullet",2001
+"bullet",6,521,0,"till the world ends","Britney Spears",6,0,"violence","^bullet",2011
+"bullet",1,42,0,"bad blood","Taylor Swift",1,2,"violence","^bullet",2015
+"bullet",2,186,0,"girl on fire","Alicia Keys",2,0,"violence","^bullet",2013
+"bullet",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"violence","^bullet",2004
+"bullet",4,366,0,"old town road","Lil Nas X",4,0,"violence","^bullet",2019
+"bun",3,348,0,"my love is your love","Whitney Houston",3,0,"sexual","^bun$",2001
+"bun",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"sexual","^bun$",2004
+"bun",6,521,0,"till the world ends","Britney Spears",6,0,"sexual","^bun$",2011
+"bun",4,366,0,"old town road","Lil Nas X",4,0,"sexual","^bun$",2019
+"bun",2,186,0,"girl on fire","Alicia Keys",2,0,"sexual","^bun$",2013
+"bun",1,42,0,"bad blood","Taylor Swift",1,0,"sexual","^bun$",2015
+"buns",6,521,0,"till the world ends","Britney Spears",6,0,"sexual","^buns$",2011
+"buns",4,366,0,"old town road","Lil Nas X",4,0,"sexual","^buns$",2019
+"buns",3,348,0,"my love is your love","Whitney Houston",3,0,"sexual","^buns$",2001
+"buns",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"sexual","^buns$",2004
+"buns",2,186,0,"girl on fire","Alicia Keys",2,0,"sexual","^buns$",2013
+"buns",1,42,0,"bad blood","Taylor Swift",1,0,"sexual","^buns$",2015
+"butt",2,186,0,"girl on fire","Alicia Keys",2,0,"sexual","^butt$",2013
+"butt",3,348,0,"my love is your love","Whitney Houston",3,0,"sexual","^butt$",2001
+"butt",1,42,0,"bad blood","Taylor Swift",1,0,"sexual","^butt$",2015
+"butt",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"sexual","^butt$",2004
+"butt",6,521,0,"till the world ends","Britney Spears",6,0,"sexual","^butt$",2011
+"butt",4,366,0,"old town road","Lil Nas X",4,0,"sexual","^butt$",2019
+"butts",2,186,0,"girl on fire","Alicia Keys",2,0,"sexual","^butts$",2013
+"butts",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"sexual","^butts$",2004
+"butts",6,521,0,"till the world ends","Britney Spears",6,0,"sexual","^butts$",2011
+"butts",4,366,0,"old town road","Lil Nas X",4,0,"sexual","^butts$",2019
+"butts",3,348,0,"my love is your love","Whitney Houston",3,0,"sexual","^butts$",2001
+"butts",1,42,0,"bad blood","Taylor Swift",1,0,"sexual","^butts$",2015
+"casino",3,348,0,"my love is your love","Whitney Houston",3,0,"other","^casino",2001
+"casino",1,42,0,"bad blood","Taylor Swift",1,0,"other","^casino",2015
+"casino",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"other","^casino",2004
+"casino",4,366,0,"old town road","Lil Nas X",4,0,"other","^casino",2019
+"casino",6,521,0,"till the world ends","Britney Spears",6,0,"other","^casino",2011
+"casino",2,186,0,"girl on fire","Alicia Keys",2,0,"other","^casino",2013
+"champagne",3,348,0,"my love is your love","Whitney Houston",3,0,"alcohol & drugs","^champagne$",2001
+"champagne",1,42,0,"bad blood","Taylor Swift",1,0,"alcohol & drugs","^champagne$",2015
+"champagne",4,366,0,"old town road","Lil Nas X",4,0,"alcohol & drugs","^champagne$",2019
+"champagne",6,521,0,"till the world ends","Britney Spears",6,0,"alcohol & drugs","^champagne$",2011
+"champagne",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"alcohol & drugs","^champagne$",2004
+"champagne",2,186,0,"girl on fire","Alicia Keys",2,0,"alcohol & drugs","^champagne$",2013
+"chest",3,348,0,"my love is your love","Whitney Houston",3,0,"sexual","^chest",2001
+"chest",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"sexual","^chest",2004
+"chest",2,186,0,"girl on fire","Alicia Keys",2,0,"sexual","^chest",2013
+"chest",1,42,0,"bad blood","Taylor Swift",1,0,"sexual","^chest",2015
+"chest",4,366,0,"old town road","Lil Nas X",4,0,"sexual","^chest",2019
+"chest",6,521,0,"till the world ends","Britney Spears",6,0,"sexual","^chest",2011
+"christ",1,42,0,"bad blood","Taylor Swift",1,0,"religious","^christ$",2015
+"christ",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"religious","^christ$",2004
+"christ",6,521,0,"till the world ends","Britney Spears",6,0,"religious","^christ$",2011
+"christ",4,366,0,"old town road","Lil Nas X",4,0,"religious","^christ$",2019
+"christ",2,186,0,"girl on fire","Alicia Keys",2,0,"religious","^christ$",2013
+"christ",3,348,0,"my love is your love","Whitney Houston",3,0,"religious","^christ$",2001
+"christian",6,521,0,"till the world ends","Britney Spears",6,0,"religious","^christian",2011
+"christian",3,348,0,"my love is your love","Whitney Houston",3,0,"religious","^christian",2001
+"christian",1,42,0,"bad blood","Taylor Swift",1,0,"religious","^christian",2015
+"christian",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"religious","^christian",2004
+"christian",4,366,0,"old town road","Lil Nas X",4,0,"religious","^christian",2019
+"christian",2,186,0,"girl on fire","Alicia Keys",2,0,"religious","^christian",2013
+"chronic",1,42,0,"bad blood","Taylor Swift",1,0,"alcohol & drugs","^chronic",2015
+"chronic",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"alcohol & drugs","^chronic",2004
+"chronic",6,521,0,"till the world ends","Britney Spears",6,0,"alcohol & drugs","^chronic",2011
+"chronic",2,186,0,"girl on fire","Alicia Keys",2,0,"alcohol & drugs","^chronic",2013
+"chronic",4,366,0,"old town road","Lil Nas X",4,0,"alcohol & drugs","^chronic",2019
+"chronic",3,348,0,"my love is your love","Whitney Houston",3,0,"alcohol & drugs","^chronic",2001
+"cigarette",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"alcohol & drugs","^cigarette",2004
+"cigarette",3,348,0,"my love is your love","Whitney Houston",3,0,"alcohol & drugs","^cigarette",2001
+"cigarette",2,186,0,"girl on fire","Alicia Keys",2,0,"alcohol & drugs","^cigarette",2013
+"cigarette",6,521,0,"till the world ends","Britney Spears",6,0,"alcohol & drugs","^cigarette",2011
+"cigarette",4,366,0,"old town road","Lil Nas X",4,0,"alcohol & drugs","^cigarette",2019
+"cigarette",1,42,0,"bad blood","Taylor Swift",1,0,"alcohol & drugs","^cigarette",2015
+"clothes",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"sexual","^clothes$",2004
+"clothes",1,42,0,"bad blood","Taylor Swift",1,0,"sexual","^clothes$",2015
+"clothes",6,521,0,"till the world ends","Britney Spears",6,0,"sexual","^clothes$",2011
+"clothes",3,348,0,"my love is your love","Whitney Houston",3,0,"sexual","^clothes$",2001
+"clothes",2,186,0,"girl on fire","Alicia Keys",2,0,"sexual","^clothes$",2013
+"clothes",4,366,0,"old town road","Lil Nas X",4,0,"sexual","^clothes$",2019
+"club",1,42,0,"bad blood","Taylor Swift",1,0,"other","^club$",2015
+"club",3,348,0,"my love is your love","Whitney Houston",3,0,"other","^club$",2001
+"club",4,366,0,"old town road","Lil Nas X",4,0,"other","^club$",2019
+"club",6,521,0,"till the world ends","Britney Spears",6,0,"other","^club$",2011
+"club",2,186,0,"girl on fire","Alicia Keys",2,0,"other","^club$",2013
+"club",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"other","^club$",2004
+"clubs",3,348,0,"my love is your love","Whitney Houston",3,0,"other","^clubs$",2001
+"clubs",4,366,0,"old town road","Lil Nas X",4,0,"other","^clubs$",2019
+"clubs",2,186,0,"girl on fire","Alicia Keys",2,0,"other","^clubs$",2013
+"clubs",6,521,0,"till the world ends","Britney Spears",6,0,"other","^clubs$",2011
+"clubs",1,42,0,"bad blood","Taylor Swift",1,0,"other","^clubs$",2015
+"clubs",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"other","^clubs$",2004
+"cocaine",2,186,0,"girl on fire","Alicia Keys",2,0,"alcohol & drugs","^cocaine$",2013
+"cocaine",4,366,0,"old town road","Lil Nas X",4,0,"alcohol & drugs","^cocaine$",2019
+"cocaine",6,521,0,"till the world ends","Britney Spears",6,0,"alcohol & drugs","^cocaine$",2011
+"cocaine",1,42,0,"bad blood","Taylor Swift",1,0,"alcohol & drugs","^cocaine$",2015
+"cocaine",3,348,0,"my love is your love","Whitney Houston",3,0,"alcohol & drugs","^cocaine$",2001
+"cocaine",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"alcohol & drugs","^cocaine$",2004
+"cock",2,186,0,"girl on fire","Alicia Keys",2,0,"sexual","^cock",2013
+"cock",1,42,0,"bad blood","Taylor Swift",1,0,"sexual","^cock",2015
+"cock",3,348,0,"my love is your love","Whitney Houston",3,0,"sexual","^cock",2001
+"cock",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"sexual","^cock",2004
+"cock",4,366,0,"old town road","Lil Nas X",4,0,"sexual","^cock",2019
+"cock",6,521,0,"till the world ends","Britney Spears",6,0,"sexual","^cock",2011
+"coke",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"alcohol & drugs","^coke$",2004
+"coke",3,348,0,"my love is your love","Whitney Houston",3,0,"alcohol & drugs","^coke$",2001
+"coke",1,42,0,"bad blood","Taylor Swift",1,0,"alcohol & drugs","^coke$",2015
+"coke",4,366,0,"old town road","Lil Nas X",4,0,"alcohol & drugs","^coke$",2019
+"coke",2,186,0,"girl on fire","Alicia Keys",2,0,"alcohol & drugs","^coke$",2013
+"coke",6,521,0,"till the world ends","Britney Spears",6,0,"alcohol & drugs","^coke$",2011
+"coma",1,42,0,"bad blood","Taylor Swift",1,0,"mental health","^coma$",2015
+"coma",3,348,0,"my love is your love","Whitney Houston",3,0,"mental health","^coma$",2001
+"coma",4,366,0,"old town road","Lil Nas X",4,0,"mental health","^coma$",2019
+"coma",6,521,0,"till the world ends","Britney Spears",6,0,"mental health","^coma$",2011
+"coma",2,186,0,"girl on fire","Alicia Keys",2,0,"mental health","^coma$",2013
+"coma",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"mental health","^coma$",2004
+"coochie",3,348,0,"my love is your love","Whitney Houston",3,0,"sexual","^coochie",2001
+"coochie",4,366,0,"old town road","Lil Nas X",4,0,"sexual","^coochie",2019
+"coochie",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"sexual","^coochie",2004
+"coochie",1,42,0,"bad blood","Taylor Swift",1,0,"sexual","^coochie",2015
+"coochie",6,521,0,"till the world ends","Britney Spears",6,0,"sexual","^coochie",2011
+"coochie",2,186,0,"girl on fire","Alicia Keys",2,0,"sexual","^coochie",2013
+"counterfeit",2,186,0,"girl on fire","Alicia Keys",2,0,"other","^counterfeit",2013
+"counterfeit",4,366,0,"old town road","Lil Nas X",4,0,"other","^counterfeit",2019
+"counterfeit",3,348,0,"my love is your love","Whitney Houston",3,0,"other","^counterfeit",2001
+"counterfeit",6,521,0,"till the world ends","Britney Spears",6,0,"other","^counterfeit",2011
+"counterfeit",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"other","^counterfeit",2004
+"counterfeit",1,42,0,"bad blood","Taylor Swift",1,0,"other","^counterfeit",2015
+"crap",4,366,0,"old town road","Lil Nas X",4,0,"profanity","^crap$",2019
+"crap",3,348,0,"my love is your love","Whitney Houston",3,0,"profanity","^crap$",2001
+"crap",1,42,0,"bad blood","Taylor Swift",1,0,"profanity","^crap$",2015
+"crap",6,521,0,"till the world ends","Britney Spears",6,0,"profanity","^crap$",2011
+"crap",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"profanity","^crap$",2004
+"crap",2,186,0,"girl on fire","Alicia Keys",2,0,"profanity","^crap$",2013
+"crazier",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"mental health","^crazier$",2004
+"crazier",3,348,0,"my love is your love","Whitney Houston",3,0,"mental health","^crazier$",2001
+"crazier",4,366,0,"old town road","Lil Nas X",4,0,"mental health","^crazier$",2019
+"crazier",2,186,0,"girl on fire","Alicia Keys",2,0,"mental health","^crazier$",2013
+"crazier",1,42,0,"bad blood","Taylor Swift",1,0,"mental health","^crazier$",2015
+"crazier",6,521,0,"till the world ends","Britney Spears",6,0,"mental health","^crazier$",2011
+"craziest",3,348,0,"my love is your love","Whitney Houston",3,0,"mental health","^craziest$",2001
+"craziest",4,366,0,"old town road","Lil Nas X",4,0,"mental health","^craziest$",2019
+"craziest",2,186,0,"girl on fire","Alicia Keys",2,0,"mental health","^craziest$",2013
+"craziest",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"mental health","^craziest$",2004
+"craziest",1,42,0,"bad blood","Taylor Swift",1,0,"mental health","^craziest$",2015
+"craziest",6,521,0,"till the world ends","Britney Spears",6,0,"mental health","^craziest$",2011
+"crazy",6,521,0,"till the world ends","Britney Spears",6,0,"mental health","^crazy$",2011
+"crazy",3,348,0,"my love is your love","Whitney Houston",3,0,"mental health","^crazy$",2001
+"crazy",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"mental health","^crazy$",2004
+"crazy",1,42,0,"bad blood","Taylor Swift",1,0,"mental health","^crazy$",2015
+"crazy",4,366,0,"old town road","Lil Nas X",4,0,"mental health","^crazy$",2019
+"crazy",2,186,0,"girl on fire","Alicia Keys",2,0,"mental health","^crazy$",2013
+"creep",1,42,0,"bad blood","Taylor Swift",1,0,"other","^creep",2015
+"creep",3,348,0,"my love is your love","Whitney Houston",3,0,"other","^creep",2001
+"creep",6,521,0,"till the world ends","Britney Spears",6,0,"other","^creep",2011
+"creep",4,366,0,"old town road","Lil Nas X",4,0,"other","^creep",2019
+"creep",2,186,0,"girl on fire","Alicia Keys",2,0,"other","^creep",2013
+"creep",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"other","^creep",2004
+"crime",3,348,0,"my love is your love","Whitney Houston",3,0,"violence","^crime",2001
+"crime",2,186,0,"girl on fire","Alicia Keys",2,0,"violence","^crime",2013
+"crime",4,366,0,"old town road","Lil Nas X",4,0,"violence","^crime",2019
+"crime",6,521,0,"till the world ends","Britney Spears",6,0,"violence","^crime",2011
+"crime",1,42,0,"bad blood","Taylor Swift",1,0,"violence","^crime",2015
+"crime",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"violence","^crime",2004
+"criminal",6,521,0,"till the world ends","Britney Spears",6,0,"violence","^crimnal",2011
+"criminal",3,348,0,"my love is your love","Whitney Houston",3,0,"violence","^crimnal",2001
+"criminal",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"violence","^crimnal",2004
+"criminal",2,186,0,"girl on fire","Alicia Keys",2,0,"violence","^crimnal",2013
+"criminal",4,366,0,"old town road","Lil Nas X",4,0,"violence","^crimnal",2019
+"criminal",1,42,0,"bad blood","Taylor Swift",1,0,"violence","^crimnal",2015
+"crystal",1,42,0,"bad blood","Taylor Swift",1,0,"alcohol & drugs","^crystal",2015
+"crystal",6,521,0,"till the world ends","Britney Spears",6,0,"alcohol & drugs","^crystal",2011
+"crystal",2,186,0,"girl on fire","Alicia Keys",2,0,"alcohol & drugs","^crystal",2013
+"crystal",4,366,0,"old town road","Lil Nas X",4,0,"alcohol & drugs","^crystal",2019
+"crystal",3,348,0,"my love is your love","Whitney Houston",3,0,"alcohol & drugs","^crystal",2001
+"crystal",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"alcohol & drugs","^crystal",2004
+"curve",3,348,0,"my love is your love","Whitney Houston",3,0,"sexual","^curve",2001
+"curve",6,521,0,"till the world ends","Britney Spears",6,0,"sexual","^curve",2011
+"curve",1,42,0,"bad blood","Taylor Swift",1,0,"sexual","^curve",2015
+"curve",2,186,0,"girl on fire","Alicia Keys",2,0,"sexual","^curve",2013
+"curve",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"sexual","^curve",2004
+"curve",4,366,0,"old town road","Lil Nas X",4,0,"sexual","^curve",2019
+"cut",3,348,0,"my love is your love","Whitney Houston",3,0,"violence","^cut$",2001
+"cut",5,495,8,"the first cut is the deepest","Sheryl Crow",5,8,"violence","^cut$",2004
+"cut",2,186,0,"girl on fire","Alicia Keys",2,0,"violence","^cut$",2013
+"cut",6,521,0,"till the world ends","Britney Spears",6,0,"violence","^cut$",2011
+"cut",1,42,0,"bad blood","Taylor Swift",1,5,"violence","^cut$",2015
+"cut",4,366,0,"old town road","Lil Nas X",4,0,"violence","^cut$",2019
+"cuts",2,186,0,"girl on fire","Alicia Keys",2,0,"violence","^cuts$",2013
+"cuts",3,348,0,"my love is your love","Whitney Houston",3,0,"violence","^cuts$",2001
+"cuts",6,521,0,"till the world ends","Britney Spears",6,0,"violence","^cuts$",2011
+"cuts",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"violence","^cuts$",2004
+"cuts",4,366,0,"old town road","Lil Nas X",4,0,"violence","^cuts$",2019
+"cuts",1,42,0,"bad blood","Taylor Swift",1,0,"violence","^cuts$",2015
+"cutthroat",2,186,0,"girl on fire","Alicia Keys",2,0,"violence","^cutthroat$",2013
+"cutthroat",6,521,0,"till the world ends","Britney Spears",6,0,"violence","^cutthroat$",2011
+"cutthroat",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"violence","^cutthroat$",2004
+"cutthroat",3,348,0,"my love is your love","Whitney Houston",3,0,"violence","^cutthroat$",2001
+"cutthroat",1,42,0,"bad blood","Taylor Swift",1,0,"violence","^cutthroat$",2015
+"cutthroat",4,366,0,"old town road","Lil Nas X",4,0,"violence","^cutthroat$",2019
+"cuttin",3,348,0,"my love is your love","Whitney Houston",3,0,"violence","^cuttin",2001
+"cuttin",2,186,0,"girl on fire","Alicia Keys",2,0,"violence","^cuttin",2013
+"cuttin",6,521,0,"till the world ends","Britney Spears",6,0,"violence","^cuttin",2011
+"cuttin",4,366,0,"old town road","Lil Nas X",4,0,"violence","^cuttin",2019
+"cuttin",1,42,0,"bad blood","Taylor Swift",1,0,"violence","^cuttin",2015
+"cuttin",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"violence","^cuttin",2004
+"dammit",3,348,0,"my love is your love","Whitney Houston",3,0,"profanity","^dammit$",2001
+"dammit",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"profanity","^dammit$",2004
+"dammit",4,366,0,"old town road","Lil Nas X",4,0,"profanity","^dammit$",2019
+"dammit",6,521,0,"till the world ends","Britney Spears",6,0,"profanity","^dammit$",2011
+"dammit",1,42,0,"bad blood","Taylor Swift",1,0,"profanity","^dammit$",2015
+"dammit",2,186,0,"girl on fire","Alicia Keys",2,0,"profanity","^dammit$",2013
+"damn",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"profanity","^damn",2004
+"damn",1,42,0,"bad blood","Taylor Swift",1,0,"profanity","^damn",2015
+"damn",4,366,0,"old town road","Lil Nas X",4,0,"profanity","^damn",2019
+"damn",3,348,0,"my love is your love","Whitney Houston",3,0,"profanity","^damn",2001
+"damn",2,186,0,"girl on fire","Alicia Keys",2,0,"profanity","^damn",2013
+"damn",6,521,0,"till the world ends","Britney Spears",6,0,"profanity","^damn",2011
+"dead",4,366,0,"old town road","Lil Nas X",4,0,"violence","^dead$",2019
+"dead",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"violence","^dead$",2004
+"dead",6,521,0,"till the world ends","Britney Spears",6,0,"violence","^dead$",2011
+"dead",3,348,0,"my love is your love","Whitney Houston",3,0,"violence","^dead$",2001
+"dead",1,42,0,"bad blood","Taylor Swift",1,0,"violence","^dead$",2015
+"dead",2,186,0,"girl on fire","Alicia Keys",2,0,"violence","^dead$",2013
+"death",4,366,0,"old town road","Lil Nas X",4,0,"violence","^death$",2019
+"death",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"violence","^death$",2004
+"death",3,348,0,"my love is your love","Whitney Houston",3,0,"violence","^death$",2001
+"death",1,42,0,"bad blood","Taylor Swift",1,0,"violence","^death$",2015
+"death",2,186,0,"girl on fire","Alicia Keys",2,0,"violence","^death$",2013
+"death",6,521,0,"till the world ends","Britney Spears",6,0,"violence","^death$",2011
+"demon",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"religious","^demon",2004
+"demon",4,366,0,"old town road","Lil Nas X",4,0,"religious","^demon",2019
+"demon",1,42,0,"bad blood","Taylor Swift",1,0,"religious","^demon",2015
+"demon",6,521,0,"till the world ends","Britney Spears",6,0,"religious","^demon",2011
+"demon",3,348,0,"my love is your love","Whitney Houston",3,0,"religious","^demon",2001
+"demon",2,186,0,"girl on fire","Alicia Keys",2,0,"religious","^demon",2013
+"devil",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"religious","^devil",2004
+"devil",1,42,0,"bad blood","Taylor Swift",1,0,"religious","^devil",2015
+"devil",3,348,0,"my love is your love","Whitney Houston",3,0,"religious","^devil",2001
+"devil",4,366,0,"old town road","Lil Nas X",4,0,"religious","^devil",2019
+"devil",6,521,0,"till the world ends","Britney Spears",6,0,"religious","^devil",2011
+"devil",2,186,0,"girl on fire","Alicia Keys",2,0,"religious","^devil",2013
+"diablo",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"religious","^diablo",2004
+"diablo",3,348,0,"my love is your love","Whitney Houston",3,0,"religious","^diablo",2001
+"diablo",2,186,0,"girl on fire","Alicia Keys",2,0,"religious","^diablo",2013
+"diablo",1,42,0,"bad blood","Taylor Swift",1,0,"religious","^diablo",2015
+"diablo",6,521,0,"till the world ends","Britney Spears",6,0,"religious","^diablo",2011
+"diablo",4,366,0,"old town road","Lil Nas X",4,0,"religious","^diablo",2019
+"dick",3,348,0,"my love is your love","Whitney Houston",3,0,"sexual","^dick",2001
+"dick",6,521,0,"till the world ends","Britney Spears",6,0,"sexual","^dick",2011
+"dick",1,42,0,"bad blood","Taylor Swift",1,0,"sexual","^dick",2015
+"dick",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"sexual","^dick",2004
+"dick",4,366,0,"old town road","Lil Nas X",4,0,"sexual","^dick",2019
+"dick",2,186,0,"girl on fire","Alicia Keys",2,0,"sexual","^dick",2013
+"die",4,366,0,"old town road","Lil Nas X",4,0,"violence","^die$",2019
+"die",3,348,1,"my love is your love","Whitney Houston",3,1,"violence","^die$",2001
+"die",6,521,0,"till the world ends","Britney Spears",6,0,"violence","^die$",2011
+"die",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"violence","^die$",2004
+"die",2,186,0,"girl on fire","Alicia Keys",2,0,"violence","^die$",2013
+"die",1,42,0,"bad blood","Taylor Swift",1,0,"violence","^die$",2015
+"dies",4,366,0,"old town road","Lil Nas X",4,0,"violence","^dies$",2019
+"dies",3,348,0,"my love is your love","Whitney Houston",3,0,"violence","^dies$",2001
+"dies",6,521,0,"till the world ends","Britney Spears",6,0,"violence","^dies$",2011
+"dies",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"violence","^dies$",2004
+"dies",2,186,0,"girl on fire","Alicia Keys",2,0,"violence","^dies$",2013
+"dies",1,42,0,"bad blood","Taylor Swift",1,0,"violence","^dies$",2015
+"dirtier",3,348,0,"my love is your love","Whitney Houston",3,0,"sexual","^dirtier$",2001
+"dirtier",1,42,0,"bad blood","Taylor Swift",1,0,"sexual","^dirtier$",2015
+"dirtier",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"sexual","^dirtier$",2004
+"dirtier",2,186,0,"girl on fire","Alicia Keys",2,0,"sexual","^dirtier$",2013
+"dirtier",6,521,0,"till the world ends","Britney Spears",6,0,"sexual","^dirtier$",2011
+"dirtier",4,366,0,"old town road","Lil Nas X",4,0,"sexual","^dirtier$",2019
+"dirty",2,186,0,"girl on fire","Alicia Keys",2,0,"sexual","^dirty$",2013
+"dirty",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"sexual","^dirty$",2004
+"dirty",4,366,0,"old town road","Lil Nas X",4,0,"sexual","^dirty$",2019
+"dirty",1,42,0,"bad blood","Taylor Swift",1,0,"sexual","^dirty$",2015
+"dirty",3,348,0,"my love is your love","Whitney Houston",3,0,"sexual","^dirty$",2001
+"dirty",6,521,0,"till the world ends","Britney Spears",6,0,"sexual","^dirty$",2011
+"dong",3,348,0,"my love is your love","Whitney Houston",3,0,"sexual","^dong",2001
+"dong",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"sexual","^dong",2004
+"dong",4,366,0,"old town road","Lil Nas X",4,0,"sexual","^dong",2019
+"dong",6,521,0,"till the world ends","Britney Spears",6,0,"sexual","^dong",2011
+"dong",2,186,0,"girl on fire","Alicia Keys",2,0,"sexual","^dong",2013
+"dong",1,42,0,"bad blood","Taylor Swift",1,0,"sexual","^dong",2015
+"donk",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"sexual","^dnnk",2004
+"donk",1,42,0,"bad blood","Taylor Swift",1,0,"sexual","^dnnk",2015
+"donk",3,348,0,"my love is your love","Whitney Houston",3,0,"sexual","^dnnk",2001
+"donk",2,186,0,"girl on fire","Alicia Keys",2,0,"sexual","^dnnk",2013
+"donk",4,366,0,"old town road","Lil Nas X",4,0,"sexual","^dnnk",2019
+"donk",6,521,0,"till the world ends","Britney Spears",6,0,"sexual","^dnnk",2011
+"dope",3,348,0,"my love is your love","Whitney Houston",3,0,"alcohol & drugs","^dope",2001
+"dope",1,42,0,"bad blood","Taylor Swift",1,0,"alcohol & drugs","^dope",2015
+"dope",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"alcohol & drugs","^dope",2004
+"dope",2,186,0,"girl on fire","Alicia Keys",2,0,"alcohol & drugs","^dope",2013
+"dope",4,366,0,"old town road","Lil Nas X",4,0,"alcohol & drugs","^dope",2019
+"dope",6,521,0,"till the world ends","Britney Spears",6,0,"alcohol & drugs","^dope",2011
+"drank",4,366,0,"old town road","Lil Nas X",4,0,"alcohol & drugs","^drank",2019
+"drank",3,348,0,"my love is your love","Whitney Houston",3,0,"alcohol & drugs","^drank",2001
+"drank",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"alcohol & drugs","^drank",2004
+"drank",1,42,0,"bad blood","Taylor Swift",1,0,"alcohol & drugs","^drank",2015
+"drank",6,521,0,"till the world ends","Britney Spears",6,0,"alcohol & drugs","^drank",2011
+"drank",2,186,0,"girl on fire","Alicia Keys",2,0,"alcohol & drugs","^drank",2013
+"dress",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"sexual","^dress$",2004
+"dress",3,348,0,"my love is your love","Whitney Houston",3,0,"sexual","^dress$",2001
+"dress",4,366,0,"old town road","Lil Nas X",4,0,"sexual","^dress$",2019
+"dress",1,42,0,"bad blood","Taylor Swift",1,0,"sexual","^dress$",2015
+"dress",6,521,0,"till the world ends","Britney Spears",6,0,"sexual","^dress$",2011
+"dress",2,186,0,"girl on fire","Alicia Keys",2,0,"sexual","^dress$",2013
+"drink",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"alcohol & drugs","^drink",2004
+"drink",1,42,0,"bad blood","Taylor Swift",1,0,"alcohol & drugs","^drink",2015
+"drink",4,366,0,"old town road","Lil Nas X",4,0,"alcohol & drugs","^drink",2019
+"drink",6,521,0,"till the world ends","Britney Spears",6,0,"alcohol & drugs","^drink",2011
+"drink",3,348,0,"my love is your love","Whitney Houston",3,0,"alcohol & drugs","^drink",2001
+"drink",2,186,0,"girl on fire","Alicia Keys",2,0,"alcohol & drugs","^drink",2013
+"drug",3,348,0,"my love is your love","Whitney Houston",3,0,"alcohol & drugs","^drug",2001
+"drug",1,42,0,"bad blood","Taylor Swift",1,0,"alcohol & drugs","^drug",2015
+"drug",4,366,0,"old town road","Lil Nas X",4,0,"alcohol & drugs","^drug",2019
+"drug",2,186,0,"girl on fire","Alicia Keys",2,0,"alcohol & drugs","^drug",2013
+"drug",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"alcohol & drugs","^drug",2004
+"drug",6,521,0,"till the world ends","Britney Spears",6,0,"alcohol & drugs","^drug",2011
+"drunk",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"alcohol & drugs","^drunk",2004
+"drunk",6,521,0,"till the world ends","Britney Spears",6,0,"alcohol & drugs","^drunk",2011
+"drunk",3,348,0,"my love is your love","Whitney Houston",3,0,"alcohol & drugs","^drunk",2001
+"drunk",1,42,0,"bad blood","Taylor Swift",1,0,"alcohol & drugs","^drunk",2015
+"drunk",4,366,0,"old town road","Lil Nas X",4,0,"alcohol & drugs","^drunk",2019
+"drunk",2,186,0,"girl on fire","Alicia Keys",2,0,"alcohol & drugs","^drunk",2013
+"ecstasy",3,348,0,"my love is your love","Whitney Houston",3,0,"alcohol & drugs","^ecstasy",2001
+"ecstasy",2,186,0,"girl on fire","Alicia Keys",2,0,"alcohol & drugs","^ecstasy",2013
+"ecstasy",6,521,0,"till the world ends","Britney Spears",6,0,"alcohol & drugs","^ecstasy",2011
+"ecstasy",1,42,0,"bad blood","Taylor Swift",1,0,"alcohol & drugs","^ecstasy",2015
+"ecstasy",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"alcohol & drugs","^ecstasy",2004
+"ecstasy",4,366,0,"old town road","Lil Nas X",4,0,"alcohol & drugs","^ecstasy",2019
+"evil",1,42,0,"bad blood","Taylor Swift",1,0,"religious","^evil",2015
+"evil",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"religious","^evil",2004
+"evil",6,521,0,"till the world ends","Britney Spears",6,0,"religious","^evil",2011
+"evil",4,366,0,"old town road","Lil Nas X",4,0,"religious","^evil",2019
+"evil",3,348,0,"my love is your love","Whitney Houston",3,0,"religious","^evil",2001
+"evil",2,186,0,"girl on fire","Alicia Keys",2,0,"religious","^evil",2013
+"faith",1,42,0,"bad blood","Taylor Swift",1,0,"religious","^faith$",2015
+"faith",3,348,0,"my love is your love","Whitney Houston",3,0,"religious","^faith$",2001
+"faith",6,521,0,"till the world ends","Britney Spears",6,0,"religious","^faith$",2011
+"faith",4,366,0,"old town road","Lil Nas X",4,0,"religious","^faith$",2019
+"faith",2,186,0,"girl on fire","Alicia Keys",2,0,"religious","^faith$",2013
+"faith",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"religious","^faith$",2004
+"fetish",3,348,0,"my love is your love","Whitney Houston",3,0,"other","^fetish",2001
+"fetish",2,186,0,"girl on fire","Alicia Keys",2,0,"other","^fetish",2013
+"fetish",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"other","^fetish",2004
+"fetish",1,42,0,"bad blood","Taylor Swift",1,0,"other","^fetish",2015
+"fetish",6,521,0,"till the world ends","Britney Spears",6,0,"other","^fetish",2011
+"fetish",4,366,0,"old town road","Lil Nas X",4,0,"other","^fetish",2019
+"fight",3,348,0,"my love is your love","Whitney Houston",3,0,"violence","^fight",2001
+"fight",4,366,0,"old town road","Lil Nas X",4,0,"violence","^fight",2019
+"fight",1,42,0,"bad blood","Taylor Swift",1,0,"violence","^fight",2015
+"fight",6,521,0,"till the world ends","Britney Spears",6,0,"violence","^fight",2011
+"fight",2,186,0,"girl on fire","Alicia Keys",2,0,"violence","^fight",2013
+"fight",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"violence","^fight",2004
+"freak",1,42,0,"bad blood","Taylor Swift",1,0,"sexual","^freak",2015
+"freak",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"sexual","^freak",2004
+"freak",3,348,0,"my love is your love","Whitney Houston",3,0,"sexual","^freak",2001
+"freak",6,521,0,"till the world ends","Britney Spears",6,0,"sexual","^freak",2011
+"freak",4,366,0,"old town road","Lil Nas X",4,0,"sexual","^freak",2019
+"freak",2,186,0,"girl on fire","Alicia Keys",2,0,"sexual","^freak",2013
+"fuck",4,366,0,"old town road","Lil Nas X",4,0,"profanity","fuck",2019
+"fuck",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"profanity","fuck",2004
+"fuck",3,348,0,"my love is your love","Whitney Houston",3,0,"profanity","fuck",2001
+"fuck",2,186,0,"girl on fire","Alicia Keys",2,0,"profanity","fuck",2013
+"fuck",6,521,0,"till the world ends","Britney Spears",6,0,"profanity","fuck",2011
+"fuck",1,42,0,"bad blood","Taylor Swift",1,0,"profanity","fuck",2015
+"gang",1,42,0,"bad blood","Taylor Swift",1,0,"violence","^gang",2015
+"gang",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"violence","^gang",2004
+"gang",3,348,0,"my love is your love","Whitney Houston",3,0,"violence","^gang",2001
+"gang",6,521,0,"till the world ends","Britney Spears",6,0,"violence","^gang",2011
+"gang",4,366,0,"old town road","Lil Nas X",4,0,"violence","^gang",2019
+"gang",2,186,0,"girl on fire","Alicia Keys",2,0,"violence","^gang",2013
+"gay",1,42,0,"bad blood","Taylor Swift",1,0,"gender & sexuality","^gay$",2015
+"gay",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"gender & sexuality","^gay$",2004
+"gay",6,521,0,"till the world ends","Britney Spears",6,0,"gender & sexuality","^gay$",2011
+"gay",4,366,0,"old town road","Lil Nas X",4,0,"gender & sexuality","^gay$",2019
+"gay",3,348,0,"my love is your love","Whitney Houston",3,0,"gender & sexuality","^gay$",2001
+"gay",2,186,0,"girl on fire","Alicia Keys",2,0,"gender & sexuality","^gay$",2013
+"gentleman",1,42,0,"bad blood","Taylor Swift",1,0,"gender & sexuality","^gentleman$",2015
+"gentleman",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"gender & sexuality","^gentleman$",2004
+"gentleman",3,348,0,"my love is your love","Whitney Houston",3,0,"gender & sexuality","^gentleman$",2001
+"gentleman",6,521,0,"till the world ends","Britney Spears",6,0,"gender & sexuality","^gentleman$",2011
+"gentleman",4,366,0,"old town road","Lil Nas X",4,0,"gender & sexuality","^gentleman$",2019
+"gentleman",2,186,0,"girl on fire","Alicia Keys",2,0,"gender & sexuality","^gentleman$",2013
+"gentlemen",3,348,0,"my love is your love","Whitney Houston",3,0,"gender & sexuality","^gentlemen$",2001
+"gentlemen",1,42,0,"bad blood","Taylor Swift",1,0,"gender & sexuality","^gentlemen$",2015
+"gentlemen",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"gender & sexuality","^gentlemen$",2004
+"gentlemen",4,366,0,"old town road","Lil Nas X",4,0,"gender & sexuality","^gentlemen$",2019
+"gentlemen",6,521,0,"till the world ends","Britney Spears",6,0,"gender & sexuality","^gentlemen$",2011
+"gentlemen",2,186,0,"girl on fire","Alicia Keys",2,0,"gender & sexuality","^gentlemen$",2013
+"gin",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"alcohol & drugs","^gin$",2004
+"gin",6,521,0,"till the world ends","Britney Spears",6,0,"alcohol & drugs","^gin$",2011
+"gin",1,42,0,"bad blood","Taylor Swift",1,0,"alcohol & drugs","^gin$",2015
+"gin",4,366,0,"old town road","Lil Nas X",4,0,"alcohol & drugs","^gin$",2019
+"gin",3,348,0,"my love is your love","Whitney Houston",3,0,"alcohol & drugs","^gin$",2001
+"gin",2,186,0,"girl on fire","Alicia Keys",2,0,"alcohol & drugs","^gin$",2013
+"god",6,521,0,"till the world ends","Britney Spears",6,0,"religious","^god",2011
+"god",1,42,0,"bad blood","Taylor Swift",1,0,"religious","^god",2015
+"god",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"religious","^god",2004
+"god",3,348,0,"my love is your love","Whitney Houston",3,0,"religious","^god",2001
+"god",4,366,0,"old town road","Lil Nas X",4,0,"religious","^god",2019
+"god",2,186,0,"girl on fire","Alicia Keys",2,0,"religious","^god",2013
+"grind",3,348,0,"my love is your love","Whitney Houston",3,0,"sexual","^grind",2001
+"grind",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"sexual","^grind",2004
+"grind",2,186,0,"girl on fire","Alicia Keys",2,0,"sexual","^grind",2013
+"grind",6,521,0,"till the world ends","Britney Spears",6,0,"sexual","^grind",2011
+"grind",1,42,0,"bad blood","Taylor Swift",1,0,"sexual","^grind",2015
+"grind",4,366,0,"old town road","Lil Nas X",4,0,"sexual","^grind",2019
+"gun",6,521,0,"till the world ends","Britney Spears",6,0,"violence","^gun$",2011
+"gun",2,186,0,"girl on fire","Alicia Keys",2,0,"violence","^gun$",2013
+"gun",3,348,0,"my love is your love","Whitney Houston",3,0,"violence","^gun$",2001
+"gun",1,42,0,"bad blood","Taylor Swift",1,0,"violence","^gun$",2015
+"gun",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"violence","^gun$",2004
+"gun",4,366,0,"old town road","Lil Nas X",4,0,"violence","^gun$",2019
+"guns",2,186,0,"girl on fire","Alicia Keys",2,0,"violence","^guns$",2013
+"guns",1,42,0,"bad blood","Taylor Swift",1,0,"violence","^guns$",2015
+"guns",6,521,0,"till the world ends","Britney Spears",6,0,"violence","^guns$",2011
+"guns",3,348,0,"my love is your love","Whitney Houston",3,0,"violence","^guns$",2001
+"guns",4,366,0,"old town road","Lil Nas X",4,0,"violence","^guns$",2019
+"guns",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"violence","^guns$",2004
+"hell",3,348,0,"my love is your love","Whitney Houston",3,0,"profanity","^hell$",2001
+"hell",6,521,0,"till the world ends","Britney Spears",6,0,"profanity","^hell$",2011
+"hell",2,186,0,"girl on fire","Alicia Keys",2,0,"profanity","^hell$",2013
+"hell",1,42,0,"bad blood","Taylor Swift",1,0,"profanity","^hell$",2015
+"hell",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"profanity","^hell$",2004
+"hell",4,366,0,"old town road","Lil Nas X",4,0,"profanity","^hell$",2019
+"hella",3,348,0,"my love is your love","Whitney Houston",3,0,"profanity","^hella$",2001
+"hella",1,42,0,"bad blood","Taylor Swift",1,0,"profanity","^hella$",2015
+"hella",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"profanity","^hella$",2004
+"hella",2,186,0,"girl on fire","Alicia Keys",2,0,"profanity","^hella$",2013
+"hella",4,366,0,"old town road","Lil Nas X",4,0,"profanity","^hella$",2019
+"hella",6,521,0,"till the world ends","Britney Spears",6,0,"profanity","^hella$",2011
+"hellish",1,42,0,"bad blood","Taylor Swift",1,0,"profanity","^hellish$",2015
+"hellish",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"profanity","^hellish$",2004
+"hellish",6,521,0,"till the world ends","Britney Spears",6,0,"profanity","^hellish$",2011
+"hellish",4,366,0,"old town road","Lil Nas X",4,0,"profanity","^hellish$",2019
+"hellish",3,348,0,"my love is your love","Whitney Houston",3,0,"profanity","^hellish$",2001
+"hellish",2,186,0,"girl on fire","Alicia Keys",2,0,"profanity","^hellish$",2013
+"hennessy",1,42,0,"bad blood","Taylor Swift",1,0,"alcohol & drugs","^hennessy$",2015
+"hennessy",3,348,0,"my love is your love","Whitney Houston",3,0,"alcohol & drugs","^hennessy$",2001
+"hennessy",6,521,0,"till the world ends","Britney Spears",6,0,"alcohol & drugs","^hennessy$",2011
+"hennessy",4,366,0,"old town road","Lil Nas X",4,0,"alcohol & drugs","^hennessy$",2019
+"hennessy",2,186,0,"girl on fire","Alicia Keys",2,0,"alcohol & drugs","^hennessy$",2013
+"hennessy",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"alcohol & drugs","^hennessy$",2004
+"henny",3,348,0,"my love is your love","Whitney Houston",3,0,"alcohol & drugs","^henny$",2001
+"henny",6,521,0,"till the world ends","Britney Spears",6,0,"alcohol & drugs","^henny$",2011
+"henny",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"alcohol & drugs","^henny$",2004
+"henny",1,42,0,"bad blood","Taylor Swift",1,0,"alcohol & drugs","^henny$",2015
+"henny",2,186,0,"girl on fire","Alicia Keys",2,0,"alcohol & drugs","^henny$",2013
+"henny",4,366,0,"old town road","Lil Nas X",4,0,"alcohol & drugs","^henny$",2019
+"heroine",1,42,0,"bad blood","Taylor Swift",1,0,"alcohol & drugs","^heroine",2015
+"heroine",4,366,0,"old town road","Lil Nas X",4,0,"alcohol & drugs","^heroine",2019
+"heroine",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"alcohol & drugs","^heroine",2004
+"heroine",2,186,0,"girl on fire","Alicia Keys",2,0,"alcohol & drugs","^heroine",2013
+"heroine",3,348,0,"my love is your love","Whitney Houston",3,0,"alcohol & drugs","^heroine",2001
+"heroine",6,521,0,"till the world ends","Britney Spears",6,0,"alcohol & drugs","^heroine",2011
+"high",1,42,0,"bad blood","Taylor Swift",1,0,"alcohol & drugs","^high$",2015
+"high",4,366,0,"old town road","Lil Nas X",4,0,"alcohol & drugs","^high$",2019
+"high",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"alcohol & drugs","^high$",2004
+"high",2,186,0,"girl on fire","Alicia Keys",2,0,"alcohol & drugs","^high$",2013
+"high",3,348,0,"my love is your love","Whitney Houston",3,0,"alcohol & drugs","^high$",2001
+"high",6,521,0,"till the world ends","Britney Spears",6,0,"alcohol & drugs","^high$",2011
+"hip",3,348,0,"my love is your love","Whitney Houston",3,0,"sexual","^hip$",2001
+"hip",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"sexual","^hip$",2004
+"hip",6,521,0,"till the world ends","Britney Spears",6,0,"sexual","^hip$",2011
+"hip",2,186,0,"girl on fire","Alicia Keys",2,0,"sexual","^hip$",2013
+"hip",1,42,0,"bad blood","Taylor Swift",1,0,"sexual","^hip$",2015
+"hip",4,366,0,"old town road","Lil Nas X",4,0,"sexual","^hip$",2019
+"hips",2,186,0,"girl on fire","Alicia Keys",2,0,"sexual","^hips$",2013
+"hips",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"sexual","^hips$",2004
+"hips",3,348,0,"my love is your love","Whitney Houston",3,0,"sexual","^hips$",2001
+"hips",1,42,0,"bad blood","Taylor Swift",1,0,"sexual","^hips$",2015
+"hips",4,366,0,"old town road","Lil Nas X",4,0,"sexual","^hips$",2019
+"hips",6,521,0,"till the world ends","Britney Spears",6,0,"sexual","^hips$",2011
+"holy",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"alcohol & drugs","^holy$",2004
+"holy",4,366,0,"old town road","Lil Nas X",4,0,"alcohol & drugs","^holy$",2019
+"holy",3,348,0,"my love is your love","Whitney Houston",3,0,"alcohol & drugs","^holy$",2001
+"holy",1,42,0,"bad blood","Taylor Swift",1,0,"alcohol & drugs","^holy$",2015
+"holy",2,186,0,"girl on fire","Alicia Keys",2,0,"alcohol & drugs","^holy$",2013
+"holy",6,521,0,"till the world ends","Britney Spears",6,0,"alcohol & drugs","^holy$",2011
+"hookah",1,42,0,"bad blood","Taylor Swift",1,0,"alcohol & drugs","^hookah$",2015
+"hookah",3,348,0,"my love is your love","Whitney Houston",3,0,"alcohol & drugs","^hookah$",2001
+"hookah",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"alcohol & drugs","^hookah$",2004
+"hookah",2,186,0,"girl on fire","Alicia Keys",2,0,"alcohol & drugs","^hookah$",2013
+"hookah",6,521,0,"till the world ends","Britney Spears",6,0,"alcohol & drugs","^hookah$",2011
+"hookah",4,366,0,"old town road","Lil Nas X",4,0,"alcohol & drugs","^hookah$",2019
+"hustl",3,348,0,"my love is your love","Whitney Houston",3,0,"other","^hustl$",2001
+"hustl",2,186,0,"girl on fire","Alicia Keys",2,0,"other","^hustl$",2013
+"hustl",6,521,0,"till the world ends","Britney Spears",6,0,"other","^hustl$",2011
+"hustl",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"other","^hustl$",2004
+"hustl",1,42,0,"bad blood","Taylor Swift",1,0,"other","^hustl$",2015
+"hustl",4,366,0,"old town road","Lil Nas X",4,0,"other","^hustl$",2019
+"ice",2,186,0,"girl on fire","Alicia Keys",2,0,"alcohol & drugs","^ice$",2013
+"ice",3,348,0,"my love is your love","Whitney Houston",3,0,"alcohol & drugs","^ice$",2001
+"ice",4,366,0,"old town road","Lil Nas X",4,0,"alcohol & drugs","^ice$",2019
+"ice",1,42,0,"bad blood","Taylor Swift",1,0,"alcohol & drugs","^ice$",2015
+"ice",6,521,0,"till the world ends","Britney Spears",6,0,"alcohol & drugs","^ice$",2011
+"ice",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"alcohol & drugs","^ice$",2004
+"illegal",3,348,0,"my love is your love","Whitney Houston",3,0,"violence","^illegal",2001
+"illegal",2,186,0,"girl on fire","Alicia Keys",2,0,"violence","^illegal",2013
+"illegal",6,521,0,"till the world ends","Britney Spears",6,0,"violence","^illegal",2011
+"illegal",4,366,0,"old town road","Lil Nas X",4,0,"violence","^illegal",2019
+"illegal",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"violence","^illegal",2004
+"illegal",1,42,0,"bad blood","Taylor Swift",1,0,"violence","^illegal",2015
+"ink",3,348,0,"my love is your love","Whitney Houston",3,0,"other","^ink$",2001
+"ink",6,521,0,"till the world ends","Britney Spears",6,0,"other","^ink$",2011
+"ink",1,42,0,"bad blood","Taylor Swift",1,0,"other","^ink$",2015
+"ink",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"other","^ink$",2004
+"ink",2,186,0,"girl on fire","Alicia Keys",2,0,"other","^ink$",2013
+"ink",4,366,0,"old town road","Lil Nas X",4,0,"other","^ink$",2019
+"insane",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"mental health","^insane",2004
+"insane",3,348,0,"my love is your love","Whitney Houston",3,0,"mental health","^insane",2001
+"insane",4,366,0,"old town road","Lil Nas X",4,0,"mental health","^insane",2019
+"insane",2,186,0,"girl on fire","Alicia Keys",2,0,"mental health","^insane",2013
+"insane",6,521,0,"till the world ends","Britney Spears",6,0,"mental health","^insane",2011
+"insane",1,42,0,"bad blood","Taylor Swift",1,0,"mental health","^insane",2015
+"insanity",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"mental health","^insanity$",2004
+"insanity",4,366,0,"old town road","Lil Nas X",4,0,"mental health","^insanity$",2019
+"insanity",3,348,0,"my love is your love","Whitney Houston",3,0,"mental health","^insanity$",2001
+"insanity",6,521,0,"till the world ends","Britney Spears",6,0,"mental health","^insanity$",2011
+"insanity",1,42,0,"bad blood","Taylor Swift",1,0,"mental health","^insanity$",2015
+"insanity",2,186,0,"girl on fire","Alicia Keys",2,0,"mental health","^insanity$",2013
+"intoxicate",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"alcohol & drugs","^intoxicate",2004
+"intoxicate",1,42,0,"bad blood","Taylor Swift",1,0,"alcohol & drugs","^intoxicate",2015
+"intoxicate",3,348,0,"my love is your love","Whitney Houston",3,0,"alcohol & drugs","^intoxicate",2001
+"intoxicate",2,186,0,"girl on fire","Alicia Keys",2,0,"alcohol & drugs","^intoxicate",2013
+"intoxicate",6,521,0,"till the world ends","Britney Spears",6,0,"alcohol & drugs","^intoxicate",2011
+"intoxicate",4,366,0,"old town road","Lil Nas X",4,0,"alcohol & drugs","^intoxicate",2019
+"jack",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"alcohol & drugs","^jack$",2004
+"jack",3,348,0,"my love is your love","Whitney Houston",3,0,"alcohol & drugs","^jack$",2001
+"jack",1,42,0,"bad blood","Taylor Swift",1,0,"alcohol & drugs","^jack$",2015
+"jack",4,366,0,"old town road","Lil Nas X",4,0,"alcohol & drugs","^jack$",2019
+"jack",2,186,0,"girl on fire","Alicia Keys",2,0,"alcohol & drugs","^jack$",2013
+"jack",6,521,0,"till the world ends","Britney Spears",6,0,"alcohol & drugs","^jack$",2011
+"jesus",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"religious","^jesus",2004
+"jesus",4,366,0,"old town road","Lil Nas X",4,0,"religious","^jesus",2019
+"jesus",3,348,0,"my love is your love","Whitney Houston",3,0,"religious","^jesus",2001
+"jesus",1,42,0,"bad blood","Taylor Swift",1,0,"religious","^jesus",2015
+"jesus",2,186,0,"girl on fire","Alicia Keys",2,0,"religious","^jesus",2013
+"jesus",6,521,0,"till the world ends","Britney Spears",6,0,"religious","^jesus",2011
+"juice",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"alcohol & drugs","^juice$",2004
+"juice",3,348,0,"my love is your love","Whitney Houston",3,0,"alcohol & drugs","^juice$",2001
+"juice",1,42,0,"bad blood","Taylor Swift",1,0,"alcohol & drugs","^juice$",2015
+"juice",4,366,0,"old town road","Lil Nas X",4,0,"alcohol & drugs","^juice$",2019
+"juice",2,186,0,"girl on fire","Alicia Keys",2,0,"alcohol & drugs","^juice$",2013
+"juice",6,521,0,"till the world ends","Britney Spears",6,0,"alcohol & drugs","^juice$",2011
+"kill",6,521,0,"till the world ends","Britney Spears",6,0,"violence","^kill",2011
+"kill",1,42,0,"bad blood","Taylor Swift",1,0,"violence","^kill",2015
+"kill",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"violence","^kill",2004
+"kill",4,366,0,"old town road","Lil Nas X",4,0,"violence","^kill",2019
+"kill",2,186,0,"girl on fire","Alicia Keys",2,0,"violence","^kill",2013
+"kill",3,348,0,"my love is your love","Whitney Houston",3,0,"violence","^kill",2001
+"kiss",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"sexual","^kiss",2004
+"kiss",3,348,0,"my love is your love","Whitney Houston",3,0,"sexual","^kiss",2001
+"kiss",1,42,0,"bad blood","Taylor Swift",1,0,"sexual","^kiss",2015
+"kiss",4,366,0,"old town road","Lil Nas X",4,0,"sexual","^kiss",2019
+"kiss",2,186,0,"girl on fire","Alicia Keys",2,0,"sexual","^kiss",2013
+"kiss",6,521,0,"till the world ends","Britney Spears",6,0,"sexual","^kiss",2011
+"knife",2,186,0,"girl on fire","Alicia Keys",2,0,"violence","^knife",2013
+"knife",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"violence","^knife",2004
+"knife",1,42,0,"bad blood","Taylor Swift",1,0,"violence","^knife",2015
+"knife",6,521,0,"till the world ends","Britney Spears",6,0,"violence","^knife",2011
+"knife",3,348,0,"my love is your love","Whitney Houston",3,0,"violence","^knife",2001
+"knife",4,366,0,"old town road","Lil Nas X",4,0,"violence","^knife",2019
+"knives",3,348,0,"my love is your love","Whitney Houston",3,0,"violence","^knives",2001
+"knives",1,42,0,"bad blood","Taylor Swift",1,1,"violence","^knives",2015
+"knives",6,521,0,"till the world ends","Britney Spears",6,0,"violence","^knives",2011
+"knives",2,186,0,"girl on fire","Alicia Keys",2,0,"violence","^knives",2013
+"knives",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"violence","^knives",2004
+"knives",4,366,0,"old town road","Lil Nas X",4,0,"violence","^knives",2019
+"leg",2,186,0,"girl on fire","Alicia Keys",2,0,"sexual","^leg$",2013
+"leg",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"sexual","^leg$",2004
+"leg",3,348,0,"my love is your love","Whitney Houston",3,0,"sexual","^leg$",2001
+"leg",1,42,0,"bad blood","Taylor Swift",1,0,"sexual","^leg$",2015
+"leg",4,366,0,"old town road","Lil Nas X",4,0,"sexual","^leg$",2019
+"leg",6,521,0,"till the world ends","Britney Spears",6,0,"sexual","^leg$",2011
+"legs",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"sexual","^legs$",2004
+"legs",4,366,0,"old town road","Lil Nas X",4,0,"sexual","^legs$",2019
+"legs",3,348,0,"my love is your love","Whitney Houston",3,0,"sexual","^legs$",2001
+"legs",1,42,0,"bad blood","Taylor Swift",1,0,"sexual","^legs$",2015
+"legs",2,186,0,"girl on fire","Alicia Keys",2,0,"sexual","^legs$",2013
+"legs",6,521,0,"till the world ends","Britney Spears",6,0,"sexual","^legs$",2011
+"lesbian",3,348,0,"my love is your love","Whitney Houston",3,0,"gender & sexuality","^lesbian",2001
+"lesbian",2,186,0,"girl on fire","Alicia Keys",2,0,"gender & sexuality","^lesbian",2013
+"lesbian",6,521,0,"till the world ends","Britney Spears",6,0,"gender & sexuality","^lesbian",2011
+"lesbian",1,42,0,"bad blood","Taylor Swift",1,0,"gender & sexuality","^lesbian",2015
+"lesbian",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"gender & sexuality","^lesbian",2004
+"lesbian",4,366,0,"old town road","Lil Nas X",4,0,"gender & sexuality","^lesbian",2019
+"lighter",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"alcohol & drugs","^lighter",2004
+"lighter",3,348,0,"my love is your love","Whitney Houston",3,0,"alcohol & drugs","^lighter",2001
+"lighter",6,521,0,"till the world ends","Britney Spears",6,0,"alcohol & drugs","^lighter",2011
+"lighter",4,366,0,"old town road","Lil Nas X",4,0,"alcohol & drugs","^lighter",2019
+"lighter",1,42,0,"bad blood","Taylor Swift",1,0,"alcohol & drugs","^lighter",2015
+"lighter",2,186,0,"girl on fire","Alicia Keys",2,0,"alcohol & drugs","^lighter",2013
+"lighters",1,42,0,"bad blood","Taylor Swift",1,0,"alcohol & drugs","^lighters",2015
+"lighters",2,186,0,"girl on fire","Alicia Keys",2,0,"alcohol & drugs","^lighters",2013
+"lighters",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"alcohol & drugs","^lighters",2004
+"lighters",3,348,0,"my love is your love","Whitney Houston",3,0,"alcohol & drugs","^lighters",2001
+"lighters",6,521,0,"till the world ends","Britney Spears",6,0,"alcohol & drugs","^lighters",2011
+"lighters",4,366,0,"old town road","Lil Nas X",4,0,"alcohol & drugs","^lighters",2019
+"lip",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"sexual","^lip$",2004
+"lip",4,366,0,"old town road","Lil Nas X",4,0,"sexual","^lip$",2019
+"lip",1,42,0,"bad blood","Taylor Swift",1,0,"sexual","^lip$",2015
+"lip",3,348,0,"my love is your love","Whitney Houston",3,0,"sexual","^lip$",2001
+"lip",6,521,0,"till the world ends","Britney Spears",6,0,"sexual","^lip$",2011
+"lip",2,186,0,"girl on fire","Alicia Keys",2,0,"sexual","^lip$",2013
+"lips",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"sexual","^lips$",2004
+"lips",1,42,0,"bad blood","Taylor Swift",1,0,"sexual","^lips$",2015
+"lips",6,521,0,"till the world ends","Britney Spears",6,0,"sexual","^lips$",2011
+"lips",3,348,0,"my love is your love","Whitney Houston",3,0,"sexual","^lips$",2001
+"lips",4,366,0,"old town road","Lil Nas X",4,0,"sexual","^lips$",2019
+"lips",2,186,0,"girl on fire","Alicia Keys",2,0,"sexual","^lips$",2013
+"liquor",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"alcohol & drugs","^liquor",2004
+"liquor",1,42,0,"bad blood","Taylor Swift",1,0,"alcohol & drugs","^liquor",2015
+"liquor",6,521,0,"till the world ends","Britney Spears",6,0,"alcohol & drugs","^liquor",2011
+"liquor",2,186,0,"girl on fire","Alicia Keys",2,0,"alcohol & drugs","^liquor",2013
+"liquor",4,366,0,"old town road","Lil Nas X",4,0,"alcohol & drugs","^liquor",2019
+"liquor",3,348,0,"my love is your love","Whitney Houston",3,0,"alcohol & drugs","^liquor",2001
+"lord",1,42,0,"bad blood","Taylor Swift",1,0,"religious","^lord$",2015
+"lord",3,348,1,"my love is your love","Whitney Houston",3,2,"religious","^lord$",2001
+"lord",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"religious","^lord$",2004
+"lord",2,186,0,"girl on fire","Alicia Keys",2,0,"religious","^lord$",2013
+"lord",6,521,0,"till the world ends","Britney Spears",6,0,"religious","^lord$",2011
+"lord",4,366,0,"old town road","Lil Nas X",4,0,"religious","^lord$",2019
+"man",1,42,0,"bad blood","Taylor Swift",1,0,"gender & sexuality","^man$",2015
+"man",3,348,0,"my love is your love","Whitney Houston",3,0,"gender & sexuality","^man$",2001
+"man",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"gender & sexuality","^man$",2004
+"man",4,366,0,"old town road","Lil Nas X",4,0,"gender & sexuality","^man$",2019
+"man",6,521,0,"till the world ends","Britney Spears",6,0,"gender & sexuality","^man$",2011
+"man",2,186,0,"girl on fire","Alicia Keys",2,0,"gender & sexuality","^man$",2013
+"maniac",6,521,0,"till the world ends","Britney Spears",6,0,"mental health","^maniac",2011
+"maniac",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"mental health","^maniac",2004
+"maniac",1,42,0,"bad blood","Taylor Swift",1,0,"mental health","^maniac",2015
+"maniac",3,348,0,"my love is your love","Whitney Houston",3,0,"mental health","^maniac",2001
+"maniac",2,186,0,"girl on fire","Alicia Keys",2,0,"mental health","^maniac",2013
+"maniac",4,366,0,"old town road","Lil Nas X",4,0,"mental health","^maniac",2019
+"marijuana",1,42,0,"bad blood","Taylor Swift",1,0,"alcohol & drugs","^marijuana",2015
+"marijuana",4,366,0,"old town road","Lil Nas X",4,0,"alcohol & drugs","^marijuana",2019
+"marijuana",6,521,0,"till the world ends","Britney Spears",6,0,"alcohol & drugs","^marijuana",2011
+"marijuana",3,348,0,"my love is your love","Whitney Houston",3,0,"alcohol & drugs","^marijuana",2001
+"marijuana",2,186,0,"girl on fire","Alicia Keys",2,0,"alcohol & drugs","^marijuana",2013
+"marijuana",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"alcohol & drugs","^marijuana",2004
+"martini",3,348,0,"my love is your love","Whitney Houston",3,0,"alcohol & drugs","^martini",2001
+"martini",1,42,0,"bad blood","Taylor Swift",1,0,"alcohol & drugs","^martini",2015
+"martini",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"alcohol & drugs","^martini",2004
+"martini",2,186,0,"girl on fire","Alicia Keys",2,0,"alcohol & drugs","^martini",2013
+"martini",6,521,0,"till the world ends","Britney Spears",6,0,"alcohol & drugs","^martini",2011
+"martini",4,366,0,"old town road","Lil Nas X",4,0,"alcohol & drugs","^martini",2019
+"masturbate",6,521,0,"till the world ends","Britney Spears",6,0,"sexual","^mastrubate",2011
+"masturbate",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"sexual","^mastrubate",2004
+"masturbate",2,186,0,"girl on fire","Alicia Keys",2,0,"sexual","^mastrubate",2013
+"masturbate",1,42,0,"bad blood","Taylor Swift",1,0,"sexual","^mastrubate",2015
+"masturbate",4,366,0,"old town road","Lil Nas X",4,0,"sexual","^mastrubate",2019
+"masturbate",3,348,0,"my love is your love","Whitney Houston",3,0,"sexual","^mastrubate",2001
+"mdma",6,521,0,"till the world ends","Britney Spears",6,0,"alcohol & drugs","^mdma^",2011
+"mdma",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"alcohol & drugs","^mdma^",2004
+"mdma",2,186,0,"girl on fire","Alicia Keys",2,0,"alcohol & drugs","^mdma^",2013
+"mdma",1,42,0,"bad blood","Taylor Swift",1,0,"alcohol & drugs","^mdma^",2015
+"mdma",4,366,0,"old town road","Lil Nas X",4,0,"alcohol & drugs","^mdma^",2019
+"mdma",3,348,0,"my love is your love","Whitney Houston",3,0,"alcohol & drugs","^mdma^",2001
+"medicate",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"mental health","^medicate",2004
+"medicate",3,348,0,"my love is your love","Whitney Houston",3,0,"mental health","^medicate",2001
+"medicate",2,186,0,"girl on fire","Alicia Keys",2,0,"mental health","^medicate",2013
+"medicate",6,521,0,"till the world ends","Britney Spears",6,0,"mental health","^medicate",2011
+"medicate",1,42,0,"bad blood","Taylor Swift",1,0,"mental health","^medicate",2015
+"medicate",4,366,0,"old town road","Lil Nas X",4,0,"mental health","^medicate",2019
+"men",3,348,0,"my love is your love","Whitney Houston",3,0,"gender & sexuality","^men$",2001
+"men",1,42,0,"bad blood","Taylor Swift",1,0,"gender & sexuality","^men$",2015
+"men",6,521,0,"till the world ends","Britney Spears",6,0,"gender & sexuality","^men$",2011
+"men",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"gender & sexuality","^men$",2004
+"men",4,366,0,"old town road","Lil Nas X",4,0,"gender & sexuality","^men$",2019
+"men",2,186,0,"girl on fire","Alicia Keys",2,0,"gender & sexuality","^men$",2013
+"meth",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"alcohol & drugs","^meth$",2004
+"meth",1,42,0,"bad blood","Taylor Swift",1,0,"alcohol & drugs","^meth$",2015
+"meth",3,348,0,"my love is your love","Whitney Houston",3,0,"alcohol & drugs","^meth$",2001
+"meth",4,366,0,"old town road","Lil Nas X",4,0,"alcohol & drugs","^meth$",2019
+"meth",6,521,0,"till the world ends","Britney Spears",6,0,"alcohol & drugs","^meth$",2011
+"meth",2,186,0,"girl on fire","Alicia Keys",2,0,"alcohol & drugs","^meth$",2013
+"molly",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"alcohol & drugs","^molly$",2004
+"molly",4,366,0,"old town road","Lil Nas X",4,0,"alcohol & drugs","^molly$",2019
+"molly",1,42,0,"bad blood","Taylor Swift",1,0,"alcohol & drugs","^molly$",2015
+"molly",6,521,0,"till the world ends","Britney Spears",6,0,"alcohol & drugs","^molly$",2011
+"molly",3,348,0,"my love is your love","Whitney Houston",3,0,"alcohol & drugs","^molly$",2001
+"molly",2,186,0,"girl on fire","Alicia Keys",2,0,"alcohol & drugs","^molly$",2013
+"moonshine",1,42,0,"bad blood","Taylor Swift",1,0,"alcohol & drugs","^moonshine",2015
+"moonshine",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"alcohol & drugs","^moonshine",2004
+"moonshine",6,521,0,"till the world ends","Britney Spears",6,0,"alcohol & drugs","^moonshine",2011
+"moonshine",4,366,0,"old town road","Lil Nas X",4,0,"alcohol & drugs","^moonshine",2019
+"moonshine",2,186,0,"girl on fire","Alicia Keys",2,0,"alcohol & drugs","^moonshine",2013
+"moonshine",3,348,0,"my love is your love","Whitney Houston",3,0,"alcohol & drugs","^moonshine",2001
+"murder",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"violence","^murder",2004
+"murder",6,521,0,"till the world ends","Britney Spears",6,0,"violence","^murder",2011
+"murder",4,366,0,"old town road","Lil Nas X",4,0,"violence","^murder",2019
+"murder",1,42,0,"bad blood","Taylor Swift",1,0,"violence","^murder",2015
+"murder",2,186,0,"girl on fire","Alicia Keys",2,0,"violence","^murder",2013
+"murder",3,348,0,"my love is your love","Whitney Houston",3,0,"violence","^murder",2001
+"naked",1,42,0,"bad blood","Taylor Swift",1,0,"sexual","^naked",2015
+"naked",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"sexual","^naked",2004
+"naked",4,366,0,"old town road","Lil Nas X",4,0,"sexual","^naked",2019
+"naked",3,348,0,"my love is your love","Whitney Houston",3,0,"sexual","^naked",2001
+"naked",6,521,0,"till the world ends","Britney Spears",6,0,"sexual","^naked",2011
+"naked",2,186,0,"girl on fire","Alicia Keys",2,0,"sexual","^naked",2013
+"neck",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"sexual","^neck$",2004
+"neck",6,521,0,"till the world ends","Britney Spears",6,0,"sexual","^neck$",2011
+"neck",1,42,0,"bad blood","Taylor Swift",1,0,"sexual","^neck$",2015
+"neck",3,348,0,"my love is your love","Whitney Houston",3,0,"sexual","^neck$",2001
+"neck",2,186,0,"girl on fire","Alicia Keys",2,0,"sexual","^neck$",2013
+"neck",4,366,0,"old town road","Lil Nas X",4,0,"sexual","^neck$",2019
+"nigga",2,186,0,"girl on fire","Alicia Keys",2,0,"slur","^nigga",2013
+"nigga",6,521,0,"till the world ends","Britney Spears",6,0,"slur","^nigga",2011
+"nigga",3,348,0,"my love is your love","Whitney Houston",3,0,"slur","^nigga",2001
+"nigga",1,42,0,"bad blood","Taylor Swift",1,0,"slur","^nigga",2015
+"nigga",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"slur","^nigga",2004
+"nigga",4,366,0,"old town road","Lil Nas X",4,0,"slur","^nigga",2019
+"overdose",3,348,0,"my love is your love","Whitney Houston",3,0,"alcohol & drugs","^overdose",2001
+"overdose",6,521,0,"till the world ends","Britney Spears",6,0,"alcohol & drugs","^overdose",2011
+"overdose",4,366,0,"old town road","Lil Nas X",4,0,"alcohol & drugs","^overdose",2019
+"overdose",2,186,0,"girl on fire","Alicia Keys",2,0,"alcohol & drugs","^overdose",2013
+"overdose",1,42,0,"bad blood","Taylor Swift",1,0,"alcohol & drugs","^overdose",2015
+"overdose",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"alcohol & drugs","^overdose",2004
+"panties",6,521,0,"till the world ends","Britney Spears",6,0,"sexual","^panties$",2011
+"panties",3,348,0,"my love is your love","Whitney Houston",3,0,"sexual","^panties$",2001
+"panties",2,186,0,"girl on fire","Alicia Keys",2,0,"sexual","^panties$",2013
+"panties",1,42,0,"bad blood","Taylor Swift",1,0,"sexual","^panties$",2015
+"panties",4,366,0,"old town road","Lil Nas X",4,0,"sexual","^panties$",2019
+"panties",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"sexual","^panties$",2004
+"pill",3,348,0,"my love is your love","Whitney Houston",3,0,"alcohol & drugs","^pill$",2001
+"pill",6,521,0,"till the world ends","Britney Spears",6,0,"alcohol & drugs","^pill$",2011
+"pill",1,42,0,"bad blood","Taylor Swift",1,0,"alcohol & drugs","^pill$",2015
+"pill",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"alcohol & drugs","^pill$",2004
+"pill",2,186,0,"girl on fire","Alicia Keys",2,0,"alcohol & drugs","^pill$",2013
+"pill",4,366,0,"old town road","Lil Nas X",4,0,"alcohol & drugs","^pill$",2019
+"pills",3,348,0,"my love is your love","Whitney Houston",3,0,"alcohol & drugs","^pills$",2001
+"pills",2,186,0,"girl on fire","Alicia Keys",2,0,"alcohol & drugs","^pills$",2013
+"pills",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"alcohol & drugs","^pills$",2004
+"pills",6,521,0,"till the world ends","Britney Spears",6,0,"alcohol & drugs","^pills$",2011
+"pills",1,42,0,"bad blood","Taylor Swift",1,0,"alcohol & drugs","^pills$",2015
+"pills",4,366,0,"old town road","Lil Nas X",4,0,"alcohol & drugs","^pills$",2019
+"pimp",2,186,0,"girl on fire","Alicia Keys",2,0,"sexual","^pimp",2013
+"pimp",4,366,0,"old town road","Lil Nas X",4,0,"sexual","^pimp",2019
+"pimp",3,348,0,"my love is your love","Whitney Houston",3,0,"sexual","^pimp",2001
+"pimp",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"sexual","^pimp",2004
+"pimp",1,42,0,"bad blood","Taylor Swift",1,0,"sexual","^pimp",2015
+"pimp",6,521,0,"till the world ends","Britney Spears",6,0,"sexual","^pimp",2011
+"piss",6,521,0,"till the world ends","Britney Spears",6,0,"profanity","^piss",2011
+"piss",3,348,0,"my love is your love","Whitney Houston",3,0,"profanity","^piss",2001
+"piss",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"profanity","^piss",2004
+"piss",2,186,0,"girl on fire","Alicia Keys",2,0,"profanity","^piss",2013
+"piss",4,366,0,"old town road","Lil Nas X",4,0,"profanity","^piss",2019
+"piss",1,42,0,"bad blood","Taylor Swift",1,0,"profanity","^piss",2015
+"poison",2,186,0,"girl on fire","Alicia Keys",2,0,"violence","^poison",2013
+"poison",6,521,0,"till the world ends","Britney Spears",6,0,"violence","^poison",2011
+"poison",1,42,0,"bad blood","Taylor Swift",1,0,"violence","^poison",2015
+"poison",3,348,0,"my love is your love","Whitney Houston",3,0,"violence","^poison",2001
+"poison",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"violence","^poison",2004
+"poison",4,366,0,"old town road","Lil Nas X",4,0,"violence","^poison",2019
+"pot",2,186,0,"girl on fire","Alicia Keys",2,0,"alcohol & drugs","^pot$",2013
+"pot",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"alcohol & drugs","^pot$",2004
+"pot",3,348,0,"my love is your love","Whitney Houston",3,0,"alcohol & drugs","^pot$",2001
+"pot",1,42,0,"bad blood","Taylor Swift",1,0,"alcohol & drugs","^pot$",2015
+"pot",4,366,0,"old town road","Lil Nas X",4,0,"alcohol & drugs","^pot$",2019
+"pot",6,521,0,"till the world ends","Britney Spears",6,0,"alcohol & drugs","^pot$",2011
+"pour",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"alcohol & drugs","^pour",2004
+"pour",3,348,0,"my love is your love","Whitney Houston",3,0,"alcohol & drugs","^pour",2001
+"pour",6,521,0,"till the world ends","Britney Spears",6,0,"alcohol & drugs","^pour",2011
+"pour",2,186,0,"girl on fire","Alicia Keys",2,0,"alcohol & drugs","^pour",2013
+"pour",4,366,0,"old town road","Lil Nas X",4,0,"alcohol & drugs","^pour",2019
+"pour",1,42,0,"bad blood","Taylor Swift",1,0,"alcohol & drugs","^pour",2015
+"pray",1,42,0,"bad blood","Taylor Swift",1,0,"religious","^pray",2015
+"pray",6,521,0,"till the world ends","Britney Spears",6,0,"religious","^pray",2011
+"pray",2,186,0,"girl on fire","Alicia Keys",2,0,"religious","^pray",2013
+"pray",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"religious","^pray",2004
+"pray",3,348,0,"my love is your love","Whitney Houston",3,0,"religious","^pray",2001
+"pray",4,366,0,"old town road","Lil Nas X",4,0,"religious","^pray",2019
+"priest",1,42,0,"bad blood","Taylor Swift",1,0,"religious","^priest",2015
+"priest",6,521,0,"till the world ends","Britney Spears",6,0,"religious","^priest",2011
+"priest",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"religious","^priest",2004
+"priest",3,348,0,"my love is your love","Whitney Houston",3,0,"religious","^priest",2001
+"priest",4,366,0,"old town road","Lil Nas X",4,0,"religious","^priest",2019
+"priest",2,186,0,"girl on fire","Alicia Keys",2,0,"religious","^priest",2013
+"prosecco",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"alcohol & drugs","^prosecco$",2004
+"prosecco",2,186,0,"girl on fire","Alicia Keys",2,0,"alcohol & drugs","^prosecco$",2013
+"prosecco",1,42,0,"bad blood","Taylor Swift",1,0,"alcohol & drugs","^prosecco$",2015
+"prosecco",6,521,0,"till the world ends","Britney Spears",6,0,"alcohol & drugs","^prosecco$",2011
+"prosecco",4,366,0,"old town road","Lil Nas X",4,0,"alcohol & drugs","^prosecco$",2019
+"prosecco",3,348,0,"my love is your love","Whitney Houston",3,0,"alcohol & drugs","^prosecco$",2001
+"psycho",6,521,0,"till the world ends","Britney Spears",6,0,"mental health","^psycho",2011
+"psycho",2,186,0,"girl on fire","Alicia Keys",2,0,"mental health","^psycho",2013
+"psycho",1,42,0,"bad blood","Taylor Swift",1,0,"mental health","^psycho",2015
+"psycho",4,366,0,"old town road","Lil Nas X",4,0,"mental health","^psycho",2019
+"psycho",3,348,0,"my love is your love","Whitney Houston",3,0,"mental health","^psycho",2001
+"psycho",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"mental health","^psycho",2004
+"puff",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"alcohol & drugs","^puff",2004
+"puff",1,42,0,"bad blood","Taylor Swift",1,0,"alcohol & drugs","^puff",2015
+"puff",6,521,0,"till the world ends","Britney Spears",6,0,"alcohol & drugs","^puff",2011
+"puff",2,186,0,"girl on fire","Alicia Keys",2,0,"alcohol & drugs","^puff",2013
+"puff",3,348,0,"my love is your love","Whitney Houston",3,0,"alcohol & drugs","^puff",2001
+"puff",4,366,0,"old town road","Lil Nas X",4,0,"alcohol & drugs","^puff",2019
+"punch",2,186,0,"girl on fire","Alicia Keys",2,0,"violence","^punch",2013
+"punch",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"violence","^punch",2004
+"punch",1,42,0,"bad blood","Taylor Swift",1,0,"violence","^punch",2015
+"punch",3,348,0,"my love is your love","Whitney Houston",3,0,"violence","^punch",2001
+"punch",4,366,0,"old town road","Lil Nas X",4,0,"violence","^punch",2019
+"punch",6,521,0,"till the world ends","Britney Spears",6,0,"violence","^punch",2011
+"pussies",1,42,0,"bad blood","Taylor Swift",1,0,"sexual","^pussies$",2015
+"pussies",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"sexual","^pussies$",2004
+"pussies",3,348,0,"my love is your love","Whitney Houston",3,0,"sexual","^pussies$",2001
+"pussies",6,521,0,"till the world ends","Britney Spears",6,0,"sexual","^pussies$",2011
+"pussies",4,366,0,"old town road","Lil Nas X",4,0,"sexual","^pussies$",2019
+"pussies",2,186,0,"girl on fire","Alicia Keys",2,0,"sexual","^pussies$",2013
+"pussy",1,42,0,"bad blood","Taylor Swift",1,0,"sexual","^pussy",2015
+"pussy",3,348,0,"my love is your love","Whitney Houston",3,0,"sexual","^pussy",2001
+"pussy",2,186,0,"girl on fire","Alicia Keys",2,0,"sexual","^pussy",2013
+"pussy",4,366,0,"old town road","Lil Nas X",4,0,"sexual","^pussy",2019
+"pussy",6,521,0,"till the world ends","Britney Spears",6,0,"sexual","^pussy",2011
+"pussy",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"sexual","^pussy",2004
+"retard",2,186,0,"girl on fire","Alicia Keys",2,0,"slur","^retard",2013
+"retard",4,366,0,"old town road","Lil Nas X",4,0,"slur","^retard",2019
+"retard",6,521,0,"till the world ends","Britney Spears",6,0,"slur","^retard",2011
+"retard",1,42,0,"bad blood","Taylor Swift",1,0,"slur","^retard",2015
+"retard",3,348,0,"my love is your love","Whitney Houston",3,0,"slur","^retard",2001
+"retard",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"slur","^retard",2004
+"rum",2,186,0,"girl on fire","Alicia Keys",2,0,"alcohol & drugs","^rum$",2013
+"rum",6,521,0,"till the world ends","Britney Spears",6,0,"alcohol & drugs","^rum$",2011
+"rum",1,42,0,"bad blood","Taylor Swift",1,0,"alcohol & drugs","^rum$",2015
+"rum",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"alcohol & drugs","^rum$",2004
+"rum",3,348,0,"my love is your love","Whitney Houston",3,0,"alcohol & drugs","^rum$",2001
+"rum",4,366,0,"old town road","Lil Nas X",4,0,"alcohol & drugs","^rum$",2019
+"sake",2,186,0,"girl on fire","Alicia Keys",2,0,"alcohol & drugs","^sake$",2013
+"sake",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"alcohol & drugs","^sake$",2004
+"sake",1,42,0,"bad blood","Taylor Swift",1,0,"alcohol & drugs","^sake$",2015
+"sake",3,348,0,"my love is your love","Whitney Houston",3,0,"alcohol & drugs","^sake$",2001
+"sake",4,366,0,"old town road","Lil Nas X",4,0,"alcohol & drugs","^sake$",2019
+"sake",6,521,0,"till the world ends","Britney Spears",6,0,"alcohol & drugs","^sake$",2011
+"sanity",3,348,0,"my love is your love","Whitney Houston",3,0,"mental health","^sanity$",2001
+"sanity",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"mental health","^sanity$",2004
+"sanity",4,366,0,"old town road","Lil Nas X",4,0,"mental health","^sanity$",2019
+"sanity",1,42,0,"bad blood","Taylor Swift",1,0,"mental health","^sanity$",2015
+"sanity",6,521,0,"till the world ends","Britney Spears",6,0,"mental health","^sanity$",2011
+"sanity",2,186,0,"girl on fire","Alicia Keys",2,0,"mental health","^sanity$",2013
+"savage",6,521,0,"till the world ends","Britney Spears",6,0,"slur","^savage",2011
+"savage",3,348,0,"my love is your love","Whitney Houston",3,0,"slur","^savage",2001
+"savage",1,42,0,"bad blood","Taylor Swift",1,0,"slur","^savage",2015
+"savage",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"slur","^savage",2004
+"savage",4,366,0,"old town road","Lil Nas X",4,0,"slur","^savage",2019
+"savage",2,186,0,"girl on fire","Alicia Keys",2,0,"slur","^savage",2013
+"scalpel",4,366,0,"old town road","Lil Nas X",4,0,"violence","^scalpel",2019
+"scalpel",3,348,0,"my love is your love","Whitney Houston",3,0,"violence","^scalpel",2001
+"scalpel",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"violence","^scalpel",2004
+"scalpel",1,42,0,"bad blood","Taylor Swift",1,0,"violence","^scalpel",2015
+"scalpel",2,186,0,"girl on fire","Alicia Keys",2,0,"violence","^scalpel",2013
+"scalpel",6,521,0,"till the world ends","Britney Spears",6,0,"violence","^scalpel",2011
+"scrotum",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"sexual","^scrotum",2004
+"scrotum",3,348,0,"my love is your love","Whitney Houston",3,0,"sexual","^scrotum",2001
+"scrotum",2,186,0,"girl on fire","Alicia Keys",2,0,"sexual","^scrotum",2013
+"scrotum",6,521,0,"till the world ends","Britney Spears",6,0,"sexual","^scrotum",2011
+"scrotum",4,366,0,"old town road","Lil Nas X",4,0,"sexual","^scrotum",2019
+"scrotum",1,42,0,"bad blood","Taylor Swift",1,0,"sexual","^scrotum",2015
+"sex",4,366,0,"old town road","Lil Nas X",4,0,"sexual","^sex",2019
+"sex",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"sexual","^sex",2004
+"sex",3,348,0,"my love is your love","Whitney Houston",3,0,"sexual","^sex",2001
+"sex",1,42,0,"bad blood","Taylor Swift",1,0,"sexual","^sex",2015
+"sex",2,186,0,"girl on fire","Alicia Keys",2,0,"sexual","^sex",2013
+"sex",6,521,0,"till the world ends","Britney Spears",6,0,"sexual","^sex",2011
+"shit",1,42,0,"bad blood","Taylor Swift",1,0,"profanity","^shit",2015
+"shit",3,348,0,"my love is your love","Whitney Houston",3,0,"profanity","^shit",2001
+"shit",6,521,0,"till the world ends","Britney Spears",6,0,"profanity","^shit",2011
+"shit",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"profanity","^shit",2004
+"shit",2,186,0,"girl on fire","Alicia Keys",2,0,"profanity","^shit",2013
+"shit",4,366,0,"old town road","Lil Nas X",4,0,"profanity","^shit",2019
+"sin",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"religious","^sin$",2004
+"sin",2,186,0,"girl on fire","Alicia Keys",2,0,"religious","^sin$",2013
+"sin",1,42,0,"bad blood","Taylor Swift",1,0,"religious","^sin$",2015
+"sin",3,348,0,"my love is your love","Whitney Houston",3,0,"religious","^sin$",2001
+"sin",6,521,0,"till the world ends","Britney Spears",6,0,"religious","^sin$",2011
+"sin",4,366,0,"old town road","Lil Nas X",4,0,"religious","^sin$",2019
+"sinner",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"religious","^sinner$",2004
+"sinner",1,42,0,"bad blood","Taylor Swift",1,0,"religious","^sinner$",2015
+"sinner",3,348,0,"my love is your love","Whitney Houston",3,0,"religious","^sinner$",2001
+"sinner",2,186,0,"girl on fire","Alicia Keys",2,0,"religious","^sinner$",2013
+"sinner",6,521,0,"till the world ends","Britney Spears",6,0,"religious","^sinner$",2011
+"sinner",4,366,0,"old town road","Lil Nas X",4,0,"religious","^sinner$",2019
+"sinning",6,521,0,"till the world ends","Britney Spears",6,0,"religious","^sinning$",2011
+"sinning",4,366,0,"old town road","Lil Nas X",4,0,"religious","^sinning$",2019
+"sinning",3,348,0,"my love is your love","Whitney Houston",3,0,"religious","^sinning$",2001
+"sinning",1,42,0,"bad blood","Taylor Swift",1,0,"religious","^sinning$",2015
+"sinning",2,186,0,"girl on fire","Alicia Keys",2,0,"religious","^sinning$",2013
+"sinning",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"religious","^sinning$",2004
+"sins",3,348,0,"my love is your love","Whitney Houston",3,0,"religious","^sins$",2001
+"sins",1,42,0,"bad blood","Taylor Swift",1,0,"religious","^sins$",2015
+"sins",2,186,0,"girl on fire","Alicia Keys",2,0,"religious","^sins$",2013
+"sins",6,521,0,"till the world ends","Britney Spears",6,0,"religious","^sins$",2011
+"sins",4,366,0,"old town road","Lil Nas X",4,0,"religious","^sins$",2019
+"sins",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"religious","^sins$",2004
+"sip",6,521,0,"till the world ends","Britney Spears",6,0,"alcohol & drugs","^sip$",2011
+"sip",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"alcohol & drugs","^sip$",2004
+"sip",2,186,0,"girl on fire","Alicia Keys",2,0,"alcohol & drugs","^sip$",2013
+"sip",4,366,0,"old town road","Lil Nas X",4,0,"alcohol & drugs","^sip$",2019
+"sip",3,348,0,"my love is your love","Whitney Houston",3,0,"alcohol & drugs","^sip$",2001
+"sip",1,42,0,"bad blood","Taylor Swift",1,0,"alcohol & drugs","^sip$",2015
+"sippin",6,521,0,"till the world ends","Britney Spears",6,0,"alcohol & drugs","^sippin",2011
+"sippin",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"alcohol & drugs","^sippin",2004
+"sippin",3,348,0,"my love is your love","Whitney Houston",3,0,"alcohol & drugs","^sippin",2001
+"sippin",1,42,0,"bad blood","Taylor Swift",1,0,"alcohol & drugs","^sippin",2015
+"sippin",2,186,0,"girl on fire","Alicia Keys",2,0,"alcohol & drugs","^sippin",2013
+"sippin",4,366,0,"old town road","Lil Nas X",4,0,"alcohol & drugs","^sippin",2019
+"skin",3,348,0,"my love is your love","Whitney Houston",3,0,"sexual","^skin$",2001
+"skin",2,186,0,"girl on fire","Alicia Keys",2,0,"sexual","^skin$",2013
+"skin",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"sexual","^skin$",2004
+"skin",6,521,0,"till the world ends","Britney Spears",6,0,"sexual","^skin$",2011
+"skin",1,42,0,"bad blood","Taylor Swift",1,0,"sexual","^skin$",2015
+"skin",4,366,0,"old town road","Lil Nas X",4,0,"sexual","^skin$",2019
+"skirt",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"sexual","skirt",2004
+"skirt",3,348,0,"my love is your love","Whitney Houston",3,0,"sexual","skirt",2001
+"skirt",2,186,0,"girl on fire","Alicia Keys",2,0,"sexual","skirt",2013
+"skirt",4,366,0,"old town road","Lil Nas X",4,0,"sexual","skirt",2019
+"skirt",6,521,0,"till the world ends","Britney Spears",6,0,"sexual","skirt",2011
+"skirt",1,42,0,"bad blood","Taylor Swift",1,0,"sexual","skirt",2015
+"slap",2,186,0,"girl on fire","Alicia Keys",2,0,"violence","^slap",2013
+"slap",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"violence","^slap",2004
+"slap",3,348,0,"my love is your love","Whitney Houston",3,0,"violence","^slap",2001
+"slap",6,521,0,"till the world ends","Britney Spears",6,0,"violence","^slap",2011
+"slap",4,366,0,"old town road","Lil Nas X",4,0,"violence","^slap",2019
+"slap",1,42,0,"bad blood","Taylor Swift",1,0,"violence","^slap",2015
+"slay",3,348,0,"my love is your love","Whitney Houston",3,0,"violence","^slay",2001
+"slay",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"violence","^slay",2004
+"slay",2,186,0,"girl on fire","Alicia Keys",2,0,"violence","^slay",2013
+"slay",6,521,0,"till the world ends","Britney Spears",6,0,"violence","^slay",2011
+"slay",4,366,0,"old town road","Lil Nas X",4,0,"violence","^slay",2019
+"slay",1,42,0,"bad blood","Taylor Swift",1,0,"violence","^slay",2015
+"sleep",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"sexual","^sleep",2004
+"sleep",3,348,2,"my love is your love","Whitney Houston",3,2,"sexual","^sleep",2001
+"sleep",2,186,0,"girl on fire","Alicia Keys",2,0,"sexual","^sleep",2013
+"sleep",1,42,0,"bad blood","Taylor Swift",1,0,"sexual","^sleep",2015
+"sleep",4,366,0,"old town road","Lil Nas X",4,0,"sexual","^sleep",2019
+"sleep",6,521,0,"till the world ends","Britney Spears",6,0,"sexual","^sleep",2011
+"smoke",1,42,0,"bad blood","Taylor Swift",1,0,"alcohol & drugs","^smoke",2015
+"smoke",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"alcohol & drugs","^smoke",2004
+"smoke",3,348,0,"my love is your love","Whitney Houston",3,0,"alcohol & drugs","^smoke",2001
+"smoke",4,366,0,"old town road","Lil Nas X",4,0,"alcohol & drugs","^smoke",2019
+"smoke",6,521,0,"till the world ends","Britney Spears",6,0,"alcohol & drugs","^smoke",2011
+"smoke",2,186,0,"girl on fire","Alicia Keys",2,0,"alcohol & drugs","^smoke",2013
+"smoking",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"alcohol & drugs","^smoking",2004
+"smoking",4,366,0,"old town road","Lil Nas X",4,0,"alcohol & drugs","^smoking",2019
+"smoking",3,348,0,"my love is your love","Whitney Houston",3,0,"alcohol & drugs","^smoking",2001
+"smoking",1,42,0,"bad blood","Taylor Swift",1,0,"alcohol & drugs","^smoking",2015
+"smoking",6,521,0,"till the world ends","Britney Spears",6,0,"alcohol & drugs","^smoking",2011
+"smoking",2,186,0,"girl on fire","Alicia Keys",2,0,"alcohol & drugs","^smoking",2013
+"sober",4,366,0,"old town road","Lil Nas X",4,0,"alcohol & drugs","^sober",2019
+"sober",3,348,0,"my love is your love","Whitney Houston",3,0,"alcohol & drugs","^sober",2001
+"sober",2,186,0,"girl on fire","Alicia Keys",2,0,"alcohol & drugs","^sober",2013
+"sober",1,42,0,"bad blood","Taylor Swift",1,0,"alcohol & drugs","^sober",2015
+"sober",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"alcohol & drugs","^sober",2004
+"sober",6,521,0,"till the world ends","Britney Spears",6,0,"alcohol & drugs","^sober",2011
+"spirits",3,348,0,"my love is your love","Whitney Houston",3,0,"alcohol & drugs","^spirits$",2001
+"spirits",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"alcohol & drugs","^spirits$",2004
+"spirits",6,521,0,"till the world ends","Britney Spears",6,0,"alcohol & drugs","^spirits$",2011
+"spirits",4,366,0,"old town road","Lil Nas X",4,0,"alcohol & drugs","^spirits$",2019
+"spirits",1,42,0,"bad blood","Taylor Swift",1,0,"alcohol & drugs","^spirits$",2015
+"spirits",2,186,0,"girl on fire","Alicia Keys",2,0,"alcohol & drugs","^spirits$",2013
+"stab",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"violence","^stab$",2004
+"stab",3,348,0,"my love is your love","Whitney Houston",3,0,"violence","^stab$",2001
+"stab",1,42,0,"bad blood","Taylor Swift",1,0,"violence","^stab$",2015
+"stab",6,521,0,"till the world ends","Britney Spears",6,0,"violence","^stab$",2011
+"stab",2,186,0,"girl on fire","Alicia Keys",2,0,"violence","^stab$",2013
+"stab",4,366,0,"old town road","Lil Nas X",4,0,"violence","^stab$",2019
+"stabbed",3,348,0,"my love is your love","Whitney Houston",3,0,"violence","^stabbed$",2001
+"stabbed",2,186,0,"girl on fire","Alicia Keys",2,0,"violence","^stabbed$",2013
+"stabbed",1,42,0,"bad blood","Taylor Swift",1,0,"violence","^stabbed$",2015
+"stabbed",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"violence","^stabbed$",2004
+"stabbed",4,366,0,"old town road","Lil Nas X",4,0,"violence","^stabbed$",2019
+"stabbed",6,521,0,"till the world ends","Britney Spears",6,0,"violence","^stabbed$",2011
+"stabbing",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"violence","^stabbing$",2004
+"stabbing",3,348,0,"my love is your love","Whitney Houston",3,0,"violence","^stabbing$",2001
+"stabbing",6,521,0,"till the world ends","Britney Spears",6,0,"violence","^stabbing$",2011
+"stabbing",1,42,0,"bad blood","Taylor Swift",1,0,"violence","^stabbing$",2015
+"stabbing",2,186,0,"girl on fire","Alicia Keys",2,0,"violence","^stabbing$",2013
+"stabbing",4,366,0,"old town road","Lil Nas X",4,0,"violence","^stabbing$",2019
+"stabs",3,348,0,"my love is your love","Whitney Houston",3,0,"violence","^stabs$",2001
+"stabs",4,366,0,"old town road","Lil Nas X",4,0,"violence","^stabs$",2019
+"stabs",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"violence","^stabs$",2004
+"stabs",2,186,0,"girl on fire","Alicia Keys",2,0,"violence","^stabs$",2013
+"stabs",6,521,0,"till the world ends","Britney Spears",6,0,"violence","^stabs$",2011
+"stabs",1,42,0,"bad blood","Taylor Swift",1,0,"violence","^stabs$",2015
+"suicidal",6,521,0,"till the world ends","Britney Spears",6,0,"mental health","^suicidal$",2011
+"suicidal",4,366,0,"old town road","Lil Nas X",4,0,"mental health","^suicidal$",2019
+"suicidal",3,348,0,"my love is your love","Whitney Houston",3,0,"mental health","^suicidal$",2001
+"suicidal",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"mental health","^suicidal$",2004
+"suicidal",2,186,0,"girl on fire","Alicia Keys",2,0,"mental health","^suicidal$",2013
+"suicidal",1,42,0,"bad blood","Taylor Swift",1,0,"mental health","^suicidal$",2015
+"suicide",3,348,0,"my love is your love","Whitney Houston",3,0,"mental health","^suicide",2001
+"suicide",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"mental health","^suicide",2004
+"suicide",2,186,0,"girl on fire","Alicia Keys",2,0,"mental health","^suicide",2013
+"suicide",6,521,0,"till the world ends","Britney Spears",6,0,"mental health","^suicide",2011
+"suicide",1,42,0,"bad blood","Taylor Swift",1,0,"mental health","^suicide",2015
+"suicide",4,366,0,"old town road","Lil Nas X",4,0,"mental health","^suicide",2019
+"tattoo",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"other","^tattoo",2004
+"tattoo",2,186,0,"girl on fire","Alicia Keys",2,0,"other","^tattoo",2013
+"tattoo",1,42,0,"bad blood","Taylor Swift",1,0,"other","^tattoo",2015
+"tattoo",3,348,0,"my love is your love","Whitney Houston",3,0,"other","^tattoo",2001
+"tattoo",4,366,0,"old town road","Lil Nas X",4,0,"other","^tattoo",2019
+"tattoo",6,521,0,"till the world ends","Britney Spears",6,0,"other","^tattoo",2011
+"tequila",4,366,0,"old town road","Lil Nas X",4,0,"alcohol & drugs","^tequila",2019
+"tequila",3,348,0,"my love is your love","Whitney Houston",3,0,"alcohol & drugs","^tequila",2001
+"tequila",2,186,0,"girl on fire","Alicia Keys",2,0,"alcohol & drugs","^tequila",2013
+"tequila",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"alcohol & drugs","^tequila",2004
+"tequila",6,521,0,"till the world ends","Britney Spears",6,0,"alcohol & drugs","^tequila",2011
+"tequila",1,42,0,"bad blood","Taylor Swift",1,0,"alcohol & drugs","^tequila",2015
+"thigh",2,186,0,"girl on fire","Alicia Keys",2,0,"sexual","^thigh",2013
+"thigh",3,348,0,"my love is your love","Whitney Houston",3,0,"sexual","^thigh",2001
+"thigh",1,42,0,"bad blood","Taylor Swift",1,0,"sexual","^thigh",2015
+"thigh",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"sexual","^thigh",2004
+"thigh",4,366,0,"old town road","Lil Nas X",4,0,"sexual","^thigh",2019
+"thigh",6,521,0,"till the world ends","Britney Spears",6,0,"sexual","^thigh",2011
+"thug",3,348,0,"my love is your love","Whitney Houston",3,0,"violence","^thug",2001
+"thug",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"violence","^thug",2004
+"thug",6,521,0,"till the world ends","Britney Spears",6,0,"violence","^thug",2011
+"thug",1,42,0,"bad blood","Taylor Swift",1,0,"violence","^thug",2015
+"thug",2,186,0,"girl on fire","Alicia Keys",2,0,"violence","^thug",2013
+"thug",4,366,0,"old town road","Lil Nas X",4,0,"violence","^thug",2019
+"tit",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"sexual","^tit$",2004
+"tit",4,366,0,"old town road","Lil Nas X",4,0,"sexual","^tit$",2019
+"tit",1,42,0,"bad blood","Taylor Swift",1,0,"sexual","^tit$",2015
+"tit",3,348,0,"my love is your love","Whitney Houston",3,0,"sexual","^tit$",2001
+"tit",2,186,0,"girl on fire","Alicia Keys",2,0,"sexual","^tit$",2013
+"tit",6,521,0,"till the world ends","Britney Spears",6,0,"sexual","^tit$",2011
+"tits",3,348,0,"my love is your love","Whitney Houston",3,0,"sexual","^tits$",2001
+"tits",4,366,0,"old town road","Lil Nas X",4,0,"sexual","^tits$",2019
+"tits",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"sexual","^tits$",2004
+"tits",2,186,0,"girl on fire","Alicia Keys",2,0,"sexual","^tits$",2013
+"tits",1,42,0,"bad blood","Taylor Swift",1,0,"sexual","^tits$",2015
+"tits",6,521,0,"till the world ends","Britney Spears",6,0,"sexual","^tits$",2011
+"tongue",1,42,0,"bad blood","Taylor Swift",1,0,"sexual","^tongue",2015
+"tongue",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"sexual","^tongue",2004
+"tongue",3,348,0,"my love is your love","Whitney Houston",3,0,"sexual","^tongue",2001
+"tongue",4,366,0,"old town road","Lil Nas X",4,0,"sexual","^tongue",2019
+"tongue",6,521,1,"till the world ends","Britney Spears",6,1,"sexual","^tongue",2011
+"tongue",2,186,0,"girl on fire","Alicia Keys",2,0,"sexual","^tongue",2013
+"touch",4,366,0,"old town road","Lil Nas X",4,0,"sexual","^touch",2019
+"touch",6,521,0,"till the world ends","Britney Spears",6,1,"sexual","^touch",2011
+"touch",1,42,0,"bad blood","Taylor Swift",1,0,"sexual","^touch",2015
+"touch",3,348,0,"my love is your love","Whitney Houston",3,0,"sexual","^touch",2001
+"touch",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"sexual","^touch",2004
+"touch",2,186,0,"girl on fire","Alicia Keys",2,0,"sexual","^touch",2013
+"toxic",1,42,0,"bad blood","Taylor Swift",1,0,"mental health","^toxic",2015
+"toxic",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"mental health","^toxic",2004
+"toxic",4,366,0,"old town road","Lil Nas X",4,0,"mental health","^toxic",2019
+"toxic",3,348,0,"my love is your love","Whitney Houston",3,0,"mental health","^toxic",2001
+"toxic",6,521,0,"till the world ends","Britney Spears",6,0,"mental health","^toxic",2011
+"toxic",2,186,0,"girl on fire","Alicia Keys",2,0,"mental health","^toxic",2013
+"transgender",3,348,0,"my love is your love","Whitney Houston",3,0,"gender & sexuality","^transgender",2001
+"transgender",1,42,0,"bad blood","Taylor Swift",1,0,"gender & sexuality","^transgender",2015
+"transgender",2,186,0,"girl on fire","Alicia Keys",2,0,"gender & sexuality","^transgender",2013
+"transgender",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"gender & sexuality","^transgender",2004
+"transgender",6,521,0,"till the world ends","Britney Spears",6,0,"gender & sexuality","^transgender",2011
+"transgender",4,366,0,"old town road","Lil Nas X",4,0,"gender & sexuality","^transgender",2019
+"trigger",1,42,0,"bad blood","Taylor Swift",1,0,"violence","^trigger",2015
+"trigger",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"violence","^trigger",2004
+"trigger",3,348,0,"my love is your love","Whitney Houston",3,0,"violence","^trigger",2001
+"trigger",6,521,0,"till the world ends","Britney Spears",6,0,"violence","^trigger",2011
+"trigger",4,366,0,"old town road","Lil Nas X",4,0,"violence","^trigger",2019
+"trigger",2,186,0,"girl on fire","Alicia Keys",2,0,"violence","^trigger",2013
+"underwear",1,42,0,"bad blood","Taylor Swift",1,0,"sexual","^underwear",2015
+"underwear",3,348,0,"my love is your love","Whitney Houston",3,0,"sexual","^underwear",2001
+"underwear",4,366,0,"old town road","Lil Nas X",4,0,"sexual","^underwear",2019
+"underwear",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"sexual","^underwear",2004
+"underwear",2,186,0,"girl on fire","Alicia Keys",2,0,"sexual","^underwear",2013
+"underwear",6,521,0,"till the world ends","Britney Spears",6,0,"sexual","^underwear",2011
+"undress",3,348,0,"my love is your love","Whitney Houston",3,0,"sexual","^undress",2001
+"undress",2,186,0,"girl on fire","Alicia Keys",2,0,"sexual","^undress",2013
+"undress",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"sexual","^undress",2004
+"undress",1,42,0,"bad blood","Taylor Swift",1,0,"sexual","^undress",2015
+"undress",4,366,0,"old town road","Lil Nas X",4,0,"sexual","^undress",2019
+"undress",6,521,0,"till the world ends","Britney Spears",6,0,"sexual","^undress",2011
+"unholy",3,348,0,"my love is your love","Whitney Houston",3,0,"religious","^unholy",2001
+"unholy",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"religious","^unholy",2004
+"unholy",1,42,0,"bad blood","Taylor Swift",1,0,"religious","^unholy",2015
+"unholy",4,366,0,"old town road","Lil Nas X",4,0,"religious","^unholy",2019
+"unholy",6,521,0,"till the world ends","Britney Spears",6,0,"religious","^unholy",2011
+"unholy",2,186,0,"girl on fire","Alicia Keys",2,0,"religious","^unholy",2013
+"victim",4,366,0,"old town road","Lil Nas X",4,0,"violence","^victim",2019
+"victim",1,42,0,"bad blood","Taylor Swift",1,0,"violence","^victim",2015
+"victim",6,521,0,"till the world ends","Britney Spears",6,0,"violence","^victim",2011
+"victim",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"violence","^victim",2004
+"victim",3,348,0,"my love is your love","Whitney Houston",3,0,"violence","^victim",2001
+"victim",2,186,0,"girl on fire","Alicia Keys",2,0,"violence","^victim",2013
+"vodka",4,366,0,"old town road","Lil Nas X",4,0,"alcohol & drugs","^vodka",2019
+"vodka",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"alcohol & drugs","^vodka",2004
+"vodka",3,348,0,"my love is your love","Whitney Houston",3,0,"alcohol & drugs","^vodka",2001
+"vodka",2,186,0,"girl on fire","Alicia Keys",2,0,"alcohol & drugs","^vodka",2013
+"vodka",1,42,0,"bad blood","Taylor Swift",1,0,"alcohol & drugs","^vodka",2015
+"vodka",6,521,0,"till the world ends","Britney Spears",6,0,"alcohol & drugs","^vodka",2011
+"war",3,348,1,"my love is your love","Whitney Houston",3,2,"violence","^war$",2001
+"war",2,186,0,"girl on fire","Alicia Keys",2,0,"violence","^war$",2013
+"war",1,42,0,"bad blood","Taylor Swift",1,0,"violence","^war$",2015
+"war",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"violence","^war$",2004
+"war",4,366,0,"old town road","Lil Nas X",4,0,"violence","^war$",2019
+"war",6,521,0,"till the world ends","Britney Spears",6,0,"violence","^war$",2011
+"waterbed",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"sexual","^waterbed$",2004
+"waterbed",1,42,0,"bad blood","Taylor Swift",1,0,"sexual","^waterbed$",2015
+"waterbed",6,521,0,"till the world ends","Britney Spears",6,0,"sexual","^waterbed$",2011
+"waterbed",4,366,0,"old town road","Lil Nas X",4,0,"sexual","^waterbed$",2019
+"waterbed",3,348,0,"my love is your love","Whitney Houston",3,0,"sexual","^waterbed$",2001
+"waterbed",2,186,0,"girl on fire","Alicia Keys",2,0,"sexual","^waterbed$",2013
+"weapon",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"violence","^weapon",2004
+"weapon",1,42,0,"bad blood","Taylor Swift",1,0,"violence","^weapon",2015
+"weapon",6,521,0,"till the world ends","Britney Spears",6,0,"violence","^weapon",2011
+"weapon",3,348,0,"my love is your love","Whitney Houston",3,0,"violence","^weapon",2001
+"weapon",4,366,0,"old town road","Lil Nas X",4,0,"violence","^weapon",2019
+"weapon",2,186,0,"girl on fire","Alicia Keys",2,0,"violence","^weapon",2013
+"whiskey",1,42,0,"bad blood","Taylor Swift",1,0,"alcohol & drugs","^whiskey",2015
+"whiskey",3,348,0,"my love is your love","Whitney Houston",3,0,"alcohol & drugs","^whiskey",2001
+"whiskey",2,186,0,"girl on fire","Alicia Keys",2,0,"alcohol & drugs","^whiskey",2013
+"whiskey",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"alcohol & drugs","^whiskey",2004
+"whiskey",4,366,0,"old town road","Lil Nas X",4,0,"alcohol & drugs","^whiskey",2019
+"whiskey",6,521,0,"till the world ends","Britney Spears",6,0,"alcohol & drugs","^whiskey",2011
+"wine",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"alcohol & drugs","^wine$",2004
+"wine",3,348,0,"my love is your love","Whitney Houston",3,0,"alcohol & drugs","^wine$",2001
+"wine",1,42,0,"bad blood","Taylor Swift",1,0,"alcohol & drugs","^wine$",2015
+"wine",4,366,0,"old town road","Lil Nas X",4,0,"alcohol & drugs","^wine$",2019
+"wine",2,186,0,"girl on fire","Alicia Keys",2,0,"alcohol & drugs","^wine$",2013
+"wine",6,521,0,"till the world ends","Britney Spears",6,0,"alcohol & drugs","^wine$",2011
+"woman",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"gender & sexuality","^woman$",2004
+"woman",1,42,0,"bad blood","Taylor Swift",1,0,"gender & sexuality","^woman$",2015
+"woman",4,366,0,"old town road","Lil Nas X",4,0,"gender & sexuality","^woman$",2019
+"woman",3,348,0,"my love is your love","Whitney Houston",3,0,"gender & sexuality","^woman$",2001
+"woman",6,521,0,"till the world ends","Britney Spears",6,0,"gender & sexuality","^woman$",2011
+"woman",2,186,0,"girl on fire","Alicia Keys",2,0,"gender & sexuality","^woman$",2013
+"women",5,495,0,"the first cut is the deepest","Sheryl Crow",5,0,"gender & sexuality","^women$",2004
+"women",3,348,0,"my love is your love","Whitney Houston",3,0,"gender & sexuality","^women$",2001
+"women",4,366,0,"old town road","Lil Nas X",4,0,"gender & sexuality","^women$",2019
+"women",2,186,0,"girl on fire","Alicia Keys",2,0,"gender & sexuality","^women$",2013
+"women",1,42,0,"bad blood","Taylor Swift",1,0,"gender & sexuality","^women$",2015
+"women",6,521,0,"till the world ends","Britney Spears",6,0,"gender & sexuality","^women$",2011

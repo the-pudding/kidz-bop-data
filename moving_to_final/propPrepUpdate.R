@@ -64,10 +64,10 @@ eachSong = allC %>% group_by(song_name, og_artist) %>% summarise(year = year[1])
 
 eachSong[which(is.na(eachSong$year)),] %>% dim()
 
-write.csv(eachSong[which(is.na(eachSong$year)),],"moving_to_final/missingYearsF2b.csv", row.names=F)
+#write.csv(eachSong[which(is.na(eachSong$year)),],"moving_to_final/missingYearsF2b.csv", row.names=F)
 
 #my = read.csv("moving_to_final/missingYears.csv", stringsAsFactors = F)
-my = read.csv("moving_to_final/missingYearsF2.csv", stringsAsFactors = F)
+my = read.csv("moving_to_final/missingYearsF2b.csv", stringsAsFactors = F)
 
 test = eachSong[which(is.na(eachSong$year)),]
 test$year = my$year
@@ -93,4 +93,4 @@ replaceIdx = which(allC2$kb_idx%in%toRemove$kb_idx  & allC2$og_idx %in% toRemove
 
 allC3 = allC2[-c(removeIdx, replaceIdx),]
 
-write.csv(allC3, "moving_to_final/data/proportions-kb-prep3.csv", row.names=F)
+write.csv(allC3, "moving_to_final/data/proportions-kb-prepF.csv", row.names=F)

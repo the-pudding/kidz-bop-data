@@ -2,13 +2,13 @@ library(dplyr)
 
 setwd("~/Desktop/kidz-bop-data/")
 
-dataA = read.csv("moving_to_final/data/censorline-prelim-allAnnotated.csv", stringsAsFactors = F)
+dataA = read.csv("moving_to_final/data/censorline-prelim-allAnnotatedFinal.csv", stringsAsFactors = F)
 
-View(dataA)
+#View(dataA)
 
-names(dataA)
+#names(dataA)
 
-unique(dataA$dropSong)
+#unique(dataA$dropSong)
 
 toRemove = dataA[which(dataA$dropSong == "Y"),]
 

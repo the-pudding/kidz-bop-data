@@ -1,5 +1,5 @@
 all = read.csv("moving_to_final/data/proportions-kb-prepF.csv", stringsAsFactors = F)
-
+## add in prepAddOn
 
 all$isCensored = ifelse(all$numOccurKB < all$numOccurOG, 1, 0)
 all$isPresent = ifelse(all$numOccurOG>0, 1, 0)

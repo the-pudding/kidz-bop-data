@@ -1,6 +1,6 @@
 setwd("~/Desktop/kidz-bop-data/")
 library(dplyr)
-censorD= read.csv( "moving_to_final/data/proportions-kb-prep2.csv", stringsAsFactors = F)
+censorD= read.csv( "moving_to_final/data/proportions-kb-prepF.csv", stringsAsFactors = F)
 censorD = censorD[,-which(names(censorD)%in% c("year.x", "year.y"))]
 
 censorD$isCensored = ifelse(censorD$numOccurKB < censorD$numOccurOG, 1, 0)
@@ -143,4 +143,6 @@ test=do.call("rbind",testthis)
 
 full = rbind.data.frame(censorInfo,test)
 
-write.csv(full, file="moving_to_final/data/censorline-prelim-all2.csv",row.names=F) 
+## do this for add on
+
+write.csv(full, file="moving_to_final/data/censorline-prelim-allF.csv",row.names=F) 

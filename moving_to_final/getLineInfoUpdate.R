@@ -35,7 +35,7 @@ load(file = "data/2020-02-02/kbLyrics.RData")
 getLine<- function(bad_word, og_idx, kb_idx, dataset){
   # browser()
 
-    ogL = tolower(ogUpdate[[og_idx]]$line)
+    ogL = tolower(ogUpdate[[og_idx]]$result$line)
     ogL = gsub("\\(", "", ogL)
     ogL = gsub("\\)", "", ogL)
     ## take out punctuation
@@ -52,7 +52,7 @@ getLine<- function(bad_word, og_idx, kb_idx, dataset){
     test =  lapply(lapply(strsplit(ogL, " "), function(x){grep(bad_word,x)}), function(x){ifelse(length(x)==0,NA, x)}) %>% unlist()
     
     ogCaseID = which(!is.na(test))
-    ogCase = ogUpdate[[og_idx]]$line[ogCaseID]               
+    ogCase = ogUpdate[[og_idx]]$result$line[ogCaseID]               
     kbReplace = kbL[ogCaseID]
   
   return(list(ogCase = ogCase, kbReplace = kbReplace, ogLines = length(ogL), kbLines = length(kbL)))
@@ -106,7 +106,7 @@ helper_extra <- function(ogCase, kbReplace,id){
     ogR=ogCase[2:length(ogCase)]
     kbR = kbReplace[2:length(kbReplace)]
     kbR = c(kbR, rep(NA, length(ogR)-length(kbR)))
-    return(cbind.data.frame(censorInfo[id,1:13],ogCase1=ogR, kbReplace1=kbR))
+    return(cbind.data.frame(censorInfo[id,1:12],ogCase1=ogR, kbReplace1=kbR))
   }else{
     return(NULL) 
   }
@@ -119,4 +119,10 @@ test=do.call("rbind",testthis)
 
 full = rbind.data.frame(censorInfo,test)
 
-write.csv(full, file="moving_to_final/data/censorline-prelim-allF.csv",row.names=F) 
+rest = read.csv(file="moving_to_final/data/censorline-prelim-allF.csv",stringsAsFactors = F) 
+
+tryThis =rbind.data.frame(full, rest[,names(full)])
+
+
+
+write.csv(tryThis, file="moving_to_final/data/censorline-prelim-allFull.csv",row.names=F) 

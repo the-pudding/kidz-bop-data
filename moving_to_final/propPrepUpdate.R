@@ -83,11 +83,21 @@ allC2$year[idx]=paste0("20",unlist(lapply(strsplit(grep("/",allC2$year, value = 
 
 toRemove = read.csv("moving_to_final/data/toRemove.csv", stringsAsFactors = F)
 
-removeIdx = which(allC2$kb_idx%in%toRemove$kb_idx  & allC2$og_idx %in% toRemove$og_idx & allC2$data %in% toRemove$data)
+removeIdx = c()
+for(i in 1:nrow(toRemove)){
+  removeIdx = c(removeIdx, which(allC2$kb_idx == toRemove$kb_idx[i] & allC2$og_idx == toRemove$og_idx[i] & allC2$data == toRemove$data[i]))
+}
+
+#removeIdx = which(allC2$kb_idx%in%toRemove$kb_idx  & allC2$og_idx %in% toRemove$og_idx & allC2$data %in% toRemove$data)
 
 toReplace = read.csv("moving_to_final/data/toReplace.csv", stringsAsFactors = F)
 
-replaceIdx = which(allC2$kb_idx%in%toRemove$kb_idx  & allC2$og_idx %in% toRemove$og_idx)
+replaceIdx = which(allC2$kb_idx%in%toRemove$kb_idx  & allC2$og_idx %in% toRemove$og_idx & allC2$data %in% toRemove$data)
+
+replaceIdx = c()
+for(i in 1:nrow(toReplace)){
+  replaceIdx = c(replaceIdx, which(allC2$kb_idx == toReplace$kb_idx[i] & allC2$og_idx == toReplace$og_idx[i] & allC2$data == toReplace$data[i]))
+}
 
 #notC = read.csv("moving_to_final/data/notC.csv", stringsAsFactors = F)
 

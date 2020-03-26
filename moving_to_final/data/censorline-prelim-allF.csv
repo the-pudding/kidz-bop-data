@@ -2,11 +2,6 @@
 "...ready for it?","Taylor Swift","man",401,0,657,1,"first","identity","^man$",2018,1,1,"Younger than my exes, but he act like such a man, so","Younger than my exes, but he act like such a fan, so"
 "...ready for it?","Taylor Swift","kill",401,0,657,1,"first","violence","^kill",2018,1,1,"Knew he was a killer first time that I saw him","Knew he was a dancer first time that I saw him"
 "...ready for it?","Taylor Swift","touch",401,0,657,3,"first","sexual","^touch",2018,1,1,"Touch me and you'll never be alone","Know me and you'll never be alone"
-"1, 2 step (ft. missy elliott)","Ciara","gentlemen",NA,0,4,4,"first","identity","^gentlemen$",2005,1,1,"Ladies and Gentlemen (Ladies and Gentlemen)",NA
-"1, 2 step (ft. missy elliott)","Ciara","body",NA,0,4,3,"first","sexual","^body$",2005,1,1,"Work my body, so melodic, this beat rolls right through my chest (Yup)",NA
-"1, 2 step (ft. missy elliott)","Ciara","bodies",NA,0,4,2,"first","sexual","^bodies$",2005,1,1,"Whichever way the beat drops, our bodies will flow (I like this)",NA
-"1, 2 step (ft. missy elliott)","Ciara","retard",NA,0,4,1,"first","profanity","^retard",2005,1,1,"So retarded, top charted, ever since the day I started",NA
-"1, 2 step (ft. missy elliott)","Ciara","chest",NA,0,4,1,"first","sexual","^chest",2005,1,1,"Work my body, so melodic, this beat rolls right through my chest (Yup)",NA
 "1985","Bowling for Soup","ass",1,0,2,1,"first","profanity","^ass$",2005,1,1,"She was gonna shake her ass on the hood of Whitesnake’s car","When she turned 24"
 "1985","Bowling for Soup","high",1,3,2,4,"first","alcohol & drugs","^high$",2005,1,1,"Her two kids in high school","Her yellow SUV"
 "24k magic","Bruno Mars","ass",4,0,5,1,"first","profanity","^ass$",2016,1,1,"Bad bitches and ya ugly ass friends (Haha)","Ain't my fault y'all be jocking"
@@ -18,8 +13,6 @@
 "24k magic","Bruno Mars","shit",4,0,5,2,"first","profanity","^shit",2016,1,1,"Ooh shit, I'm a dangerous man with some money in my pocket","Why you mad? Fix ya face"
 "24k magic","Bruno Mars","man",4,0,5,2,"first","identity","^man$",2016,1,1,"Ooh shit, I'm a dangerous man with some money in my pocket","Why you mad? Fix ya face"
 "24k magic","Bruno Mars","sip",4,0,5,2,"first","alcohol & drugs","^sip$",2016,1,1,"First, take your sip (sip), do your dip (dip)","Put your pinky rings up to the moon"
-"2u (ft. justin bieber)","David Guetta","crime",NA,0,6,3,"first","violence","^crime",2017,1,1,"When it comes to you, there's no crime",NA
-"2u (ft. justin bieber)","David Guetta","bed",NA,0,6,1,"first","sexual","^bed$",2017,1,1,"Ain't gotta wake up to an empty bed",NA
 "4 minutes","Madonna","hell",5,0,7,1,"first","profanity","^hell$",2008,1,1,"The road to hell is paved with good intentions, yeah",NA
 "7 rings","Ariana Grande","addict",6,0,8,1,"first","alcohol & drugs","^addict",2019,1,1,"Think retail therapy my new addiction","Think retail therapy my new addition"
 "7 rings","Ariana Grande","ass",6,0,8,1,"first","profanity","^ass$",2019,1,1,"When you see them racks, they stacked up like my ass, yeah","When you see them racks, they stacked up like real fast, yeah"
@@ -58,7 +51,6 @@
 "animal","Neon Trees","kill",30,0,30,1,"first","violence","^kill",2011,1,1,"You're killin' me now","Why can't you understand?"
 "are you gonna be my girl","Jet (band)","man",34,0,33,3,"first","identity","^man$",2004,1,1,"But you were with another man, yeah","With her get back stare"
 "attention","Charlie Puth","dress",38,3,35,4,"first","sexual","^dress$",2017,1,1,"I know that dress is karma, perfume regret","I know that dress is karma, filled with regret"
-"axel f","Crazy Frog","crazy",NA,0,36,6,"first","other","^crazy$",2014,1,1,"This is the Crazy Frog",NA
 "back to you","Selena Gomez","fight",40,0,575,1,"first","violence","^fight",2018,1,1,"And I could fight, but what's the use?","I'd go back to you"
 "bad at love","Halsey","bitch",41,0,576,1,"first","profanity","^bitch",2018,1,1,"Now he's gone and he's calling me a bitch again","Now he's gone and he's calling me to talk again"
 "bad at love","Halsey","jack",41,0,576,1,"first","alcohol & drugs","^jack$",2018,1,1,"And he tastes like Jack when I'm kissing him","And it takes me back when I think of him"
@@ -92,6 +84,8 @@
 "billionaire","Travie McCoy","damn",66,0,60,1,"first","profanity","^damn",2010,1,1,"And damn sure do a lot more than FEMA did","And not a single tummy around me would know what hungry was"
 "billionaire","Travie McCoy","fuck",66,0,60,3,"first","profanity","fuck",2010,1,1,"I wanna be a billionaire so fucking bad","I wanna be a billionaire so very bad"
 "billionaire","Travie McCoy","shit",66,0,60,1,"first","profanity","^shit",2010,1,1,"And adopt a bunch of babies that ain't never had shit","Then I'll compliment him on his political etiquette"
+"bills","LunchMoney Lewis","damn",10,0,10,2,"second","profanity","^damn",2009,1,1,"Neighbor's damn dog done crapped on my lawn",NA
+"bills","LunchMoney Lewis","god",10,0,10,12,"second","other","^god",2009,1,1,"Goddamn, goddamn, goddamn, goddamn",NA
 "blank space","Taylor Swift","high",69,0,580,3,"first","alcohol & drugs","^high$",2015,1,1,"If the high was worth the pain","Got a long list of some others"
 "blank space","Taylor Swift","insane",69,0,580,6,"first","other","^insane",2015,1,1,"They'll tell you I'm insane","'Cause you know I love the haters"
 "blank space","Taylor Swift","drunk",69,0,580,1,"first","alcohol & drugs","^drunk",2015,1,1,"I get drunk on jealousy","'Cause, darling, It's a nightmare dressed like a daydream"
@@ -118,7 +112,6 @@
 "breathin","Ariana Grande","medicate",83,0,76,1,"first","other","^medicate",2018,1,1,"I can so over-complicate, people tell me to medicate","How did I know this is fabricated? Oh"
 "breathin","Ariana Grande","shit",83,0,76,2,"first","profanity","^shit",2018,1,1,"I know that all this shit's fabricated","Don't know what else to try, but you tell me every time"
 "bring me to life","Evanescence","spirits",85,0,585,1,"first","alcohol & drugs","^spirits$",2003,1,1,"My spirit's sleeping somewhere cold","Where I've become so numb"
-"bts - 작은 것들을 위한 시 (boy with luv) ft. halsey (romanized)","Genius Romanizations","high",NA,0,68,1,"first","alcohol & drugs","^high$",2019,1,1,"You got me high so fast",NA
 "bulletproof","La Roux","bullet",87,10,79,12,"first","violence","^bullet",2011,1,1,"This time, baby, I’ll be bulletproof","Been there"
 "burnin' up","Jonas Brothers","dress",89,1,587,2,"first","sexual","^dress$",2009,1,1,"High heels (High heels), red dress (Red dress)","All by yourself, gotta catch my breath"
 "burnin' up","Jonas Brothers","high",89,1,587,2,"first","alcohol & drugs","^high$",2009,1,1,"High heels (High heels), red dress (Red dress)","All by yourself, gotta catch my breath"
@@ -141,6 +134,7 @@
 "call me maybe","Carly Rae Jepsen","skin",93,0,83,2,"first","sexual","^skin$",2012,1,1,"Ripped jeans, skin was showin'","Ripped jeans, smile was showin'"
 "can't stop the feeling!","Justin Timberlake","body",96,6,86,8,"first","sexual","^body$",2016,1,1,"I feel that hot blood in my body when it drops (ooh)","I feel that hot blood in my body when it drops, ooh"
 "can't stop the feeling!","Justin Timberlake","creep",96,0,86,3,"first","other","^creep",2016,1,1,"A feeling good, good, creeping up on you","A feeling good, good, dancing here with you"
+"candy girl","New Edition","high",17,0,17,2,"second","alcohol & drugs","^high$",2012,1,1,"She knocks me high up off my feet",NA
 "castle on the hill","Ed Sheeran","drink",97,0,588,1,"first","alcohol & drugs","^drink",2017,1,1,"We'd buy cheap spirits and drink them straight","We'd buy cheap toys and then they'd break"
 "castle on the hill","Ed Sheeran","cigarette",97,0,588,1,"first","alcohol & drugs","^cigarette",2017,1,1,"Fifteen years old and smoking hand-rolled cigarettes","Once we got older, hoping the fun never ends"
 "castle on the hill","Ed Sheeran","clothes",97,0,588,1,"first","sexual","^clothes$",2017,1,1,"One friend left to sell clothes","And I'm on my way, I still remember"
@@ -163,14 +157,13 @@
 "cold","Maroon 5","fuck",109,0,101,1,"first","profanity","fuck",2017,1,1,"You know how to fuck with me","You know how to confuse me"
 "cold","Maroon 5","kiss",109,0,101,2,"first","sexual","^kiss",2017,1,1,"Distant, when we're kissing","Distant, how we're living"
 "cold","Maroon 5","sleep",109,0,101,4,"first","sexual","^sleep",2017,1,1,"Sleeping up under the covers","Slippin' up, you're undiscovered"
-"cold water (ft. justin bieber & mø)","Major Lazer","fight",NA,0,102,1,"first","violence","^fight",2016,1,1,"You shouldn't be fighting on your own",NA
-"cold water (ft. justin bieber & mø)","Major Lazer","high",NA,0,102,1,"first","alcohol & drugs","^high$",2016,1,1,"Everybody gets high sometimes, you know",NA
 "come & get it","Selena Gomez","addict",112,0,103,2,"first","alcohol & drugs","^addict",2013,1,1,"Maybe I'm addicted for life, no lie","When you're ready come and get it"
 "come & get it","Selena Gomez","death",112,0,103,1,"first","violence","^death$",2013,1,1,"This love will be the death of me",NA
 "come & get it","Selena Gomez","die",112,0,103,1,"first","violence","^die$",2013,1,1,"But I know I'll die happily",NA
 "come clean","Hilary Duff","sanity",111,3,104,4,"first","other","^sanity$",2004,1,1,"Let it wash away my sanity","'Cause I wanna feel the thunder, I wanna scream"
 "come on over baby","Christina Aguilera","crazy",113,2,105,5,"first","other","^crazy$",2002,1,1,"All I want is you (you know you make me go crazy)","All I want is you, now baby, don't be shy"
 "come on over baby","Christina Aguilera","sex",113,1,105,2,"first","sexual","^sex",2002,1,1,"I'm not just talking about your sexuality (your sexuality)","About your sexuality"
+"con calma","Daddy Yankee","man",21,0,21,1,"second","identity","^man$",2019,1,1,"'Tective man a say, say daddy me Snow me stop a girl down the lane",NA
 "confident","Demi Lovato","bitch",115,0,107,1,"first","profanity","^bitch",2016,1,1,"Bitch, I run this show","Now I’m letting go"
 "confident","Demi Lovato","freak",115,0,107,1,"first","sexual","^freak",2016,1,1,"I used to hold my freak back, now I'm letting go","And you better come to play"
 "congratulations","Post Malone","addict",116,0,108,1,"first","alcohol & drugs","^addict",2017,1,1,"I be itching like a addict, yeah","But they didn't know me last year, yeah"
@@ -199,10 +192,6 @@
 "cruise","Florida Georgia Line","hell",124,0,114,4,"first","profanity","^hell$",2014,1,1,"Would look a hell of a lot better with you up in it","(Spoken) come on!"
 "cruise","Florida Georgia Line","man",124,0,114,1,"first","identity","^man$",2014,1,1,"Because it felt so right, her and I, man, we felt so right","Down a back road thru pines signs through the middle "
 "cruise","Florida Georgia Line","sippin",124,0,114,1,"first","alcohol & drugs","^sippin",2014,1,1,"She was sipping on Southern and singing Marshall Tucker","I got my windows down, and the radio up, get your radio up"
-"cupid's chokehold / breakfast in america (ft. patrick stump)","Gym Class Heroes","skin",NA,0,118,1,"first","sexual","^skin$",2007,1,1,"She's got porcelain skin, of course she's a ten",NA
-"cupid's chokehold / breakfast in america (ft. patrick stump)","Gym Class Heroes","gun",NA,0,118,1,"first","violence","^gun$",2007,1,1,"I'd be one nocturnal son of a gun",NA
-"cupid's chokehold / breakfast in america (ft. patrick stump)","Gym Class Heroes","man",NA,0,118,2,"first","identity","^man$",2007,1,1,"Annoying old man bite his tongue (I'm not done)",NA
-"cupid's chokehold / breakfast in america (ft. patrick stump)","Gym Class Heroes","tongue",NA,0,118,1,"first","sexual","^tongue",2007,1,1,"Annoying old man bite his tongue (I'm not done)",NA
 "cups","Anna Kendrick","bottle",127,0,119,1,"first","alcohol & drugs","^bottle",2014,1,1,"Two bottle'a whiskey for the way","I got my memories for the way"
 "cups","Anna Kendrick","whiskey",127,0,119,1,"first","alcohol & drugs","^whiskey",2014,1,1,"Two bottle'a whiskey for the way","I got my memories for the way"
 "damaged","Danity Kane","pray",128,0,120,1,"first","other","^pray",2008,1,1,"(That makes you pray, makes you cry)",NA
@@ -242,9 +231,6 @@
 "don't let me get me","P!nk","damn",139,0,131,1,"first","profanity","^damn",2003,1,1,"Tired of being compared to damn Britney Spears","LA told me, ""You'll be a pop star"
 "don't matter","Akon","women",140,0,133,1,"first","identity","^women$",2007,1,1,"Women steady comin' after me","Nobody wanna see us together, but it don't matter, no"
 "don't matter","Akon","men",140,0,133,1,"first","identity","^men$",2007,1,1,"Men steady comin' after you","Cause I got you, babe"
-"don't stop the party (ft. tjr)","Pitbull","women",NA,0,136,1,"first","identity","^women$",2013,1,1,"Well All the Pretty Women hit the Hookah",NA
-"don't stop the party (ft. tjr)","Pitbull","hookah",NA,0,136,1,"first","alcohol & drugs","^hookah$",2013,1,1,"Well All the Pretty Women hit the Hookah",NA
-"don't stop the party (ft. tjr)","Pitbull","drink",NA,0,136,1,"first","alcohol & drugs","^drink",2013,1,1,"Beirut, cafe getting my drink on, mole",NA
 "don't wanna know","Maroon 5","bed",142,0,597,1,"first","sexual","^bed$",2017,1,1,"Even in my head, you're still in my bed","Do you think of me?"
 "don't wanna know","Maroon 5","drink",142,0,597,1,"first","alcohol & drugs","^drink",2017,1,1,"And the more I drink, the more I think about you","Of what we used to be?"
 "don't wanna know","Maroon 5","touch",142,0,597,1,"first","sexual","^touch",2017,1,1,"Do he lay it down for you, touch your poona like this?","The way I used to love you, oh"
@@ -266,6 +252,7 @@
 "drag me down","One Direction","man",146,1,139,2,"first","identity","^man$",2016,1,1,"The shell of a man who could never be his best","The shell of a guy who could never be his best"
 "dynamite","Taio Cruz","fuck",147,0,141,1,"first","profanity","fuck",2011,1,1,"Just what the fuck, came here to do, do, do, do (Yeah)","Just what the floor came here to do, do, do, do"
 "easier","5 Seconds of Summer","damn",NA,0,142,5,"first","profanity","^damn",2019,1,1,"'Cause you're so damn beautiful",NA
+"easier","5 Seconds of Summer","damn",27,0,27,5,"second","profanity","^damn",2019,1,1,"'Cause you're so damn beautiful",NA
 "eastside","​benny blanco, Halsey & Khalid","kiss",148,0,598,1,"first","sexual","^kiss",2019,1,1,"Used to kiss underneath the light on the back of the bus (Yeah)","And he didn't believe me when I said you were the one"
 "elastic heart","Sia","skin",149,2,143,3,"first","sexual","^skin$",2015,1,1,"I've got a thick skin and an elastic heart","I'm like a rubber band until you pull too hard"
 "elastic heart","Sia","weapon",149,0,143,1,"first","violence","^weapon",2015,1,1,"Wanted to fight this war without weapons","But there were so many red flags"
@@ -278,10 +265,17 @@
 "evacuate the dance floor","Cascada","intoxicate",151,0,145,1,"first","alcohol & drugs","^intoxicate",2010,1,1,"Watch me, I'm intoxicated, take in the show (Ah-ah)","(Everybody in the club!)"
 "evacuate the dance floor","Cascada","kill",151,2,145,9,"first","violence","^kill",2010,1,1,"Steal the night, kill the lights, feel it under your skin","Watch me getting crazy here, out of control"
 "evacuate the dance floor","Cascada","overdose",151,0,145,6,"first","alcohol & drugs","^overdose",2010,1,1,"Wrap it up, you can't stop 'cause it feels like an overdose","I never miss a beat"
+"every rose has its thorn","Poison","dead",29,0,29,1,"second","violence","^dead$",2011,1,1,"We both lie silently still in the dead of the night",NA
 "everybody talks","Neon Trees","drug",152,0,146,1,"first","alcohol & drugs","^drug",2013,1,1,"Hey honey you could be my drug","You could be my new prescription"
 "everybody talks","Neon Trees","lips",152,0,146,3,"first","sexual","^lips$",2013,1,1,"And then she made my lips hurt","I could hear the chit chat"
 "everybody talks","Neon Trees","overdose",152,0,146,1,"first","alcohol & drugs","^overdose",2013,1,1,"Too much could be an overdose","All this trash talk make me itching"
 "everybody talks","Neon Trees","shit",152,0,146,1,"first","profanity","^shit",2013,1,1,"Oh my, my shit","Everybody talks, everybody talks"
+"ex's and oh's","Elle King","man",32,0,32,1,"second","identity","^man$",2016,1,1,"Well, I had me a boy, turned him into a man",NA
+"ex's and oh's","Elle King","high",32,0,32,1,"second","alcohol & drugs","^high$",2016,1,1,"I get high, and I love to get low",NA
+"exit sign","Hilltop Hoods","jesus",31,0,31,1,"second","other","^jesus",2019,1,1,"Jesus wept, ha, I don't mean it",NA
+"exit sign","Hilltop Hoods","god",31,0,31,1,"second","other","^god",2019,1,1,"You in it for your fifteen minutes, it's quarter past then, goddamn",NA
+"exit sign","Hilltop Hoods","amen",31,0,31,1,"second","other","^amen",2019,1,1,"But don't mind it if it cause offence, we make moves not amends",NA
+"exit sign","Hilltop Hoods","fuck",31,0,31,3,"second","profanity","fuck",2019,1,1,"But I don't give a fuck about the money",NA
 "exit sign (ft. ecca vandal & illy)","Hilltop Hoods","god",NA,0,148,1,"first","other","^god",2019,1,1,"You in it for your fifteen minutes, it's quarter past then, goddamn",NA
 "exit sign (ft. ecca vandal & illy)","Hilltop Hoods","man",NA,0,148,3,"first","identity","^man$",2019,1,1,"Go hit the floor, man, I'm sure you want to",NA
 "exit sign (ft. ecca vandal & illy)","Hilltop Hoods","cuttin",NA,0,148,2,"first","violence","^cuttin",2019,1,1,"That's why I think I'm cuttin' you from my life, no more",NA
@@ -302,13 +296,6 @@
 "fancy","Iggy Azalea","retard",158,0,151,1,"first","profanity","^retard",2015,1,1,"That my flow retarded, each beat dear, departed","Be that K-I-D-Z, put my name in bold"
 "fancy","Iggy Azalea","touch",158,0,151,2,"first","sexual","^touch",2015,1,1,"Classic, expensive, you don't get to touch, ow!","(Blow…)"
 "far away","Nickelback","hell",159,0,152,1,"first","profanity","^hell$",2007,1,1,"All of Hell to hold your hand","'Cause you know"
-"feel good inc. (ft. de la soul)","Gorillaz","shit",NA,0,158,1,"first","profanity","^shit",2006,1,1,"Shit, I'm steppin' in hotter this year (Yeah)",NA
-"feel good inc. (ft. de la soul)","Gorillaz","kill",NA,0,158,1,"first","violence","^kill",2006,1,1,"With yo sound, you kill the Inc. ",NA
-"feel good inc. (ft. de la soul)","Gorillaz","kiss",NA,0,158,1,"first","sexual","^kiss",2006,1,1,"My dreams, they come a kissin' 'cause I don't get sleep, no",NA
-"feel good inc. (ft. de la soul)","Gorillaz","ass",NA,0,158,1,"first","profanity","^ass$",2006,1,1,"Linin' 'em up like ass cracks",NA
-"feel good inc. (ft. de la soul)","Gorillaz","damn",NA,0,158,1,"first","profanity","^damn",2006,1,1,"You won't get undercounted 'cause you're damned and free",NA
-"feel good inc. (ft. de la soul)","Gorillaz","sleep",NA,0,158,1,"first","sexual","^sleep",2006,1,1,"My dreams, they come a kissin' 'cause I don't get sleep, no",NA
-"feel good inc. (ft. de la soul)","Gorillaz","fight",NA,0,158,1,"first","violence","^fight",2006,1,1,"Gon' bite the dust, can't fight with us",NA
 "feel this moment","Pitbull","christian",164,0,155,1,"first","other","^christian",2013,1,1,"Christian Gris, nice to meet ya","Only difference is I own it"
 "feels","Calvin Harris","bed",161,0,156,1,"first","sexual","^bed$",2017,1,1,"In the same bed, but it still feel long distance","I know you ain't afraid about this (I know)"
 "feels","Calvin Harris","cut",161,0,156,1,"first","violence","^cut$",2017,1,1,"I cut off all my exes for your x and o's",NA
@@ -322,20 +309,26 @@
 "forever","Chris Brown","high",174,0,168,1,"first","alcohol & drugs","^high$",2009,1,1,"It's a long way down, we so high off the ground","And I won't let you fall girl, let you fall girl"
 "friends","Marshmello & Anne-Marie","fight",178,2,605,3,"first","violence","^fight",2018,1,1,"You really ain't going away without a fight","You really ain't going away without a fight"
 "friends","Marshmello & Anne-Marie","shit",178,0,605,3,"first","profanity","^shit",2018,1,1,"Don't mess it up, talking that shit","Don't mess it up, talking like this"
-"fuckin' perfect","P!nk","fuck",NA,0,376,7,"first","profanity","fuck",2011,1,1,"Like you're less than fuckin' perfect",NA
-"fuckin' perfect","P!nk","beer",NA,0,376,1,"first","alcohol & drugs","^beer",2011,1,1,"The only thing I should be drinking is an ice-cold beer",NA
-"fuckin' perfect","P!nk","demon",NA,0,376,1,"first","other","^demon",2011,1,1,"Chased down all my demons, I've seen you do the same, oh",NA
-"fuckin' perfect","P!nk","blood",NA,0,376,1,"first","violence","^blood",2011,1,1,"Dug my way out, blood and fire",NA
-"fuckin' perfect","P!nk","drink",NA,0,376,1,"first","alcohol & drugs","^drink",2011,1,1,"The only thing I should be drinking is an ice-cold beer",NA
+"galway girl","Ed Sheeran","bar",34,0,34,3,"second","alcohol & drugs","^bar$",2019,1,1,"I met her on Grafton street right outside of the bar",NA
 "galway girl","Ed Sheeran","bar",NA,0,171,3,"first","alcohol & drugs","^bar$",2019,1,1,"I met her on Grafton street right outside of the bar",NA
 "galway girl","Ed Sheeran","bottle",NA,0,171,1,"first","alcohol & drugs","^bottle",2019,1,1,"To finish some Doritos and another bottle of wine",NA
+"galway girl","Ed Sheeran","bottle",34,0,34,1,"second","alcohol & drugs","^bottle",2019,1,1,"To finish some Doritos and another bottle of wine",NA
 "galway girl","Ed Sheeran","drink",NA,0,171,2,"first","alcohol & drugs","^drink",2019,1,1,"Said it was one of my friend's songs, do you want to drink on?",NA
+"galway girl","Ed Sheeran","cigarette",34,0,34,1,"second","alcohol & drugs","^cigarette",2019,1,1,"She shared a cigarette with me while her brother played the guitar",NA
 "galway girl","Ed Sheeran","cigarette",NA,0,171,1,"first","alcohol & drugs","^cigarette",2019,1,1,"She shared a cigarette with me while her brother played the guitar",NA
+"galway girl","Ed Sheeran","ink",34,0,34,1,"second","other","^ink$",2019,1,1,"She asked me what does it mean, the Gaelic ink on your arm?",NA
 "galway girl","Ed Sheeran","jack",NA,0,171,1,"first","alcohol & drugs","^jack$",2019,1,1,"She took Jamie as a chaser, Jack for the fun",NA
+"galway girl","Ed Sheeran","drink",34,0,34,2,"second","alcohol & drugs","^drink",2019,1,1,"Said it was one of my friend's songs, do you want to drink on?",NA
+"galway girl","Ed Sheeran","neck",34,0,34,4,"second","sexual","^neck$",2019,1,1,"Kissed her on the neck and then I took her by the hand",NA
 "galway girl","Ed Sheeran","kiss",NA,0,171,5,"first","sexual","^kiss",2019,1,1,"Kissed her on the neck and then I took her by the hand",NA
 "galway girl","Ed Sheeran","ink",NA,0,171,1,"first","other","^ink$",2019,1,1,"She asked me what does it mean, the Gaelic ink on your arm?",NA
+"galway girl","Ed Sheeran","jack",34,0,34,1,"second","alcohol & drugs","^jack$",2019,1,1,"She took Jamie as a chaser, Jack for the fun",NA
+"galway girl","Ed Sheeran","kiss",34,4,34,5,"second","sexual","^kiss",2019,1,1,"Kissed her on the neck and then I took her by the hand",NA
+"galway girl","Ed Sheeran","man",34,0,34,4,"second","identity","^man$",2019,1,1,"But she fell in love with an English man",NA
 "galway girl","Ed Sheeran","man",NA,0,171,4,"first","identity","^man$",2019,1,1,"But she fell in love with an English man",NA
 "galway girl","Ed Sheeran","neck",NA,0,171,4,"first","sexual","^neck$",2019,1,1,"Kissed her on the neck and then I took her by the hand",NA
+"galway girl","Ed Sheeran","wine",34,0,34,2,"second","alcohol & drugs","^wine$",2019,1,1,"Our coats both smell of smoke, whisky and wine",NA
+"galway girl","Ed Sheeran","smoke",34,0,34,1,"second","alcohol & drugs","^smoke",2019,1,1,"Our coats both smell of smoke, whisky and wine",NA
 "galway girl","Ed Sheeran","smoke",NA,0,171,1,"first","alcohol & drugs","^smoke",2019,1,1,"Our coats both smell of smoke, whisky and wine",NA
 "galway girl","Ed Sheeran","wine",NA,0,171,2,"first","alcohol & drugs","^wine$",2019,1,1,"Our coats both smell of smoke, whisky and wine",NA
 "gdfr","Flo Rida","ass",180,0,173,1,"first","profanity","^ass$",2015,1,1,"Get that ass on the floor",NA
@@ -349,6 +342,7 @@
 "ghost","Ella Henderson","demon",182,4,175,7,"first","other","^demon",2015,1,1,"And at most, I'm sleeping all these demons away","And at most I'm sleeping all these demons away"
 "ghost","Ella Henderson","pray",182,4,175,7,"first","other","^pray",2015,1,1,"I keep going to the river to pray","I keep going to the river to pray"
 "ghost","Ella Henderson","sleep",182,4,175,7,"first","sexual","^sleep",2015,1,1,"And at most, I'm sleeping all these demons away","And at most I'm sleeping all these demons away"
+"giant","Calvin Harris & Rag’n’Bone Man","pills",36,0,36,1,"second","alcohol & drugs","^pills$",2019,1,1,"I saw the pills on the table for your unrequited love",NA
 "giant","Calvin Harris & Rag’n’Bone Man","pills",NA,0,176,1,"first","alcohol & drugs","^pills$",2019,1,1,"I saw the pills on the table for your unrequited love",NA
 "girls like you","Maroon 5","drunk",188,0,182,1,"first","alcohol & drugs","^drunk",2018,1,1,"Maybe I know that I'm drunk","'Til sundown when I come through"
 "girls like you","Maroon 5","shit",188,0,182,1,"first","profanity","^shit",2018,1,1,"Maybe you've taken my shit for the last time (yeah)","Oh, 'cause girls like you run 'round with guys like me (Girls like you)"
@@ -375,18 +369,15 @@
 "havana","Camila Cabello","damn",206,0,196,1,"first","profanity","^damn",2018,1,1,"Fresh out East Atlanta with no manners, damn (Fresh out East Atlanta)","(Ooh-na-na), Oh-na-na, take me back, back, back"
 "he loves u not","Dream (Girl Group)","kiss",212,2,197,4,"first","sexual","^kiss",2002,1,1,"Try to tempt him with a sweet kiss","No matter what you do, he's never gonna be with you"
 "heartless","Kanye West","woman",209,0,200,4,"first","identity","^woman$",2009,1,1,"He lost his soul to a woman so heartless","How could you be so cold as the winter wind when it breeze, yo?"
+"hello, goodbye","The Beatles","high",41,0,41,1,"second","alcohol & drugs","^high$",2009,1,1,"I say high, you say low",NA
 "here","Alessia Cara","marijuana",213,0,205,1,"first","alcohol & drugs","^marijuana",2016,1,1,"Under clouds of marijuana","With this boy who's hollering"
 "here with me (ft. chvrches)","Marshmello","sleep",NA,0,206,1,"first","sexual","^sleep",2019,1,1,"Every single night, I find it harder to sleep",NA
-"hey baby (ft. bounty killer)","No Doubt","hips",NA,0,210,2,"first","sexual","^hips$",2003,1,1,"When you rock your hips you know that, it amaze me",NA
-"hey baby (ft. bounty killer)","No Doubt","sex",NA,0,210,2,"first","sexual","^sex",2003,1,1,"Watching boys and girls and their sex appeal",NA
-"hey baby (ft. bounty killer)","No Doubt","kill",NA,0,210,1,"first","violence","^kill",2003,1,1,"Check it out, it’s Bounty Killer and No Doubt!",NA
-"hey baby (ft. bounty killer)","No Doubt","high",NA,0,210,2,"first","alcohol & drugs","^high$",2003,1,1,"And went to my high school",NA
-"hey baby (ft. bounty killer)","No Doubt","crazy",NA,0,210,2,"first","other","^crazy$",2003,1,1,"Jump on the stage makes me going crazy",NA
-"hey baby (ft. bounty killer)","No Doubt","sin",NA,0,210,1,"first","other","^sin$",2003,1,1,"With my makeup bag watching all the sin",NA
-"hey baby (ft. bounty killer)","No Doubt","sippin",NA,0,210,2,"first","alcohol & drugs","^sippin",2003,1,1,"I’m just sippin' on chamomile",NA
+"hey jude","The Beatles","fuck",44,0,44,1,"second","profanity","fuck",2009,1,1,"Then you'll begin to make it (Whoa, fucking hell!)",NA
+"hey jude","The Beatles","hell",44,0,44,1,"second","profanity","^hell$",2009,1,1,"Then you'll begin to make it (Whoa, fucking hell!)",NA
 "hey look ma, i made it","Panic! at the Disco","demon",NA,0,211,1,"first","other","^demon",2019,1,1,"This world is full of demons",NA
 "hey look ma, i made it","Panic! at the Disco","evil",NA,0,211,2,"first","other","^evil",2019,1,1,"In the garden of evil",NA
 "hey look ma, i made it","Panic! at the Disco","pimp",NA,0,211,1,"first","sexual","^pimp",2019,1,1,"And my pimp's a record label",NA
+"hey look ma, i made it","Panic! at the Disco","pimp",45,0,45,1,"second","sexual","^pimp",2019,1,1,"And my pimp's a record label",NA
 "hey look ma, i made it","Panic! at the Disco","pray",NA,0,211,2,"first","other","^pray",2019,1,1,"I'll be praying for the faithless",NA
 "hey mama","David Guetta","bitch",217,0,212,1,"first","profanity","^bitch",2015,1,1,"None of them bitches ain't taking you, just tell them to make a U","Like hey mama, mama, hey mama, ma"
 "hey mama","David Guetta","dick",217,0,212,1,"first","sexual","^dick",2015,1,1,"Whole crew got the juice, yo' dick game the truth","Like hey mama, mama, hey mama, ma"
@@ -401,14 +392,13 @@
 "high hopes","Panic! at the Disco","kill",223,0,217,4,"first","violence","^kill",2019,1,1,"Shooting for the stars when I couldn't make a killing","Shooting for the stars when you knew that I was willing"
 "high hopes","Panic! at the Disco","high",223,44,217,46,"first","alcohol & drugs","^high$",2019,1,1,"High, high hopes","High, high hopes"
 "higher","Taio Cruz","pill",222,1,613,2,"first","alcohol & drugs","^pill$",2002,1,1,"I got this high without takin' a pill (Pill)","Just for the thrill"
-"hold on","Good Charlotte","bleed",NA,0,220,2,"first","violence","^bleed",2004,1,1,"But we all bleed the same way as you do",NA
-"hold on","Good Charlotte","sleep",NA,0,220,1,"first","sexual","^sleep",2004,1,1,"And your nights, you can't sleep at all",NA
 "honey, i'm good.","Andy Grammer","ass",227,0,614,1,"first","profanity","^ass$",2017,1,1,"I got her and she got me and you got that ass","Now better ones than me have failed"
 "honey, i'm good.","Andy Grammer","damn",227,0,614,1,"first","profanity","^damn",2017,1,1,"And these long, long legs are damn near everywhere","It's been a long night here"
 "honey, i'm good.","Andy Grammer","drink",227,0,614,1,"first","alcohol & drugs","^drink",2017,1,1,"Drinking from that unholy grail","To another I will stay true"
 "honey, i'm good.","Andy Grammer","men",227,0,614,1,"first","identity","^men$",2017,1,1,"Now, better men than me have failed","I've got to bid you adieu"
 "honey, i'm good.","Andy Grammer","legs",227,0,614,1,"first","sexual","^legs$",2017,1,1,"And these long, long legs are damn near everywhere","It's been a long night here"
 "honey, i'm good.","Andy Grammer","unholy",227,0,614,1,"first","other","^unholy",2017,1,1,"Drinking from that unholy grail","To another I will stay true"
+"hooked on a feeling","Blue Swede","victim",46,0,46,1,"second","violence","^victim",2004,1,1,"I'll just stay a victim if I can for sure",NA
 "hot n cold","Katy Perry","bipolar",229,0,223,1,"first","other","^bipolar",2009,1,1,"Got a case of a love bipolar","Stuck on a roller coaster"
 "hot n cold","Katy Perry","bitch",229,0,223,1,"first","profanity","^bitch",2009,1,1,"Yeah, you PMS like a bitch; I would know","Yeah, you be a mess like a girl I would know"
 "hot n cold","Katy Perry","fight",229,3,223,4,"first","violence","^fight",2009,1,1,"We fight, we break up","We fight, we break up"
@@ -427,6 +417,7 @@
 "i don't like it, i love it","Flo Rida","booty",240,0,619,1,"first","sexual","^booty",2015,1,1,"Feel the bass, let ya booty go","I don't like it, no, I love it, I love it"
 "i don't wanna live forever","ZAYN & Taylor Swift","bullet",242,0,230,1,"first","violence","^bullet",2017,1,1,"Wondering if I dodged a bullet or just lost the love of my life","I don't wanna live forever"
 "i gotta feeling","The Black Eyed Peas","god",248,0,232,3,"first","other","^god",2010,1,1,"Go out and smash it like, ""Oh, my God!""","Let's paint the town, we'll shut it down"
+"i gotta feeling - 1461400","The Black Eyed Peas","god",47,0,47,3,"second","other","^god",2009,1,1,"Go out and smash it like, ""Oh, my God!""",NA
 "i like it","Cardi B, Bad Bunny & J Balvin","bang",251,0,235,1,"first","sexual","^bang$",2018,1,1,"This is the new religion bang in Latino gang, gang, ¡yeh!","I said I like it like that"
 "i like it","Cardi B, Bad Bunny & J Balvin","bitch",251,0,235,5,"first","profanity","^bitch",2018,1,1,"Where's my pen? Bitch I'm signin' (Signin')","I like going to the jeweler, I put rocks all in my watch (Yeah)"
 "i like it","Cardi B, Bad Bunny & J Balvin","blow",251,0,235,3,"first","alcohol & drugs","^blow",2018,1,1,"Drop the top and blow the brains, woo (Woo, I said I like it like that)","I said I like it like that"
@@ -446,13 +437,10 @@
 "i love it","Icona Pop","shit",254,0,238,3,"first","profanity","^shit",2013,1,1,"I threw your shit into a bag and pushed it down the stairs","I threw your stuff into a bag and pushed it down the stairs"
 "i need your love","Calvin Harris","high",262,0,239,4,"first","alcohol & drugs","^high$",2014,1,1,"I feel so high, I come alive","When everything's wrong"
 "i want you to know (ft. selena gomez)","Zedd","bleed",NA,0,241,7,"first","violence","^bleed",2017,1,1,"You and me bleed the same light",NA
+"i'll be there","The Rembrandts","bed",49,0,49,1,"second","sexual","^bed$",2004,1,1,"You're still in bed at ten and work began at eight",NA
+"i'll be there","The Rembrandts","pour",49,0,49,3,"second","alcohol & drugs","^pour",2004,1,1,"(When the rain starts to pour)",NA
 "i'm so tired...","Lauv & Troye Sivan","cut",259,0,246,1,"first","violence","^cut$",2019,1,1,"Buzz cut season like you're still around","Strangers"
 "i'm so tired...","Lauv & Troye Sivan","kill",259,0,246,1,"first","violence","^kill",2019,1,1,"Strangers, killing my lonely nights with strangers","So tired of love songs, tired of love songs"
-"i'm still in love with you (ft. sasha)","Sean Paul","bless",NA,0,247,4,"first","other","^bless",2004,1,1,"This blessed love will never part",NA
-"i'm still in love with you (ft. sasha)","Sean Paul","man",NA,0,247,12,"first","identity","^man$",2004,1,1,"That a man is just a man",NA
-"i'm still in love with you (ft. sasha)","Sean Paul","body",NA,0,247,1,"first","sexual","^body$",2004,1,1,"And a-make your body twirl",NA
-"i'm still in love with you (ft. sasha)","Sean Paul","thug",NA,0,247,1,"first","violence","^thug",2004,1,1,"A true me give her thug love and say, ""bye, bye, bye""",NA
-"i'm still in love with you (ft. sasha)","Sean Paul","kiss",NA,0,247,4,"first","sexual","^kiss",2004,1,1,"I and I nuh have no time for no kissing and charm",NA
 "i'm the one","DJ Khaled","bed",260,0,622,1,"first","sexual","^bed$",2017,1,1,"She don't got no bed frame, she don't got no tables","Don't you know, girl? Don't you know, girl?"
 "i'm the one","DJ Khaled","bitch",260,0,622,3,"first","profanity","^bitch",2017,1,1,"Baby, that's only me, bitch, it okay with me","I am the one for you (I'm the one)"
 "i'm the one","DJ Khaled","body",260,1,622,2,"first","sexual","^body$",2017,1,1,"Not just any fuckin' body",NA
@@ -509,12 +497,6 @@
 "jenny from the block","Jennifer Lopez","god",276,0,623,1,"first","other","^god",2003,1,1,"Put God first and can't forget to stay real (Real)","Don't be fooled by the rocks that I got"
 "jenny from the block","Jennifer Lopez","men",276,0,623,1,"first","identity","^men$",2003,1,1,"Men go working, some go stealing","I'm still, I'm still Jenny from the block"
 "jenny from the block","Jennifer Lopez","women",276,0,623,1,"first","identity","^women$",2003,1,1,"Children grow and women producing","Don't be fooled by the rocks that I got"
-"juju on that beat (tz anthem) (ft. zayion mccall)","Zay Hilfigerrr","fight",NA,0,271,1,"first","violence","^fight",2017,1,1,"And ready to fight",NA
-"juju on that beat (tz anthem) (ft. zayion mccall)","Zay Hilfigerrr","crazy",NA,0,271,1,"first","other","^crazy$",2017,1,1,"Go crazy, ayy",NA
-"juju on that beat (tz anthem) (ft. zayion mccall)","Zay Hilfigerrr","drink",NA,0,271,1,"first","alcohol & drugs","^drink",2017,1,1,"Besides drinking and having parties",NA
-"juju on that beat (tz anthem) (ft. zayion mccall)","Zay Hilfigerrr","god",NA,0,271,2,"first","other","^god",2017,1,1,"Girl 1: Oh my god, oh my god. Girl ain't that Zay and Zayion?",NA
-"juju on that beat (tz anthem) (ft. zayion mccall)","Zay Hilfigerrr","freak",NA,0,271,1,"first","sexual","^freak",2017,1,1,"Get freaky, ayy",NA
-"juju on that beat (tz anthem) (ft. zayion mccall)","Zay Hilfigerrr","man",NA,0,271,8,"first","identity","^man$",2017,1,1,"Running man on that beat, ayy",NA
 "just a dream","Nelly","woman",278,0,625,1,"first","identity","^woman$",2011,1,1,"My woman, oh I miss her, when will I learn?","No one knows"
 "just give me a reason","P!nk","victim",280,0,273,1,"first","violence","^victim",2013,1,1,"And I your willing victim","And I your willing person I let you see the parts of me"
 "just give me a reason","P!nk","sleep",280,0,273,1,"first","sexual","^sleep",2013,1,1,"Now you've been talking in your sleep","Of our love, our love Just give me a reason"
@@ -568,22 +550,16 @@
 "makes me wonder","Maroon 5","damn",323,0,309,1,"first","profanity","^damn",2007,1,1,"God damn my spinning head","I wonder if it even makes a difference to try"
 "makes me wonder","Maroon 5","fuck",323,0,309,3,"first","profanity","fuck",2007,1,1,"And it really makes me wonder if I ever gave a fuck about you","And you don't have the time"
 "makes me wonder","Maroon 5","thigh",323,0,309,1,"first","sexual","^thigh",2007,1,1,"The way it felt between your thighs","Way it felt to hearing lies"
-"me against the music (ft. madonna)","Britney Spears","hell",NA,0,312,1,"first","profanity","^hell$",2004,1,1,"To hell with stares",NA
-"me against the music (ft. madonna)","Britney Spears","sex",NA,0,312,1,"first","sexual","^sex",2004,1,1,"Sexy lady, I'd rather see you bare your soul",NA
-"me against the music (ft. madonna)","Britney Spears","body",NA,0,312,2,"first","sexual","^body$",2004,1,1,"Just work your body (uh-huh) and let it go (Let it go)",NA
-"me against the music (ft. madonna)","Britney Spears","hips",NA,0,312,1,"first","sexual","^hips$",2004,1,1,"My hips are movin' at a rapid pace",NA
 "me love","Sean Kingston","damn",330,0,313,1,"first","profanity","^damn",2008,1,1,"Damn, why my baby up and gone (Up and gone)","I feel like I'm drownin' in the ocean"
 "me love","Sean Kingston","kiss",330,0,313,1,"first","sexual","^kiss",2008,1,1,"We use to kiss and caress an chess me","We use hang out an' talk, an' trust me, girl"
 "me too","Meghan Trainor","drink",332,0,314,1,"first","alcohol & drugs","^drink",2016,1,1,"I never pay for my drinks","I never pay for a thing"
 "me too","Meghan Trainor","god",332,3,314,5,"first","other","^god",2016,1,1,"I thank God every day (Uh-huh)","I thank God every day (uh huh)"
 "me too","Meghan Trainor","neck",332,0,314,1,"first","sexual","^neck$",2016,1,1,"What's that icy thang hangin' 'round my neck? Mmm","What's that icy thing hangin' 'round my neck?"
 "me too","Meghan Trainor","sex",332,0,314,1,"first","sexual","^sex",2016,1,1,"Who's that sexy thang I see over there?","Who's that pretty girl I see over there?"
-"me, myself and i","Beyoncé","man",NA,0,315,1,"first","identity","^man$",2004,1,1,"So dumb and naive to believe that with me you're a changed man",NA
-"me, myself and i","Beyoncé","clothes",NA,0,315,1,"first","sexual","^clothes$",2004,1,1,"Come pick up your clothes",NA
-"me, myself and i","Beyoncé","women",NA,0,315,1,"first","identity","^women$",2004,1,1,"Foolish of me to compete when you cheat with loose women",NA
 "mercy","Shawn Mendes","skin",331,0,321,2,"first","sexual","^skin$",2017,1,1,"Ripping all the skin from off my bones","Feeling all the hurt inside my bones"
 "mi gente","J Balvin & Willy William","man",333,0,322,1,"first","identity","^man$",2018,1,1,"J Balvin, man","Uh-huh"
 "mía (ft. drake)","Bad Bunny","high",NA,0,323,2,"first","alcohol & drugs","^high$",2019,1,1,"Dile que tú eres mía desde la high (Desde la high, yeh)",NA
+"mickey","Toni Basil","blow",60,5,60,8,"second","alcohol & drugs","^blow",2008,1,1,"You're so fine, you blow my mind, hey Mickey, hey Mickey",NA
 "miss independent","Kelly Clarkson","man",336,1,327,2,"first","identity","^man$",2003,1,1,"Miss don't let a man interfere, no","Miss don't let a men interfere, no"
 "move it like this","Baha Men","body",340,3,330,4,"first","sexual","^body$",2003,1,1,"C'mon ladies rock the party Shake your body everybody","Can you move it like this? I can shake it like that"
 "move it like this","Baha Men","man",340,3,330,4,"first","identity","^man$",2003,1,1,"(move it man)","Jump back and the do the twist"
@@ -608,12 +584,8 @@
 "natural","Imagine Dragons","sin",350,0,340,1,"first","other","^sin$",2019,1,1,"Will Heaven step in? Will it save us from our sin? Will it?","Will Heaven step in? Will it save us from within? Will it?"
 "never again","Kelly Clarkson","bed",351,0,342,1,"first","sexual","^bed$",2007,1,1,"I hope when you're in bed with her, you think of me","I hope that when you're out with her you think of me"
 "never again","Kelly Clarkson","die",351,0,342,1,"first","violence","^die$",2007,1,1,"You'll die together, but alone","You wrote me in a letter"
-"never be like you (ft. kai)","Flume","sleep",NA,0,343,1,"first","sexual","^sleep",2016,1,1,"Hate sleeping on my own, missing the way you taste",NA
-"never be like you (ft. kai)","Flume","sins",NA,0,343,2,"first","other","^sins$",2016,1,1,"I'm begging, darling, please, absolve me of my sins, won't you?",NA
-"never be like you (ft. kai)","Flume","fuck",NA,0,343,6,"first","profanity","fuck",2016,1,1,"Now I'm fucked up and I'm missing you",NA
-"never be like you (ft. kai)","Flume","hell",NA,0,343,11,"first","profanity","^hell$",2016,1,1,"He'll never be like you",NA
 "never forget you","Zara Larsson & MNEK","die",352,13,344,17,"first","violence","^die$",2016,1,1,"I knew that I would love you 'til the day I die","From the day that I met you"
-"never leave you (uh oooh, uh oooh)","Lumidee","crazy",NA,0,345,1,"first","other","^crazy$",2004,1,1,"They're c-calling me crazy now",NA
+"never really over","Katy Perry","kiss",61,1,61,2,"second","sexual","^kiss",2019,1,1,"Thought we kissed goodbye",NA
 "never really over","Katy Perry","kiss",NA,0,346,2,"first","sexual","^kiss",2019,1,1,"Thought we kissed goodbye",NA
 "new rules","Dua Lipa","bed",354,0,348,3,"first","sexual","^bed$",2018,1,1,"You know you're gonna wake up in his bed in the morning","You know you're gonna meet up with your friends in the morning"
 "new rules","Dua Lipa","drunk",354,0,348,3,"first","alcohol & drugs","^drunk",2018,1,1,"You know he's only callin' 'cause he's drunk and alone","You know he's only callin' 'cause he's sad and alone"
@@ -634,19 +606,18 @@
 "not a bad thing","Justin Timberlake","knife",361,0,645,2,"first","violence","^knife",2014,1,1,"When someone cuts your heart open with a knife","Then they turn right around and break them"
 "nothin' on you","B.o.B","hell",363,0,646,1,"first","profanity","^hell$",2010,1,1,"Most of it really was for the hell of the fun","And so I lost more than I had ever won"
 "nothin' on you","B.o.B","skirt",363,0,646,1,"first","sexual","skirt",2010,1,1,"Tryna chase skirts, livin' in the summer sun","I'm thinkin', ""Maybe I should get it out"""
-"obsession (no es amor) (ft. baby bash)","Frankie J","man",NA,0,356,1,"first","identity","^man$",2005,1,1,"Now I don't care if you got a man",NA
-"obsession (no es amor) (ft. baby bash)","Frankie J","bed",NA,0,356,1,"first","sexual","^bed$",2005,1,1,"I'm tossin' turning in my bed",NA
-"obsession (no es amor) (ft. baby bash)","Frankie J","crazy",NA,0,356,1,"first","other","^crazy$",2005,1,1,"But it's driving me so crazy",NA
-"obsession (no es amor) (ft. baby bash)","Frankie J","bless",NA,0,356,1,"first","other","^bless",2005,1,1,"You're my blessin' when I'm stressin'",NA
-"obsession (no es amor) (ft. baby bash)","Frankie J","sleep",NA,0,356,2,"first","sexual","^sleep",2005,1,1,"And I still can't sleep",NA
-"obsession (no es amor) (ft. baby bash)","Frankie J","damn",NA,0,356,1,"first","profanity","^damn",2005,1,1,"Baby, you so damn independent",NA
-"obsession (no es amor) (ft. baby bash)","Frankie J","freak",NA,0,356,3,"first","sexual","^freak",2005,1,1,"I love the way you freaky like that",NA
+"nothing breaks like a heart","Mark Ronson","cuts",62,0,62,4,"second","violence","^cuts$",2017,1,1,"It cuts you deep and leaves a scar",NA
+"nothing breaks like a heart","Mark Ronson","drunk",62,0,62,1,"second","alcohol & drugs","^drunk",2017,1,1,"We were drunk in love in Tennessee",NA
+"nothing breaks like a heart","Mark Ronson","bullet",62,0,62,1,"second","violence","^bullet",2017,1,1,"These silver bullet cigarettes",NA
+"nothing breaks like a heart","Mark Ronson","smoking",62,0,62,1,"second","alcohol & drugs","^smoking",2017,1,1,"It's smoking, we both know it",NA
+"nothing breaks like a heart","Mark Ronson","die",62,0,62,1,"second","violence","^die$",2017,1,1,"We live and die by pretty lies",NA
+"nothing breaks like a heart","Mark Ronson","bar",62,0,62,6,"second","alcohol & drugs","^bar$",2017,1,1,"Spin endless circles in the bar (Spin 'round in the bar)",NA
+"nothing breaks like a heart","Mark Ronson","cigarette",62,0,62,1,"second","alcohol & drugs","^cigarette",2017,1,1,"These silver bullet cigarettes",NA
 "on my mind","Ellie Goulding","pour",374,0,359,6,"first","alcohol & drugs","^pour",2016,1,1,"Poured it down, so I poured it down","Next thing that I know I’m laying out there with you"
 "on my mind","Ellie Goulding","tattoo",374,0,359,1,"first","other","^tattoo",2016,1,1,"You wanted my heart but I just liked your tattoos","And I just felt so confused"
 "one dance","Drake","hennessy",368,0,362,6,"first","alcohol & drugs","^hennessy$",2016,1,1,"Got a Hennessy in my hand","That's why I need a one dance"
 "one dance","Drake","wine",368,0,362,7,"first","alcohol & drugs","^wine$",2016,1,1,"Wine it, wine it, very long time","Got a pretty girl and she love me long time"
 "one kiss","Calvin Harris & Dua Lipa","skin",369,0,363,1,"first","sexual","^skin$",2018,1,1,"I just wanna feel your skin on mine","See your eyes glued like the morning"
-"over my head (cable car)","The Fray","smoke",NA,0,370,1,"first","alcohol & drugs","^smoke",2007,1,1,"The smoke and who's still standing when it clears",NA
 "paparazzi","Lady Gaga","cigarette",380,0,372,1,"first","alcohol & drugs","^cigarette",2010,1,1,"Eyeliner and cigarettes","Papa-paparazzi"
 "paparazzi","Lady Gaga","shit",380,0,372,1,"first","profanity","^shit",2010,1,1,"Snap snap to that shit on the radio","Promise I'll be kind"
 "paris","The Chainsmokers","cigarette",381,0,373,1,"first","alcohol & drugs","^cigarette",2017,1,1,"Standing there with a frown and a cigarette","Out on the terrace"
@@ -667,8 +638,6 @@
 "perfect (2017)","Ed Sheeran","man",387,0,653,1,"first","identity","^man$",2018,1,1,"Be my girl, I'll be your man","Be my girl, I'll be the one"
 "perfect (2017)","Ed Sheeran","kiss",387,0,653,1,"first","sexual","^kiss",2018,1,1,"But darling, just kiss me slow, your heart is all I own","But darling, just take it slow, your heart is all I own"
 "perfect (2017)","Ed Sheeran","woman",387,0,653,1,"first","identity","^woman$",2018,1,1,"Well I found a woman, stronger than anyone I know","Well I found the one, stronger than anyone I know"
-"perfect (2017)","Kidz Bop Kids","fight",NA,0,377,1,"first","violence","^fight",2018,1,1,"Fighting against all odds",NA
-"perfect (2017)","Kidz Bop Kids","faith",NA,0,377,1,"first","other","^faith$",2018,1,1,"I have faith in what I see",NA
 "pinch me","Barenaked Ladies","underwear",390,0,655,1,"first","sexual","^underwear",2002,1,1,"I just made you say 'underwear'","Like a dream you try to remember but it’s gone"
 "please don't go","Mike Posner","bed",391,0,380,1,"first","sexual","^bed$",2011,1,1,"From my bed and start another day","From my head and start another day"
 "please don't go","Mike Posner","lips",391,0,380,2,"first","sexual","^lips$",2011,1,1,"We'll just keep running from tomorrow with our lips locked","We'll just keep running from tomorrow with our hearts locked"
@@ -687,16 +656,15 @@
 "pump it","The Black Eyed Peas","drunk",398,0,387,1,"first","alcohol & drugs","^drunk",2006,1,1,"She like man on drunk (Fool)","Pump it. Do it"
 "pump it","The Black Eyed Peas","nigga",398,0,387,2,"first","profanity","^nigga",2006,1,1,"Niggas wanna hate on us (Who)","(What)"
 "pump it","The Black Eyed Peas","man",398,0,387,1,"first","identity","^man$",2006,1,1,"She like man on drunk (Fool)","Pump it. Do it"
+"regenbogenfarben","Kerstin Ott & Helene Fischer","die",66,11,66,13,"second","violence","^die$",2019,1,1,"Kinder, die immer nur leise sind? Das gibt es nicht (gibt es nicht)",NA
 "replay","Iyaz","gun",404,0,392,2,"first","violence","^gun$",2010,1,1,"That girl, is a gun to my holster","Like somethin' off a poster"
-"rich girl (ft. eve)","Gwen Stefani","man",NA,0,393,3,"first","identity","^man$",2005,1,1,"No man could test me, impress me",NA
-"rich girl (ft. eve)","Gwen Stefani","blew",NA,0,393,1,"first","sexual","^blew$",2005,1,1,"Chicks that Blew Ya Mind, ding, it's the second round",NA
-"rich girl (ft. eve)","Gwen Stefani","dress",NA,0,393,1,"first","sexual","^dress$",2005,1,1,"I'd dress them wicked, I'd give them names (Yeah)",NA
-"rich girl (ft. eve)","Gwen Stefani","fetish",NA,0,393,1,"first","other","^fetish",2005,1,1,"I rock the Fetish, people you know who I am!",NA
 "rolling in the deep","Adele","shit",409,0,398,1,"first","profanity","^shit",2011,1,1,"Go ahead and sell me out, and then I'll lay your shit bare","Finally I can see you crystal clear"
 "royals","Lorde","blood",410,3,399,5,"first","violence","^blood",2014,1,1,"Bloodstains, ball gowns, trashin' the hotel room","We don't care, we're driving Cadillacs in our dreams"
 "royals","Lorde","bloodstain",410,0,399,2,"first","violence","^bloodstain",2014,1,1,"Bloodstains, ball gowns, trashin' the hotel room","We don't care, we're driving Cadillacs in our dreams"
 "rude","MAGIC!","die",411,1,400,3,"first","violence","^die$",2015,1,1,"You say I'll never get your blessin' till the day I die","To ask you a question"
 "ruin my life","Zara Larsson","fuck",NA,0,401,12,"first","profanity","fuck",2019,1,1,"I want you to fuck up my nights, yeah",NA
+"ruin my life","Zara Larsson","fuck",68,0,68,12,"second","profanity","fuck",2019,1,1,"I want you to fuck up my nights, yeah",NA
+"ruin my life","Zara Larsson","sleep",68,0,68,2,"second","sexual","^sleep",2019,1,1,"Now I'm sleeping alone and I'm starting to freeze",NA
 "ruin my life","Zara Larsson","hell",NA,0,401,2,"first","profanity","^hell$",2019,1,1,"Baby, come bring me hell",NA
 "ruin my life","Zara Larsson","sleep",NA,0,401,2,"first","sexual","^sleep",2019,1,1,"Now I'm sleeping alone and I'm starting to freeze",NA
 "s.o.s. (jonas brothers)","Jonas Brothers","crazy",455,0,677,1,"first","other","^crazy$",2006,1,1,"That don't include your crazy friends","That don't include your crazy friends"
@@ -732,9 +700,6 @@
 "sing! (ft. pharrell williams)","Ed Sheeran","smoke",NA,0,421,1,"first","alcohol & drugs","^smoke",2014,1,1,"But somethin' to drink and maybe somethin' to smoke",NA
 "sit next to me","Foster the People","man",441,1,671,2,"first","identity","^man$",2019,1,1,"Got me praying, man, this hunger, and feeling something rotten","Just got me praying that it's longer, feeling something rotten"
 "sit next to me","Foster the People","sober",441,0,671,1,"first","alcohol & drugs","^sober",2019,1,1,"And now it’s over, we’re sober, symptoms of the culture","And now it’s over, we’re older, symptoms of the culture"
-"sk8er boi","Avril Lavigne","clothes",NA,0,423,1,"first","sexual","^clothes$",2003,1,1,"They had a problem with his baggy clothes",NA
-"sk8er boi","Avril Lavigne","ball",NA,0,423,1,"first","other","^ball",2003,1,1,"He was a punk, she did ballet",NA
-"sk8er boi","Avril Lavigne","man",NA,0,423,2,"first","identity","^man$",2003,1,1,"Looks up at the man that she turned down",NA
 "so what","P!nk","drink",457,0,424,1,"first","alcohol & drugs","^drink",2009,1,1,"So I'm gonna drink my money, I'm not gonna pay his rent (Nope!)","Na, na, na, na, na, na"
 "so what","P!nk","shit",457,0,424,1,"first","profanity","^shit",2009,1,1,"And gave it to Jessica Simps (Shit!)","And now that we're done I'm gonna show you tonight"
 "some nights","​fun.","bed",449,0,427,1,"first","sexual","^bed$",2013,1,1,"I found a martyr in my bed tonight","She stops my bones from wondering just who I am, who I am, who I am"
@@ -784,7 +749,6 @@
 "that's what i like","Bruno Mars","ice",491,0,466,3,"first","alcohol & drugs","^ice$",2017,1,1,"Strawberry champagne on ice","You deserve it, baby"
 "that's what i like","Bruno Mars","sex",491,0,466,3,"first","sexual","^sex",2017,1,1,"Sex by the fire at night","Gold jewelry shining so bright"
 "the climb","Miley Cyrus","faith",493,2,468,4,"first","other","^faith$",2009,1,1,"My faith is shaken","I'm always gonna wanna make it move"
-"the game of love (ft. michelle branch)","Santana","kiss",NA,0,470,4,"first","sexual","^kiss",2003,1,1,"One kiss",NA
 "the great escape","Boys Like Girls","die",498,0,472,3,"first","violence","^die$",2008,1,1,"Let it die","It's so good to be by your side"
 "the great escape","Boys Like Girls","drunk",498,0,472,1,"first","alcohol & drugs","^drunk",2008,1,1,"Lets get drunk and ride around","Make peace with an empty town"
 "the greatest","Sia","bless",499,0,473,1,"first","other","^bless",2017,1,1,"But the strong'll survive, another scar may bless you, ah","The greatest, the greatest alive (don't give up, don't give up, don't give up; I got stamina)"
@@ -796,6 +760,7 @@
 "the one that got away","Katy Perry","liquor",504,0,479,1,"first","alcohol & drugs","^liquor",2012,1,1,"Used to steal your parents' liquor and climb to the roof","Used to eat your favorite ice cream and hang by the pool, talk about our future like we had a clue"
 "the one that got away","Katy Perry","tattoo",504,0,479,2,"first","other","^tattoo",2012,1,1,"And on my 18th birthday, we got matching tattoos","And when it was my birthday you bought me some balloons"
 "there's nothing holdin' me back","Shawn Mendes","naked",508,0,485,1,"first","sexual","^naked",2017,1,1,"Just picture everybody naked","Just picture everybody smiling"
+"this feeling","The Chainsmokers","neck",73,0,73,3,"second","sexual","^neck$",2019,1,1,"They got their hands at my neck this time",NA
 "this feeling (ft. kelsea ballerini)","The Chainsmokers","neck",NA,0,487,3,"first","sexual","^neck$",2019,1,1,"They got their hands at my neck this time",NA
 "this feeling (ft. kelsea ballerini)","The Chainsmokers","chest",NA,0,487,3,"first","sexual","^chest",2019,1,1,"They tell me think with my head, not that thing in my chest",NA
 "this is me","Keala Settle","bullet",514,0,488,1,"first","violence","^bullet",2018,1,1,"Another round of bullets hits my skin","We are bursting through the barricades"
@@ -811,6 +776,13 @@
 "thrift shop","Macklemore & Ryan Lewis","piss",518,0,492,1,"first","profanity","^piss",2013,1,1,"Piss...","I bought a old blanket, then I bought a knee board"
 "thrift shop","Macklemore & Ryan Lewis","shit",518,0,492,4,"first","profanity","^shit",2013,1,1,"Nah, I'm just pumped, I bought some shit from a thrift shop","Bummy and grungy, wear it man, I am stunting and flossing and"
 "thunder","Imagine Dragons","gun",520,0,493,1,"first","violence","^gun$",2018,1,1,"Just a young gun with a quick fuse","Just a young one with a quick fuse"
+"tik tok","Kesha","drunk",74,0,74,2,"second","alcohol & drugs","^drunk",2010,1,1,"Gonna smack him if he gettin' too drunk, drunk",NA
+"tik tok","Kesha","beer",74,0,74,1,"second","alcohol & drugs","^beer",2010,1,1,"Ain't got a care in the world, but got plenty of beer",NA
+"tik tok","Kesha","fight",74,0,74,6,"second","violence","^fight",2010,1,1,"Tonight, I'ma fight",NA
+"tik tok","Kesha","blow",74,4,74,7,"second","alcohol & drugs","^blow",2010,1,1,"Boys blowin' up our phones, phones",NA
+"tik tok","Kesha","touch",74,0,74,1,"second","sexual","^touch",2010,1,1,"Boys try to touch my junk, junk",NA
+"tik tok","Kesha","jack",74,0,74,1,"second","alcohol & drugs","^jack$",2010,1,1,"Before I leave, brush my teeth with a bottle of Jack",NA
+"tik tok","Kesha","bottle",74,0,74,1,"second","alcohol & drugs","^bottle",2010,1,1,"Before I leave, brush my teeth with a bottle of Jack",NA
 "timber","Pitbull & Kesha","booty",NA,0,495,1,"first","sexual","^booty",2014,1,1,"Face down, booty up (Timber)",NA
 "timber","Pitbull & Kesha","damn",NA,0,495,1,"first","profanity","^damn",2014,1,1,"Nah, it's just me, ain't a damn thing changed",NA
 "timber","Pitbull & Kesha","clothes",NA,0,495,1,"first","sexual","^clothes$",2014,1,1,"I have ‘em like Miley Cyrus, clothes off",NA
@@ -848,24 +820,38 @@
 "we don't talk anymore","Charlie Puth","dress",555,0,704,3,"first","sexual","^dress$",2017,1,1,"What kind of dress you're wearing tonight","Don't wanna know"
 "we don't talk anymore","Charlie Puth","overdose",555,0,704,3,"first","alcohol & drugs","^overdose",2017,1,1,"I overdosed","The way I did before"
 "what a girl wants","Christina Aguilera","sex",564,0,530,1,"first","sexual","^sex",2001,1,1,"Sexy, cool, like you","Somebody down when the goin' gets rough"
-"what goes around... / ...comes around (interlude)","Justin Timberlake","man",NA,0,533,1,"first","identity","^man$",2007,1,1,"Is he everything you wanted in a man?",NA
-"what goes around... / ...comes around (interlude)","Justin Timberlake","bleed",NA,0,533,1,"first","violence","^bleed",2007,1,1,"When you cheated, girl, my heart bleeded, girl",NA
 "whatever it takes","Imagine Dragons","body",566,1,536,2,"first","sexual","^body$",2018,1,1,"Looking at my body feeling miserable","Looking at my body feeling miserable"
 "whatever it takes","Imagine Dragons","die",566,0,536,1,"first","violence","^die$",2018,1,1,"At least I'll go down to the grave and die happily","'Cause I love the adrenaline in my veins"
 "when i grow up","The Pussycat Dolls","sex",571,0,537,4,"first","sexual","^sex",2009,1,1,"Boys call you sexy (What's up, sexy?)","Boys call you crazy"
 "when you're gone","Avril Lavigne","clothes",574,0,539,1,"first","sexual","^clothes$",2008,1,1,"And the clothes you left, they lie on the floor","When you walk away I count the steps that you take"
 "where’d you go","Fort Minor","fuck",576,0,714,3,"first","profanity","fuck",2006,1,1,"So, I want you to know it's a little fucked up","But I feel like an idiot, working my day around a call"
 "where’d you go","Fort Minor","shit",576,0,714,3,"first","profanity","^shit",2006,1,1,"She said, ""Some days, I feel like shit","Seems like it's been forever"
+"white christmas","Die Antwoord","booty",79,0,79,1,"second","sexual","^booty",2007,1,1,"Booty boomin', cookie juice",NA
+"white christmas","Die Antwoord","juice",79,0,79,1,"second","alcohol & drugs","^juice$",2007,1,1,"Booty boomin', cookie juice",NA
+"white christmas","Die Antwoord","bless",79,0,79,1,"second","other","^bless",2007,1,1,"Cause everyday I feel blessed to be",NA
+"white christmas","Die Antwoord","coochie",79,0,79,2,"second","sexual","^coochie",2007,1,1,"Look at you, coochie coo",NA
+"white christmas","Die Antwoord","god",79,0,79,1,"second","other","^god",2007,1,1,"Made by God",NA
+"white christmas","Die Antwoord","blow",79,0,79,1,"second","alcohol & drugs","^blow",2007,1,1,"So, so fine, you blow my mind",NA
+"white christmas","Die Antwoord","boob",79,0,79,2,"second","sexual","^boob",2007,1,1,"Boobie one, boobie two",NA
 "who do you love","The Chainsmokers","shit",579,0,544,1,"first","profanity","^shit",2019,1,1,"This shit is keepin' me up at night",NA
 "who do you love","The Chainsmokers","sleep",579,0,544,4,"first","sexual","^sleep",2019,1,1,"Where you been sleepin'?","Where you been leavin'? (Hey)"
 "who do you love","The Chainsmokers","smoke",579,0,544,1,"first","alcohol & drugs","^smoke",2019,1,1,"Even though you don't even smoke","Even though you don't even know"
 "who knew","P!nk","punch",580,0,545,2,"first","violence","^punch",2008,1,1,"I'd stand up and punch them out","I'd stand up and call them loud"
 "who let the dogs out","Baha Men","woman",581,1,715,3,"first","identity","^woman$",2002,1,1,"I heard a woman shout out","I see ya' little speed boat head up our coast"
 "wild ones","Flo Rida","high",587,1,549,2,"first","alcohol & drugs","^high$",2012,1,1,"Take me so high","Oooh"
+"wild ones - 1717396","Flo Rida","freak",80,0,80,1,"second","sexual","^freak",2012,1,1,"Wild out baby, 'til the freak, it shows",NA
+"wild ones - 1717396","Flo Rida","clothes",80,0,80,1,"second","sexual","^clothes$",2012,1,1,"Got the clothes coming off",NA
+"wild ones - 1717396","Flo Rida","high",80,1,80,2,"second","alcohol & drugs","^high$",2012,1,1,"Take me so high",NA
+"wild ones - 1717396","Flo Rida","bottle",80,0,80,1,"second","alcohol & drugs","^bottle",2012,1,1,"After bottle, we all get bent then again tomorrow",NA
+"wild ones - 1717396","Flo Rida","body",80,0,80,2,"second","sexual","^body$",2012,1,1,"What happens to that body, it's a private show",NA
+"wild ones - 1717396","Flo Rida","champagne",80,0,80,1,"second","alcohol & drugs","^champagne$",2012,1,1,"Tolerance, bottoms up when the champagne",NA
 "wildest dreams","Taylor Swift","clothes",586,0,550,1,"first","sexual","^clothes$",2016,1,1,"His hands are in my hair, his clothes are in my room","He looks across the room"
 "wildest dreams","Taylor Swift","hell",586,0,550,2,"first","profanity","^hell$",2016,1,1,"He's so tall and handsome as hell","But this is gonna take me down"
 "without me","Halsey","fuck",NA,0,555,2,"first","profanity","fuck",2019,1,1,"And if they laugh, then fuck 'em all (All)",NA
+"without me","Halsey","fuck",82,0,82,2,"second","profanity","fuck",2019,1,1,"And if they laugh, then fuck 'em all (All)",NA
+"without me","Halsey","demon",82,0,82,1,"second","other","^demon",2019,1,1,"Just runnin' from the demons in your mind",NA
 "without me","Halsey","demon",NA,0,555,1,"first","other","^demon",2019,1,1,"Just runnin' from the demons in your mind",NA
+"without me","Halsey","high",82,0,82,3,"second","alcohol & drugs","^high$",2019,1,1,"Feelin' so high, but too far away to hold me",NA
 "without me","Halsey","high",NA,0,555,3,"first","alcohol & drugs","^high$",2019,1,1,"Feelin' so high, but too far away to hold me",NA
 "without you","David Guetta","sleep",589,0,556,1,"first","sexual","^sleep",2012,1,1,"I can't take one more sleepless night","I can't quit now, this can't be right"
 "wolves","Selena Gomez & Marshmello","drunk",591,0,557,2,"first","alcohol & drugs","^drunk",2018,1,1,"Drunk on a feeling, alone with the stars in the sky","Lost in a feeling, alone with the stars in the sky"
@@ -882,6 +868,7 @@
 "you found me","The Fray","smoking",599,0,564,1,"first","alcohol & drugs","^smoking",2009,1,1,"All alone smoking his last cigarette","All alone saying that we never met"
 "you know you like it","AlunaGeorge","insane",600,8,565,12,"first","other","^insane",2015,1,1,"You know you like it but it drives you insane","You know you like it but it drives you insane"
 "you make me feel...","Cobra Starship","man",601,0,720,1,"first","identity","^man$",2012,1,1,"Well, then I'm your man","Then grab my hand"
+"you say","Lauren Daigle","god",85,0,85,1,"second","other","^god",2019,1,1,"You have every failure, God",NA
 "you say","Lauren Daigle","fight",NA,0,566,1,"first","violence","^fight",2019,1,1,"I keep fighting voices in my mind that say I’m not enough",NA
 "you say","Lauren Daigle","god",NA,0,566,1,"first","other","^god",2019,1,1,"You have every failure, God",NA
 "you say","Lauren Daigle","high",NA,0,566,1,"first","alcohol & drugs","^high$",2019,1,1,"Am I more than just the sum of every high and every low?",NA
@@ -890,19 +877,17 @@
 "youngblood","5 Seconds of Summer","damn",602,0,568,1,"first","profanity","^damn",2018,1,1,"You beat me at my own damn game","You beat me at my own big game"
 "youngblood","5 Seconds of Summer","dead",602,0,568,7,"first","violence","^dead$",2018,1,1,"And I'm just a dead man walking tonight","But I'm just a sad man walking tonight"
 "youngblood","5 Seconds of Summer","god",602,0,568,1,"first","other","^god",2018,1,1,"Hope to God you see my face","Like to think you see my face (Yeah, ooh, ooh)"
+NA,"Miley Cyrus","hips",75,0,75,5,"second","sexual","^hips$",NA,1,1,"Movin' my hips like, yeah",NA
+NA,"Miley Cyrus","man",75,0,75,1,"second","identity","^man$",NA,1,1,"That's when the taxi man turned on the radio",NA
+NA,"Miley Cyrus","crazy",75,0,75,1,"second","other","^crazy$",NA,1,1,"This is all so crazy",NA
+NA,"Miley Cyrus","club",75,0,75,1,"second","other","^club$",NA,1,1,"Get to the club in my taxi cab",NA
 "...ready for it?","Taylor Swift","touch",401,0,657,3,"first","sexual","^touch",2018,1,1,"Touch me and you'll never be alone","I, I, I see how this is gon' go"
 "...ready for it?","Taylor Swift","touch",401,0,657,3,"first","sexual","^touch",2018,1,1,"Touch me and you'll never be alone","I-Island breeze and sunsets low"
-"1, 2 step (ft. missy elliott)","Ciara","gentlemen",NA,0,4,4,"first","identity","^gentlemen$",2005,1,1,"It don't matter to me, we can dance slow (Ladies and gentlemen)",NA
-"1, 2 step (ft. missy elliott)","Ciara","gentlemen",NA,0,4,4,"first","identity","^gentlemen$",2005,1,1,"So swing it over here Mr. DJ (Ladies and gentlemen)",NA
-"1, 2 step (ft. missy elliott)","Ciara","body",NA,0,4,3,"first","sexual","^body$",2005,1,1,"Work ya body, work ya body",NA
-"1, 2 step (ft. missy elliott)","Ciara","bodies",NA,0,4,2,"first","sexual","^bodies$",2005,1,1,"Whichever way the beat drops, our bodies will flow",NA
 "1985","Bowling for Soup","high",1,3,2,4,"first","alcohol & drugs","^high$",2005,1,1,"Her two kids in high school","She rocked out to Wham!"
 "1985","Bowling for Soup","high",1,3,2,4,"first","alcohol & drugs","^high$",2005,1,1,"Her two kids in high school","Way before Nirvana"
 "1985","Bowling for Soup","high",1,3,2,4,"first","alcohol & drugs","^high$",2005,1,1,"Her two kids in high school","Make it stop"
 "24k magic","Bruno Mars","shit",4,0,5,2,"first","profanity","^shit",2016,1,1,"Spend your money like money ain't shit (Whoop, whoop)","Hey kids"
 "24k magic","Bruno Mars","man",4,0,5,2,"first","identity","^man$",2016,1,1,"I'm a dangerous man with some money in my pocket","(Wooh)"
-"2u (ft. justin bieber)","David Guetta","crime",NA,0,6,3,"first","violence","^crime",2017,1,1,"When it comes to you, there's no crime",NA
-"2u (ft. justin bieber)","David Guetta","crime",NA,0,6,3,"first","violence","^crime",2017,1,1,"When it comes to you, there's no crime",NA
 "7 rings","Ariana Grande","bitch",6,0,8,2,"first","profanity","^bitch",2019,1,1,"Bought matching diamonds for six of my bitches","Bought matching diamonds so they know what this is"
 "alejandro","Lady Gaga","cigarette",13,0,15,4,"first","alcohol & drugs","^cigarette",2010,1,1,"Just smoke my cigarette and hush","And now he's gonna fight your fight"
 "alejandro","Lady Gaga","cigarette",13,0,15,4,"first","alcohol & drugs","^cigarette",2010,1,1,"Just smoke my cigarette and hush","Ale-ale-jandro"
@@ -931,11 +916,6 @@
 "are you gonna be my girl","Jet (band)","man",34,0,33,3,"first","identity","^man$",2004,1,1,"But you were with another man, yeah","But you were with another boy, yeah"
 "attention","Charlie Puth","dress",38,3,35,4,"first","sexual","^dress$",2017,1,1,"I know that dress is karma (Dress is karma), perfume regret, yeah","I know that dress is karma, filled with regret"
 "attention","Charlie Puth","dress",38,3,35,4,"first","sexual","^dress$",2017,1,1,"I know that dress is karma, perfume regret","Maybe you just hate the thought of me with someone new"
-"axel f","Crazy Frog","crazy",NA,0,36,6,"first","other","^crazy$",2014,1,1,"This is the Crazy Frog",NA
-"axel f","Crazy Frog","crazy",NA,0,36,6,"first","other","^crazy$",2014,1,1,"This is the Crazy Frog",NA
-"axel f","Crazy Frog","crazy",NA,0,36,6,"first","other","^crazy$",2014,1,1,"This is the Crazy Frog",NA
-"axel f","Crazy Frog","crazy",NA,0,36,6,"first","other","^crazy$",2014,1,1,"This is the Crazy Frog",NA
-"axel f","Crazy Frog","crazy",NA,0,36,6,"first","other","^crazy$",2014,1,1,"This is the Crazy Frog",NA
 "battlefield","Jordin Sparks","fight",46,4,42,7,"first","violence","^fight",2010,1,1,"Don't even know what we're fighting for","A battlefield, a battlefield"
 "battlefield","Jordin Sparks","fight",46,4,42,7,"first","violence","^fight",2010,1,1,"'Cause baby, we don't have to fight","And I don't want this love to feel like"
 "battlefield","Jordin Sparks","fight",46,4,42,7,"first","violence","^fight",2010,1,1,"Don't even know what we're fighting for","Better go and get your armor"
@@ -968,6 +948,10 @@
 "believer","Imagine Dragons","bullet",57,0,53,3,"first","violence","^bullet",2017,1,1,"Pain! Oh, let the bullets fly, oh, let them rain","Last things last"
 "billionaire","Travie McCoy","fuck",66,0,60,3,"first","profanity","fuck",2010,1,1,"I wanna be a billionaire so fucking bad (So bad)",NA
 "billionaire","Travie McCoy","fuck",66,0,60,3,"first","profanity","fuck",2010,1,1,"I wanna be a billionaire so fucking bad",NA
+"bills","LunchMoney Lewis","damn",10,0,10,2,"second","profanity","^damn",2009,1,1,"It's too damn hot but I still gotta walk",NA
+"bills","LunchMoney Lewis","god",10,0,10,12,"second","other","^god",2009,1,1,"Goddamn, oh man, goddamn, oh man",NA
+"bills","LunchMoney Lewis","god",10,0,10,12,"second","other","^god",2009,1,1,"Goddamn, goddamn, goddamn, goddamn",NA
+"bills","LunchMoney Lewis","god",10,0,10,12,"second","other","^god",2009,1,1,"Goddamn, oh man, goddamn, oh man",NA
 "blank space","Taylor Swift","high",69,0,580,3,"first","alcohol & drugs","^high$",2015,1,1,"If the high was worth the pain","They'll tell you I'm to blame"
 "blank space","Taylor Swift","high",69,0,580,3,"first","alcohol & drugs","^high$",2015,1,1,"If the high was worth the pain","We'll take this way too far"
 "blank space","Taylor Swift","insane",69,0,580,6,"first","other","^insane",2015,1,1,"They'll tell you I'm insane","But I've got a blank space, baby"
@@ -1052,6 +1036,7 @@
 "can't stop the feeling!","Justin Timberlake","body",96,6,86,8,"first","sexual","^body$",2016,1,1,"Got this feeling in my body, come on",NA
 "can't stop the feeling!","Justin Timberlake","creep",96,0,86,3,"first","other","^creep",2016,1,1,"A feeling good, good, creeping up on you","Feeling good, good, dancing here with you"
 "can't stop the feeling!","Justin Timberlake","creep",96,0,86,3,"first","other","^creep",2016,1,1,"Feeling good, good, creeping up on you","Got this feeling in my body (I can't stop the feeling)"
+"candy girl","New Edition","high",17,0,17,2,"second","alcohol & drugs","^high$",2012,1,1,"She knocks me high up off my feet",NA
 "chained to the rhythm","Katy Perry","drink",99,0,589,5,"first","alcohol & drugs","^drink",2017,1,1,"Drink, this one is on me","Dance, this one is on me"
 "chained to the rhythm","Katy Perry","drink",99,0,589,5,"first","alcohol & drugs","^drink",2017,1,1,"Drink, this one is on me","Dance, this one is on me"
 "chained to the rhythm","Katy Perry","drink",99,0,589,5,"first","alcohol & drugs","^drink",2017,1,1,"Drink, this one is on me","Dance, this one is on me"
@@ -1107,7 +1092,6 @@
 "cruise","Florida Georgia Line","hell",124,0,114,4,"first","profanity","^hell$",2014,1,1,"Would look a hell of a lot better with you up in it","Every little farm town with you "
 "cruise","Florida Georgia Line","hell",124,0,114,4,"first","profanity","^hell$",2014,1,1,"Hell, I can't get you out of my head","So baby you're a song , You make me wanna roll my windows down and cruise"
 "cruise","Florida Georgia Line","hell",124,0,114,4,"first","profanity","^hell$",2014,1,1,"Would look a hell of a lot better with you up in it",NA
-"cupid's chokehold / breakfast in america (ft. patrick stump)","Gym Class Heroes","man",NA,0,118,2,"first","identity","^man$",2007,1,1,"And it doesn't stop there (Man I swear)",NA
 "diamonds","Rihanna","ecstasy",132,0,124,2,"first","alcohol & drugs","^ecstasy",2013,1,1,"A vision of ecstasy","We're like diamonds in the sky"
 "dilemma","Nelly","crazy",133,10,125,11,"first","other","^crazy$",2003,1,1,"You know I'm crazy over you","All I think about is you"
 "dilemma","Nelly","crazy",133,10,125,11,"first","other","^crazy$",2003,1,1,"Boy, you know I'm crazy over you","Boy ya know I'm crazy over you"
@@ -1144,6 +1128,10 @@
 "easier","5 Seconds of Summer","damn",NA,0,142,5,"first","profanity","^damn",2019,1,1,"'Cause you're so damn beautiful (Oh)",NA
 "easier","5 Seconds of Summer","damn",NA,0,142,5,"first","profanity","^damn",2019,1,1,"You're so damn beautiful (Oh)",NA
 "easier","5 Seconds of Summer","damn",NA,0,142,5,"first","profanity","^damn",2019,1,1,"'Cause you're so damn beautiful",NA
+"easier","5 Seconds of Summer","damn",27,0,27,5,"second","profanity","^damn",2019,1,1,"You're so damn beautiful",NA
+"easier","5 Seconds of Summer","damn",27,0,27,5,"second","profanity","^damn",2019,1,1,"'Cause you're so damn beautiful (Oh)",NA
+"easier","5 Seconds of Summer","damn",27,0,27,5,"second","profanity","^damn",2019,1,1,"You're so damn beautiful (Oh)",NA
+"easier","5 Seconds of Summer","damn",27,0,27,5,"second","profanity","^damn",2019,1,1,"'Cause you're so damn beautiful",NA
 "elastic heart","Sia","skin",149,2,143,3,"first","sexual","^skin$",2015,1,1,"I've got a thick skin and an elastic heart","I'm like a rubber band until you pull too hard"
 "elastic heart","Sia","skin",149,2,143,3,"first","sexual","^skin$",2015,1,1,"I've got a thick skin and an elastic heart",NA
 "end game","Taylor Swift","drink",150,0,599,2,"first","alcohol & drugs","^drink",2018,1,1,"Drinking on a beach with you all over me","I wanna be your end game (end game)"
@@ -1172,6 +1160,8 @@
 "evacuate the dance floor","Cascada","overdose",151,0,145,6,"first","alcohol & drugs","^overdose",2010,1,1,"(Feels like an overdose, like an overdose)","Hey Dr. DJ let the music take me underground"
 "everybody talks","Neon Trees","lips",152,0,146,3,"first","sexual","^lips$",2013,1,1,"And then she made my lips hurt","I could hear the chit chat"
 "everybody talks","Neon Trees","lips",152,0,146,3,"first","sexual","^lips$",2013,1,1,"And then she made my lips hurt","Mamas always gotta back track"
+"exit sign","Hilltop Hoods","fuck",31,0,31,3,"second","profanity","fuck",2019,1,1,"And I don't give a fuck about the party",NA
+"exit sign","Hilltop Hoods","fuck",31,0,31,3,"second","profanity","fuck",2019,1,1,"I give a fuck about in this phoney world is Ari",NA
 "exit sign (ft. ecca vandal & illy)","Hilltop Hoods","man",NA,0,148,3,"first","identity","^man$",2019,1,1,"Man, it's weird to me that when you're in a band you can get",NA
 "exit sign (ft. ecca vandal & illy)","Hilltop Hoods","man",NA,0,148,3,"first","identity","^man$",2019,1,1,"Man, anyone that know me know the only thing",NA
 "exit sign (ft. ecca vandal & illy)","Hilltop Hoods","cuttin",NA,0,148,2,"first","violence","^cuttin",2019,1,1,"That's why I think I'm cuttin' you from my life, no more",NA
@@ -1186,25 +1176,33 @@
 "friends","Marshmello & Anne-Marie","fight",178,2,605,3,"first","violence","^fight",2018,1,1,"You really ain't going nowhere without a fight","Haven't I made it obvious? (I made it very obvious)"
 "friends","Marshmello & Anne-Marie","shit",178,0,605,3,"first","profanity","^shit",2018,1,1,"Don't mess it up, talking that shit","Don't mess it up, talking like this"
 "friends","Marshmello & Anne-Marie","shit",178,0,605,3,"first","profanity","^shit",2018,1,1,"Get that shit inside your head","We're just friends"
-"fuckin' perfect","P!nk","fuck",NA,0,376,7,"first","profanity","fuck",2011,1,1,"Like you're nothing, you're fuckin' perfect to me",NA
-"fuckin' perfect","P!nk","fuck",NA,0,376,7,"first","profanity","fuck",2011,1,1,"Like you're less than fuckin' perfect",NA
-"fuckin' perfect","P!nk","fuck",NA,0,376,7,"first","profanity","fuck",2011,1,1,"Like you're nothing, you're fuckin' perfect to me",NA
-"fuckin' perfect","P!nk","fuck",NA,0,376,7,"first","profanity","fuck",2011,1,1,"Like you're less than fuckin' perfect",NA
-"fuckin' perfect","P!nk","fuck",NA,0,376,7,"first","profanity","fuck",2011,1,1,"Like you're nothing, you're fuckin' perfect to me",NA
-"fuckin' perfect","P!nk","fuck",NA,0,376,7,"first","profanity","fuck",2011,1,1,"Like you're nothing, you're fuckin' perfect to me",NA
+"galway girl","Ed Sheeran","bar",34,0,34,3,"second","alcohol & drugs","^bar$",2019,1,1,"Chatted some more, one more drink at the bar",NA
+"galway girl","Ed Sheeran","bar",34,0,34,3,"second","alcohol & drugs","^bar$",2019,1,1,"A cappella in the bar using her feet for a beat",NA
 "galway girl","Ed Sheeran","bar",NA,0,171,3,"first","alcohol & drugs","^bar$",2019,1,1,"Chatted some more, one more drink at the bar",NA
 "galway girl","Ed Sheeran","bar",NA,0,171,3,"first","alcohol & drugs","^bar$",2019,1,1,"A cappella in the bar using her feet for a beat",NA
 "galway girl","Ed Sheeran","drink",NA,0,171,2,"first","alcohol & drugs","^drink",2019,1,1,"Chatted some more, one more drink at the bar",NA
+"galway girl","Ed Sheeran","drink",34,0,34,2,"second","alcohol & drugs","^drink",2019,1,1,"Chatted some more, one more drink at the bar",NA
+"galway girl","Ed Sheeran","neck",34,0,34,4,"second","sexual","^neck$",2019,1,1,"Kissed her on the neck and then I took her by the hand",NA
+"galway girl","Ed Sheeran","neck",34,0,34,4,"second","sexual","^neck$",2019,1,1,"Kissed her on the neck and then I took her by the hand",NA
+"galway girl","Ed Sheeran","neck",34,0,34,4,"second","sexual","^neck$",2019,1,1,"Kissed her on the neck and then I took her by the hand",NA
 "galway girl","Ed Sheeran","kiss",NA,0,171,5,"first","sexual","^kiss",2019,1,1,"Kissed her on the neck and then I took her by the hand",NA
 "galway girl","Ed Sheeran","kiss",NA,0,171,5,"first","sexual","^kiss",2019,1,1,"And then she kissed me like there was nobody else in the room",NA
 "galway girl","Ed Sheeran","kiss",NA,0,171,5,"first","sexual","^kiss",2019,1,1,"Kissed her on the neck and then I took her by the hand",NA
 "galway girl","Ed Sheeran","kiss",NA,0,171,5,"first","sexual","^kiss",2019,1,1,"Kissed her on the neck and then I took her by the hand",NA
+"galway girl","Ed Sheeran","kiss",34,4,34,5,"second","sexual","^kiss",2019,1,1,"Kissed her on the neck and then I took her by the hand",NA
+"galway girl","Ed Sheeran","kiss",34,4,34,5,"second","sexual","^kiss",2019,1,1,"And then she kissed me like there was nobody else in the room",NA
+"galway girl","Ed Sheeran","kiss",34,4,34,5,"second","sexual","^kiss",2019,1,1,"Kissed her on the neck and then I took her by the hand",NA
+"galway girl","Ed Sheeran","kiss",34,4,34,5,"second","sexual","^kiss",2019,1,1,"Kissed her on the neck and then I took her by the hand",NA
+"galway girl","Ed Sheeran","man",34,0,34,4,"second","identity","^man$",2019,1,1,"But she fell in love with an English man",NA
+"galway girl","Ed Sheeran","man",34,0,34,4,"second","identity","^man$",2019,1,1,"But she fell in love with an English man",NA
+"galway girl","Ed Sheeran","man",34,0,34,4,"second","identity","^man$",2019,1,1,"But she fell in love with an English man",NA
 "galway girl","Ed Sheeran","man",NA,0,171,4,"first","identity","^man$",2019,1,1,"But she fell in love with an English man",NA
 "galway girl","Ed Sheeran","man",NA,0,171,4,"first","identity","^man$",2019,1,1,"But she fell in love with an English man",NA
 "galway girl","Ed Sheeran","man",NA,0,171,4,"first","identity","^man$",2019,1,1,"But she fell in love with an English man",NA
 "galway girl","Ed Sheeran","neck",NA,0,171,4,"first","sexual","^neck$",2019,1,1,"Kissed her on the neck and then I took her by the hand",NA
 "galway girl","Ed Sheeran","neck",NA,0,171,4,"first","sexual","^neck$",2019,1,1,"Kissed her on the neck and then I took her by the hand",NA
 "galway girl","Ed Sheeran","neck",NA,0,171,4,"first","sexual","^neck$",2019,1,1,"Kissed her on the neck and then I took her by the hand",NA
+"galway girl","Ed Sheeran","wine",34,0,34,2,"second","alcohol & drugs","^wine$",2019,1,1,"To finish some Doritos and another bottle of wine",NA
 "galway girl","Ed Sheeran","wine",NA,0,171,2,"first","alcohol & drugs","^wine$",2019,1,1,"To finish some Doritos and another bottle of wine",NA
 "gdfr","Flo Rida","freak",180,0,173,3,"first","sexual","^freak",2015,1,1,"If you're a freak, then you comin' home with me","And I know what you came here to do"
 "gdfr","Flo Rida","freak",180,0,173,3,"first","sexual","^freak",2015,1,1,"If you're a freak, then you comin' home with me",NA
@@ -1250,11 +1248,6 @@
 "heartless","Kanye West","woman",209,0,200,4,"first","identity","^woman$",2009,1,1,"He lost his soul to a woman so heartless","Why does she be so mad at me for?"
 "heartless","Kanye West","woman",209,0,200,4,"first","identity","^woman$",2009,1,1,"He lost his soul to a woman so heartless","And you can't make it right"
 "heartless","Kanye West","woman",209,0,200,4,"first","identity","^woman$",2009,1,1,"He lost his soul to a woman so heartless",NA
-"hey baby (ft. bounty killer)","No Doubt","hips",NA,0,210,2,"first","sexual","^hips$",2003,1,1,"When you rock your hips you know that",NA
-"hey baby (ft. bounty killer)","No Doubt","sex",NA,0,210,2,"first","sexual","^sex",2003,1,1,"Watching boys and girls and their sex appeal",NA
-"hey baby (ft. bounty killer)","No Doubt","high",NA,0,210,2,"first","alcohol & drugs","^high$",2003,1,1,"And went to my high school",NA
-"hey baby (ft. bounty killer)","No Doubt","crazy",NA,0,210,2,"first","other","^crazy$",2003,1,1,"Jump on the stage makes me going crazy",NA
-"hey baby (ft. bounty killer)","No Doubt","sippin",NA,0,210,2,"first","alcohol & drugs","^sippin",2003,1,1,"I’m just sippin' on chamomile",NA
 "hey look ma, i made it","Panic! at the Disco","evil",NA,0,211,2,"first","other","^evil",2019,1,1,"In the garden of evil",NA
 "hey look ma, i made it","Panic! at the Disco","pray",NA,0,211,2,"first","other","^pray",2019,1,1,"I'll be praying for the faithless",NA
 "hey mama","David Guetta","woman",217,0,212,9,"first","identity","^woman$",2015,1,1,"Be my woman, girl, I'll be your man","Be my only girl I'll, be your one (yo)"
@@ -1293,7 +1286,6 @@
 "high hopes","Panic! at the Disco","high",223,44,217,46,"first","alcohol & drugs","^high$",2019,1,1,"Always had high, high hopes","Always had high, high hopes"
 "high hopes","Panic! at the Disco","high",223,44,217,46,"first","alcohol & drugs","^high$",2019,1,1,"Had to have high, high hopes for a living","Had to have high, high hopes for a living"
 "high hopes","Panic! at the Disco","high",223,44,217,46,"first","alcohol & drugs","^high$",2019,1,1,"Always had high, high hopes (High, high hopes)","Always had high, high hopes (High, high hopes)"
-"hold on","Good Charlotte","bleed",NA,0,220,2,"first","violence","^bleed",2004,1,1,"But we all bleed the same way as you do",NA
 "hot n cold","Katy Perry","fight",229,3,223,4,"first","violence","^fight",2009,1,1,"We fight, we break up","We kiss, we make up"
 "hot n cold","Katy Perry","fight",229,3,223,4,"first","violence","^fight",2009,1,1,"We fight, we break up","We kiss, we make up"
 "hot n cold","Katy Perry","fight",229,3,223,4,"first","violence","^fight",2009,1,1,"We fight, we break up",NA
@@ -1319,6 +1311,7 @@
 "how long","Charlie Puth","creep",233,3,226,4,"first","other","^creep",2018,1,1,"And you' been creepin' 'round on me","How long has this been goin' on, baby?"
 "how long","Charlie Puth","creep",233,3,226,4,"first","other","^creep",2018,1,1,"You've been creepin' 'round on me",NA
 "i gotta feeling","The Black Eyed Peas","god",248,0,232,3,"first","other","^god",2010,1,1,"Go out and smash it (Smash it) like, ""Oh, my God!"" (Like, ""Oh, my God!"")","(Come on)"
+"i gotta feeling - 1461400","The Black Eyed Peas","god",47,0,47,3,"second","other","^god",2009,1,1,"Go out and smash it (Smash it) like, ""Oh, my God!"" (Like, ""Oh, my God!"")",NA
 "i like it","Cardi B, Bad Bunny & J Balvin","bitch",251,0,235,5,"first","profanity","^bitch",2018,1,1,"Flexing on bitches as hard as I can","Diamond district in the jack, jack (I said I like it like that)"
 "i like it","Cardi B, Bad Bunny & J Balvin","bitch",251,0,235,5,"first","profanity","^bitch",2018,1,1,"Told that bitch I'm sorry though (Sorry though)","Drop the top, wind in our hair (I said I like it like that)"
 "i like it","Cardi B, Bad Bunny & J Balvin","bitch",251,0,235,5,"first","profanity","^bitch",2018,1,1,"Bad bitch make you nervous (I said I like it)","Oh, he's so handsome, what's his name? Yeah (I said I like it like-)"
@@ -1343,17 +1336,8 @@
 "i want you to know (ft. selena gomez)","Zedd","bleed",NA,0,241,7,"first","violence","^bleed",2017,1,1,"You and me bleed the same light",NA
 "i want you to know (ft. selena gomez)","Zedd","bleed",NA,0,241,7,"first","violence","^bleed",2017,1,1,"You and me bleed the same light",NA
 "i want you to know (ft. selena gomez)","Zedd","bleed",NA,0,241,7,"first","violence","^bleed",2017,1,1,"You and me bleed the same light",NA
-"i'm still in love with you (ft. sasha)","Sean Paul","bless",NA,0,247,4,"first","other","^bless",2004,1,1,"Blessed loving from the start",NA
-"i'm still in love with you (ft. sasha)","Sean Paul","bless",NA,0,247,4,"first","other","^bless",2004,1,1,"The blessed loving from the start",NA
-"i'm still in love with you (ft. sasha)","Sean Paul","bless",NA,0,247,4,"first","other","^bless",2004,1,1,"The blessed loving from the start",NA
-"i'm still in love with you (ft. sasha)","Sean Paul","man",NA,0,247,12,"first","identity","^man$",2004,1,1,"But a man gotta do what a man gotta do",NA
-"i'm still in love with you (ft. sasha)","Sean Paul","man",NA,0,247,12,"first","identity","^man$",2004,1,1,"That a man is just a man",NA
-"i'm still in love with you (ft. sasha)","Sean Paul","man",NA,0,247,12,"first","identity","^man$",2004,1,1,"Yo, but a man gotta do what a man gotta do, girl",NA
-"i'm still in love with you (ft. sasha)","Sean Paul","man",NA,0,247,12,"first","identity","^man$",2004,1,1,"That a man is just a man",NA
-"i'm still in love with you (ft. sasha)","Sean Paul","man",NA,0,247,12,"first","identity","^man$",2004,1,1,"But a man gotta do what a man gotta do, girl",NA
-"i'm still in love with you (ft. sasha)","Sean Paul","kiss",NA,0,247,4,"first","sexual","^kiss",2004,1,1,"Not even how to kiss me",NA
-"i'm still in love with you (ft. sasha)","Sean Paul","kiss",NA,0,247,4,"first","sexual","^kiss",2004,1,1,"I and I nuh have no time for no kissing up nor charm",NA
-"i'm still in love with you (ft. sasha)","Sean Paul","kiss",NA,0,247,4,"first","sexual","^kiss",2004,1,1,"Not even how to kiss me",NA
+"i'll be there","The Rembrandts","pour",49,0,49,3,"second","alcohol & drugs","^pour",2004,1,1,"(When the rain starts to pour)",NA
+"i'll be there","The Rembrandts","pour",49,0,49,3,"second","alcohol & drugs","^pour",2004,1,1,"(When the rain starts to pour)",NA
 "i'm the one","DJ Khaled","bitch",260,0,622,3,"first","profanity","^bitch",2017,1,1,"Well, bitch, you're lookin' at the one",NA
 "i'm the one","DJ Khaled","bitch",260,0,622,3,"first","profanity","^bitch",2017,1,1,"Bitch, you blow my high",NA
 "i'm the one","DJ Khaled","body",260,1,622,2,"first","sexual","^body$",2017,1,1,"Don't make me catch a body",NA
@@ -1427,13 +1411,6 @@
 "jealous","Nick Jonas","sex",275,0,270,6,"first","sexual","^sex",2015,1,1,"'Cause you're too sexy beautiful","And everybody wants a taste"
 "jealous","Nick Jonas","sex",275,0,270,6,"first","sexual","^sex",2015,1,1,"'Cause you're too sexy beautiful","It's not your fault that they hover"
 "jealous","Nick Jonas","sex",275,0,270,6,"first","sexual","^sex",2015,1,1,"'Cause you're too sexy beautiful (Beautiful)","I still get jealous"
-"juju on that beat (tz anthem) (ft. zayion mccall)","Zay Hilfigerrr","man",NA,0,271,8,"first","identity","^man$",2017,1,1,"Running man on that beat, ayy",NA
-"juju on that beat (tz anthem) (ft. zayion mccall)","Zay Hilfigerrr","man",NA,0,271,8,"first","identity","^man$",2017,1,1,"Running man on that beat, ayy",NA
-"juju on that beat (tz anthem) (ft. zayion mccall)","Zay Hilfigerrr","man",NA,0,271,8,"first","identity","^man$",2017,1,1,"Running man on that beat",NA
-"juju on that beat (tz anthem) (ft. zayion mccall)","Zay Hilfigerrr","man",NA,0,271,8,"first","identity","^man$",2017,1,1,"Running man on that beat, ayy",NA
-"juju on that beat (tz anthem) (ft. zayion mccall)","Zay Hilfigerrr","man",NA,0,271,8,"first","identity","^man$",2017,1,1,"Running man on that beat, ayy",NA
-"juju on that beat (tz anthem) (ft. zayion mccall)","Zay Hilfigerrr","man",NA,0,271,8,"first","identity","^man$",2017,1,1,"Running man on that beat, ayy",NA
-"juju on that beat (tz anthem) (ft. zayion mccall)","Zay Hilfigerrr","man",NA,0,271,8,"first","identity","^man$",2017,1,1,"Running man on that beat",NA
 "just got paid (ft. french montana)","Sigala, Ella Eyre & Meghan Trainor","drink",NA,0,274,2,"first","alcohol & drugs","^drink",2019,1,1,"I know I drink too much, can't pay my rent this month",NA
 "just got paid (ft. french montana)","Sigala, Ella Eyre & Meghan Trainor","ball",NA,0,274,6,"first","other","^ball",2019,1,1,"I'm broke, but I'm ballin'",NA
 "just got paid (ft. french montana)","Sigala, Ella Eyre & Meghan Trainor","ball",NA,0,274,6,"first","other","^ball",2019,1,1,"I'm broke, but I'm ballin'",NA
@@ -1512,10 +1489,16 @@
 "love yourself","Justin Bieber","sleep",319,0,304,2,"first","sexual","^sleep",2016,1,1,"But now I know, I'm better sleeping on my own","And now I know, I'm better living on my own"
 "makes me wonder","Maroon 5","fuck",323,0,309,3,"first","profanity","fuck",2007,1,1,"And it really makes me wonder if I ever gave a fuck about you","I still don't have a reason"
 "makes me wonder","Maroon 5","fuck",323,0,309,3,"first","profanity","fuck",2007,1,1,"And it really makes me wonder if I ever gave a fuck about you and I","And it really makes me wonder"
-"me against the music (ft. madonna)","Britney Spears","body",NA,0,312,2,"first","sexual","^body$",2004,1,1,"Just work your body and let it go",NA
 "me too","Meghan Trainor","god",332,3,314,5,"first","other","^god",2016,1,1,"I thank God every day (Thank God) (Uh-huh)","I thank God every day (uh huh)"
 "me too","Meghan Trainor","god",332,3,314,5,"first","other","^god",2016,1,1,"I thank God every day (Said I thank God) (Uh-huh)","That I woke up feelin' this way (uh huh)"
 "mercy","Shawn Mendes","skin",331,0,321,2,"first","sexual","^skin$",2017,1,1,"Ripping all the skin from off my bones","Take it easy on my heart"
+"mickey","Toni Basil","blow",60,5,60,8,"second","alcohol & drugs","^blow",2008,1,1,"You're so fine, you blow my mind, hey Mickey, hey Mickey",NA
+"mickey","Toni Basil","blow",60,5,60,8,"second","alcohol & drugs","^blow",2008,1,1,"You're so fine, you blow my mind, hey Mickey, hey Mickey",NA
+"mickey","Toni Basil","blow",60,5,60,8,"second","alcohol & drugs","^blow",2008,1,1,"You're so fine, you blow my mind, hey Mickey",NA
+"mickey","Toni Basil","blow",60,5,60,8,"second","alcohol & drugs","^blow",2008,1,1,"You're so fine, you blow my mind, hey Mickey, hey Mickey",NA
+"mickey","Toni Basil","blow",60,5,60,8,"second","alcohol & drugs","^blow",2008,1,1,"You're so fine, you blow my mind, hey Mickey, hey Mickey",NA
+"mickey","Toni Basil","blow",60,5,60,8,"second","alcohol & drugs","^blow",2008,1,1,"You're so fine, you blow my mind, hey Mickey, hey Mickey",NA
+"mickey","Toni Basil","blow",60,5,60,8,"second","alcohol & drugs","^blow",2008,1,1,"You're so fine, you blow my mind, hey Mickey",NA
 "miss independent","Kelly Clarkson","man",336,1,327,2,"first","identity","^man$",2003,1,1,"Miss never let a man help her off her throne","Miss never let a man help her off her throne"
 "move it like this","Baha Men","body",340,3,330,4,"first","sexual","^body$",2003,1,1,"C'mon fellas rock the party Shake your body everybody","Can you move it like this? I can shake it like that"
 "move it like this","Baha Men","body",340,3,330,4,"first","sexual","^body$",2003,1,1,"C'mon y'all let's rock the party Shake your body everybody","Remember back in the day"
@@ -1542,22 +1525,6 @@
 "my love","Justin Timberlake","woman",347,0,337,7,"first","identity","^woman$",2007,1,1,"Ain't another woman that could take your spot, my love",NA
 "natural","Imagine Dragons","cutthroat",350,0,340,3,"first","violence","^cutthroat$",2019,1,1,"Living your life cutthroat","Living your life, you know"
 "natural","Imagine Dragons","cutthroat",350,0,340,3,"first","violence","^cutthroat$",2019,1,1,"Living your life cutthroat","Living your life, you know"
-"never be like you (ft. kai)","Flume","sins",NA,0,343,2,"first","other","^sins$",2016,1,1,"I'm begging, darling, please, absolve me of my sins, won't you?",NA
-"never be like you (ft. kai)","Flume","fuck",NA,0,343,6,"first","profanity","fuck",2016,1,1,"Now I'm fucked up and I'm missing you",NA
-"never be like you (ft. kai)","Flume","fuck",NA,0,343,6,"first","profanity","fuck",2016,1,1,"Now I'm fucked up and I'm missing you",NA
-"never be like you (ft. kai)","Flume","fuck",NA,0,343,6,"first","profanity","fuck",2016,1,1,"Now I'm fucked up and I'm missing you",NA
-"never be like you (ft. kai)","Flume","fuck",NA,0,343,6,"first","profanity","fuck",2016,1,1,"I'm falling on my knees, forgive me, I'm a fucking fool",NA
-"never be like you (ft. kai)","Flume","fuck",NA,0,343,6,"first","profanity","fuck",2016,1,1,"I'm falling on my knees, forgive me, I'm a fucking fool",NA
-"never be like you (ft. kai)","Flume","hell",NA,0,343,11,"first","profanity","^hell$",2016,1,1,"He'll never be like you",NA
-"never be like you (ft. kai)","Flume","hell",NA,0,343,11,"first","profanity","^hell$",2016,1,1,"'Cause I got it, ooh, he'll never be like you",NA
-"never be like you (ft. kai)","Flume","hell",NA,0,343,11,"first","profanity","^hell$",2016,1,1,"'Cause I got it, ooh, he'll never be like you",NA
-"never be like you (ft. kai)","Flume","hell",NA,0,343,11,"first","profanity","^hell$",2016,1,1,"He'll never be like you",NA
-"never be like you (ft. kai)","Flume","hell",NA,0,343,11,"first","profanity","^hell$",2016,1,1,"He'll never be like you",NA
-"never be like you (ft. kai)","Flume","hell",NA,0,343,11,"first","profanity","^hell$",2016,1,1,"'Cause I got it, ooh, he'll never be like you",NA
-"never be like you (ft. kai)","Flume","hell",NA,0,343,11,"first","profanity","^hell$",2016,1,1,"'Cause I got it, ooh, he'll never be like you",NA
-"never be like you (ft. kai)","Flume","hell",NA,0,343,11,"first","profanity","^hell$",2016,1,1,"'Cause I got it, ooh, he'll never be like you",NA
-"never be like you (ft. kai)","Flume","hell",NA,0,343,11,"first","profanity","^hell$",2016,1,1,"'Cause I got it, ooh, he'll never be like you",NA
-"never be like you (ft. kai)","Flume","hell",NA,0,343,11,"first","profanity","^hell$",2016,1,1,"He'll never be like you",NA
 "never forget you","Zara Larsson & MNEK","die",352,13,344,17,"first","violence","^die$",2016,1,1,"And you will always be by my side 'til the day I die","I will never forget you"
 "never forget you","Zara Larsson & MNEK","die",352,13,344,17,"first","violence","^die$",2016,1,1,"'Til the day I die","And you’ll always be by my side till the day I die"
 "never forget you","Zara Larsson & MNEK","die",352,13,344,17,"first","violence","^die$",2016,1,1,"'Til the day I die","Funny how we both end happy but everything seems alright, ooh"
@@ -1570,6 +1537,7 @@
 "never forget you","Zara Larsson & MNEK","die",352,13,344,17,"first","violence","^die$",2016,1,1,"'Til the day I die, 'til the day I die, 'til the day I die","Till the day I die, till the day I die, till the day I die"
 "never forget you","Zara Larsson & MNEK","die",352,13,344,17,"first","violence","^die$",2016,1,1,"'Til the day I die, 'til the day I die, 'til the day I die","I’ll never forget you (I will never, never, never, never, never, never)"
 "never forget you","Zara Larsson & MNEK","die",352,13,344,17,"first","violence","^die$",2016,1,1,"I will never forget you 'til the day I die",NA
+"never really over","Katy Perry","kiss",61,1,61,2,"second","sexual","^kiss",2019,1,1,"Thought we kissed goodbye",NA
 "never really over","Katy Perry","kiss",NA,0,346,2,"first","sexual","^kiss",2019,1,1,"Thought we kissed goodbye",NA
 "new rules","Dua Lipa","bed",354,0,348,3,"first","sexual","^bed$",2018,1,1,"You know you're gonna wake up in his bed in the morning","You know you're gonna meet up with your friends in the morning"
 "new rules","Dua Lipa","bed",354,0,348,3,"first","sexual","^bed$",2018,1,1,"You know you're gonna wake up in his bed in the morning","(Whoa-ooh)"
@@ -1595,9 +1563,11 @@
 "not a bad thing","Justin Timberlake","fuck",361,0,645,3,"first","profanity","fuck",2014,1,1,"'Cause you might fuck around and find your dreams come true with me","So don't act like it's a bad thing to fall in love with me, me"
 "not a bad thing","Justin Timberlake","fuck",361,0,645,3,"first","profanity","fuck",2014,1,1,"'Cause you might fuck around and find your dreams come true with me","So don't act like it's a bad thing to fall in love with me, me"
 "not a bad thing","Justin Timberlake","knife",361,0,645,2,"first","violence","^knife",2014,1,1,"When someone cuts your heart open with a knife","But I could be that guy to heal it over time"
-"obsession (no es amor) (ft. baby bash)","Frankie J","sleep",NA,0,356,2,"first","sexual","^sleep",2005,1,1,"And I still can't sleep",NA
-"obsession (no es amor) (ft. baby bash)","Frankie J","freak",NA,0,356,3,"first","sexual","^freak",2005,1,1,"I love the way you freaky like that",NA
-"obsession (no es amor) (ft. baby bash)","Frankie J","freak",NA,0,356,3,"first","sexual","^freak",2005,1,1,"I love the way you freaky like that",NA
+"nothing breaks like a heart","Mark Ronson","cuts",62,0,62,4,"second","violence","^cuts$",2017,1,1,"It cuts you deep and leaves a scar",NA
+"nothing breaks like a heart","Mark Ronson","cuts",62,0,62,4,"second","violence","^cuts$",2017,1,1,"It cuts you deep and leaves a scar",NA
+"nothing breaks like a heart","Mark Ronson","cuts",62,0,62,4,"second","violence","^cuts$",2017,1,1,"It cuts you deep and leaves a scar",NA
+"nothing breaks like a heart","Mark Ronson","bar",62,0,62,6,"second","alcohol & drugs","^bar$",2017,1,1,"Spin endless circles in the bar (Spin 'round in the bar)",NA
+"nothing breaks like a heart","Mark Ronson","bar",62,0,62,6,"second","alcohol & drugs","^bar$",2017,1,1,"Spin endless circles in the bar (Spin 'round in the bar)",NA
 "on my mind","Ellie Goulding","pour",374,0,359,6,"first","alcohol & drugs","^pour",2016,1,1,"Poured it down, so I poured it down","And I don’t understand it"
 "on my mind","Ellie Goulding","pour",374,0,359,6,"first","alcohol & drugs","^pour",2016,1,1,"So I poured it down, so I poured it down","And I don’t understand it"
 "one dance","Drake","hennessy",368,0,362,6,"first","alcohol & drugs","^hennessy$",2016,1,1,"Got a Hennessy in my hand","I need a one dance"
@@ -1637,9 +1607,17 @@
 "pump it","The Black Eyed Peas","damn",398,0,387,10,"first","profanity","^damn",2006,1,1,"Damn (Damn)",NA
 "pump it","The Black Eyed Peas","damn",398,0,387,10,"first","profanity","^damn",2006,1,1,"Damn (Damn)",NA
 "pump it","The Black Eyed Peas","nigga",398,0,387,2,"first","profanity","^nigga",2006,1,1,"Niggas be envious (Who)","(C'mon)"
+"regenbogenfarben","Kerstin Ott & Helene Fischer","die",66,11,66,13,"second","violence","^die$",2019,1,1,"Hast du Träume, die du nicht erreichen kannst?",NA
+"regenbogenfarben","Kerstin Ott & Helene Fischer","die",66,11,66,13,"second","violence","^die$",2019,1,1,"Gefühle, die du niemandem zeigen darfst? Die gibt es nicht",NA
+"regenbogenfarben","Kerstin Ott & Helene Fischer","die",66,11,66,13,"second","violence","^die$",2019,1,1,"Ich spiel' die Luftgitarre und wir sing'n (und wir sing'n)",NA
+"regenbogenfarben","Kerstin Ott & Helene Fischer","die",66,11,66,13,"second","violence","^die$",2019,1,1,"Komm, lass uns die Welt bemal'n",NA
+"regenbogenfarben","Kerstin Ott & Helene Fischer","die",66,11,66,13,"second","violence","^die$",2019,1,1,"Komm! Komm, lass die Welt erstrahl'n",NA
+"regenbogenfarben","Kerstin Ott & Helene Fischer","die",66,11,66,13,"second","violence","^die$",2019,1,1,"Zwei Eltern, die ihr Kind zur Kita bring'n",NA
+"regenbogenfarben","Kerstin Ott & Helene Fischer","die",66,11,66,13,"second","violence","^die$",2019,1,1,"Er schmiert die Brötchen, die sie nach Hause bringt",NA
+"regenbogenfarben","Kerstin Ott & Helene Fischer","die",66,11,66,13,"second","violence","^die$",2019,1,1,"Komm, lass uns die Welt bemal'n",NA
+"regenbogenfarben","Kerstin Ott & Helene Fischer","die",66,11,66,13,"second","violence","^die$",2019,1,1,"Komm! Komm, lass die Welt erstrahl'n",NA
+"regenbogenfarben","Kerstin Ott & Helene Fischer","die",66,11,66,13,"second","violence","^die$",2019,1,1,"Ich spiel' die Luftgitarre und wir sing'n (und wir sing'n)",NA
 "replay","Iyaz","gun",404,0,392,2,"first","violence","^gun$",2010,1,1,"That girl, is a gun to my holster","I'm in the kitchen cooking things she likes"
-"rich girl (ft. eve)","Gwen Stefani","man",NA,0,393,3,"first","identity","^man$",2005,1,1,"No man could test me, impress me",NA
-"rich girl (ft. eve)","Gwen Stefani","man",NA,0,393,3,"first","identity","^man$",2005,1,1,"No man could test me, impress me",NA
 "royals","Lorde","blood",410,3,399,5,"first","violence","^blood",2014,1,1,"It don't run in our blood","We crave a different kind of love"
 "royals","Lorde","blood",410,3,399,5,"first","violence","^blood",2014,1,1,"Bloodstains, ball gowns, trashin' the hotel room","And we'll never be royals"
 "royals","Lorde","blood",410,3,399,5,"first","violence","^blood",2014,1,1,"It don't run in our blood","(Ooh ooh oh)"
@@ -1658,6 +1636,18 @@
 "ruin my life","Zara Larsson","fuck",NA,0,401,12,"first","profanity","fuck",2019,1,1,"Fuck up my nights, yeah, all of my nights, yeah (All nights, all nights)",NA
 "ruin my life","Zara Larsson","fuck",NA,0,401,12,"first","profanity","fuck",2019,1,1,"I want you to fuck up my nights, yeah",NA
 "ruin my life","Zara Larsson","fuck",NA,0,401,12,"first","profanity","fuck",2019,1,1,"Fuck up my nights, yeah, all of my nights, yeah (Oh)",NA
+"ruin my life","Zara Larsson","fuck",68,0,68,12,"second","profanity","fuck",2019,1,1,"Fuck up my nights, yeah, all of my nights, yeah",NA
+"ruin my life","Zara Larsson","fuck",68,0,68,12,"second","profanity","fuck",2019,1,1,"I want you to fuck up my nights, yeah",NA
+"ruin my life","Zara Larsson","fuck",68,0,68,12,"second","profanity","fuck",2019,1,1,"Fuck up my nights, yeah, all of my nights, yeah",NA
+"ruin my life","Zara Larsson","fuck",68,0,68,12,"second","profanity","fuck",2019,1,1,"I want you to fuck up my nights, yeah",NA
+"ruin my life","Zara Larsson","fuck",68,0,68,12,"second","profanity","fuck",2019,1,1,"Fuck up my nights, yeah, all of my nights, yeah",NA
+"ruin my life","Zara Larsson","fuck",68,0,68,12,"second","profanity","fuck",2019,1,1,"I want you to fuck up my nights, yeah",NA
+"ruin my life","Zara Larsson","fuck",68,0,68,12,"second","profanity","fuck",2019,1,1,"Fuck up my nights, yeah, all of my nights, yeah",NA
+"ruin my life","Zara Larsson","fuck",68,0,68,12,"second","profanity","fuck",2019,1,1,"I want you to fuck up my nights, yeah",NA
+"ruin my life","Zara Larsson","fuck",68,0,68,12,"second","profanity","fuck",2019,1,1,"Fuck up my nights, yeah, all of my nights, yeah (All nights, all nights)",NA
+"ruin my life","Zara Larsson","fuck",68,0,68,12,"second","profanity","fuck",2019,1,1,"I want you to fuck up my nights, yeah",NA
+"ruin my life","Zara Larsson","fuck",68,0,68,12,"second","profanity","fuck",2019,1,1,"Fuck up my nights, yeah, all of my nights, yeah (Oh)",NA
+"ruin my life","Zara Larsson","sleep",68,0,68,2,"second","sexual","^sleep",2019,1,1,"Now I'm sleeping alone and I'm starting to freeze",NA
 "ruin my life","Zara Larsson","hell",NA,0,401,2,"first","profanity","^hell$",2019,1,1,"Baby, come bring me hell",NA
 "ruin my life","Zara Larsson","sleep",NA,0,401,2,"first","sexual","^sleep",2019,1,1,"Now I'm sleeping alone and I'm starting to freeze",NA
 "same old love","Selena Gomez","blow",416,0,403,3,"first","alcohol & drugs","^blow",2016,1,1,"I’m so sick of that same old love, feels like I've blown apart","I'm so sick of that, so sick of that love"
@@ -1670,7 +1660,6 @@
 "señorita","Shawn Mendes & Camila Cabello","touch",NA,0,414,5,"first","sexual","^touch",2019,1,1,"But every touch is ooh-la-la-la",NA
 "señorita","Shawn Mendes & Camila Cabello","touch",NA,0,414,5,"first","sexual","^touch",2019,1,1,"But every touch is ooh-la-la-la",NA
 "sit next to me","Foster the People","man",441,1,671,2,"first","identity","^man$",2019,1,1,"Well, I ain’t frontin' my intention, got your man outlined in chalk","Well, I ain’t frontin' my intention, got your man outlined in chalk"
-"sk8er boi","Avril Lavigne","man",NA,0,423,2,"first","identity","^man$",2003,1,1,"See the man that boy could be",NA
 "some nights","​fun.","lord",449,0,427,2,"first","other","^lord$",2013,1,1,"Oh Lord, I'm still not sure what I stand for, oh","What do I stand for?"
 "sorry not sorry","Demi Lovato","bitch",453,0,435,4,"first","profanity","^bitch",2017,1,1,"Now, payback is a bad bitch","Now, paybacks I'm havin'"
 "sorry not sorry","Demi Lovato","bitch",453,0,435,4,"first","profanity","^bitch",2017,1,1,"Now, payback is a bad bitch","Now, payback's from heaven"
@@ -1737,12 +1726,11 @@
 "that's what i like","Bruno Mars","sex",491,0,466,3,"first","sexual","^sex",2017,1,1,"Sex by the fire at night","Those shiny diamonds, all white"
 "the climb","Miley Cyrus","faith",493,2,468,4,"first","other","^faith$",2009,1,1,"Keep the faith, baby",NA
 "the climb","Miley Cyrus","faith",493,2,468,4,"first","other","^faith$",2009,1,1,"Keep your faith, keep your faith",NA
-"the game of love (ft. michelle branch)","Santana","kiss",NA,0,470,4,"first","sexual","^kiss",2003,1,1,"It started with a kiss",NA
-"the game of love (ft. michelle branch)","Santana","kiss",NA,0,470,4,"first","sexual","^kiss",2003,1,1,"It started with a kiss",NA
-"the game of love (ft. michelle branch)","Santana","kiss",NA,0,470,4,"first","sexual","^kiss",2003,1,1,"It started with a kiss",NA
 "the great escape","Boys Like Girls","die",498,0,472,3,"first","violence","^die$",2008,1,1,"Let it die","They don't mean a thing tonight"
 "the great escape","Boys Like Girls","die",498,0,472,3,"first","violence","^die$",2008,1,1,"Let it die",NA
 "the one that got away","Katy Perry","tattoo",504,0,479,2,"first","other","^tattoo",2012,1,1,"Someone said you had your tattoo removed","Saw you downtown singing the blues"
+"this feeling","The Chainsmokers","neck",73,0,73,3,"second","sexual","^neck$",2019,1,1,"They got their hands at my neck this time",NA
+"this feeling","The Chainsmokers","neck",73,0,73,3,"second","sexual","^neck$",2019,1,1,"They got their hands at my neck this time",NA
 "this feeling (ft. kelsea ballerini)","The Chainsmokers","neck",NA,0,487,3,"first","sexual","^neck$",2019,1,1,"They got their hands at my neck this time",NA
 "this feeling (ft. kelsea ballerini)","The Chainsmokers","neck",NA,0,487,3,"first","sexual","^neck$",2019,1,1,"They got their hands at my neck this time",NA
 "this feeling (ft. kelsea ballerini)","The Chainsmokers","chest",NA,0,487,3,"first","sexual","^chest",2019,1,1,"They tell me think with my head, not that thing in my chest",NA
@@ -1772,6 +1760,17 @@
 "thrift shop","Macklemore & Ryan Lewis","shit",518,0,492,4,"first","profanity","^shit",2013,1,1,"But shit, it was 99 cents!","Hello, hello, my ace man, my fellow"
 "thrift shop","Macklemore & Ryan Lewis","shit",518,0,492,4,"first","profanity","^shit",2013,1,1,"50 dollars for a T-shirt, that's just some ignorant bitch shit","I'm, I'm, I'm hunting, looking for a come up, this is really awesome"
 "thrift shop","Macklemore & Ryan Lewis","shit",518,0,492,4,"first","profanity","^shit",2013,1,1,"I call that getting-swindled-and-pimped shit","Is that your granma's coat?"
+"tik tok","Kesha","fight",74,0,74,6,"second","violence","^fight",2010,1,1,"Tonight, I'ma fight",NA
+"tik tok","Kesha","fight",74,0,74,6,"second","violence","^fight",2010,1,1,"Tonight, I'ma fight",NA
+"tik tok","Kesha","fight",74,0,74,6,"second","violence","^fight",2010,1,1,"Tonight, I'ma fight",NA
+"tik tok","Kesha","fight",74,0,74,6,"second","violence","^fight",2010,1,1,"Tonight, I'ma fight",NA
+"tik tok","Kesha","fight",74,0,74,6,"second","violence","^fight",2010,1,1,"Tonight, I'ma fight",NA
+"tik tok","Kesha","blow",74,4,74,7,"second","alcohol & drugs","^blow",2010,1,1,"DJ, blow my speakers up",NA
+"tik tok","Kesha","blow",74,4,74,7,"second","alcohol & drugs","^blow",2010,1,1,"DJ, blow my speakers up",NA
+"tik tok","Kesha","blow",74,4,74,7,"second","alcohol & drugs","^blow",2010,1,1,"DJ, blow my speakers up",NA
+"tik tok","Kesha","blow",74,4,74,7,"second","alcohol & drugs","^blow",2010,1,1,"DJ, blow my speakers up",NA
+"tik tok","Kesha","blow",74,4,74,7,"second","alcohol & drugs","^blow",2010,1,1,"DJ, blow my speakers up",NA
+"tik tok","Kesha","blow",74,4,74,7,"second","alcohol & drugs","^blow",2010,1,1,"DJ, blow my speakers up",NA
 "tonight tonight","Hot Chelle Rae","crazy",523,3,497,4,"first","other","^crazy$",2011,1,1,"We can get crazy, let it all out!","We can get crazy, let it all out"
 "tonight tonight","Hot Chelle Rae","crazy",523,3,497,4,"first","other","^crazy$",2011,1,1,"We can get crazy, let it all out!","Oh, all you party people"
 "tonight tonight","Hot Chelle Rae","crazy",523,3,497,4,"first","other","^crazy$",2011,1,1,"We can get crazy, let it all out!","Keep the beat up, let's drop the beat down"
@@ -1837,6 +1836,7 @@
 "where’d you go","Fort Minor","fuck",576,0,714,3,"first","profanity","fuck",2006,1,1,"I want you to know it's a little fucked up","I miss you so"
 "where’d you go","Fort Minor","shit",576,0,714,3,"first","profanity","^shit",2006,1,1,"Shit, I find myself just filling my time","Come back home, you know the place where you used to live"
 "where’d you go","Fort Minor","shit",576,0,714,3,"first","profanity","^shit",2006,1,1,"I was like, that's the shit, right there","I guess I've had it with you and your career"
+"white christmas","Die Antwoord","coochie",79,0,79,2,"second","sexual","^coochie",2007,1,1,"Gushin' out your coochie, boo",NA
 "who do you love","The Chainsmokers","sleep",579,0,544,4,"first","sexual","^sleep",2019,1,1,"Where you been sleepin'?","Where you been leavin'? (Hey)"
 "who do you love","The Chainsmokers","sleep",579,0,544,4,"first","sexual","^sleep",2019,1,1,"Where you been sleepin'?","Where you been leavin'? (Hey)"
 "who do you love","The Chainsmokers","sleep",579,0,544,4,"first","sexual","^sleep",2019,1,1,"Where you been sleepin'?",NA
@@ -1844,8 +1844,13 @@
 "who let the dogs out","Baha Men","woman",581,1,715,3,"first","identity","^woman$",2002,1,1,"You put a woman in front and her man behind (Yippie, Yi, Yo)","Say a doggy is nuttin' if he don't have a bone"
 "who let the dogs out","Baha Men","woman",581,1,715,3,"first","identity","^woman$",2002,1,1,"I heard a woman shout out","All dogy hold ya' bone, all doggy hold it"
 "wild ones","Flo Rida","high",587,1,549,2,"first","alcohol & drugs","^high$",2012,1,1,"I like 'em untamed, don't tell me high pain","My life, coming harder than we hit play"
+"wild ones - 1717396","Flo Rida","high",80,1,80,2,"second","alcohol & drugs","^high$",2012,1,1,"I like 'em untamed, don't tell me high pain",NA
+"wild ones - 1717396","Flo Rida","body",80,0,80,2,"second","sexual","^body$",2012,1,1,"Tear up that body",NA
 "wildest dreams","Taylor Swift","hell",586,0,550,2,"first","profanity","^hell$",2016,1,1,"He's so tall and handsome as hell","He's so good and he knows it too well"
 "without me","Halsey","fuck",NA,0,555,2,"first","profanity","fuck",2019,1,1,"And if they laugh, then fuck 'em all (All)",NA
+"without me","Halsey","fuck",82,0,82,2,"second","profanity","fuck",2019,1,1,"And if they laugh, then fuck 'em all (All)",NA
+"without me","Halsey","high",82,0,82,3,"second","alcohol & drugs","^high$",2019,1,1,"Feelin' so high, but too far away to hold me",NA
+"without me","Halsey","high",82,0,82,3,"second","alcohol & drugs","^high$",2019,1,1,"Feelin' so high, but too far away to hold me",NA
 "without me","Halsey","high",NA,0,555,3,"first","alcohol & drugs","^high$",2019,1,1,"Feelin' so high, but too far away to hold me",NA
 "without me","Halsey","high",NA,0,555,3,"first","alcohol & drugs","^high$",2019,1,1,"Feelin' so high, but too far away to hold me",NA
 "wolves","Selena Gomez & Marshmello","drunk",591,0,557,2,"first","alcohol & drugs","^drunk",2018,1,1,"Drunk on a feeling, alone with the stars in the sky","Lost in a feeling, alone with the stars in the sky"
@@ -1869,3 +1874,6 @@
 "youngblood","5 Seconds of Summer","dead",602,0,568,7,"first","violence","^dead$",2018,1,1,"And I'm just a dead man walking tonight","But I'm just a sad man walking tonight"
 "youngblood","5 Seconds of Summer","dead",602,0,568,7,"first","violence","^dead$",2018,1,1,"So I’m just a dead man crawling tonight","So I’m just a sad man crawling tonight"
 "youngblood","5 Seconds of Summer","dead",602,0,568,7,"first","violence","^dead$",2018,1,1,"And I'm just a dead man walking tonight","Well I'm just a sad  man walking tonight"
+NA,"Miley Cyrus","hips",75,0,75,5,"second","sexual","^hips$",NA,1,1,"Movin' my hips like, yeah",NA
+NA,"Miley Cyrus","hips",75,0,75,5,"second","sexual","^hips$",NA,1,1,"Movin' my hips like, yeah (Ooh, yeah)",NA
+NA,"Miley Cyrus","hips",75,0,75,5,"second","sexual","^hips$",NA,1,1,"Movin' my hips like, 'yeah' (Movin' my hips like, yeah)",NA

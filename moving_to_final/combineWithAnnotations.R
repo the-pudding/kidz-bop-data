@@ -9,7 +9,7 @@ old=read.csv(file="moving_to_final/data/censorline-prelim-allAnnotatedFinal.csv"
 
 old = old %>% group_by(badword, kb_idx, og_artist, og_idx,song_name) %>%  mutate(count = sequence(n())) 
 
-df %>% group_by(IDFAM) %>% mutate(count = row_number(IDFAM))
+#df %>% group_by(IDFAM) %>% mutate(count = row_number(IDFAM))
 
 dim(old)
 dim(new)

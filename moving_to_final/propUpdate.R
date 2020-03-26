@@ -8,11 +8,11 @@ addon = addon[,-2] ## minus id
 
 all2 = rbind.data.frame(all[,names(addon)] , addon)
 
-fix = all2 %>% group_by(song_name, og_artist) %>% summarise(count=n()) %>% arrange(desc(count)) %>% as.data.frame() %>% head(13)
+fix = all2 %>% group_by(song_name, og_artist) %>% summarise(count=n()) %>% arrange(desc(count)) %>% as.data.frame() %>% head(21)
 
 ## gotta kill duplicates
 
-subset(all2, song_name==fix$song_name[1] & og_artist == fix$og_artist[1]) %>% group_by(badword) %>% summarise(numOccurKB[1]==numOccurKB[2], numOccurOG[1] == numOccurOG[2])
+
 
 ch1=c()
 ch2=c()
@@ -21,6 +21,8 @@ for(i in 1:nrow(fix)){
   ch1=c(ch1,sum(test$check1))
   ch2=c(ch2,sum(test$check2))
 }
+
+all2=all2[-which(all2$og_idx==566),]
 ## can just delete one of each
 
 all3=all2 %>% group_by(song_name, og_artist, badword, category, anchored, year) %>% summarise(kb_idx=kb_idx[1], og_idx = og_idx[1], numOccurKB=numOccurKB[1], numOccurOG=numOccurOG[1])
@@ -50,6 +52,10 @@ lapply(toRemove, length) %>% unlist() %>% summary()
 toRemove = unlist(toRemove)[which(!is.na(unlist(toRemove)))]
 
 all2 = all[-toRemove,]
+
+all3 = all2[-which(is.na(all2$year)),] 
+
+all = all3
 
 byYearGroup= all %>% group_by(year,category) %>% summarise(totalCensoredG= sum(isCensored), totalExistG = sum(isPresent)) 
 

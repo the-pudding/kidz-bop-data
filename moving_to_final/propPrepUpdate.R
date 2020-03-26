@@ -85,7 +85,7 @@ toRemove = read.csv("moving_to_final/data/toRemove.csv", stringsAsFactors = F)
 
 removeIdx = c()
 for(i in 1:nrow(toRemove)){
-  removeIdx = c(removeIdx, which(allC2$kb_idx == toRemove$kb_idx[i] & allC2$og_idx == toRemove$og_idx[i] & allC2$data == toRemove$data[i]))
+  removeIdx = c(removeIdx, which( allC2$song_name == toRemove$song_name[i] & allC2$og_artist== toRemove$og_artist[i]))
 }
 
 #removeIdx = which(allC2$kb_idx%in%toRemove$kb_idx  & allC2$og_idx %in% toRemove$og_idx & allC2$data %in% toRemove$data)

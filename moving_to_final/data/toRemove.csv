@@ -1,86 +1,86 @@
-"kb_idx","og_idx","data","count"
-7,7,"second",4
-10,10,"second",6
-14,14,"second",4
-15,15,"second",3
-17,17,"second",2
-21,21,"second",1
-25,25,"second",7
-27,27,"second",5
-29,29,"second",1
-29,573,"first",12
-31,31,"second",6
-32,32,"second",2
-34,34,"second",25
-36,36,"second",1
-41,41,"second",1
-44,44,"second",2
-45,45,"second",1
-46,46,"second",1
-47,47,"second",2
-49,49,"second",4
-53,53,"second",1
-57,57,"second",8
-59,59,"second",19
-60,60,"second",8
-61,61,"second",2
-62,62,"second",12
-63,63,"second",1
-66,66,"second",11
-68,68,"second",14
-69,69,"second",1
-71,71,"second",6
-73,73,"second",3
-74,74,"second",18
-75,75,"second",7
-79,79,"second",8
-80,80,"second",8
-82,82,"second",6
-85,85,"second",1
-86,86,"second",2
-95,85,"first",1
-102,93,"first",5
-207,198,"first",1
-237,228,"first",4
-246,253,"first",6
-257,621,"first",5
-293,630,"first",1
-303,635,"first",1
-342,332,"first",12
-375,360,"first",13
-417,662,"first",6
-425,409,"first",20
-430,410,"first",2
-434,667,"first",3
-440,670,"first",6
-442,672,"first",1
-446,674,"first",1
-459,438,"first",22
-474,451,"first",8
-522,696,"first",1
-536,508,"first",5
-592,718,"first",4
-NA,4,"first",9
-NA,6,"first",4
-NA,36,"first",6
-NA,68,"first",1
-NA,102,"first",2
-NA,118,"first",5
-NA,136,"first",3
-NA,158,"first",7
-NA,210,"first",12
-NA,220,"first",3
-NA,247,"first",16
-NA,271,"first",13
-NA,312,"first",5
-NA,315,"first",3
-NA,343,"first",20
-NA,345,"first",1
-NA,356,"first",10
-NA,370,"first",1
-NA,376,"first",11
-NA,377,"first",2
-NA,393,"first",6
-NA,423,"first",4
-NA,470,"first",4
-NA,533,"first",2
+"kb_idx","og_idx","data","song_name","og_artist","count"
+7,7,"second","you've got a friend","Randy Newman",4
+10,10,"second","you've got a friend","Randy Newman",6
+14,14,"second","you've got a friend","Randy Newman",4
+15,15,"second","you've got a friend","Randy Newman",3
+17,17,"second","you've got a friend","Randy Newman",2
+21,21,"second","you've got a friend","Randy Newman",1
+25,25,"second","you've got a friend","Randy Newman",7
+27,27,"second","you've got a friend","Randy Newman",5
+29,29,"second","you've got a friend","Randy Newman",1
+29,573,"first","a nightmare on my street","DJ Jazzy Jeff & The Fresh Prince",12
+31,31,"second","you've got a friend","Randy Newman",6
+32,32,"second","you've got a friend","Randy Newman",2
+34,34,"second","you've got a friend","Randy Newman",25
+36,36,"second","you've got a friend","Randy Newman",1
+41,41,"second","you've got a friend","Randy Newman",1
+44,44,"second","you've got a friend","Randy Newman",2
+45,45,"second","you've got a friend","Randy Newman",1
+46,46,"second","you've got a friend","Randy Newman",1
+47,47,"second","you've got a friend","Randy Newman",2
+49,49,"second","you've got a friend","Randy Newman",4
+53,53,"second","you've got a friend","Randy Newman",1
+57,57,"second","you've got a friend","Randy Newman",8
+59,59,"second","you've got a friend","Randy Newman",19
+60,60,"second","you've got a friend","Randy Newman",8
+61,61,"second","you've got a friend","Randy Newman",2
+62,62,"second","you've got a friend","Randy Newman",12
+63,63,"second","you've got a friend","Randy Newman",1
+66,66,"second","you've got a friend","Randy Newman",11
+68,68,"second","you've got a friend","Randy Newman",14
+69,69,"second","you've got a friend","Randy Newman",1
+71,71,"second","you've got a friend","Randy Newman",6
+73,73,"second","you've got a friend","Randy Newman",3
+74,74,"second","you've got a friend","Randy Newman",18
+75,75,"second","you've got a friend","Randy Newman",7
+79,79,"second","you've got a friend","Randy Newman",8
+80,80,"second","you've got a friend","Randy Newman",8
+82,82,"second","you've got a friend","Randy Newman",6
+85,85,"second","you've got a friend","Randy Newman",1
+86,86,"second","you've got a friend","Randy Newman",2
+95,85,"first","can't hold us","Macklemore & Ryan Lewis",1
+102,93,"first","chicken noodle soup","Genius English Translations",5
+207,198,"first","headstrong","Trapt",1
+237,228,"first","i cry","Flo Rida",4
+246,253,"first","if i were a boy","Beyoncé",6
+257,621,"first","i'm not the only one","Sam Smith",5
+293,630,"first","let it snow! let it snow! let it snow!","Frank Sinatra",1
+303,635,"first","little saint nick","The Beach Boys",1
+342,332,"first","mr. saxobeat","Alexandra Stan",12
+375,360,"first","on the floor","Jennifer Lopez",13
+417,662,"first","santa claus is coming to town","Christmas Songs",6
+425,409,"first","scream & shout","​will.i.am",20
+430,410,"first","señorita","Justin Timberlake",2
+434,667,"first","shape of my heart","Backstreet Boys",3
+440,670,"first","single ladies (put a ring on it)","Beyoncé",6
+442,672,"first","slide","Goo Goo Dolls",1
+446,674,"first","somebody's watching me","Rockwell",1
+459,438,"first","starships","Nicki Minaj",22
+474,451,"first","suit & tie","Justin Timberlake",8
+522,696,"first","tonight is the night","Outasight",1
+536,508,"first","u don't have to call","Usher",5
+592,718,"first","wonderful christmas time","Paul McCartney",4
+NA,4,"first","1, 2 step (ft. missy elliott)","Ciara",9
+NA,6,"first","2u (ft. justin bieber)","David Guetta",4
+NA,36,"first","axel f","Crazy Frog",6
+NA,68,"first","bts - 작은 것들을 위한 시 (boy with luv) ft. halsey (romanized)","Genius Romanizations",1
+NA,102,"first","cold water (ft. justin bieber & mø)","Major Lazer",2
+NA,118,"first","cupid's chokehold / breakfast in america (ft. patrick stump)","Gym Class Heroes",5
+NA,136,"first","don't stop the party (ft. tjr)","Pitbull",3
+NA,158,"first","feel good inc. (ft. de la soul)","Gorillaz",7
+NA,210,"first","hey baby (ft. bounty killer)","No Doubt",12
+NA,220,"first","hold on","Good Charlotte",3
+NA,247,"first","i'm still in love with you (ft. sasha)","Sean Paul",16
+NA,271,"first","juju on that beat (tz anthem) (ft. zayion mccall)","Zay Hilfigerrr",13
+NA,312,"first","me against the music (ft. madonna)","Britney Spears",5
+NA,315,"first","me, myself and i","Beyoncé",3
+NA,343,"first","never be like you (ft. kai)","Flume",20
+NA,345,"first","never leave you (uh oooh, uh oooh)","Lumidee",1
+NA,356,"first","obsession (no es amor) (ft. baby bash)","Frankie J",10
+NA,370,"first","over my head (cable car)","The Fray",1
+NA,376,"first","fuckin' perfect","P!nk",11
+NA,377,"first","perfect (2017)","Kidz Bop Kids",2
+NA,393,"first","rich girl (ft. eve)","Gwen Stefani",6
+NA,423,"first","sk8er boi","Avril Lavigne",4
+NA,470,"first","the game of love (ft. michelle branch)","Santana",4
+NA,533,"first","what goes around... / ...comes around (interlude)","Justin Timberlake",2

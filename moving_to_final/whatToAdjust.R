@@ -13,12 +13,12 @@ dataA = read.csv("moving_to_final/data/censorline-prelim-allAnnotatedFinal.csv",
 toRemove = dataA[which(dataA$dropSong == "Y"),]
 
 
-toRemove = toRemove %>% group_by(kb_idx, og_idx, data) %>% summarise(count = n())
+toRemove = toRemove %>% group_by(kb_idx, og_idx, data, song_name, og_artist) %>% summarise(count = n())
 
 notC = dataA[which(dataA$noEdit == "Y"),]
 
 
-notC = notC %>% group_by(kb_idx, og_idx, badword) %>% summarise(count=n())
+notC = notC %>% group_by(kb_idx, og_idx, badword, song_name, og_artist) %>% summarise(count=n())
 
 toReplace = dataA[which(dataA$replaceSong != ""),]
 

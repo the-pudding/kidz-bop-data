@@ -1,0 +1,11 @@
+"badword","kb_idx","numOccurKB","song_name","og_artist","og_idx","numOccurOG","category","anchored","year","isCensored","isPresent","kbReplace1"
+"blood",42,12,"bad blood","Taylor Swift",1,16,"violence","^blood",2015,1,1,NA
+"blow",521,0,"till the world ends","Britney Spears",6,2,"alcohol & drugs","^blow",2011,1,1,NA
+"boob",366,0,"old town road","Lil Nas X",4,1,"sexual","^boob",2019,1,1,NA
+"booty",366,0,"old town road","Lil Nas X",4,1,"sexual","^booty",2019,1,1,NA
+"bullet",42,0,"bad blood","Taylor Swift",1,2,"violence","^bullet",2015,1,1,NA
+"cut",42,0,"bad blood","Taylor Swift",1,5,"violence","^cut$",2015,1,1,NA
+"knives",42,0,"bad blood","Taylor Swift",1,1,"violence","^knives",2015,1,1,NA
+"lord",348,1,"my love is your love","Whitney Houston",3,2,"other","^lord$",2001,1,1,NA
+"touch",521,0,"till the world ends","Britney Spears",6,1,"sexual","^touch",2011,1,1,NA
+"war",348,1,"my love is your love","Whitney Houston",3,2,"violence","^war$",2001,1,1,NA

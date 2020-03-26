@@ -20,9 +20,27 @@ names(new)
 
 
 
+test=merge(old[,c("badword","kb_idx","og_artist","og_idx","song_name","jdCheck","forQuiz","noEdit","dropSong","replaceSong","count")], new, all.x=T, all.y=T, by.x=c("badword","kb_idx","og_artist","og_idx","song_name","count"), by.y=c("badword","kb_idx","og_artist","og_idx","song_name","count"))
 
-test=merge(old[,c("badword","kb_idx","og_artist","og_idx","song_name","jdCheck","forQuiz","noEdit","dropSong","replaceSong")], new, all.x=T, all.y=T, by.x=c("badword","kb_idx","og_artist","og_idx","song_name"), by.y=c("badword","kb_idx","og_artist","og_idx","song_name"))
 
-test=merge(old[,c("badword","kb_idx","og_artist","og_idx","song_name","jdCheck","forQuiz","noEdit","dropSong","replaceSong","count")], new, all.x=F, all.y=T, by.x=c("badword","kb_idx","og_artist","og_idx","song_name","count"), by.y=c("badword","kb_idx","og_artist","og_idx","song_name","count"))
+test=merge(old[,c("badword","og_artist","song_name","jdCheck","forQuiz","noEdit","dropSong","replaceSong","count")], new, all.x=T, all.y=T, by.x=c("badword","og_artist","song_name","count"), by.y=c("badword","og_artist","song_name","count"))
+#View(test)
 
-View(test)
+
+test2=test[-which(test$dropSong=="Y"),]
+
+#View(test2)
+
+test3=test2[-which(test2$noEdit=="Y"),]
+
+test4=test3[-which(test3$replaceSong!=""),]
+
+#names(test3)
+
+use = names(old)
+use = use[-8] ## data
+
+test5=test4[,use]
+
+test6=test5[c(which(test5$jdCheck=="" | is.na(test5$jdCheck)), setdiff(1:nrow(test5), which(test5$jdCheck=="" | is.na(test5$jdCheck)))),]
+

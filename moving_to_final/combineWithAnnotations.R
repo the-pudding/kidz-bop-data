@@ -84,3 +84,6 @@ final2=final[-which(is.na(final$category)),]
 
 write.csv(final2, "moving_to_final/data/censorline-all.csv",row.names=F)
 
+final3= final2[c(which(final2$jdCheck=="" | is.na(final2$jdCheck)),setdiff(1:nrow(final2), which(final2$jdCheck=="" | is.na(final2$jdCheck)))),]
+
+write.csv(final3, "moving_to_final/data/censorline-all.csv",row.names=F)

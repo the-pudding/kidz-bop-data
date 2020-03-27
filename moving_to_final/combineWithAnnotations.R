@@ -76,3 +76,11 @@ check[which(check$count.x!=check$count.y),] %>% View() ## ones with no edit so t
 write.csv(final, "moving_to_final/data/censorline-all.csv",row.names=F)
 
 which(final$jdCheck=="" | is.na(final$jdCheck))
+
+
+### NA in category don't exist so drop
+
+final2=final[-which(is.na(final$category)),]
+
+write.csv(final2, "moving_to_final/data/censorline-all.csv",row.names=F)
+

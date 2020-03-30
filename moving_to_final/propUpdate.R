@@ -1,3 +1,5 @@
+setwd("~/Desktop/kidz-bop-data")
+library(dplyr)
 all = read.csv("moving_to_final/data/proportions-kb-prepF.csv", stringsAsFactors = F)
 ## add in prepAddOn
 
@@ -33,6 +35,39 @@ all = all3
 all$isCensored = ifelse(all$numOccurKB < all$numOccurOG, 1, 0)
 all$isPresent = ifelse(all$numOccurOG>0, 1, 0)
 
+toRemove = c(which(all$og_artist=="Blue Swede"),
+which(all$og_artist=="Daddy Yankee"),
+which(all$og_artist=="Kerstin Ott & Helene Fischer"),
+which(all$og_artist=="Kesha" & all$song_name=="tik tok"),
+
+which(all$og_artist=="Miley Cyrus" & is.na(all$song_name)),
+which(all$og_artist=="New Edition"),
+which(all$og_artist=="The Beatles"),
+which(all$og_artist=="The Rembrandts"),
+which(all$og_artist=="Toni Basil"),
+which(all$og_artist=="LunchMoney Lewis"))
+
+all[which(all$og_artist=="Flo Rida" & all$song_name=="wild ones" & all$badword=="high"),] ## censored once
+
+all[which(all$og_artist=="Jason Derulo" & all$song_name=="it girl" & all$badword=="crazy"),"isCensored"]=0 
+
+all[which(all$og_artist=="Jessie J" & all$song_name=="price tag" & all$badword=="man"),"isCensored"]=0
+
+all[which(all$og_artist=="Kelly Clarkson" & all$song_name=="miss independent" & all$badword=="man"),"isCensored"]=0
+
+all[which(all$og_artist=="Meghan Trainor" & all$song_name=="me too" & all$badword=="god"),"isCensored"]=0
+
+
+all[which(all$og_artist=="One Direction" & all$song_name=="drag me down" & all$badword=="man"),"isCensored"]=0
+
+all[which(all$og_artist=="Taylor Swift" & all$song_name=="bad blood" & all$badword=="blood"),"isCensored"]=0
+
+all[which(all$og_artist=="Whitney Houston" & all$song_name=="my love is your love" & all$badword=="lord"),"isCensored"]=0
+
+all[which(all$og_artist=="Whitney Houston" & all$song_name=="my love is your love" & all$badword=="war"),"isCensored"]=0
+
+all = all[-toRemove,]
+
 require(ggplot2)
 all %>% group_by(year) %>% summarise(prop=sum(isCensored)/n()) %>% ggplot(., aes(year, prop))+geom_point()
 
@@ -53,9 +88,9 @@ toRemove = unlist(toRemove)[which(!is.na(unlist(toRemove)))]
 
 all2 = all[-toRemove,]
 
-all3 = all2[-which(is.na(all2$year)),] 
+#all3 = all2[-which(is.na(all2$year)),] 
 
-all = all3
+all = all2
 
 byYearGroup= all %>% group_by(year,category) %>% summarise(totalCensoredG= sum(isCensored), totalExistG = sum(isPresent)) 
 

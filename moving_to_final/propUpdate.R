@@ -39,7 +39,7 @@ toRemove = c(which(all$og_artist=="Blue Swede"),
 which(all$og_artist=="Daddy Yankee"),
 which(all$og_artist=="Kerstin Ott & Helene Fischer"),
 which(all$og_artist=="Kesha" & all$song_name=="tik tok"),
-
+which(all$og_artist=="Poison"),
 which(all$og_artist=="Miley Cyrus" & is.na(all$song_name)),
 which(all$og_artist=="New Edition"),
 which(all$og_artist=="The Beatles"),

@@ -92,6 +92,9 @@ all2 = all[-toRemove,]
 
 all = all2
 
+all %>% group_by(category, badword) %>%  summarise(inSongs = sum(isPresent), censored = sum(isCensored)) %>% mutate(pctCensored = censored/inSongs) %>% write.csv("moving_to_final/data/wordOverviewNumbers.csv",row.names=F)
+
+
 byYearGroup= all %>% group_by(year,category) %>% summarise(totalCensoredG= sum(isCensored), totalExistG = sum(isPresent)) 
 
 propCensoredByYear = all %>% group_by(year) %>% summarise(propCensored = sum(isCensored)/sum(isPresent), totalCensored = sum(isCensored))
@@ -106,6 +109,12 @@ tail(propCensoredByYear)
 
 test = merge(byYearGroup, propCensoredByYear, by.x="year", by.y="year")
 test$tryThis = test$totalCensoredG/test$totalCensored * test$propCensored
+
+test %>% group_by(category) %>% summarise(inSongs = sum(totalExistG), censored = sum(totalCensoredG)) %>% mutate(pctCensored = censored/inSongs) %>% write.csv("moving_to_final/data/groupOverviewNumbers.csv",row.names=F)
+
+
+
+
 
 test2=subset(test, year ==2001)
 

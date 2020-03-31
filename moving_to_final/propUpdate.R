@@ -96,6 +96,14 @@ byYearGroup= all %>% group_by(year,category) %>% summarise(totalCensoredG= sum(i
 
 propCensoredByYear = all %>% group_by(year) %>% summarise(propCensored = sum(isCensored)/sum(isPresent), totalCensored = sum(isCensored))
 
+tail(propCensoredByYear)
+
+(propCensoredByYear$propCensored[nrow(propCensoredByYear)] - propCensoredByYear$propCensored[1])/propCensoredByYear$propCensored[1]*100
+
+(mean(propCensoredByYear$propCensored[(nrow(propCensoredByYear)-4):nrow(propCensoredByYear)])-mean(propCensoredByYear$propCensored[1:5]))/mean(propCensoredByYear$propCensored[1:5])*100
+
+
+
 test = merge(byYearGroup, propCensoredByYear, by.x="year", by.y="year")
 test$tryThis = test$totalCensoredG/test$totalCensored * test$propCensored
 

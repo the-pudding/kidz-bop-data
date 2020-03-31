@@ -74,7 +74,7 @@ all %>% group_by(year) %>% summarise(prop=sum(isCensored)/n()) %>% ggplot(., aes
 all$category = ifelse(all$category %in% c("profanity","slur"), "profanity", all$category)
 all$category = ifelse(all$category %in% c("gender & sexuality"), "identity", all$category)
 all$category = ifelse(all$category %in% c("gender & sexuality"), "identity", all$category)
-all$category = ifelse(all$category %in% c("religious","mental health","other"), "other", all$category)
+all$category = ifelse(all$category %in% c("religious","mental health","other","violence"), "other", all$category)
 
 notC = read.csv("moving_to_final/data/notC.csv", stringsAsFactors = F)
 
@@ -112,7 +112,7 @@ apply(spread(test[,c("year","category","tryThis")], category, tryThis)[,-1] , 1,
 propCensoredByYear$propCensored
 
 tidyV = spread(test[,c("year","category","tryThis")], category, tryThis)
-tidyV = tidyV[,c("year","alcohol & drugs","sexual","profanity","violence","identity","other")]
+tidyV = tidyV[,c("year","alcohol & drugs","sexual","profanity","identity","other")]
 names(tidyV)[2]="alcohol"
 
 tidyV$alcohol = tidyV$alcohol *100
